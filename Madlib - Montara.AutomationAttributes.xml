@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers />
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The Herbaliser - Repetitive Loop (Reloop)</TrackDescription>
+      <FadeLength>26.382358276643991</FadeLength>
+      <FadeEnd>76454648</FadeEnd>
+      <FadeEndLoop>5</FadeEndLoop>
+      <FadeEndVolume>0.432</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

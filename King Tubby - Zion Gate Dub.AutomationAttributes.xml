@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>16.540521541950113</Start>
+      <Length>2.5403401360544215</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>29.460430839002267</Start>
+      <Length>0.94079365079365118</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>58.61310657596372</Start>
+      <Length>0.86061224489795762</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>73.9734693877551</Start>
+      <Length>2.0997959183673487</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>84.433628117913827</Start>
+      <Length>1.0004761904761921</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>99.640634920634923</Start>
+      <Length>1.3377097505668871</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>7.6127210884353742</Start>
+      <Length>1.3797732426303861</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Rockers Almighty - Rockers Almighty Dub</TrackDescription>
+      <FadeLength>9.5802721088435376</FadeLength>
+      <FadeEnd>56176696</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.176</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>143.26165532879818</Start>
+          <Length>5.0000680272108866</Length>
+          <DelayNotes>0.125</DelayNotes>
+          <SampleID>Rockers Almighty - Rockers Almighty Dub - FadeIn</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

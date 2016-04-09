@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers />
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The Herbaliser - Battle of Bongo Hill</TrackDescription>
+      <FadeLength>18.32496598639456</FadeLength>
+      <FadeEnd>52188360</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.344</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Donald Byrd - (Fallin' Like) Dominoes</TrackDescription>
+      <FadeLength>18.209297052154195</FadeLength>
+      <FadeEnd>52297096</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.272</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>James Brown - Soul Power</TrackDescription>
+      <FadeLength>18.143242630385487</FadeLength>
+      <FadeEnd>52286464</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.512</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>De La Soul - Ring Ring Ring (Ha Ha Hey)</TrackDescription>
+      <FadeLength>18.420884353741496</FadeLength>
+      <FadeEnd>52214312</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.248</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Tim Maia - No Caminho Do Bem</TrackDescription>
+      <FadeLength>13.561746031746031</FadeLength>
+      <FadeEnd>50736568</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.152</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Beastie Boys - Hey Ladies (Instrumental)</TrackDescription>
+      <FadeLength>13.300861678004535</FadeLength>
+      <FadeEnd>50406584</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.056</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

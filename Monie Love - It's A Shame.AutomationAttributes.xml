@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers />
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The U.M.Cs - One to Grow On</TrackDescription>
+      <FadeLength>17.015328798185941</FadeLength>
+      <FadeEnd>68970032</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.304</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Al Green - Standing In The Rain</TrackDescription>
+      <FadeLength>24.80281179138322</FadeLength>
+      <FadeEnd>71797208</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.08</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

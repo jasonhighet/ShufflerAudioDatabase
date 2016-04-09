@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers />
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>James Brown - Say It Loud I'm Black And I'm Proud</TrackDescription>
+      <FadeLength>8.7927437641723358</FadeLength>
+      <FadeEnd>35749312</FadeEnd>
+      <FadeEndLoop>2</FadeEndLoop>
+      <FadeEndVolume>0.584</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The J.B.'s - Hot Pants Road</TrackDescription>
+      <FadeLength>18.177346938775511</FadeLength>
+      <FadeEnd>35740400</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.472</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Souls Of Mischief - Let Em Know (Instrumental)</TrackDescription>
+      <FadeLength>18.397165532879818</FadeLength>
+      <FadeEnd>35777896</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.2</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The Gaturs - Gator Bait</TrackDescription>
+      <FadeLength>17.616439909297053</FadeLength>
+      <FadeEnd>35707216</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.224</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Spanky Wilson - Kissing My Love</TrackDescription>
+      <FadeLength>17.914580498866211</FadeLength>
+      <FadeEnd>35727432</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.584</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The Bamboos - Step It Up (feat. Alice Russell)</TrackDescription>
+      <FadeLength>17.46092970521542</FadeLength>
+      <FadeEnd>35756704</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.528</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Beastie Boys - Shake Your Rump (Instrumental)</TrackDescription>
+      <FadeLength>19.880566893424035</FadeLength>
+      <FadeEnd>36153240</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.704</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Souls Of Mischief - 93 Til Infinity (Instrumental)</TrackDescription>
+      <FadeLength>19.700907029478458</FadeLength>
+      <FadeEnd>36322912</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.088</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Breakestra - Get It Right</TrackDescription>
+      <FadeLength>25.100657596371882</FadeLength>
+      <FadeEnd>36739672</FadeEnd>
+      <FadeEndLoop>5</FadeEndLoop>
+      <FadeEndVolume>0.048</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

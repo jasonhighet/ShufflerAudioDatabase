@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers />
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>James Brown - I Can't Stand Myself (When You Touch Me) (Part 1)</TrackDescription>
+      <FadeLength>15.704739229024943</FadeLength>
+      <FadeEnd>37028800</FadeEnd>
+      <FadeEndLoop>2</FadeEndLoop>
+      <FadeEndVolume>0.256</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>James Brown - Give It Up Or Turnit A Loose</TrackDescription>
+      <FadeLength>24.896485260770977</FadeLength>
+      <FadeEnd>37159120</FadeEnd>
+      <FadeEndLoop>3</FadeEndLoop>
+      <FadeEndVolume>0.008</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

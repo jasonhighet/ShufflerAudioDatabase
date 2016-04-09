@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers />
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Otis Redding &amp; Carla Thomas - Tramp (Instrumental)</TrackDescription>
+      <FadeLength>11.952630385487529</FadeLength>
+      <FadeEnd>98097312</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.488</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Tim Maia - No Caminho Do Bem</TrackDescription>
+      <FadeLength>9.06126984126984</FadeLength>
+      <FadeEnd>97037616</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.224</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Young Holt Unlimited - Rubber Lips</TrackDescription>
+      <FadeLength>9.3442630385487533</FadeLength>
+      <FadeEnd>97051232</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.656</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Average White Band - Pick Up The Pieces</TrackDescription>
+      <FadeLength>8.5212244897959177</FadeLength>
+      <FadeEnd>100100128</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.168</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

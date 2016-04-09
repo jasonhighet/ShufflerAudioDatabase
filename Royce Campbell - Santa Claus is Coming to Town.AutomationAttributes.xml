@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers />
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Roy Hargrove - Frosty The Snowman</TrackDescription>
+      <FadeLength>0</FadeLength>
+      <FadeEnd>0</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>150.502358276644</Start>
+          <Length>95.030748299319725</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>Roy Hargrove - Frosty The Snowman - FadeIn</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>249.66578231292516</Start>
+          <Length>1.7384353741496739</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>Roy Hargrove - Frosty The Snowman - FadeIn</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

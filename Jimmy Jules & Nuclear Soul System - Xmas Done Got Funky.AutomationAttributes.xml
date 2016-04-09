@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>61.58544217687075</Start>
+      <Length>1.4401587301587284</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>137.2511111111111</Start>
+      <Length>1.2601360544217926</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>150.9404761904762</Start>
+      <Length>1.9802267573695929</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Meditation Singers - What The World Needs For Christmas</TrackDescription>
+      <FadeLength>9.249</FadeLength>
+      <FadeEnd>58057112</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>1</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>PowerDown</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Albert King - Santa Claus Wants Some Lovin'</TrackDescription>
+      <FadeLength>9.486802721088436</FadeLength>
+      <FadeEnd>58061616</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.104</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

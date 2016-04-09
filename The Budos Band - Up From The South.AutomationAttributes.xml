@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>8.4421541950113372</Start>
+      <Length>1.1000680272108845</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>82.767687074829936</Start>
+      <Length>4.6602721088435288</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The Bamboos - Got To Get It Over</TrackDescription>
+      <FadeLength>17.615827664399092</FadeLength>
+      <FadeEnd>41615200</FadeEnd>
+      <FadeEndLoop>2</FadeEndLoop>
+      <FadeEndVolume>0</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>109.09328798185941</Start>
+          <Length>0.78006802721088775</Length>
+          <DelayNotes>0.0625</DelayNotes>
+          <SampleID>The Bamboos - Got To Get It Over - Fade Out</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>113.52151927437642</Start>
+          <Length>2.7001360544217761</Length>
+          <DelayNotes>0.0625</DelayNotes>
+          <SampleID>The Bamboos - Got To Get It Over - Fade In</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>26.869115646258503</Start>
+      <Length>0.7990249433106591</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>32.715918367346937</Start>
+      <Length>0.95968253968253947</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>62.785374149659866</Start>
+      <Length>1.0603628117913786</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>101.12419501133788</Start>
+      <Length>0.93995464852606858</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>199.36045351473922</Start>
+      <Length>0.70002267573696031</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>202.24045351473922</Start>
+      <Length>1.6395464852607802</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>62.90877551020408</Start>
+      <Length>0.92000000000000171</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>75.048752834467123</Start>
+      <Length>0.660839002267565</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>83.948775510204086</Start>
+      <Length>0.85997732426302775</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>101.12126984126984</Start>
+      <Length>0</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>107.22897959183673</Start>
+      <Length>0.78004535147393028</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>172.94702947845806</Start>
+      <Length>1.0004535147392062</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>124.99471655328799</Start>
+      <Length>0.73999999999999488</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>130.91784580498867</Start>
+      <Length>0.91997732426301582</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Aaron Neville - Hercules</TrackDescription>
+      <FadeLength>22.783015873015874</FadeLength>
+      <FadeEnd>80127840</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.4176</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Tenor Saw - Ring The Alarm</TrackDescription>
+      <FadeLength>11.683492063492064</FadeLength>
+      <FadeEnd>76206280</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.2</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Dorothy Ashby - Come Live with Me</TrackDescription>
+      <FadeLength>26.426848072562358</FadeLength>
+      <FadeEnd>81581160</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.8</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

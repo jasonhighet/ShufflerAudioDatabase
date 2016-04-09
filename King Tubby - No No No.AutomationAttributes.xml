@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>175.35505668934241</Start>
+      <Length>2.2206575963718933</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>18.6518820861678</Start>
+      <Length>0.51804988662131635</Length>
+      <DelayNotes>0.0625</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>18.60156462585034</Start>
+      <Length>0.5599773242630377</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>50.021836734693878</Start>
+      <Length>0.47950113378684733</Length>
+      <DelayNotes>0.0625</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>53.521541950113381</Start>
+      <Length>0.46052154195010786</Length>
+      <DelayNotes>0.0625</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>67.081451247165532</Start>
+      <Length>0.64034013605441942</Length>
+      <DelayNotes>0.0625</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>177.60503401360543</Start>
+      <Length>1.3995918367347144</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>177.60303854875284</Start>
+      <Length>1.4000680272108923</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers>
+    <SampleTrigger>
+      <Start>53.888367346938779</Start>
+      <Length>5.860544217687071</Length>
+      <DelayNotes>0.125</DelayNotes>
+      <SampleID>KC White - No No No - Sample1</SampleID>
+    </SampleTrigger>
+    <SampleTrigger>
+      <Start>182.7842403628118</Start>
+      <Length>5.440362811791374</Length>
+      <DelayNotes>0.125</DelayNotes>
+      <SampleID>KC White - No No No - Sample1</SampleID>
+    </SampleTrigger>
+  </SampleTriggers>
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Horace Andy - Dub On My Mind</TrackDescription>
+      <FadeLength>14.356009070294785</FadeLength>
+      <FadeEnd>75598000</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.248</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>200.26006802721088</Start>
+          <Length>3.1822902494331231</Length>
+          <DelayNotes>0.125</DelayNotes>
+          <SampleID>Horace Andy - Dub On My Mind - Sample1</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>207.24047619047619</Start>
+          <Length>1.3030158730158803</Length>
+          <DelayNotes>0.125</DelayNotes>
+          <SampleID>Horace Andy - Dub On My Mind - FadeIn</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>210.66287981859409</Start>
+          <Length>1.6978911564625889</Length>
+          <DelayNotes>0.125</DelayNotes>
+          <SampleID>Horace Andy - Dub On My Mind - FadeIn</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

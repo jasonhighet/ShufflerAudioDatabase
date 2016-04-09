@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>30.704036281179139</Start>
+      <Length>1.1003174603174593</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>57.944807256235826</Start>
+      <Length>0.48054421768707556</Length>
+      <DelayNotes>0.0625</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>60.8653514739229</Start>
+      <Length>0.61975056689342978</Length>
+      <DelayNotes>0.0625</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>67.782448979591834</Start>
+      <Length>1.8618140589569237</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>94.484671201814052</Start>
+      <Length>0.42315192743764385</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>97.5641723356009</Start>
+      <Length>0.54020408163266609</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>113.7048299319728</Start>
+      <Length>1.0197959183673362</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>118.76392290249433</Start>
+      <Length>1.4405442176870764</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers />
+  <ExtendedMixes />
+  <TrackSamples />
+</AutomationAttributes>

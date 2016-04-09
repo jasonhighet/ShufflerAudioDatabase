@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>30.569909297052153</Start>
+      <Length>1.0401133786848078</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>24.304693877551021</Start>
+      <Length>0.43965986394557888</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>30.864761904761906</Start>
+      <Length>0.93999999999999773</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>37.504988662131517</Start>
+      <Length>1.9406349206349205</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>14.436643990929705</Start>
+      <Length>0.84013605442176953</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>31.016553287981861</Start>
+      <Length>0.78015873015872828</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>57.54702947845805</Start>
+      <Length>0.75952380952380594</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>84.418911564625844</Start>
+      <Length>0.69984126984127215</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>King Tubby - No No No</TrackDescription>
+      <FadeLength>14.863061224489796</FadeLength>
+      <FadeEnd>36206296</FadeEnd>
+      <FadeEndLoop>2</FadeEndLoop>
+      <FadeEndVolume>0.416</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>58.363628117913834</Start>
+          <Length>8.9006349206349142</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>King Tubby - No No No - FadeIn</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>88.543582766439911</Start>
+          <Length>8.4000680272108781</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>King Tubby - No No No - FadeIn</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>71.689433106575962</Start>
+          <Length>6.6404308390022635</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>King Tubby - No No No - FadeIn</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

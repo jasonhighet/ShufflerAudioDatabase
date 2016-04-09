@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>22.802335600907028</Start>
+      <Length>1.8000000000000007</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>26.381451247165533</Start>
+      <Length>2.0206122448979578</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>33.021950113378686</Start>
+      <Length>2.0202947845805</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>39.602698412698416</Start>
+      <Length>2.320204081632653</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>63.092743764172333</Start>
+      <Length>4.0603854875283432</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>80.872925170068029</Start>
+      <Length>0.69972789115645639</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The Revolutionaries - Killer Dub</TrackDescription>
+      <FadeLength>14.062267573696145</FadeLength>
+      <FadeEnd>55896520</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.296</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>96.993401360544212</Start>
+          <Length>2.7994331065759752</Length>
+          <DelayNotes>0.125</DelayNotes>
+          <SampleID>The Revolutionaries - Killer Dub - FadeIn</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>137.62755102040816</Start>
+          <Length>2.7788662131519288</Length>
+          <DelayNotes>0.125</DelayNotes>
+          <SampleID>The Revolutionaries - Killer Dub - FadeIn</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples>
+    <TrackSample>
+      <Start>15.982718253968255</Start>
+      <Length>2.3559920634920637</Length>
+      <IsLooped>false</IsLooped>
+      <Key>Sample1</Key>
+      <Description>Whooo</Description>
+    </TrackSample>
+  </TrackSamples>
+</AutomationAttributes>

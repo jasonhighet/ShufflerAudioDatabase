@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>61.016734693877552</Start>
+      <Length>0.92126984126984013</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>62.37401360544218</Start>
+      <Length>0.24498639455782012</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>59.809818594104307</Start>
+      <Length>2.0599092970521582</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Tommy Mccook - Green Mango</TrackDescription>
+      <FadeLength>16.080839002267574</FadeLength>
+      <FadeEnd>23603680</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.104</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Jorge Ben - O Namorado Da Viúva</TrackDescription>
+      <FadeLength>11.201859410430838</FadeLength>
+      <FadeEnd>22154600</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.2</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>57.001723356009073</Start>
+          <Length>2.6409977324262996</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>Jorge Ben - O Namorado Da Viúva - FadeIn</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>59.755555555555553</Start>
+          <Length>2.6001814058956967</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>Jorge Ben - O Namorado Da Viúva - FadeIn</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Beastie Boys - Some Dumb Cop Gave Me Two Tickets Already (Instrumental)</TrackDescription>
+      <FadeLength>10.823242630385488</FadeLength>
+      <FadeEnd>22139328</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.336</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Jeru The Damaja - Me Or The Papes (Instrumental)</TrackDescription>
+      <FadeLength>17.180544217687075</FadeLength>
+      <FadeEnd>24157280</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.064</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

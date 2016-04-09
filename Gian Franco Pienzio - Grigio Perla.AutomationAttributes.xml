@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers />
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Bob James - Nautilus</TrackDescription>
+      <FadeLength>10.56326530612245</FadeLength>
+      <FadeEnd>53292584</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.08</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>People Under The Stairs - Acid Raindrops</TrackDescription>
+      <FadeLength>11.521700680272108</FadeLength>
+      <FadeEnd>53609656</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.136</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The 3 Sounds - Put on Train</TrackDescription>
+      <FadeLength>10.920589569160997</FadeLength>
+      <FadeEnd>56913672</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.112</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Nas - Halftime (Instrumental)</TrackDescription>
+      <FadeLength>20.93954648526077</FadeLength>
+      <FadeEnd>53263128</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.272</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Pete Rock - Back On The Block (Instrumental)</TrackDescription>
+      <FadeLength>20.600362811791385</FadeLength>
+      <FadeEnd>53290384</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.44</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>De La Soul - Fallin' (feat. Teenage Fan Club)</TrackDescription>
+      <FadeLength>21.701224489795919</FadeLength>
+      <FadeEnd>55052336</FadeEnd>
+      <FadeEndLoop>3</FadeEndLoop>
+      <FadeEndVolume>0.168</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Monty Alexander - Inner City Blues</TrackDescription>
+      <FadeLength>10.804875283446712</FadeLength>
+      <FadeEnd>53296432</FadeEnd>
+      <FadeEndLoop>2</FadeEndLoop>
+      <FadeEndVolume>0.56</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>A Tribe Called Quest - Ham N Eggs (Instrumental)</TrackDescription>
+      <FadeLength>25.755170068027212</FadeLength>
+      <FadeEnd>53323976</FadeEnd>
+      <FadeEndLoop>5</FadeEndLoop>
+      <FadeEndVolume>0.256</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Nightmares On Wax - 195lbs</TrackDescription>
+      <FadeLength>31.445714285714285</FadeLength>
+      <FadeEnd>54973944</FadeEnd>
+      <FadeEndLoop>5</FadeEndLoop>
+      <FadeEndVolume>0.032</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

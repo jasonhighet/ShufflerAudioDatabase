@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>35.0102947845805</Start>
+      <Length>0.90185941043083773</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>41.689365079365082</Start>
+      <Length>0.61938775510203925</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Mandrake Som - Berimbau</TrackDescription>
+      <FadeLength>14.642312925170067</FadeLength>
+      <FadeEnd>50825528</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.368</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Ana Rosely - Skim Dum Dum Dum</TrackDescription>
+      <FadeLength>10.180770975056689</FadeLength>
+      <FadeEnd>49075352</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.272</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Jackson do Pandeiro - Eu Balanco (Beatfanatic Rework)</TrackDescription>
+      <FadeLength>14.538027210884353</FadeLength>
+      <FadeEnd>50825392</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.152</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>124.16344671201814</Start>
+          <Length>2.4387074829931947</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>Jackson do Pandeiro - Eu Balanco (Beatfanatic Rework) - FadeIn</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

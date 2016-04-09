@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>30.155986394557821</Start>
+      <Length>0.52022675736961688</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>58.01668934240363</Start>
+      <Length>0.81827664399092725</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>68.674557823129248</Start>
+      <Length>0.72154195011337663</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>79.155147392290246</Start>
+      <Length>1.0016326530612218</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>87.117052154195008</Start>
+      <Length>1.0791156462585008</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>120.78972789115646</Start>
+      <Length>0.98056689342404013</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>125.40997732426304</Start>
+      <Length>1.1005668934240305</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>King Tubby - Rock With I Dub</TrackDescription>
+      <FadeLength>9.7419047619047614</FadeLength>
+      <FadeEnd>51704672</FadeEnd>
+      <FadeEndLoop>2</FadeEndLoop>
+      <FadeEndVolume>0</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>16.715918367346937</Start>
+          <Length>0.68070294784580554</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>King Tubby - Rock With I Dub - FadeIn</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>60.08473922902494</Start>
+          <Length>4.2986394557823147</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>King Tubby - Rock With I Dub - FadeIn</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>64.858775510204083</Start>
+          <Length>4.1007256235827612</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>King Tubby - Rock With I Dub - FadeIn</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

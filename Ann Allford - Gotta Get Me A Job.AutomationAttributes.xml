@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers />
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Jean Knight - Mr. Big Stuff</TrackDescription>
+      <FadeLength>21.000861678004537</FadeLength>
+      <FadeEnd>32020784</FadeEnd>
+      <FadeEndLoop>8</FadeEndLoop>
+      <FadeEndVolume>0.224</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Jurassic 5 - Great Expectations (Instrumental)</TrackDescription>
+      <FadeLength>7.6037641723356009</FadeLength>
+      <FadeEnd>32033680</FadeEnd>
+      <FadeEndLoop>3</FadeEndLoop>
+      <FadeEndVolume>0.8</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Sharon Jones &amp; The Dap Kings - Nobody's Baby</TrackDescription>
+      <FadeLength>20.142244897959184</FadeLength>
+      <FadeEnd>32015976</FadeEnd>
+      <FadeEndLoop>8</FadeEndLoop>
+      <FadeEndVolume>0.488</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Aretha Franklin - One Step Ahead (Ms. Fat Booty Blend)</TrackDescription>
+      <FadeLength>13.496213151927437</FadeLength>
+      <FadeEnd>32050264</FadeEnd>
+      <FadeEndLoop>5</FadeEndLoop>
+      <FadeEndVolume>0.2</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Gang Starr - Full Clip (Instrumental) (RB Edit)</TrackDescription>
+      <FadeLength>19.46156462585034</FadeLength>
+      <FadeEnd>32626184</FadeEnd>
+      <FadeEndLoop>7</FadeEndLoop>
+      <FadeEndVolume>0.008</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>137.51600907029479</Start>
+      <Length>0.18009070294783669</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>137.50698412698412</Start>
+      <Length>0.1801587301587233</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers>
+    <SampleTrigger>
+      <Start>47.407301587301589</Start>
+      <Length>0.383514739229021</Length>
+      <DelayNotes>0.25</DelayNotes>
+      <SampleID>The J.B.'s - (It's Not the Express) It's the J.B.'s Monaurail - FadeIn</SampleID>
+    </SampleTrigger>
+    <SampleTrigger>
+      <Start>52.410702947845806</Start>
+      <Length>0.70049886621315238</Length>
+      <DelayNotes>0.25</DelayNotes>
+      <SampleID>The J.B.'s - (It's Not the Express) It's the J.B.'s Monaurail - FadeIn</SampleID>
+    </SampleTrigger>
+    <SampleTrigger>
+      <Start>63.132902494331063</Start>
+      <Length>0.15439909297052168</Length>
+      <DelayNotes>0.25</DelayNotes>
+      <SampleID>The J.B.'s - (It's Not the Express) It's the J.B.'s Monaurail - FadeOut</SampleID>
+    </SampleTrigger>
+  </SampleTriggers>
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Junior Mance - Don't Cha Hear Me Calling To Ya</TrackDescription>
+      <FadeLength>10.480975056689342</FadeLength>
+      <FadeEnd>76695760</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.208</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>James Brown - The Boss</TrackDescription>
+      <FadeLength>20.305056689342404</FadeLength>
+      <FadeEnd>73007120</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.456</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>James Brown - Papa Don't Take No Mess (Part 1)</TrackDescription>
+      <FadeLength>20.0559410430839</FadeLength>
+      <FadeEnd>73005408</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.456</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Blackalicious - Swan Lake (Instrumental)</TrackDescription>
+      <FadeLength>20.237732426303854</FadeLength>
+      <FadeEnd>73028032</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.592</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Donald Byrd - Places and Spaces</TrackDescription>
+      <FadeLength>20.482426303854876</FadeLength>
+      <FadeEnd>73025120</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Madlib - Montara</TrackDescription>
+      <FadeLength>20.221337868480724</FadeLength>
+      <FadeEnd>73021296</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.112</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Jurassic 5 - Great Expectations (Instrumental)</TrackDescription>
+      <FadeLength>24.949478458049885</FadeLength>
+      <FadeEnd>74828616</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.44</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The Beatnuts - Get Funky (Instrumental)</TrackDescription>
+      <FadeLength>30.644149659863945</FadeLength>
+      <FadeEnd>76670824</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.08</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Jurassic 5 - Unified Rebelution</TrackDescription>
+      <FadeLength>19.662063492063492</FadeLength>
+      <FadeEnd>80056512</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.048</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Average White Band - Stop The Rain</TrackDescription>
+      <FadeLength>18.596984126984125</FadeLength>
+      <FadeEnd>79608352</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>James Brown - Payback</TrackDescription>
+      <FadeLength>15.796371882086168</FadeLength>
+      <FadeEnd>78584832</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.104</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Tosca - Suzuki</TrackDescription>
+      <FadeLength>10.000544217687075</FadeLength>
+      <FadeEnd>76529328</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Jurassic 5 - Freedom (Instrumental)</TrackDescription>
+      <FadeLength>20.918571428571429</FadeLength>
+      <FadeEnd>72981568</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.296</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>El Michels Affair - Red Rooster</TrackDescription>
+      <FadeLength>20.659750566893425</FadeLength>
+      <FadeEnd>73098560</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.128</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Damu the Fudgemunk - Start Here (RB Edit)</TrackDescription>
+      <FadeLength>20.043469387755103</FadeLength>
+      <FadeEnd>80169192</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.2</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers />
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Meditation Singers - What The World Needs For Christmas</TrackDescription>
+      <FadeLength>4.9176417233560095</FadeLength>
+      <FadeEnd>56008448</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.064</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>144.15814058956917</Start>
+          <Length>2.6804081632652981</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>Meditation Singers - What The World Needs For Christmas - FadeIn</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>148.8984126984127</Start>
+          <Length>2.4579591836734664</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>Meditation Singers - What The World Needs For Christmas - FadeIn</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

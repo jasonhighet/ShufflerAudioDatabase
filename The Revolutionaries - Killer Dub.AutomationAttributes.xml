@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>14.277641723356009</Start>
+      <Length>0.76045351473922906</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>27.956553287981858</Start>
+      <Length>0.87916099773242706</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>82.478979591836733</Start>
+      <Length>1.0393197278911543</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>102.2663492063492</Start>
+      <Length>0.91993197278911509</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Burning Spear - I and I Survive (Slavery Days)</TrackDescription>
+      <FadeLength>14.100725623582767</FadeLength>
+      <FadeEnd>46373160</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.32</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>124.31650793650793</Start>
+          <Length>4.0003174603174756</Length>
+          <DelayNotes>0.125</DelayNotes>
+          <SampleID>Burning Spear - I and I Survive (Slavery Days) - FadeIn</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>104.74766439909297</Start>
+          <Length>2.10011337868481</Length>
+          <DelayNotes>0.125</DelayNotes>
+          <SampleID>Burning Spear - I and I Survive (Slavery Days) - PreFadeIn</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>104.73281179138321</Start>
+          <Length>0</Length>
+          <DelayNotes>0.125</DelayNotes>
+          <SampleID>Burning Spear - I and I Survive (Slavery Days) - PreFadeIn</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>124.31582766439909</Start>
+          <Length>0.0012925170068029956</Length>
+          <DelayNotes>0.125</DelayNotes>
+          <SampleID>Burning Spear - I and I Survive (Slavery Days) - FadeIn</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

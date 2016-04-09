@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>31.570408163265306</Start>
+      <Length>0.66133786848072873</Length>
+      <DelayNotes>0.0625</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>35.312267573696147</Start>
+      <Length>0.81965986394557433</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>40.018616780045349</Start>
+      <Length>1.800204081632657</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>48.264693877551018</Start>
+      <Length>1.4195464852607742</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>King Tubby - Zion Gate Dub</TrackDescription>
+      <FadeLength>14.620566893424037</FadeLength>
+      <FadeEnd>35877248</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.016</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>74.198911564625845</Start>
+          <Length>6.3806122448979607</Length>
+          <DelayNotes>0.125</DelayNotes>
+          <SampleID>King Tubby - Zion Gate Dub - FadeIn</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>93.86</Start>
+          <Length>4.9803401360544228</Length>
+          <DelayNotes>0.125</DelayNotes>
+          <SampleID>King Tubby - Zion Gate Dub - FadeIn</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

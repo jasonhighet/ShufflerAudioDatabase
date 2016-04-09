@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>34.673424036281176</Start>
+      <Length>1.3403628117913868</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>41.17378684807256</Start>
+      <Length>1.0401587301587298</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>54.1546485260771</Start>
+      <Length>0.85895691609977121</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>98.650476190476184</Start>
+      <Length>0.60036281179138484</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>101.95065759637188</Start>
+      <Length>0.62000000000000455</Length>
+      <DelayNotes>0.0625</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>109.27151927437642</Start>
+      <Length>0.51993197278912362</Length>
+      <DelayNotes>0.0625</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Tapper Zukie - Dub Mpla</TrackDescription>
+      <FadeLength>13.502653061224489</FadeLength>
+      <FadeEnd>45464944</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.464</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>King Tubby - Dub Of A Woman</TrackDescription>
+      <FadeLength>2.4195011337868482</FadeLength>
+      <FadeEnd>41663408</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples>
+    <TrackSample>
+      <Start>39.453415532879816</Start>
+      <Length>4.8929365079365077</Length>
+      <IsLooped>false</IsLooped>
+      <Key>Sample1</Key>
+      <Description>TheLoveOfAWoman</Description>
+    </TrackSample>
+    <TrackSample>
+      <Start>44.350215419501133</Start>
+      <Length>5.6882482993197279</Length>
+      <IsLooped>false</IsLooped>
+      <Key>Sample2</Key>
+      <Description>ThatIsAllICanGive</Description>
+    </TrackSample>
+  </TrackSamples>
+</AutomationAttributes>

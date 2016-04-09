@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers />
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Horace Andy - Love Of A Dub Band</TrackDescription>
+      <FadeLength>13.241451247165532</FadeLength>
+      <FadeEnd>55372096</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.32</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>137.46814058956917</Start>
+          <Length>3.0602267573696054</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>Horace Andy - Love Of A Dub Band - Sample1</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>27.655102040816328</Start>
+      <Length>0.60002267573695889</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>52.114580498866211</Start>
+      <Length>1.1803401360544257</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>60.2884126984127</Start>
+      <Length>0.59995464852607938</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>78.087959183673476</Start>
+      <Length>0.59997732426303685</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>90.008956916099777</Start>
+      <Length>0.51977324263037872</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>60.274285714285718</Start>
+      <Length>71.803714285714278</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>King Tubby - Dub Ites Green &amp; Gold</TrackDescription>
+      <FadeLength>12.462698412698412</FadeLength>
+      <FadeEnd>46688904</FadeEnd>
+      <FadeEndLoop>2</FadeEndLoop>
+      <FadeEndVolume>0.152</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>129.18412698412698</Start>
+          <Length>2.3975963718820879</Length>
+          <DelayNotes>0.0625</DelayNotes>
+          <SampleID>King Tubby - Dub Ites Green &amp; Gold - FadeIn</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>King Tubby - Black Lash</TrackDescription>
+      <FadeLength>14.920816326530613</FadeLength>
+      <FadeEnd>47675728</FadeEnd>
+      <FadeEndLoop>2</FadeEndLoop>
+      <FadeEndVolume>0</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The Skatalites - Swing Easy</TrackDescription>
+      <FadeLength>12.029977324263038</FadeLength>
+      <FadeEnd>46605808</FadeEnd>
+      <FadeEndLoop>2</FadeEndLoop>
+      <FadeEndVolume>0.536</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

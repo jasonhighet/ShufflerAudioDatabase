@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>53.789569160997729</Start>
+      <Length>0.6796371882086234</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>57.049433106575961</Start>
+      <Length>1.2803401360544271</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>61.4097052154195</Start>
+      <Length>0.47959183673469852</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>63.669773242630384</Start>
+      <Length>0.56018140589569043</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>63.660204081632656</Start>
+      <Length>0</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>67.14004535147393</Start>
+      <Length>0.897437641723343</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>96.098321995464858</Start>
+      <Length>0.560294784580492</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>123.0787074829932</Start>
+      <Length>0.34031746031746479</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>127.99798185941043</Start>
+      <Length>0.42018140589570407</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>105.53643990929706</Start>
+      <Length>0.60081632653060524</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers>
+    <SampleTrigger>
+      <Start>108.87843537414966</Start>
+      <Length>2.20022675736962</Length>
+      <DelayNotes>0.25</DelayNotes>
+      <SampleID>A Tribe Called Quest - Award Tour - Sample3</SampleID>
+    </SampleTrigger>
+    <SampleTrigger>
+      <Start>128.62678004535147</Start>
+      <Length>2.2784580498866376</Length>
+      <DelayNotes>0.25</DelayNotes>
+      <SampleID>A Tribe Called Quest - Award Tour - Sample2</SampleID>
+    </SampleTrigger>
+    <SampleTrigger>
+      <Start>29.783628117913832</Start>
+      <Length>2.1175510204081647</Length>
+      <DelayNotes>0.25</DelayNotes>
+      <SampleID>A Tribe Called Quest - Award Tour - Sample1</SampleID>
+    </SampleTrigger>
+    <SampleTrigger>
+      <Start>66.853015873015877</Start>
+      <Length>2.3807029478458048</Length>
+      <DelayNotes>0.25</DelayNotes>
+      <SampleID>A Tribe Called Quest - Award Tour - Sample2</SampleID>
+    </SampleTrigger>
+  </SampleTriggers>
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Tosca - Boss On The Boat</TrackDescription>
+      <FadeLength>17.732857142857142</FadeLength>
+      <FadeEnd>55305552</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.312</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>138.54641723356008</Start>
+          <Length>1.2401814058956973</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>Tosca - Boss On The Boat - Fade In</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>141.1857596371882</Start>
+          <Length>0</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>Tosca - Boss On The Boat - Fade In</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Damu the Fudgemunk - Start Here (RB Edit)</TrackDescription>
+      <FadeLength>19.948027210884355</FadeLength>
+      <FadeEnd>55794928</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.168</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

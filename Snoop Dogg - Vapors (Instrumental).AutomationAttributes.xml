@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers />
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Janet Jackson - Got 'Till It's Gone (feat. Q-Tip)</TrackDescription>
+      <FadeLength>21.602721088435374</FadeLength>
+      <FadeEnd>54726200</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.2</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Gian Franco Pienzio - Grigio Perla</TrackDescription>
+      <FadeLength>16.205986394557822</FadeLength>
+      <FadeEnd>52855728</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The Pharcyde - Running Away (Instrumental) (RB Edit)</TrackDescription>
+      <FadeLength>10.40079365079365</FadeLength>
+      <FadeEnd>50945096</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.296</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Erykah Badu - Soldier (Grant Phabao Remix)</TrackDescription>
+      <FadeLength>10.781224489795918</FadeLength>
+      <FadeEnd>50923128</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.144</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples>
+    <TrackSample>
+      <Start>36.54</Start>
+      <Length>0.998</Length>
+      <IsLooped>false</IsLooped>
+      <Key>Sample1</Key>
+      <Description>Sample #1</Description>
+    </TrackSample>
+    <TrackSample>
+      <Start>130.874</Start>
+      <Length>2.679</Length>
+      <IsLooped>false</IsLooped>
+      <Key>Sample2</Key>
+      <Description>Sample #2</Description>
+    </TrackSample>
+    <TrackSample>
+      <Start>228.148</Start>
+      <Length>1.394</Length>
+      <IsLooped>false</IsLooped>
+      <Key>Sample3</Key>
+      <Description>Sample #3</Description>
+    </TrackSample>
+    <TrackSample>
+      <Start>229.536</Start>
+      <Length>10.668</Length>
+      <IsLooped>false</IsLooped>
+      <Key>Sample4</Key>
+      <Description>Sample #4</Description>
+    </TrackSample>
+  </TrackSamples>
+</AutomationAttributes>

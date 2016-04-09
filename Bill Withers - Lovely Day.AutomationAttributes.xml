@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers />
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Jurassic 5 - Unified Rebelution</TrackDescription>
+      <FadeLength>20.1856462585034</FadeLength>
+      <FadeEnd>76259616</FadeEnd>
+      <FadeEndLoop>2</FadeEndLoop>
+      <FadeEndVolume>0.336</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>186.47875283446712</Start>
+          <Length>1.060249433106577</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>Jurassic 5 - Unified Rebelution - Pre Fade In</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>196.24111111111111</Start>
+          <Length>1.5773242630385482</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>Jurassic 5 - Unified Rebelution - Pre Fade In</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>206.05857142857144</Start>
+          <Length>1.6000907029478242</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>Jurassic 5 - Unified Rebelution - Pre Fade In</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>17.300181405895692</Start>
+          <Length>2.5600680272108818</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>Jurassic 5 - Unified Rebelution - Pre Fade In</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>77.323151927437635</Start>
+          <Length>1.8996598639455868</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>Jurassic 5 - Unified Rebelution - Pre Fade In</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The J.B.'s - Gimme Some More</TrackDescription>
+      <FadeLength>19.600136054421768</FadeLength>
+      <FadeEnd>76241448</FadeEnd>
+      <FadeEndLoop>2</FadeEndLoop>
+      <FadeEndVolume>0.32</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Tosca - Chocolate Elvis (Boozoo Bajou Version)</TrackDescription>
+      <FadeLength>9.9417687074829928</FadeLength>
+      <FadeEnd>76269824</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.16</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

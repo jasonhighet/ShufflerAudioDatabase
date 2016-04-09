@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>54.302108843537418</Start>
+      <Length>0.85999999999999943</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>49.047641723356008</Start>
+      <Length>0.84004535147392545</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>128.1174149659864</Start>
+      <Length>1.3000453514739263</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>134.73911564625851</Start>
+      <Length>0.76004535147390584</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>140.09943310657596</Start>
+      <Length>0.88002267573696713</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>169.32006802721088</Start>
+      <Length>0.79997732426303969</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>166.94791383219956</Start>
+      <Length>0.7997278911564365</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>172.24789115646257</Start>
+      <Length>0.64065759637190922</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>150.75777777777779</Start>
+      <Length>0.920498866213137</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Aretha Franklin - One Step Ahead (Ms. Fat Booty Blend)</TrackDescription>
+      <FadeLength>15.953151927437641</FadeLength>
+      <FadeEnd>69889992</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.432</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>176.987641723356</Start>
+          <Length>4.6784126984127</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>Aretha Franklin - One Step Ahead (Ms. Fat Booty Blend) - Fade In</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>A Tribe Called Quest - Jam</TrackDescription>
+      <FadeLength>20.20138321995465</FadeLength>
+      <FadeEnd>71689200</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>El Michels Affair - Red Rooster</TrackDescription>
+      <FadeLength>21.867188208616781</FadeLength>
+      <FadeEnd>72310368</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.432</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>A Tribe Called Quest - Push It Along (Instrumental)</TrackDescription>
+      <FadeLength>15.402766439909296</FadeLength>
+      <FadeEnd>69945784</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.248</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

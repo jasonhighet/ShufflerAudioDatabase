@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>98.003514739229018</Start>
+      <Length>0.59981859410432037</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>130.75877551020409</Start>
+      <Length>0.65979591836733675</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>141.03804988662131</Start>
+      <Length>0.58063492063493527</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>153.6962358276644</Start>
+      <Length>0.50181405895691</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>158.63841269841271</Start>
+      <Length>0.51965986394557717</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Jurassic 5 - Lausd (Instrumental)</TrackDescription>
+      <FadeLength>20.421315192743766</FadeLength>
+      <FadeEnd>66021056</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.368</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>140.1604761904762</Start>
+          <Length>1.3591383219954594</Length>
+          <DelayNotes>0.0625</DelayNotes>
+          <SampleID>Jurassic 5 - Lausd (Instrumental) - Pre Fade In</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>150.53156462585034</Start>
+          <Length>0.37952380952381759</Length>
+          <DelayNotes>0.0625</DelayNotes>
+          <SampleID>Jurassic 5 - Lausd (Instrumental) - Pre Fade In</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>160.34571428571428</Start>
+          <Length>1.4800453514739331</Length>
+          <DelayNotes>0.0625</DelayNotes>
+          <SampleID>Jurassic 5 - Lausd (Instrumental) - Pre Fade In</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Jurassic 5 - Unified Rebelution</TrackDescription>
+      <FadeLength>19.590430839002266</FadeLength>
+      <FadeEnd>65824528</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.168</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Gang Starr - Full Clip (Instrumental) (RB Edit)</TrackDescription>
+      <FadeLength>7.9212925170068029</FadeLength>
+      <FadeEnd>61638696</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.056</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

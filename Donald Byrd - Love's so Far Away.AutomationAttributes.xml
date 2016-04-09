@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers />
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Grant Green - Sookie, Sookie</TrackDescription>
+      <FadeLength>15.982902494331066</FadeLength>
+      <FadeEnd>102748648</FadeEnd>
+      <FadeEndLoop>8</FadeEndLoop>
+      <FadeEndVolume>0.04</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The Pioneers - Papa Was A Rolling Stone</TrackDescription>
+      <FadeLength>15.589546485260771</FadeLength>
+      <FadeEnd>103092856</FadeEnd>
+      <FadeEndLoop>7</FadeEndLoop>
+      <FadeEndVolume>0</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Placebo - Only Nineteen</TrackDescription>
+      <FadeLength>1.871</FadeLength>
+      <FadeEnd>103158360</FadeEnd>
+      <FadeEndLoop>8</FadeEndLoop>
+      <FadeEndVolume>1</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Cut</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

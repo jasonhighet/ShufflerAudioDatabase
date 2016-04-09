@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>16.81920634920635</Start>
+      <Length>0.61897959183673379</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>27.70138321995465</Start>
+      <Length>0.88034013605442141</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>38.761337868480723</Start>
+      <Length>0.66000000000000369</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>49.541972789115647</Start>
+      <Length>0.9396371882086143</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>87.959433106575958</Start>
+      <Length>0.77954648526078074</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>99.100249433106569</Start>
+      <Length>0.75845804988662735</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>99.089160997732421</Start>
+      <Length>30.181839002267566</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Dusty Springfield - Son Of A Preacher Man</TrackDescription>
+      <FadeLength>21.713854875283445</FadeLength>
+      <FadeEnd>45661232</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.384</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>126.38721088435374</Start>
+          <Length>2.520770975056692</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>Dusty Spingfield - Son Of A Preacher Man - Fade In</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Jurassic 5 - Quality Control</TrackDescription>
+      <FadeLength>21.880521541950113</FadeLength>
+      <FadeEnd>45638648</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.112</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Horace Andy - I Feel Good All Over</TrackDescription>
+      <FadeLength>11.240022675736961</FadeLength>
+      <FadeEnd>47524600</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.024</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

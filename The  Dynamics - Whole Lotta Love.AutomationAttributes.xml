@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>67.834807256235834</Start>
+      <Length>2.6393197278911487</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Tenor Saw - Ring The Alarm</TrackDescription>
+      <FadeLength>34.533696145124715</FadeLength>
+      <FadeEnd>49113960</FadeEnd>
+      <FadeEndLoop>12</FadeEndLoop>
+      <FadeEndVolume>0</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>124.4347619047619</Start>
+          <Length>3.2599773242630476</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>Tenor Saw - Ring The Alarm - Fade In</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>45.17235827664399</Start>
+      <Length>0.88006802721088206</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>48.051564625850339</Start>
+      <Length>0.58031746031745968</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>53.111655328798186</Start>
+      <Length>26.658662131519272</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>82.29210884353742</Start>
+      <Length>0.18011337868480837</Length>
+      <DelayNotes>0.0625</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>88.032675736961451</Start>
+      <Length>2.4398639455782245</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers>
+    <SampleTrigger>
+      <Start>70.412086167800453</Start>
+      <Length>1.4004761904761978</Length>
+      <DelayNotes>0.125</DelayNotes>
+      <SampleID>King Tubby - Dub Ites Green &amp; Gold - Sample1</SampleID>
+    </SampleTrigger>
+  </SampleTriggers>
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Prince Fatty - Milk and Honey In My Dub</TrackDescription>
+      <FadeLength>12.581564625850341</FadeLength>
+      <FadeEnd>34490920</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.448</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>91.572675736961457</Start>
+          <Length>4.8991383219954656</Length>
+          <DelayNotes>0.125</DelayNotes>
+          <SampleID>Prince Fatty - Milk and Honey In My Dub - FadeIn</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples>
+    <TrackSample>
+      <Start>106.94696428571429</Start>
+      <Length>0.3395578231292517</Length>
+      <IsLooped>false</IsLooped>
+      <Key>Sample1</Key>
+      <Description>Ite</Description>
+    </TrackSample>
+  </TrackSamples>
+</AutomationAttributes>

@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>17.569410430839003</Start>
+      <Length>0.46170068027210931</Length>
+      <DelayNotes>0.0625</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>20.77122448979592</Start>
+      <Length>0.5397278911564598</Length>
+      <DelayNotes>0.0625</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>47.112698412698414</Start>
+      <Length>0.50163265306122184</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>53.614467120181409</Start>
+      <Length>0.54040816326530461</Length>
+      <DelayNotes>0.0625</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>30.643129251700682</Start>
+      <Length>0.50061224489795819</Length>
+      <DelayNotes>0.0625</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>99.321020408163264</Start>
+      <Length>0.37993197278912305</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>90.324852607709744</Start>
+      <Length>0.55986394557824326</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers>
+    <SampleTrigger>
+      <Start>15.024648526077097</Start>
+      <Length>3.440204081632654</Length>
+      <DelayNotes>0.25</DelayNotes>
+      <SampleID>Horace Andy - Love Of A Dub Band - Sample1</SampleID>
+    </SampleTrigger>
+    <SampleTrigger>
+      <Start>41.303129251700682</Start>
+      <Length>0.67999999999999972</Length>
+      <DelayNotes>0.25</DelayNotes>
+      <SampleID>Horace Andy - Love Of A Dub Band - Sample1</SampleID>
+    </SampleTrigger>
+    <SampleTrigger>
+      <Start>47.843083900226759</Start>
+      <Length>0.56068027210884</Length>
+      <DelayNotes>0.25</DelayNotes>
+      <SampleID>Horace Andy - Love Of A Dub Band - Sample1</SampleID>
+    </SampleTrigger>
+    <SampleTrigger>
+      <Start>103.40530612244898</Start>
+      <Length>3.6999773242630454</Length>
+      <DelayNotes>0.125</DelayNotes>
+      <SampleID>Horace Andy - Love Of A Dub Band - Sample1</SampleID>
+    </SampleTrigger>
+  </SampleTriggers>
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Tapper Zukie - Dub Mpla</TrackDescription>
+      <FadeLength>14.062789115646259</FadeLength>
+      <FadeEnd>45940016</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.184</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>112.39181405895691</Start>
+          <Length>3.1806802721088445</Length>
+          <DelayNotes>0.125</DelayNotes>
+          <SampleID>Tapper Zukie - Dub Mpla - FadeIn</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Horace Andy - Love Of A Dub Band</TrackDescription>
+      <FadeLength>0</FadeLength>
+      <FadeEnd>0</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>60.883900226757369</Start>
+          <Length>30.070226757369618</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>Horace Andy - Love Of A Dub Band - Sample1</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>15.053900226757369</Start>
+          <Length>4.84061224489796</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>Horace Andy - Love Of A Dub Band - Sample1</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>41.2937641723356</Start>
+          <Length>0.599637188208618</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>Horace Andy - Love Of A Dub Band - Sample1</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>47.814376417233561</Start>
+          <Length>0.6598412698412659</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>Horace Andy - Love Of A Dub Band - Sample1</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

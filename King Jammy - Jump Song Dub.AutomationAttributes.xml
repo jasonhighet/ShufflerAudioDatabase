@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>11.31671201814059</Start>
+      <Length>1.1199773242630382</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>19.016122448979591</Start>
+      <Length>1.0799773242630408</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>30.495827664399094</Start>
+      <Length>3.0200226757369606</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>41.156712018140588</Start>
+      <Length>0.57841269841269849</Length>
+      <DelayNotes>0.0625</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>44.0152380952381</Start>
+      <Length>0.24172335600906791</Length>
+      <DelayNotes>0.0625</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>47.396848072562356</Start>
+      <Length>0.51893424036281033</Length>
+      <DelayNotes>0.0625</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Horace Andy - Nice And Easy Dub</TrackDescription>
+      <FadeLength>10.801473922902494</FadeLength>
+      <FadeEnd>32864160</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.08</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>53.276462585034011</Start>
+          <Length>5.3806349206349253</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>Horace Andy - Nice And Easy Dub - FadeIn</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>70.460544217687072</Start>
+          <Length>5.8002267573696145</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>Horace Andy - Nice And Easy Dub - FadeIn</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

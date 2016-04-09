@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>37.32512471655329</Start>
+      <Length>0.96015873015872444</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>40.5459410430839</Start>
+      <Length>1.039433106575963</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>79.3153514739229</Start>
+      <Length>1.4002494331065805</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>100.4687074829932</Start>
+      <Length>0.35999999999999943</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>King Tubby - Tubby Get Smart</TrackDescription>
+      <FadeLength>12.740816326530613</FadeLength>
+      <FadeEnd>42459024</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.416</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>80.825011337868474</Start>
+          <Length>3.1600226757369683</Length>
+          <DelayNotes>0.125</DelayNotes>
+          <SampleID>King Tubby - Tubby Get Smart - FadeIn</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>87.365532879818588</Start>
+          <Length>3.4390476190476278</Length>
+          <DelayNotes>0.125</DelayNotes>
+          <SampleID>King Tubby - Tubby Get Smart - FadeIn</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

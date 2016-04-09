@@ -1,0 +1,40 @@
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Falafel.Shuffler.Controls.PlaylistControl.SetCurrentTrack(Int32 trackIndex) in E:\Development\Falafel.Shuffler\Falafel.Shuffler\Controls\PlaylistControl.cs:line 720
+   at Falafel.Shuffler.Controls.PlaylistControl.grdPlaylist_CellContentDoubleClick(Object sender, DataGridViewCellEventArgs e) in E:\Development\Falafel.Shuffler\Falafel.Shuffler\Controls\PlaylistControl.cs:line 705
+   at System.Windows.Forms.DataGridView.OnCellDoubleClick(DataGridViewCellEventArgs e)
+   at System.Windows.Forms.DataGridView.OnDoubleClick(EventArgs e)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.DataGridView.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(Int32 dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Falafel.Shuffler.Program.Main() in E:\Development\Falafel.Shuffler\Falafel.Shuffler\Program.cs:line 35
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Falafel.Shuffler.Controls.PlaylistControl.SetCurrentTrack(Int32 trackIndex) in E:\Development\Falafel.Shuffler\Falafel.Shuffler\Controls\PlaylistControl.cs:line 720
+   at Falafel.Shuffler.Controls.PlaylistControl.grdPlaylist_CellContentDoubleClick(Object sender, DataGridViewCellEventArgs e) in E:\Development\Falafel.Shuffler\Falafel.Shuffler\Controls\PlaylistControl.cs:line 705
+   at System.Windows.Forms.DataGridView.OnCellDoubleClick(DataGridViewCellEventArgs e)
+   at System.Windows.Forms.DataGridView.OnDoubleClick(EventArgs e)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.DataGridView.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(Int32 dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Falafel.Shuffler.Program.Main() in E:\Development\Falafel.Shuffler\Falafel.Shuffler\Program.cs:line 35

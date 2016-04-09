@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>55.052925170068029</Start>
+      <Length>0.98129251700679987</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The J.B.'s - Pass The Peas</TrackDescription>
+      <FadeLength>24.321201814058956</FadeLength>
+      <FadeEnd>74243608</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.248</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The J.B.'s - Gimme Some More</TrackDescription>
+      <FadeLength>20.400657596371882</FadeLength>
+      <FadeEnd>72766208</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.384</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>176.78437641723357</Start>
+          <Length>4.0799999999999841</Length>
+          <DelayNotes>0</DelayNotes>
+          <SampleID>The J.B.'s - Gimme Some More - FadeIn</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>181.58224489795919</Start>
+          <Length>2.7775736961451116</Length>
+          <DelayNotes>0</DelayNotes>
+          <SampleID>The J.B.'s - Gimme Some More - FadeIn</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Beastie Boys - Shadrach (Instrumental)</TrackDescription>
+      <FadeLength>18.982380952380954</FadeLength>
+      <FadeEnd>72490544</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.392</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

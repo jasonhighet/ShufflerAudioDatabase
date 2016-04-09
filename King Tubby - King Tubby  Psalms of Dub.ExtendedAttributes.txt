@@ -1,0 +1,1 @@
+StartBPM=70.600;EndBPM=70.600;Duration=181.551;FadeIn=14.946;FadeOut=110.256;BPMAdjust=0.5;

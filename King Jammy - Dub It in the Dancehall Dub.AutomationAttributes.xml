@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>15.565102040816326</Start>
+      <Length>1.12015873015873</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>27.764807256235827</Start>
+      <Length>0.83879818594104449</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>38.064897959183675</Start>
+      <Length>0.59988662131519277</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>46.563628117913829</Start>
+      <Length>1.9614285714285771</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>53.484671201814059</Start>
+      <Length>0.5583900226757379</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>68.301904761904765</Start>
+      <Length>0.8800453514739246</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Sly &amp; Robbie - Asian Roots Dub</TrackDescription>
+      <FadeLength>5.6806349206349207</FadeLength>
+      <FadeEnd>39679152</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.8</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>96.3356462585034</Start>
+          <Length>3.9193877551020364</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>Sly &amp; Robbie - Asian Roots Dub - FadeIn</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>101.67619047619047</Start>
+          <Length>2.298390022675747</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>Sly &amp; Robbie - Asian Roots Dub - FadeIn</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Pete Rock - Back On The Block (Instrumental)</TrackDescription>
+      <FadeLength>5.3811337868480722</FadeLength>
+      <FadeEnd>39700520</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.8</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>A Tribe Called Quest - Push It Along (Instrumental)</TrackDescription>
+      <FadeLength>20.356780045351474</FadeLength>
+      <FadeEnd>45237312</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.416</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

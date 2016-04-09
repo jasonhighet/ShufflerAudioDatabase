@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers />
+  <SampleTriggers>
+    <SampleTrigger>
+      <Start>326.58972789115649</Start>
+      <Length>105.94027210884349</Length>
+      <DelayNotes>0.25</DelayNotes>
+      <SampleID>James Brown - Funky Drummer - Sample1</SampleID>
+    </SampleTrigger>
+  </SampleTriggers>
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The J.B.'s - Gimme Some More</TrackDescription>
+      <FadeLength>19.542267573696144</FadeLength>
+      <FadeEnd>152620688</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.512</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>James Brown - Blues &amp; Pants</TrackDescription>
+      <FadeLength>24.544376417233561</FadeLength>
+      <FadeEnd>152644808</FadeEnd>
+      <FadeEndLoop>5</FadeEndLoop>
+      <FadeEndVolume>0.632</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>430.06360544217688</Start>
+          <Length>2.4646258503401555</Length>
+          <DelayNotes>0</DelayNotes>
+          <SampleID>James Brown - Blues &amp; Pants - FadeIn</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Willie Bobo &amp; The Bo Gents - Broasted Or Fried</TrackDescription>
+      <FadeLength>19.283219954648526</FadeLength>
+      <FadeEnd>152659864</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.512</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Jurassic 5 - Great Expectations (Instrumental)</TrackDescription>
+      <FadeLength>15.006938775510204</FadeLength>
+      <FadeEnd>152644248</FadeEnd>
+      <FadeEndLoop>3</FadeEndLoop>
+      <FadeEndVolume>0.464</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Bill Withers - Lovely Day</TrackDescription>
+      <FadeLength>19.861814058956917</FadeLength>
+      <FadeEnd>152672544</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.128</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Lyn Collins - Give It Up Or Turn It Loose</TrackDescription>
+      <FadeLength>18.600816326530612</FadeLength>
+      <FadeEnd>154204192</FadeEnd>
+      <FadeEndLoop>3</FadeEndLoop>
+      <FadeEndVolume>0</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Sharon Jones &amp; The Dap Kings - Pick It Up, Lay It In The Cut</TrackDescription>
+      <FadeLength>34.343604166666665</FadeLength>
+      <FadeEnd>152967872</FadeEnd>
+      <FadeEndLoop>7</FadeEndLoop>
+      <FadeEndVolume>0</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Elis Regina - Menino Das Laranjas</TrackDescription>
+      <FadeLength>20.014852607709752</FadeLength>
+      <FadeEnd>152929880</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Billy Brooks - Forty Days</TrackDescription>
+      <FadeLength>16.2421768707483</FadeLength>
+      <FadeEnd>153511880</FadeEnd>
+      <FadeEndLoop>3</FadeEndLoop>
+      <FadeEndVolume>0.448</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The Beatnuts - Off The Books (Instrumental)</TrackDescription>
+      <FadeLength>18.886870748299319</FadeLength>
+      <FadeEnd>152616856</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.344</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Beastie Boys - Shake Your Rump (Instrumental)</TrackDescription>
+      <FadeLength>18.643356009070295</FadeLength>
+      <FadeEnd>152631264</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.44</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>De La Soul - Breakadawn</TrackDescription>
+      <FadeLength>18.86095238095238</FadeLength>
+      <FadeEnd>153882184</FadeEnd>
+      <FadeEndLoop>3</FadeEndLoop>
+      <FadeEndVolume>0.248</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Tosca - Boss On The Boat</TrackDescription>
+      <FadeLength>13.222426303854876</FadeLength>
+      <FadeEnd>153873488</FadeEnd>
+      <FadeEndLoop>2</FadeEndLoop>
+      <FadeEndVolume>0.056</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples>
+    <TrackSample>
+      <Start>419.582</Start>
+      <Length>0.86908446712018139</Length>
+      <IsLooped>false</IsLooped>
+      <Key>Sample1</Key>
+      <Description>The funky drummer</Description>
+    </TrackSample>
+  </TrackSamples>
+</AutomationAttributes>

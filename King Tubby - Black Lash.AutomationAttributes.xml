@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>21.142607709750568</Start>
+      <Length>3.4406349206349205</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>57.582857142857144</Start>
+      <Length>0.40045351473922608</Length>
+      <DelayNotes>0.0625</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>84.2835827664399</Start>
+      <Length>0.61986394557823132</Length>
+      <DelayNotes>0.0625</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>89.8812925170068</Start>
+      <Length>0.92156462585035115</Length>
+      <DelayNotes>0.0625</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>114.08621315192744</Start>
+      <Length>0.78179138321995367</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>120.10739229024944</Start>
+      <Length>1.6207482993197289</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>126.08795918367348</Start>
+      <Length>1.4600226757369512</Length>
+      <DelayNotes>0.0625</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>132.14816326530612</Start>
+      <Length>0.6999546485260737</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>135.55707482993196</Start>
+      <Length>1.1221541950113476</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers>
+    <SampleTrigger>
+      <Start>48.9075283446712</Start>
+      <Length>3.4027664399093</Length>
+      <DelayNotes>0.0625</DelayNotes>
+      <SampleID>King Tubby - Black Lash - FadeIn</SampleID>
+    </SampleTrigger>
+  </SampleTriggers>
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>King Tubby - The Battle Axe Dub</TrackDescription>
+      <FadeLength>11.262698412698413</FadeLength>
+      <FadeEnd>54067152</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>111.75773242630386</Start>
+          <Length>9.2811111111111018</Length>
+          <DelayNotes>0.0625</DelayNotes>
+          <SampleID>King Tubby - The Battle Axe Dub - FadeIn</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>123.77986394557823</Start>
+          <Length>6.160272108843543</Length>
+          <DelayNotes>0.0625</DelayNotes>
+          <SampleID>King Tubby - The Battle Axe Dub - FadeIn</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Toots &amp; The Maytals - 54</TrackDescription>
+      <FadeLength>6.0804081632653064</FadeLength>
+      <FadeEnd>52195248</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.384</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

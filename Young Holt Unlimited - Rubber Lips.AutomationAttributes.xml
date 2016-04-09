@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers />
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Nightmares On Wax - You Wish</TrackDescription>
+      <FadeLength>22.141088435374151</FadeLength>
+      <FadeEnd>54256048</FadeEnd>
+      <FadeEndLoop>19</FadeEndLoop>
+      <FadeEndVolume>0.656</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Donald Byrd - (Fallin' Like) Dominoes</TrackDescription>
+      <FadeLength>40.330408163265304</FadeLength>
+      <FadeEnd>54531448</FadeEnd>
+      <FadeEndLoop>35</FadeEndLoop>
+      <FadeEndVolume>0</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>James Brown - Funky Drummer</TrackDescription>
+      <FadeLength>33.432902494331067</FadeLength>
+      <FadeEnd>54263728</FadeEnd>
+      <FadeEndLoop>28</FadeEndLoop>
+      <FadeEndVolume>0.32</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The Gaturs - Gator Bait</TrackDescription>
+      <FadeLength>14.062517006802722</FadeLength>
+      <FadeEnd>54533632</FadeEnd>
+      <FadeEndLoop>12</FadeEndLoop>
+      <FadeEndVolume>0</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Gilberto Gil - Roda</TrackDescription>
+      <FadeLength>9.3824263038548761</FadeLength>
+      <FadeEnd>54307216</FadeEnd>
+      <FadeEndLoop>8</FadeEndLoop>
+      <FadeEndVolume>0.704</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Greyboy - Panacea</TrackDescription>
+      <FadeLength>9.0372335600907032</FadeLength>
+      <FadeEnd>54273376</FadeEnd>
+      <FadeEndLoop>8</FadeEndLoop>
+      <FadeEndVolume>0.184</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Barry White - Satin Soul</TrackDescription>
+      <FadeLength>18.183791666666668</FadeLength>
+      <FadeEnd>54291520</FadeEnd>
+      <FadeEndLoop>16</FadeEndLoop>
+      <FadeEndVolume>0.112</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Brentford Allstars - Greedy G</TrackDescription>
+      <FadeLength>22.383990929705217</FadeLength>
+      <FadeEnd>54252088</FadeEnd>
+      <FadeEndLoop>20</FadeEndLoop>
+      <FadeEndVolume>0.152</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Wes Montgomery - Bumpin On Sunset</TrackDescription>
+      <FadeLength>25.680181405895691</FadeLength>
+      <FadeEnd>54229968</FadeEnd>
+      <FadeEndLoop>22</FadeEndLoop>
+      <FadeEndVolume>0.128</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

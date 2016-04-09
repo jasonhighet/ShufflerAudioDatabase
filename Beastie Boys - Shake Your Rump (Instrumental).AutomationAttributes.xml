@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>16.359795918367347</Start>
+      <Length>0.66065759637188393</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>24.017165532879819</Start>
+      <Length>0.45986394557823118</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>29.917233560090704</Start>
+      <Length>0.700181405895691</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>58.129024943310661</Start>
+      <Length>0.52036281179137944</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>74.512834467120186</Start>
+      <Length>1.4203401360544206</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>74.502834467120181</Start>
+      <Length>2.0631655328798217</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers>
+    <SampleTrigger>
+      <Start>7.1706349206349209</Start>
+      <Length>1.9800000000000004</Length>
+      <DelayNotes>0.25</DelayNotes>
+      <SampleID>Beastie Boys - Shake Your Rump - Fade In</SampleID>
+    </SampleTrigger>
+    <SampleTrigger>
+      <Start>2.5444217687074828</Start>
+      <Length>2.0458276643990936</Length>
+      <DelayNotes>0.25</DelayNotes>
+      <SampleID>Beastie Boys - Shake Your Rump - Fade In</SampleID>
+    </SampleTrigger>
+    <SampleTrigger>
+      <Start>27.939319727891156</Start>
+      <Length>2.3601360544217691</Length>
+      <DelayNotes>0.125</DelayNotes>
+      <SampleID>Beastie Boys - Shake Your Rump - Sample1</SampleID>
+    </SampleTrigger>
+    <SampleTrigger>
+      <Start>69.625170068027217</Start>
+      <Length>2.4205442176870662</Length>
+      <DelayNotes>0.125</DelayNotes>
+      <SampleID>Beastie Boys - Shake Your Rump - Sample2</SampleID>
+    </SampleTrigger>
+  </SampleTriggers>
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Beastie Boys - Shake Your Rump</TrackDescription>
+      <FadeLength>0</FadeLength>
+      <FadeEnd>0</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

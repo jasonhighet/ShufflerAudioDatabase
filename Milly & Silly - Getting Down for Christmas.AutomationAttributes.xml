@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers />
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The Ronettes - Sleigh Ride</TrackDescription>
+      <FadeLength>5.113</FadeLength>
+      <FadeEnd>51599816</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>1</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>PowerDown</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The Chambers Brothers - Merry Christmas, Happy New Year</TrackDescription>
+      <FadeLength>9.9781859410430833</FadeLength>
+      <FadeEnd>46380264</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.608</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>111.6524716553288</Start>
+          <Length>2.3197505668934326</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>The Chambers Brothers - Merry Christmas, Happy New Year - FadeIn</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>116.5498866213152</Start>
+          <Length>2.2028798185940985</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>The Chambers Brothers - Merry Christmas, Happy New Year - FadeIn</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

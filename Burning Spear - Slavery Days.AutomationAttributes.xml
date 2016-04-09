@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers />
+  <SampleTriggers />
+  <ExtendedMixes />
+  <TrackSamples>
+    <TrackSample>
+      <Start>16.160912698412698</Start>
+      <Length>3.4665249433106577</Length>
+      <IsLooped>false</IsLooped>
+      <Key>Sample1</Key>
+      <Description>DoYouRemember</Description>
+    </TrackSample>
+    <TrackSample>
+      <Start>134.60375283446712</Start>
+      <Length>6.678503401360544</Length>
+      <IsLooped>false</IsLooped>
+      <Key>Sample2</Key>
+      <Description>SomeOfUsSurvived</Description>
+    </TrackSample>
+  </TrackSamples>
+</AutomationAttributes>

@@ -1,0 +1,1 @@
+StartBPM=95.17;EndBPM=95.17;Duration=373.499;

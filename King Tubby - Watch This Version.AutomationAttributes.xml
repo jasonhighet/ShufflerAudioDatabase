@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>75.4871201814059</Start>
+      <Length>0.58056689342403445</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>103.0684126984127</Start>
+      <Length>2.1823582766439955</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers>
+    <SampleTrigger>
+      <Start>81.727664399092973</Start>
+      <Length>4.7190476190476147</Length>
+      <DelayNotes>0.25</DelayNotes>
+      <SampleID>King Tubby - Watch This Version - Sample1</SampleID>
+    </SampleTrigger>
+  </SampleTriggers>
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>King Tubby - Roots of Dub</TrackDescription>
+      <FadeLength>12.601541950113379</FadeLength>
+      <FadeEnd>37750272</FadeEnd>
+      <FadeEndLoop>2</FadeEndLoop>
+      <FadeEndVolume>0.176</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>94.305578231292515</Start>
+          <Length>0.56251700680272165</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>King Tubby - Roots of Dub - FadeIn</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>97.42573696145125</Start>
+          <Length>0.52179138321994856</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>King Tubby - Roots of Dub - FadeIn</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>100.54591836734694</Start>
+          <Length>0.580680272108836</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>King Tubby - Roots of Dub - FadeIn</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples>
+    <TrackSample>
+      <Start>27.866337868480727</Start>
+      <Length>6.6672817460317457</Length>
+      <IsLooped>false</IsLooped>
+      <Key>Sample1</Key>
+      <Description>ChildrenWatchThisSound</Description>
+    </TrackSample>
+  </TrackSamples>
+</AutomationAttributes>

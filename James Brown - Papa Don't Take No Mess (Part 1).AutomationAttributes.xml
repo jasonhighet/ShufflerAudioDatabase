@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>44.228095238095236</Start>
+      <Length>0.8000453514739263</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>70.840317460317465</Start>
+      <Length>0.69999999999998863</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>10.273492063492064</Start>
+      <Length>1.1803401360544203</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>17.607006802721088</Start>
+      <Length>1.0565986394557818</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers>
+    <SampleTrigger>
+      <Start>132.35891156462586</Start>
+      <Length>0.70113378684806094</Length>
+      <DelayNotes>0.25</DelayNotes>
+      <SampleID>Snoop Dogg - Vapors (Instrumental) - Sample1</SampleID>
+    </SampleTrigger>
+  </SampleTriggers>
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The J.B.'s - Givin' Up Food for Funk Parts 1 &amp; 2</TrackDescription>
+      <FadeLength>45.240725623582769</FadeLength>
+      <FadeEnd>64426768</FadeEnd>
+      <FadeEndLoop>9</FadeEndLoop>
+      <FadeEndVolume>0.216</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>177.41936507936509</Start>
+          <Length>0.6151700680271972</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>The J.B.'s - Givin' Up Food for Funk Parts 1 &amp; 2 - FadeIn</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>177.42893424036282</Start>
+          <Length>1.7053287981859455</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>The J.B.'s - Givin' Up Food for Funk Parts 1 &amp; 2 - FadeIn</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Jurassic 5 - Freedom (Instrumental)</TrackDescription>
+      <FadeLength>21.037619047619046</FadeLength>
+      <FadeEnd>64378312</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.16</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Jurassic 5 - Break (Instrumental)</TrackDescription>
+      <FadeLength>24.202380952380953</FadeLength>
+      <FadeEnd>66085936</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.384</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>A Tribe Called Quest - Jam</TrackDescription>
+      <FadeLength>23.982448979591837</FadeLength>
+      <FadeEnd>65618736</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.056</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Greyboy - Lite Bake</TrackDescription>
+      <FadeLength>10.361655328798186</FadeLength>
+      <FadeEnd>64349728</FadeEnd>
+      <FadeEndLoop>2</FadeEndLoop>
+      <FadeEndVolume>0.6</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

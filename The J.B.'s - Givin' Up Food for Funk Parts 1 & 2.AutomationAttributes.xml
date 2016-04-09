@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>95.194787414965987</Start>
+      <Length>0.63296768707483</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>40.204965986394555</Start>
+      <Length>0.560204081632655</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>45.125260770975054</Start>
+      <Length>0.49970521541950319</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>52.625464852607706</Start>
+      <Length>0.47988662131519533</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>62.345056689342407</Start>
+      <Length>0.81993197278911367</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>A Tribe Called Quest - Award Tour (Instrumental)</TrackDescription>
+      <FadeLength>29.931609977324264</FadeLength>
+      <FadeEnd>33885624</FadeEnd>
+      <FadeEndLoop>6</FadeEndLoop>
+      <FadeEndVolume>0.264</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>83.262494331065753</Start>
+          <Length>2.033310657596374</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>A Tribe Called Quest - Award Tour (Instrumental) Fade In</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>78.2681179138322</Start>
+          <Length>1.4582766439909278</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>A Tribe Called Quest - Award Tour (Instrumental) Fade In</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>87.690748299319722</Start>
+          <Length>1.5195691609977331</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>A Tribe Called Quest - Award Tour (Instrumental) Fade In</SampleID>
+        </SampleTrigger>
+        <SampleTrigger>
+          <Start>93.389569160997738</Start>
+          <Length>1.8805215419501025</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>A Tribe Called Quest - Award Tour (Instrumental) Fade In</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>James Brown - The Payback</TrackDescription>
+      <FadeLength>20.485396825396826</FadeLength>
+      <FadeEnd>33857616</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.584</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>A Tribe Called Quest - Oh My God</TrackDescription>
+      <FadeLength>20.421201814058957</FadeLength>
+      <FadeEnd>33868952</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.48</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Mos Def - Mr. Universe</TrackDescription>
+      <FadeLength>17.485827664399093</FadeLength>
+      <FadeEnd>34592072</FadeEnd>
+      <FadeEndLoop>3</FadeEndLoop>
+      <FadeEndVolume>0.552</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Gang Starr - Full Clip (Instrumental) (RB Edit)</TrackDescription>
+      <FadeLength>18.622154195011337</FadeLength>
+      <FadeEnd>35070888</FadeEnd>
+      <FadeEndLoop>3</FadeEndLoop>
+      <FadeEndVolume>0.248</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>
