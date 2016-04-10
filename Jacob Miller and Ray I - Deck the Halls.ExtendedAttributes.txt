@@ -1,1 +1,1 @@
-StartBPM=68.405;Duration=365.767;FadeOutLengthInSeconds=0.000;
+﻿StartBPM=68.405;Duration=365.767;FadeOutLengthInSeconds=0.000;

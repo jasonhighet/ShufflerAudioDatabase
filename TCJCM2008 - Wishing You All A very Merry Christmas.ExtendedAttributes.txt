@@ -1,1 +1,1 @@
-StartBPM=100;EndBPM=100;Duration=128.451;
+﻿StartBPM=100;EndBPM=100;Duration=128.451;
