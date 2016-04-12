@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <TrackFXTriggers>
     <TrackFXTrigger>
@@ -33,7 +33,7 @@
           <Start>138.47621315192743</Start>
           <Length>4.1403854875283628</Length>
           <DelayNotes>0.0625</DelayNotes>
-          <SampleID>Young MC - Know How (Instrumental) - Fade In</SampleID>
+          <SampleID>Young MC - Know How (Instrumental) - Fade In</SampleID>         
         </SampleTrigger>
       </SampleTriggers>
     </ExtendedMixAttributes>
@@ -83,6 +83,16 @@
       <FadeEnd>52607616</FadeEnd>
       <FadeEndLoop>2</FadeEndLoop>
       <FadeEndVolume>0.32</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Jackie Mittoo And The Soul Brothers - James Bond Theme</TrackDescription>
+      <FadeLength>11.986145124716554</FadeLength>
+      <FadeEnd>51777792</FadeEnd>
+      <FadeEndLoop>3</FadeEndLoop>
+      <FadeEndVolume>0.088</FadeEndVolume>
       <PowerDownOnEnd>false</PowerDownOnEnd>
       <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
