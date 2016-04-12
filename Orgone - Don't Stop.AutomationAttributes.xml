@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers />
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Manzel - Space Funk</TrackDescription>
+      <FadeLength>12.423854166666667</FadeLength>
+      <FadeEnd>68321568</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.2</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

@@ -23,6 +23,16 @@
       <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>James Brown - Hot Pants (Part 1)</TrackDescription>
+      <FadeLength>19.670589569161</FadeLength>
+      <FadeEnd>59634320</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.48</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
   </ExtendedMixes>
   <TrackSamples />
 </AutomationAttributes>

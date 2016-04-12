@@ -10,6 +10,7 @@
       <FadeEndLoop>1</FadeEndLoop>
       <FadeEndVolume>0.2</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -19,6 +20,7 @@
       <FadeEndLoop>3</FadeEndLoop>
       <FadeEndVolume>0.2</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -28,6 +30,7 @@
       <FadeEndLoop>3</FadeEndLoop>
       <FadeEndVolume>0.512</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -37,6 +40,17 @@
       <FadeEndLoop>4</FadeEndLoop>
       <FadeEndVolume>0.104</FadeEndVolume>
       <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>A Tribe Called Quest - Award Tour (Instrumental)</TrackDescription>
+      <FadeLength>19.862018140589569</FadeLength>
+      <FadeEnd>33710368</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.192</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
   </ExtendedMixes>
