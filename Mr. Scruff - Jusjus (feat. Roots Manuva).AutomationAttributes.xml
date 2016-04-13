@@ -21,7 +21,19 @@
       <FadeEndLoop>0</FadeEndLoop>
       <FadeEndVolume>0.75</FadeEndVolume>
       <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Byron Lee - Hot Reggae</TrackDescription>
+      <FadeLength>14.020748299319727</FadeLength>
+      <FadeEnd>86553328</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.264</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
   </ExtendedMixes>
+  <TrackSamples />
 </AutomationAttributes>
