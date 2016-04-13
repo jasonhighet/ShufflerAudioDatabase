@@ -53,6 +53,16 @@
       <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>People Under The Stairs - Acid Raindrops</TrackDescription>
+      <FadeLength>13.26061224489796</FadeLength>
+      <FadeEnd>55726096</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.072</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
   </ExtendedMixes>
   <TrackSamples />
 </AutomationAttributes>

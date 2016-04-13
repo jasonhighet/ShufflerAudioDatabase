@@ -10,6 +10,7 @@
       <FadeEndLoop>0</FadeEndLoop>
       <FadeEndVolume>0</FadeEndVolume>
       <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -19,6 +20,17 @@
       <FadeEndLoop>0</FadeEndLoop>
       <FadeEndVolume>0.096</FadeEndVolume>
       <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Jorge Ben - Força Bruta</TrackDescription>
+      <FadeLength>14.332063492063492</FadeLength>
+      <FadeEnd>56011280</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.248</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
   </ExtendedMixes>
