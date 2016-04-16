@@ -74,16 +74,6 @@
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
-      <TrackDescription>The J.B.'s - (It's Not the Express) It's the J.B.'s Monaurail</TrackDescription>
-      <FadeLength>12.154489795918368</FadeLength>
-      <FadeEnd>70745960</FadeEnd>
-      <FadeEndLoop>0</FadeEndLoop>
-      <FadeEndVolume>0.248</FadeEndVolume>
-      <PowerDownOnEnd>false</PowerDownOnEnd>
-      <ExtendedFadeType>Default</ExtendedFadeType>
-      <SampleTriggers />
-    </ExtendedMixAttributes>
-    <ExtendedMixAttributes>
       <TrackDescription>Nightmares On Wax - Ethnic Majority</TrackDescription>
       <FadeLength>16.044648526077097</FadeLength>
       <FadeEnd>71838488</FadeEnd>
@@ -110,6 +100,16 @@
       <FadeEndLoop>0</FadeEndLoop>
       <FadeEndVolume>0.04</FadeEndVolume>
       <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The J.B.'s - (It's Not the Express) It's the J.B.'s Monaurail</TrackDescription>
+      <FadeLength>10.524943310657596</FadeLength>
+      <FadeEnd>66470216</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.1736709</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
       <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
