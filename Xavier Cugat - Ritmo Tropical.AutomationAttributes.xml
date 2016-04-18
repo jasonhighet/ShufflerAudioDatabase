@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers />
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Tito Puente - Fiesta Con Puente</TrackDescription>
+      <FadeLength>7.3651247165532876</FadeLength>
+      <FadeEnd>53990712</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.68</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

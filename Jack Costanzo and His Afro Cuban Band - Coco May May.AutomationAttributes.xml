@@ -13,6 +13,16 @@
       <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Perez Prado - Cose, Cose, Cose</TrackDescription>
+      <FadeLength>7.8811791383219951</FadeLength>
+      <FadeEnd>43865192</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.104</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
   </ExtendedMixes>
   <TrackSamples />
 </AutomationAttributes>

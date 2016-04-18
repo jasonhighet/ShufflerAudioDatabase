@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers />
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Jack Costanzo and His Afro Cuban Band - Goza Negra</TrackDescription>
+      <FadeLength>8.2643083900226753</FadeLength>
+      <FadeEnd>55858272</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.08</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

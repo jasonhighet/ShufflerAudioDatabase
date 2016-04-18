@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers />
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Xavier Cugat - La Mucura</TrackDescription>
+      <FadeLength>7.1428571428571432</FadeLength>
+      <FadeEnd>56633528</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.2</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>
