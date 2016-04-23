@@ -10,6 +10,7 @@
       <FadeEndLoop>2</FadeEndLoop>
       <FadeEndVolume>0.584</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -19,6 +20,7 @@
       <FadeEndLoop>4</FadeEndLoop>
       <FadeEndVolume>0.472</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -28,6 +30,7 @@
       <FadeEndLoop>4</FadeEndLoop>
       <FadeEndVolume>0.2</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -37,6 +40,7 @@
       <FadeEndLoop>4</FadeEndLoop>
       <FadeEndVolume>0.224</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -46,6 +50,7 @@
       <FadeEndLoop>4</FadeEndLoop>
       <FadeEndVolume>0.584</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -55,6 +60,7 @@
       <FadeEndLoop>4</FadeEndLoop>
       <FadeEndVolume>0.528</FadeEndVolume>
       <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -64,6 +70,7 @@
       <FadeEndLoop>4</FadeEndLoop>
       <FadeEndVolume>0.704</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -73,6 +80,7 @@
       <FadeEndLoop>4</FadeEndLoop>
       <FadeEndVolume>0.088</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -82,6 +90,17 @@
       <FadeEndLoop>5</FadeEndLoop>
       <FadeEndVolume>0.048</FadeEndVolume>
       <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>James Brown - Soul Power</TrackDescription>
+      <FadeLength>18.265056689342405</FadeLength>
+      <FadeEnd>35785088</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.488</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
   </ExtendedMixes>

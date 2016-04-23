@@ -10,6 +10,7 @@
       <FadeEndLoop>2</FadeEndLoop>
       <FadeEndVolume>0.296</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -19,6 +20,7 @@
       <FadeEndLoop>2</FadeEndLoop>
       <FadeEndVolume>0.344</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -28,6 +30,7 @@
       <FadeEndLoop>2</FadeEndLoop>
       <FadeEndVolume>0.296</FadeEndVolume>
       <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -37,6 +40,17 @@
       <FadeEndLoop>2</FadeEndLoop>
       <FadeEndVolume>0.248</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>James Brown - Papa Don't Take No Mess (Part 1)</TrackDescription>
+      <FadeLength>19.982380952380954</FadeLength>
+      <FadeEnd>58563752</FadeEnd>
+      <FadeEndLoop>2</FadeEndLoop>
+      <FadeEndVolume>0.008</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
   </ExtendedMixes>

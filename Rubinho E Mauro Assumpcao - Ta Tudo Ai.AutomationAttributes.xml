@@ -23,6 +23,16 @@
       <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Katchafire - Bounce</TrackDescription>
+      <FadeLength>18.801564625850339</FadeLength>
+      <FadeEnd>44224048</FadeEnd>
+      <FadeEndLoop>2</FadeEndLoop>
+      <FadeEndVolume>0</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
   </ExtendedMixes>
   <TrackSamples />
 </AutomationAttributes>

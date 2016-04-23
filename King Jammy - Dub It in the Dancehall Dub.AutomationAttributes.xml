@@ -41,6 +41,7 @@
       <FadeEndLoop>0</FadeEndLoop>
       <FadeEndVolume>0.8</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers>
         <SampleTrigger>
           <Start>96.3356462585034</Start>
@@ -63,6 +64,7 @@
       <FadeEndLoop>0</FadeEndLoop>
       <FadeEndVolume>0.8</FadeEndVolume>
       <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -72,6 +74,17 @@
       <FadeEndLoop>0</FadeEndLoop>
       <FadeEndVolume>0.416</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Horace Andy - Nice And Easy Dub</TrackDescription>
+      <FadeLength>10.834852607709751</FadeLength>
+      <FadeEnd>41446304</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
   </ExtendedMixes>

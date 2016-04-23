@@ -94,6 +94,16 @@
       <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Gang Starr - Full Clip (Instrumental) (RB Edit)</TrackDescription>
+      <FadeLength>20.280816326530612</FadeLength>
+      <FadeEnd>54557824</FadeEnd>
+      <FadeEndLoop>2</FadeEndLoop>
+      <FadeEndVolume>0.128</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
   </ExtendedMixes>
   <TrackSamples />
 </AutomationAttributes>

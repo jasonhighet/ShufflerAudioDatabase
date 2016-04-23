@@ -94,6 +94,16 @@
       <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Del The Funky Homosapien - Thank Youse</TrackDescription>
+      <FadeLength>19.743718820861677</FadeLength>
+      <FadeEnd>66090528</FadeEnd>
+      <FadeEndLoop>3</FadeEndLoop>
+      <FadeEndVolume>0.208</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
   </ExtendedMixes>
   <TrackSamples />
 </AutomationAttributes>

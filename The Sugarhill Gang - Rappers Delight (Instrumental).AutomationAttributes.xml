@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>68.403038548752832</Start>
+      <Length>0.48056689342404013</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>85.363628117913834</Start>
+      <Length>0.50061224489795109</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>102.3431746031746</Start>
+      <Length>0.58131519274375876</Length>
+      <DelayNotes>0.125</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>161.34106575963719</Start>
+      <Length>1.1655782312925282</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>James Brown - Get On The Good Foot</TrackDescription>
+      <FadeLength>0</FadeLength>
+      <FadeEnd>0</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers>
+        <SampleTrigger>
+          <Start>150.9637641723356</Start>
+          <Length>2.0210430839002242</Length>
+          <DelayNotes>0.25</DelayNotes>
+          <SampleID>James Brown - Get On The Good Foot - FadeOut</SampleID>
+        </SampleTrigger>
+      </SampleTriggers>
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>

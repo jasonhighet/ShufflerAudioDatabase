@@ -43,6 +43,16 @@
       <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Tosca - Chocolate Elvis</TrackDescription>
+      <FadeLength>19.5462358276644</FadeLength>
+      <FadeEnd>73442472</FadeEnd>
+      <FadeEndLoop>3</FadeEndLoop>
+      <FadeEndVolume>0.152</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
   </ExtendedMixes>
   <TrackSamples />
 </AutomationAttributes>

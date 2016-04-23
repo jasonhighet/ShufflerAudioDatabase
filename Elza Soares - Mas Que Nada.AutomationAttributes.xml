@@ -13,6 +13,16 @@
       <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Copa 7 - Copa 7 No Samba</TrackDescription>
+      <FadeLength>16.825791666666667</FadeLength>
+      <FadeEnd>44572144</FadeEnd>
+      <FadeEndLoop>3</FadeEndLoop>
+      <FadeEndVolume>0.136</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
   </ExtendedMixes>
   <TrackSamples />
 </AutomationAttributes>

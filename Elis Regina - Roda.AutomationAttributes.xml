@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <TrackFXTriggers>
     <TrackFXTrigger>
@@ -33,7 +33,7 @@
           <Start>138.47621315192743</Start>
           <Length>4.1403854875283628</Length>
           <DelayNotes>0.0625</DelayNotes>
-          <SampleID>Young MC - Know How (Instrumental) - Fade In</SampleID>         
+          <SampleID>Young MC - Know How (Instrumental) - Fade In</SampleID>
         </SampleTrigger>
       </SampleTriggers>
     </ExtendedMixAttributes>
@@ -94,6 +94,16 @@
       <FadeEndLoop>3</FadeEndLoop>
       <FadeEndVolume>0.088</FadeEndVolume>
       <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Monie Love - Monie In The Middle</TrackDescription>
+      <FadeLength>16.745827664399094</FadeLength>
+      <FadeEnd>51691696</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.416</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
       <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
