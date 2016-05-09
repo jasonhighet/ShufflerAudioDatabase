@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackFXTriggers />
+  <SampleTriggers />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The 3 Sounds - Put on Train</TrackDescription>
+      <FadeLength>11.162426303854875</FadeLength>
+      <FadeEnd>50835536</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.032</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
+  <TrackSamples />
+</AutomationAttributes>
