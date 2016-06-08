@@ -10,6 +10,17 @@
       <FadeEndLoop>4</FadeEndLoop>
       <FadeEndVolume>0.416</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Otis Redding - (Sittin' On) The Dock Of The Bay</TrackDescription>
+      <FadeLength>14.943083900226757</FadeLength>
+      <FadeEnd>33338240</FadeEnd>
+      <FadeEndLoop>3</FadeEndLoop>
+      <FadeEndVolume>0.056</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
   </ExtendedMixes>
