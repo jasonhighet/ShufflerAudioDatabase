@@ -45,11 +45,11 @@
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
       <TrackDescription>Nightmares On Wax - Brothers On The Slide Dub</TrackDescription>
-      <FadeLength>17.868911564625851</FadeLength>
-      <FadeEnd>72438064</FadeEnd>
+      <FadeLength>8.9025170068027215</FadeLength>
+      <FadeEnd>69337344</FadeEnd>
       <FadeEndLoop>0</FadeEndLoop>
-      <FadeEndVolume>0.176</FadeEndVolume>
-      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <FadeEndVolume>0.104</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
       <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
