@@ -41,6 +41,16 @@
         </SampleTrigger>
       </SampleTriggers>
     </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>El Michels Affair - Uzi (Pinky Ring)</TrackDescription>
+      <FadeLength>13.104784580498865</FadeLength>
+      <FadeEnd>60163680</FadeEnd>
+      <FadeEndLoop>1</FadeEndLoop>
+      <FadeEndVolume>0.44</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
   </ExtendedMixes>
   <TrackSamples />
 </AutomationAttributes>
