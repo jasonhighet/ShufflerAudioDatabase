@@ -15,16 +15,6 @@
   <SampleTriggers />
   <ExtendedMixes>
     <ExtendedMixAttributes>
-      <TrackDescription>Beastie Boys - Shake Your Rump (Instrumental)</TrackDescription>
-      <FadeLength>18.64201814058957</FadeLength>
-      <FadeEnd>35803312</FadeEnd>
-      <FadeEndLoop>2</FadeEndLoop>
-      <FadeEndVolume>0.536</FadeEndVolume>
-      <PowerDownOnEnd>true</PowerDownOnEnd>
-      <ExtendedFadeType>Default</ExtendedFadeType>
-      <SampleTriggers />
-    </ExtendedMixAttributes>
-    <ExtendedMixAttributes>
       <TrackDescription>Tim Maia - No Caminho Do Bem</TrackDescription>
       <FadeLength>9.0168253968253964</FadeLength>
       <FadeEnd>35800880</FadeEnd>
@@ -80,6 +70,16 @@
       <FadeEnd>35803656</FadeEnd>
       <FadeEndLoop>1</FadeEndLoop>
       <FadeEndVolume>0.392</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Beastie Boys - Shake Your Rump (Instrumental)</TrackDescription>
+      <FadeLength>18.60424036281179</FadeLength>
+      <FadeEnd>35791360</FadeEnd>
+      <FadeEndLoop>2</FadeEndLoop>
+      <FadeEndVolume>0.504</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
       <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
