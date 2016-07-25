@@ -34,16 +34,6 @@
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
-      <TrackDescription>The Marvels - Rock Steady</TrackDescription>
-      <FadeLength>19.493628117913833</FadeLength>
-      <FadeEnd>80828304</FadeEnd>
-      <FadeEndLoop>4</FadeEndLoop>
-      <FadeEndVolume>0.576</FadeEndVolume>
-      <PowerDownOnEnd>true</PowerDownOnEnd>
-      <ExtendedFadeType>Default</ExtendedFadeType>
-      <SampleTriggers />
-    </ExtendedMixAttributes>
-    <ExtendedMixAttributes>
       <TrackDescription>A Tribe Called Quest - Electric Relaxation (Instrumental)</TrackDescription>
       <FadeLength>19.201292517006802</FadeLength>
       <FadeEnd>80826616</FadeEnd>
@@ -79,6 +69,16 @@
       <FadeEnd>80799504</FadeEnd>
       <FadeEndLoop>2</FadeEndLoop>
       <FadeEndVolume>0.464</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The Marvels - Rock Steady</TrackDescription>
+      <FadeLength>24.266961451247166</FadeLength>
+      <FadeEnd>80805736</FadeEnd>
+      <FadeEndLoop>5</FadeEndLoop>
+      <FadeEndVolume>0.44</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
       <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
