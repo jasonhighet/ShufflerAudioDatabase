@@ -10,6 +10,7 @@
       <FadeEndLoop>8</FadeEndLoop>
       <FadeEndVolume>0.256</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -19,6 +20,7 @@
       <FadeEndLoop>7</FadeEndLoop>
       <FadeEndVolume>0.04</FadeEndVolume>
       <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -28,6 +30,17 @@
       <FadeEndLoop>8</FadeEndLoop>
       <FadeEndVolume>0.752</FadeEndVolume>
       <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>James Brown - Talkin' Loud And Sayin' Nothing</TrackDescription>
+      <FadeLength>49.267256235827666</FadeLength>
+      <FadeEnd>63459088</FadeEnd>
+      <FadeEndLoop>20</FadeEndLoop>
+      <FadeEndVolume>0.064</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
   </ExtendedMixes>

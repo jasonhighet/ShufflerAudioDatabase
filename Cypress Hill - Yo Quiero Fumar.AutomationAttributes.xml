@@ -1,6 +1,17 @@
 <?xml version="1.0"?>
 <AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <TrackFXTriggers />
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>116.61800453514739</Start>
+      <Length>0.64072562358276741</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>122.65791383219954</Start>
+      <Length>2.3578458049886706</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
   <SampleTriggers />
   <ExtendedMixes>
     <ExtendedMixAttributes>
@@ -29,6 +40,16 @@
       <FadeEnd>48710424</FadeEnd>
       <FadeEndLoop>0</FadeEndLoop>
       <FadeEndVolume>0.552</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Jeru The Damaja - Me Or The Papes (Instrumental)</TrackDescription>
+      <FadeLength>22.781201814058956</FadeLength>
+      <FadeEnd>52856424</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.608</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
       <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
