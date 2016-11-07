@@ -93,6 +93,16 @@
       <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>A Tribe Called Quest - Electric Relaxation (Instrumental)</TrackDescription>
+      <FadeLength>19.228321995464853</FadeLength>
+      <FadeEnd>48442192</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.4</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
   </ExtendedMixes>
   <TrackSamples />
 </AutomationAttributes>
