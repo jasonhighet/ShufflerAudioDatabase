@@ -10,6 +10,7 @@
       <FadeEndLoop>0</FadeEndLoop>
       <FadeEndVolume>0.2</FadeEndVolume>
       <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -19,6 +20,7 @@
       <FadeEndLoop>0</FadeEndLoop>
       <FadeEndVolume>0.056</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -28,6 +30,17 @@
       <FadeEndLoop>0</FadeEndLoop>
       <FadeEndVolume>0.056</FadeEndVolume>
       <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Fela Soul - Trouble In The Water (Instrumental)</TrackDescription>
+      <FadeLength>21.845895691609979</FadeLength>
+      <FadeEnd>70166296</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.224</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
   </ExtendedMixes>
