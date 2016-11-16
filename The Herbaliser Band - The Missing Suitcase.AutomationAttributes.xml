@@ -10,7 +10,19 @@
       <FadeEndLoop>0</FadeEndLoop>
       <FadeEndVolume>0</FadeEndVolume>
       <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The Bamboos - Like Tears In Rain</TrackDescription>
+      <FadeLength>12.89</FadeLength>
+      <FadeEnd>72957624</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>1</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>PowerDown</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
   </ExtendedMixes>
+  <TrackSamples />
 </AutomationAttributes>
