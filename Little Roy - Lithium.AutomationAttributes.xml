@@ -43,6 +43,16 @@
       <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Michael Vinner's Incredible Bongo Band - Apache</TrackDescription>
+      <FadeLength>17.464625850340138</FadeLength>
+      <FadeEnd>57572352</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.296</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
   </ExtendedMixes>
   <TrackSamples />
 </AutomationAttributes>
