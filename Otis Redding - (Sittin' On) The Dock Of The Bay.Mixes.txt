@@ -15,7 +15,7 @@ Sola Rosa - Del Ray, 0
 Spanky Wilson - Kissing My Love, 0
 The New Mastersounds - 102 Per Cent, 0
 The Specials - A Message To You Rudy, 0
-Tim Armstrong - Wake Up, 0
+Tim Armstrong - Wake Up, 2
 Tony Alvon & The Belairs - Sexy Coffee Pot, 0
 Al Green - Let's Stay Together, 2
 Aretha Franklin - Think, 2
@@ -44,7 +44,7 @@ RJD2 - All For U, 3
 Sharon Jones & The Dap Kings - How Long Do I Have To Wait For You, 3
 Sharon Jones & The Dap Kings - How Long Do I Have To Wait For You?, 3
 Speedometer - Accra International Airport, 3
-The Bamboos - The Ghost, 3
+The Bamboos - The Ghost, 4
 The Beatnuts - Off The Books (Instrumental), 3
 The Budos Band - Up From The South, 3
 The Dap Kings - Nervous Like Me, 3
@@ -65,7 +65,7 @@ Bomb The Bass - Bug Powder Dust (K&D Session), 0
 Hopeton Lewis - Take it Easy, 3
 Banda Black Rio - Mr. Funky Samba, 2
 Joao Gilberto - O Sapo, 2
-Eddie Bo - Check Your Bucket, 4
+Eddie Bo - Check Your Bucket, 3
 Taggy Matcher - Root Down, 4
 Eddie Bo - Check Your Bucket (Parts 1 & 2), 4
 Stan Getz & Laurindo Almeida - Menina Moca, 2
@@ -107,3 +107,6 @@ A Tribe Called Quest - Electric Relaxation (Instrumental), 4
 Jorge Ben - Pulo Pulo, 3
 Rubinho E Mauro Assumpcao - Ta Tudo Ai, 2
 John Cameron - Swamp Fever, 2
+Otis Redding - (Sittin' On) The Dock Of The Bay, 0
+Monty Alexander - Inner City Blues, 2
+Quannum Projects - I Changed My Mind (Instrumental), 3

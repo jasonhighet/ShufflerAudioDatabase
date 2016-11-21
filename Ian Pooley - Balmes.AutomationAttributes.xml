@@ -10,6 +10,7 @@
       <FadeEndLoop>0</FadeEndLoop>
       <FadeEndVolume>0.176</FadeEndVolume>
       <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
   </ExtendedMixes>
