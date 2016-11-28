@@ -26,6 +26,7 @@
       <FadeEndLoop>0</FadeEndLoop>
       <FadeEndVolume>0.208</FadeEndVolume>
       <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers>
         <SampleTrigger>
           <Start>121.92780045351474</Start>
@@ -36,21 +37,23 @@
       </SampleTriggers>
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
-      <TrackDescription>The 3 Sounds - Sittin' Duck</TrackDescription>
-      <FadeLength>12.644149659863945</FadeLength>
-      <FadeEnd>49566824</FadeEnd>
-      <FadeEndLoop>0</FadeEndLoop>
-      <FadeEndVolume>0.44</FadeEndVolume>
-      <PowerDownOnEnd>true</PowerDownOnEnd>
-      <SampleTriggers />
-    </ExtendedMixAttributes>
-    <ExtendedMixAttributes>
       <TrackDescription>Marcia Aitken - I'm Still In Love</TrackDescription>
       <FadeLength>12.682517006802721</FadeLength>
       <FadeEnd>49756664</FadeEnd>
       <FadeEndLoop>0</FadeEndLoop>
       <FadeEndVolume>0.264</FadeEndVolume>
       <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>The 3 Sounds - Sittin' Duck</TrackDescription>
+      <FadeLength>6.191</FadeLength>
+      <FadeEnd>47366920</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>1</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>PowerDown</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
   </ExtendedMixes>
