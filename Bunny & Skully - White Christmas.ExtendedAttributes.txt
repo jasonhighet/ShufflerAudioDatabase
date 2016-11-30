@@ -1,0 +1,1 @@
+﻿StartBPM=135.52;EndBPM=135.52;Duration=190;Rank=2;Key=;
