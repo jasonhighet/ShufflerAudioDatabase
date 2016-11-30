@@ -1,1 +1,1 @@
-﻿StartBPM=121.0287443267775;EndBPM=121.76;Duration=151;FadeIn=3.387;FadeInLengthInSeconds=3.966;PreFadeInStartVolume=100;PreFadeInPosition=2.661;Rank=3;Key=G;
+﻿StartBPM=121.0287443267775;EndBPM=122.51;Duration=151;FadeIn=3.387;FadeInLengthInSeconds=3.966;PreFadeInStartVolume=100;PreFadeInPosition=2.661;Rank=3;Key=;

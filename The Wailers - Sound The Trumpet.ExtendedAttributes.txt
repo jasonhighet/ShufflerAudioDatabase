@@ -1,1 +1,0 @@
-﻿StartBPM=124.87;EndBPM=124.87;Duration=157.571;FadeOut=147.56;FadeOutStartVolume=100;FadeOutEndVolume=100;ChangeTempoToMatchNextTrack=False;
