@@ -11146,4 +11146,40 @@
     </Tags>
     <Gain>1</Gain>
   </Sample>
+  <Sample>
+    <Start>1.333</Start>
+    <Length>5.081995464852608</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key>Cm</Key>
+    <TrackArtist>The Beatnuts</TrackArtist>
+    <TrackTitle>Get Funky (Instrumental)</TrackTitle>
+    <TrackLength>204.016</TrackLength>
+    <Description>MainLoop</Description>
+    <Bpm>94.451087829517</Bpm>
+    <Tags>
+      <string>hip-hop</string>
+    </Tags>
+    <Gain>1.32386565</Gain>
+  </Sample>
+  <Sample>
+    <Start>89.904</Start>
+    <Length>2.541</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Cm</Key>
+    <TrackArtist>The Beatnuts</TrackArtist>
+    <TrackTitle>Get Funky (Instrumental)</TrackTitle>
+    <TrackLength>204.016</TrackLength>
+    <Description>DrumLoop</Description>
+    <Bpm>94.45100354191275</Bpm>
+    <Tags>
+      <string>hip-hop</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
 </ArrayOfSample>
