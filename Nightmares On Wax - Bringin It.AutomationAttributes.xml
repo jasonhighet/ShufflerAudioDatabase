@@ -21,6 +21,7 @@
       <FadeEndLoop>0</FadeEndLoop>
       <FadeEndVolume>0.344</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -30,6 +31,7 @@
       <FadeEndLoop>0</FadeEndLoop>
       <FadeEndVolume>0.176</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -39,6 +41,7 @@
       <FadeEndLoop>0</FadeEndLoop>
       <FadeEndVolume>0.632</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -48,6 +51,7 @@
       <FadeEndLoop>0</FadeEndLoop>
       <FadeEndVolume>0.32</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -57,6 +61,7 @@
       <FadeEndLoop>0</FadeEndLoop>
       <FadeEndVolume>0.56</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -66,6 +71,7 @@
       <FadeEndLoop>0</FadeEndLoop>
       <FadeEndVolume>0.416</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
   </ExtendedMixes>
