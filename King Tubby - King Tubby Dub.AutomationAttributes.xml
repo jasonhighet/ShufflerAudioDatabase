@@ -46,6 +46,7 @@
       <FadeEndLoop>2</FadeEndLoop>
       <FadeEndVolume>0</FadeEndVolume>
       <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers>
         <SampleTrigger>
           <Start>16.715918367346937</Start>
@@ -66,6 +67,26 @@
           <SampleID>King Tubby - Rock With I Dub - FadeIn</SampleID>
         </SampleTrigger>
       </SampleTriggers>
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Beastie Boys - Shadrach (Instrumental)</TrackDescription>
+      <FadeLength>19.003469387755104</FadeLength>
+      <FadeEnd>51724336</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.536</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Jurassic 5 - Improvise (Instrumental)</TrackDescription>
+      <FadeLength>18.641292517006804</FadeLength>
+      <FadeEnd>51729400</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.168</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
     </ExtendedMixAttributes>
   </ExtendedMixes>
   <TrackSamples />
