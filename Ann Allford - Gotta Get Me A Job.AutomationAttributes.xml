@@ -10,6 +10,7 @@
       <FadeEndLoop>8</FadeEndLoop>
       <FadeEndVolume>0.224</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -19,6 +20,7 @@
       <FadeEndLoop>3</FadeEndLoop>
       <FadeEndVolume>0.8</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -28,6 +30,7 @@
       <FadeEndLoop>8</FadeEndLoop>
       <FadeEndVolume>0.488</FadeEndVolume>
       <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -37,6 +40,7 @@
       <FadeEndLoop>5</FadeEndLoop>
       <FadeEndVolume>0.2</FadeEndVolume>
       <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
     <ExtendedMixAttributes>
@@ -46,6 +50,17 @@
       <FadeEndLoop>7</FadeEndLoop>
       <FadeEndVolume>0.008</FadeEndVolume>
       <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+    <ExtendedMixAttributes>
+      <TrackDescription>Gang Starr - You Know My Steez (Instrumental)</TrackDescription>
+      <FadeLength>12.342517006802721</FadeLength>
+      <FadeEnd>32621456</FadeEnd>
+      <FadeEndLoop>4</FadeEndLoop>
+      <FadeEndVolume>0.3429114</FadeEndVolume>
+      <PowerDownOnEnd>true</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
       <SampleTriggers />
     </ExtendedMixAttributes>
   </ExtendedMixes>

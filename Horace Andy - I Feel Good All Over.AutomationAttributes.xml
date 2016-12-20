@@ -1,6 +1,27 @@
 <?xml version="1.0"?>
 <AutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <TrackFXTriggers />
+  <TrackFXTriggers>
+    <TrackFXTrigger>
+      <Start>51.762539682539682</Start>
+      <Length>1.3993650793650829</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>84.922040816326529</Start>
+      <Length>1.2997278911564649</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>139.96231292517007</Start>
+      <Length>1.4200907029478458</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+    <TrackFXTrigger>
+      <Start>144.04210884353742</Start>
+      <Length>0.96092970521542043</Length>
+      <DelayNotes>0.25</DelayNotes>
+    </TrackFXTrigger>
+  </TrackFXTriggers>
   <SampleTriggers />
   <ExtendedMixes>
     <ExtendedMixAttributes>
