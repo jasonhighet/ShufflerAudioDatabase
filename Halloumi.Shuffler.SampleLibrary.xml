@@ -23243,42 +23243,6 @@
     <Gain>0.774699</Gain>
   </Sample>
   <Sample>
-    <Start>4.777</Start>
-    <Length>2.195</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>D</Key>
-    <TrackArtist>African Music Machine</TrackArtist>
-    <TrackTitle>Black Water Gold</TrackTitle>
-    <TrackLength>184.093</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>109.33940774487475</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>1.000394</Gain>
-  </Sample>
-  <Sample>
-    <Start>71.539</Start>
-    <Length>16.947</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>D</Key>
-    <TrackArtist>African Music Machine</TrackArtist>
-    <TrackTitle>Black Water Gold</TrackTitle>
-    <TrackLength>184.093</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>113.2943883873252</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>1.000394</Gain>
-  </Sample>
-  <Sample>
     <Start>0.817</Start>
     <Length>4.39</Length>
     <Offset>0</Offset>
@@ -30333,42 +30297,6 @@
       <string>soul</string>
     </Tags>
     <Gain>0.808495</Gain>
-  </Sample>
-  <Sample>
-    <Start>1.345</Start>
-    <Length>19.082</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>D</Key>
-    <TrackArtist>The New Mastersounds</TrackArtist>
-    <TrackTitle>102 Per Cent</TrackTitle>
-    <TrackLength>181</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>100.618383817210</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.642354</Gain>
-  </Sample>
-  <Sample>
-    <Start>96.199</Start>
-    <Length>4.652</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>D</Key>
-    <TrackArtist>The New Mastersounds</TrackArtist>
-    <TrackTitle>102 Per Cent</TrackTitle>
-    <TrackLength>181</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>103.181427343078</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.642354</Gain>
   </Sample>
   <Sample>
     <Start>8.374</Start>
@@ -52545,5 +52473,77 @@
       <string>soul</string>
     </Tags>
     <Gain>0.768582</Gain>
+  </Sample>
+  <Sample>
+    <Start>1.345</Start>
+    <Length>19.082</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>D</Key>
+    <TrackArtist>The New Mastersounds</TrackArtist>
+    <TrackTitle>102 Per Cent</TrackTitle>
+    <TrackLength>181</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>100.618383817210</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.68745494</Gain>
+  </Sample>
+  <Sample>
+    <Start>96.199</Start>
+    <Length>4.6520181405895693</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>D</Key>
+    <TrackArtist>The New Mastersounds</TrackArtist>
+    <TrackTitle>102 Per Cent</TrackTitle>
+    <TrackLength>181</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>103.181024986108</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.69216073</Gain>
+  </Sample>
+  <Sample>
+    <Start>4.777</Start>
+    <Length>2.1950113378684808</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>D</Key>
+    <TrackArtist>African Music Machine</TrackArtist>
+    <TrackTitle>Black Water Gold</TrackTitle>
+    <TrackLength>184.093</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>109.3388429752065</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.89612865</Gain>
+  </Sample>
+  <Sample>
+    <Start>71.539</Start>
+    <Length>16.947</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>D</Key>
+    <TrackArtist>African Music Machine</TrackArtist>
+    <TrackTitle>Black Water Gold</TrackTitle>
+    <TrackLength>184.093</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>113.2943883873252</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.08309925</Gain>
   </Sample>
 </ArrayOfSample>
