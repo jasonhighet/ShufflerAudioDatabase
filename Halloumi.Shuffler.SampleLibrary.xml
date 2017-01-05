@@ -11579,42 +11579,6 @@
     <Gain>1.413178</Gain>
   </Sample>
   <Sample>
-    <Start>1.43</Start>
-    <Length>7.097</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Am</Key>
-    <TrackArtist>Soopasoul</TrackArtist>
-    <TrackTitle>Swing Down (Instrumental)</TrackTitle>
-    <TrackLength>224.212</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>135.268423277441</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.899092</Gain>
-  </Sample>
-  <Sample>
-    <Start>125.697</Start>
-    <Length>14.194</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Am</Key>
-    <TrackArtist>Soopasoul</TrackArtist>
-    <TrackTitle>Swing Down (Instrumental)</TrackTitle>
-    <TrackLength>224.212</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>135.2684232774412</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.899092</Gain>
-  </Sample>
-  <Sample>
     <Start>37.979</Start>
     <Length>14.199</Length>
     <Offset>0</Offset>
@@ -11649,42 +11613,6 @@
       <string>dub</string>
     </Tags>
     <Gain>1.229568</Gain>
-  </Sample>
-  <Sample>
-    <Start>0.787</Start>
-    <Length>3.551</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Eb</Key>
-    <TrackArtist>Speedometer</TrackArtist>
-    <TrackTitle>Soul Grooving (Live)</TrackTitle>
-    <TrackLength>253.68</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>135.173190650521</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>1.038173</Gain>
-  </Sample>
-  <Sample>
-    <Start>189.84</Start>
-    <Length>1.801</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Eb</Key>
-    <TrackArtist>Speedometer</TrackArtist>
-    <TrackTitle>Soul Grooving (Live)</TrackTitle>
-    <TrackLength>253.68</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>133.259300388673</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>1.038173</Gain>
   </Sample>
   <Sample>
     <Start>3.818</Start>
@@ -12011,42 +11939,6 @@
     <Gain>0.539717</Gain>
   </Sample>
   <Sample>
-    <Start>3.985</Start>
-    <Length>3.58</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Bb</Key>
-    <TrackArtist>Tito Puente</TrackArtist>
-    <TrackTitle>Fiesta Con Puente</TrackTitle>
-    <TrackLength>171.733</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>134.078212290503</Bpm>
-    <Tags>
-      <string>latin</string>
-    </Tags>
-    <Gain>0.921579</Gain>
-  </Sample>
-  <Sample>
-    <Start>153.241</Start>
-    <Length>7.503</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Bb</Key>
-    <TrackArtist>Tito Puente</TrackArtist>
-    <TrackTitle>Fiesta Con Puente</TrackTitle>
-    <TrackLength>171.733</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>127.948820471811</Bpm>
-    <Tags>
-      <string>latin</string>
-    </Tags>
-    <Gain>0.921579</Gain>
-  </Sample>
-  <Sample>
     <Start>11.538</Start>
     <Length>14.321</Length>
     <Offset>0</Offset>
@@ -12189,78 +12081,6 @@
       <string>dub</string>
     </Tags>
     <Gain>1.37907</Gain>
-  </Sample>
-  <Sample>
-    <Start>1.116</Start>
-    <Length>3.589</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>F</Key>
-    <TrackArtist>Som Tres</TrackArtist>
-    <TrackTitle>Homenagem A Mongo</TrackTitle>
-    <TrackLength>263.576</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>133.7419894120925</Bpm>
-    <Tags>
-      <string>latin</string>
-    </Tags>
-    <Gain>1.3559</Gain>
-  </Sample>
-  <Sample>
-    <Start>137.267</Start>
-    <Length>7.314</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>F</Key>
-    <TrackArtist>Som Tres</TrackArtist>
-    <TrackTitle>Homenagem A Mongo</TrackTitle>
-    <TrackLength>263.576</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>131.255127153404</Bpm>
-    <Tags>
-      <string>latin</string>
-    </Tags>
-    <Gain>1.3559</Gain>
-  </Sample>
-  <Sample>
-    <Start>0.197</Start>
-    <Length>3.592</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>Maceo Parker</TrackArtist>
-    <TrackTitle>Tighten Up</TrackTitle>
-    <TrackLength>429.648</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>133.630289532294</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.616382</Gain>
-  </Sample>
-  <Sample>
-    <Start>108.894</Start>
-    <Length>3.532</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>Maceo Parker</TrackArtist>
-    <TrackTitle>Tighten Up</TrackTitle>
-    <TrackLength>429.648</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>135.9003397508495</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.616382</Gain>
   </Sample>
   <Sample>
     <Start>10.273</Start>
@@ -12731,42 +12551,6 @@
     <Gain>1.03533</Gain>
   </Sample>
   <Sample>
-    <Start>2.134</Start>
-    <Length>3.638</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Am</Key>
-    <TrackArtist>Xavier Cugat</TrackArtist>
-    <TrackTitle>Ritmo Tropical</TrackTitle>
-    <TrackLength>168.777</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>131.940626717977</Bpm>
-    <Tags>
-      <string>latin</string>
-    </Tags>
-    <Gain>0.83974</Gain>
-  </Sample>
-  <Sample>
-    <Start>152.84</Start>
-    <Length>7.377</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Am</Key>
-    <TrackArtist>Xavier Cugat</TrackArtist>
-    <TrackTitle>Ritmo Tropical</TrackTitle>
-    <TrackLength>168.777</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>130.134200894673</Bpm>
-    <Tags>
-      <string>latin</string>
-    </Tags>
-    <Gain>0.83974</Gain>
-  </Sample>
-  <Sample>
     <Start>1.587</Start>
     <Length>3.638</Length>
     <Offset>0</Offset>
@@ -13235,42 +13019,6 @@
     <Gain>0.941975</Gain>
   </Sample>
   <Sample>
-    <Start>12.186</Start>
-    <Length>3.674</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Abm</Key>
-    <TrackArtist>Marcos Valle</TrackArtist>
-    <TrackTitle>Batucada Sergiu</TrackTitle>
-    <TrackLength>138.188</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>130.647795318454</Bpm>
-    <Tags>
-      <string>latin</string>
-    </Tags>
-    <Gain>1.400054</Gain>
-  </Sample>
-  <Sample>
-    <Start>115.677</Start>
-    <Length>3.799</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Abm</Key>
-    <TrackArtist>Marcos Valle</TrackArtist>
-    <TrackTitle>Batucada Sergiu</TrackTitle>
-    <TrackLength>138.188</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>126.3490392208475</Bpm>
-    <Tags>
-      <string>latin</string>
-    </Tags>
-    <Gain>1.400054</Gain>
-  </Sample>
-  <Sample>
     <Start>1.928</Start>
     <Length>14.718</Length>
     <Offset>0</Offset>
@@ -13305,42 +13053,6 @@
       <string>funk</string>
     </Tags>
     <Gain>1.211399</Gain>
-  </Sample>
-  <Sample>
-    <Start>0.554</Start>
-    <Length>7.361</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
-    <TrackArtist>Speedometer</TrackArtist>
-    <TrackTitle>Take A Chance</TrackTitle>
-    <TrackLength>188.134</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>130.417062899063</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.732755</Gain>
-  </Sample>
-  <Sample>
-    <Start>109.66</Start>
-    <Length>3.638</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
-    <TrackArtist>Speedometer</TrackArtist>
-    <TrackTitle>Take A Chance</TrackTitle>
-    <TrackLength>188.134</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>131.940626717977</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.732755</Gain>
   </Sample>
   <Sample>
     <Start>33.423</Start>
@@ -13737,42 +13449,6 @@
       <string>funk</string>
     </Tags>
     <Gain>0.696357</Gain>
-  </Sample>
-  <Sample>
-    <Start>1.482</Start>
-    <Length>14.826</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>Benard Purdie</TrackArtist>
-    <TrackTitle>Soul Drums</TrackTitle>
-    <TrackLength>206.328</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>129.5022258195062</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.620821</Gain>
-  </Sample>
-  <Sample>
-    <Start>96.312</Start>
-    <Length>7.723</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>Benard Purdie</TrackArtist>
-    <TrackTitle>Soul Drums</TrackTitle>
-    <TrackLength>206.328</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>124.304026932539</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.620821</Gain>
   </Sample>
   <Sample>
     <Start>12.237</Start>
@@ -14603,42 +14279,6 @@
     <Gain>1.019459</Gain>
   </Sample>
   <Sample>
-    <Start>4.017</Start>
-    <Length>7.588</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Am</Key>
-    <TrackArtist>The Bamboos</TrackArtist>
-    <TrackTitle>Tighten It Up</TrackTitle>
-    <TrackLength>235.337</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>126.515550869794</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.626594</Gain>
-  </Sample>
-  <Sample>
-    <Start>100.904</Start>
-    <Length>7.752</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Am</Key>
-    <TrackArtist>The Bamboos</TrackArtist>
-    <TrackTitle>Tighten It Up</TrackTitle>
-    <TrackLength>235.337</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>123.839009287926</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.626594</Gain>
-  </Sample>
-  <Sample>
     <Start>0.854</Start>
     <Length>7.599</Length>
     <Offset>0</Offset>
@@ -14855,42 +14495,6 @@
     <Gain>1.567291</Gain>
   </Sample>
   <Sample>
-    <Start>0.213</Start>
-    <Length>3.815</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>C</Key>
-    <TrackArtist>Orlandivo</TrackArtist>
-    <TrackTitle>E Samba</TrackTitle>
-    <TrackLength>146.333</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>125.819134993447</Bpm>
-    <Tags>
-      <string>latin</string>
-    </Tags>
-    <Gain>0.739207</Gain>
-  </Sample>
-  <Sample>
-    <Start>124.771</Start>
-    <Length>14.824</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>C</Key>
-    <TrackArtist>Orlandivo</TrackArtist>
-    <TrackTitle>E Samba</TrackTitle>
-    <TrackLength>146.333</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>129.5196977873718</Bpm>
-    <Tags>
-      <string>latin</string>
-    </Tags>
-    <Gain>0.739207</Gain>
-  </Sample>
-  <Sample>
     <Start>0.369</Start>
     <Length>7.636</Length>
     <Offset>0</Offset>
@@ -14963,42 +14567,6 @@
     <Gain>0.89667</Gain>
   </Sample>
   <Sample>
-    <Start>117.917</Start>
-    <Length>1.913</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>The Quantic Soul Orchestra</TrackArtist>
-    <TrackTitle>Get A Move On</TrackTitle>
-    <TrackLength>215.589</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>125.45739675901725</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.66143</Gain>
-  </Sample>
-  <Sample>
-    <Start>197.76</Start>
-    <Length>7.59</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>The Quantic Soul Orchestra</TrackArtist>
-    <TrackTitle>Get A Move On</TrackTitle>
-    <TrackLength>215.589</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>126.482213438735</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.66143</Gain>
-  </Sample>
-  <Sample>
     <Start>0.932</Start>
     <Length>15.312</Length>
     <Offset>0</Offset>
@@ -15033,42 +14601,6 @@
       <string>soul</string>
     </Tags>
     <Gain>0.963991</Gain>
-  </Sample>
-  <Sample>
-    <Start>6.136</Start>
-    <Length>1.915</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Bm</Key>
-    <TrackArtist>Stan Getz &amp; Charlie Byrd</TrackArtist>
-    <TrackTitle>E Luxo So</TrackTitle>
-    <TrackLength>223.216</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>125.32637075718025</Bpm>
-    <Tags>
-      <string>jazz</string>
-    </Tags>
-    <Gain>1.813286</Gain>
-  </Sample>
-  <Sample>
-    <Start>201.678</Start>
-    <Length>8.154</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Bm</Key>
-    <TrackArtist>Stan Getz &amp; Charlie Byrd</TrackArtist>
-    <TrackTitle>E Luxo So</TrackTitle>
-    <TrackLength>223.216</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>117.733627667403</Bpm>
-    <Tags>
-      <string>jazz</string>
-    </Tags>
-    <Gain>1.813286</Gain>
   </Sample>
   <Sample>
     <Start>46.632</Start>
@@ -15357,78 +14889,6 @@
       <string>funk</string>
     </Tags>
     <Gain>0.854691</Gain>
-  </Sample>
-  <Sample>
-    <Start>0.369</Start>
-    <Length>3.849</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Cm</Key>
-    <TrackArtist>Marva Whitney</TrackArtist>
-    <TrackTitle>Things Have Got To Get Better</TrackTitle>
-    <TrackLength>214.968</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>124.7077162899455</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>1.391189</Gain>
-  </Sample>
-  <Sample>
-    <Start>158.01</Start>
-    <Length>15.369</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Cm</Key>
-    <TrackArtist>Marva Whitney</TrackArtist>
-    <TrackTitle>Things Have Got To Get Better</TrackTitle>
-    <TrackLength>214.968</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>124.9268007027132</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>1.391189</Gain>
-  </Sample>
-  <Sample>
-    <Start>1.983</Start>
-    <Length>3.851</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Am</Key>
-    <TrackArtist>Roberta Roena</TrackArtist>
-    <TrackTitle>Que Se Sepa</TrackTitle>
-    <TrackLength>227.004</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>124.642949883147</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.945023</Gain>
-  </Sample>
-  <Sample>
-    <Start>92.95</Start>
-    <Length>1.817</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Am</Key>
-    <TrackArtist>Roberta Roena</TrackArtist>
-    <TrackTitle>Que Se Sepa</TrackTitle>
-    <TrackLength>227.004</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>132.085855806274</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.945023</Gain>
   </Sample>
   <Sample>
     <Start>1.723</Start>
@@ -16079,42 +15539,6 @@
     <Gain>0.733276</Gain>
   </Sample>
   <Sample>
-    <Start>2.346</Start>
-    <Length>7.797</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Am</Key>
-    <TrackArtist>Spiller</TrackArtist>
-    <TrackTitle>Groovejet (Radio Edit) (Instrumental)</TrackTitle>
-    <TrackLength>223.869</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>123.12427856868</Bpm>
-    <Tags>
-      <string>house</string>
-    </Tags>
-    <Gain>0.951604</Gain>
-  </Sample>
-  <Sample>
-    <Start>170.167</Start>
-    <Length>3.898</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Am</Key>
-    <TrackArtist>Spiller</TrackArtist>
-    <TrackTitle>Groovejet (Radio Edit) (Instrumental)</TrackTitle>
-    <TrackLength>223.869</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>123.1400718317085</Bpm>
-    <Tags>
-      <string>house</string>
-    </Tags>
-    <Gain>0.951604</Gain>
-  </Sample>
-  <Sample>
     <Start>0.393</Start>
     <Length>7.799</Length>
     <Offset>0</Offset>
@@ -16221,42 +15645,6 @@
       <string>ska</string>
     </Tags>
     <Gain>0.857084</Gain>
-  </Sample>
-  <Sample>
-    <Start>1.193</Start>
-    <Length>7.811</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>Spanky Wilson</TrackArtist>
-    <TrackTitle>Sunshine Of Your Love</TrackTitle>
-    <TrackLength>225.053</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>122.903597490718</Bpm>
-    <Tags>
-      <string>soul</string>
-    </Tags>
-    <Gain>1.023372</Gain>
-  </Sample>
-  <Sample>
-    <Start>160.542</Start>
-    <Length>7.703</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>Spanky Wilson</TrackArtist>
-    <TrackTitle>Sunshine Of Your Love</TrackTitle>
-    <TrackLength>225.053</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>124.62676879138</Bpm>
-    <Tags>
-      <string>soul</string>
-    </Tags>
-    <Gain>1.023372</Gain>
   </Sample>
   <Sample>
     <Start>8.498</Start>
@@ -16475,42 +15863,6 @@
     <Gain>1.13319</Gain>
   </Sample>
   <Sample>
-    <Start>4.727</Start>
-    <Length>7.859</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>Speedometer</TrackArtist>
-    <TrackTitle>This Ain't Moving</TrackTitle>
-    <TrackLength>204.643</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>122.152945667388</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.617899</Gain>
-  </Sample>
-  <Sample>
-    <Start>131.252</Start>
-    <Length>3.745</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>Speedometer</TrackArtist>
-    <TrackTitle>This Ain't Moving</TrackTitle>
-    <TrackLength>204.643</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>128.1708945260345</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.617899</Gain>
-  </Sample>
-  <Sample>
     <Start>26.052</Start>
     <Length>7.868</Length>
     <Offset>0</Offset>
@@ -16653,42 +16005,6 @@
       <string>hip-hop</string>
     </Tags>
     <Gain>0.937752</Gain>
-  </Sample>
-  <Sample>
-    <Start>0.38</Start>
-    <Length>3.94</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
-    <TrackArtist>Los Papines</TrackArtist>
-    <TrackTitle>El Pequeño Tamborilero</TrackTitle>
-    <TrackLength>249.573</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>121.8274111675125</Bpm>
-    <Tags>
-      <string>christmas</string>
-    </Tags>
-    <Gain>0.93949</Gain>
-  </Sample>
-  <Sample>
-    <Start>92.499</Start>
-    <Length>1.866</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
-    <TrackArtist>Los Papines</TrackArtist>
-    <TrackTitle>El Pequeño Tamborilero</TrackTitle>
-    <TrackLength>249.573</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>128.6173633440515</Bpm>
-    <Tags>
-      <string>christmas</string>
-    </Tags>
-    <Gain>0.93949</Gain>
   </Sample>
   <Sample>
     <Start>2.194</Start>
@@ -17447,42 +16763,6 @@
     <Gain>0.725556</Gain>
   </Sample>
   <Sample>
-    <Start>0.552</Start>
-    <Length>7.989</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>Spanky Wilson &amp; The Quantic Soul Orchestra</TrackArtist>
-    <TrackTitle>Don't Joke With A Hungry Man (Part 3)</TrackTitle>
-    <TrackLength>206.6</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>120.165227187383</Bpm>
-    <Tags>
-      <string>soul</string>
-    </Tags>
-    <Gain>1.030187</Gain>
-  </Sample>
-  <Sample>
-    <Start>104.537</Start>
-    <Length>8.006</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>Spanky Wilson &amp; The Quantic Soul Orchestra</TrackArtist>
-    <TrackTitle>Don't Joke With A Hungry Man (Part 3)</TrackTitle>
-    <TrackLength>206.6</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>119.910067449413</Bpm>
-    <Tags>
-      <string>soul</string>
-    </Tags>
-    <Gain>1.030187</Gain>
-  </Sample>
-  <Sample>
     <Start>8.787</Start>
     <Length>15.981</Length>
     <Offset>0</Offset>
@@ -17985,42 +17265,6 @@
       <string>latin</string>
     </Tags>
     <Gain>0.765684</Gain>
-  </Sample>
-  <Sample>
-    <Start>6.13</Start>
-    <Length>4.011</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>The Bamboos</TrackArtist>
-    <TrackTitle>Tobago Strut</TrackTitle>
-    <TrackLength>265.456</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>119.670905011219</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.876636</Gain>
-  </Sample>
-  <Sample>
-    <Start>139.23</Start>
-    <Length>8</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>The Bamboos</TrackArtist>
-    <TrackTitle>Tobago Strut</TrackTitle>
-    <TrackLength>265.456</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>120</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.876636</Gain>
   </Sample>
   <Sample>
     <Start>9.345</Start>
@@ -19067,42 +18311,6 @@
     <Gain>0.714792</Gain>
   </Sample>
   <Sample>
-    <Start>6.969</Start>
-    <Length>2.058</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>The Bamboos</TrackArtist>
-    <TrackTitle>The Witch</TrackTitle>
-    <TrackLength>249.913</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>116.61807580174925</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.747053</Gain>
-  </Sample>
-  <Sample>
-    <Start>153.226</Start>
-    <Length>2.04</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>The Bamboos</TrackArtist>
-    <TrackTitle>The Witch</TrackTitle>
-    <TrackLength>249.913</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>117.6470588235295</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.747053</Gain>
-  </Sample>
-  <Sample>
     <Start>1.282</Start>
     <Length>8.233</Length>
     <Offset>0</Offset>
@@ -19137,42 +18345,6 @@
       <string>jazz</string>
     </Tags>
     <Gain>1.309279</Gain>
-  </Sample>
-  <Sample>
-    <Start>0.937</Start>
-    <Length>16.466</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Am</Key>
-    <TrackArtist>Breakestra</TrackArtist>
-    <TrackTitle>Joyful Noise</TrackTitle>
-    <TrackLength>336.118</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>116.6039110895178</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.65038</Gain>
-  </Sample>
-  <Sample>
-    <Start>167.377</Start>
-    <Length>16.432</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Am</Key>
-    <TrackArtist>Breakestra</TrackArtist>
-    <TrackTitle>Joyful Noise</TrackTitle>
-    <TrackLength>336.118</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>116.8451801363194</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.65038</Gain>
   </Sample>
   <Sample>
     <Start>27.261</Start>
@@ -19425,42 +18597,6 @@
       <string>latin</string>
     </Tags>
     <Gain>0.827942</Gain>
-  </Sample>
-  <Sample>
-    <Start>0.121</Start>
-    <Length>8.286</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Em</Key>
-    <TrackArtist>Manzel</TrackArtist>
-    <TrackTitle>Space Funk</TrackTitle>
-    <TrackLength>290.4</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>115.858073859522</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.74109</Gain>
-  </Sample>
-  <Sample>
-    <Start>254.546</Start>
-    <Length>8.186</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Em</Key>
-    <TrackArtist>Manzel</TrackArtist>
-    <TrackTitle>Space Funk</TrackTitle>
-    <TrackLength>290.4</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>117.273393598827</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.74109</Gain>
   </Sample>
   <Sample>
     <Start>4.827</Start>
@@ -19751,78 +18887,6 @@
     <Gain>0.985093</Gain>
   </Sample>
   <Sample>
-    <Start>0.721</Start>
-    <Length>8.342</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>Blackbyrds</TrackArtist>
-    <TrackTitle>The Blackbyrds' Theme</TrackTitle>
-    <TrackLength>246.491</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>115.08031647087</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.849242</Gain>
-  </Sample>
-  <Sample>
-    <Start>134.229</Start>
-    <Length>4.176</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>Blackbyrds</TrackArtist>
-    <TrackTitle>The Blackbyrds' Theme</TrackTitle>
-    <TrackLength>246.491</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>114.942528735632</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.849242</Gain>
-  </Sample>
-  <Sample>
-    <Start>1.157</Start>
-    <Length>4.173</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Cm</Key>
-    <TrackArtist>Monie Love</TrackArtist>
-    <TrackTitle>Monie In The Middle</TrackTitle>
-    <TrackLength>225.025</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>115.0251617541335</Bpm>
-    <Tags>
-      <string>hip-hop</string>
-    </Tags>
-    <Gain>1.591837</Gain>
-  </Sample>
-  <Sample>
-    <Start>122.191</Start>
-    <Length>16.691</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Cm</Key>
-    <TrackArtist>Monie Love</TrackArtist>
-    <TrackTitle>Monie In The Middle</TrackTitle>
-    <TrackLength>225.025</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>115.0320532023246</Bpm>
-    <Tags>
-      <string>hip-hop</string>
-    </Tags>
-    <Gain>1.591837</Gain>
-  </Sample>
-  <Sample>
     <Start>20.931</Start>
     <Length>8.352</Length>
     <Offset>0</Offset>
@@ -20003,42 +19067,6 @@
     <Gain>0.866371</Gain>
   </Sample>
   <Sample>
-    <Start>0.111</Start>
-    <Length>4.182</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>The Bamboos</TrackArtist>
-    <TrackTitle>Eel Oil</TrackTitle>
-    <TrackLength>185.208</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>114.777618364419</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.870079</Gain>
-  </Sample>
-  <Sample>
-    <Start>127.132</Start>
-    <Length>8.539</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>The Bamboos</TrackArtist>
-    <TrackTitle>Eel Oil</TrackTitle>
-    <TrackLength>185.208</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>112.425342545966</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.870079</Gain>
-  </Sample>
-  <Sample>
     <Start>0.969</Start>
     <Length>4.186</Length>
     <Offset>0</Offset>
@@ -20109,42 +19137,6 @@
       <string>christmas</string>
     </Tags>
     <Gain>0.846781</Gain>
-  </Sample>
-  <Sample>
-    <Start>0.396</Start>
-    <Length>2.094</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>F</Key>
-    <TrackArtist>Elis Regina</TrackArtist>
-    <TrackTitle>Roda</TrackTitle>
-    <TrackLength>156.333</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>114.61318051575925</Bpm>
-    <Tags>
-      <string>jazz</string>
-    </Tags>
-    <Gain>1.011918</Gain>
-  </Sample>
-  <Sample>
-    <Start>146.496</Start>
-    <Length>4.029</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>F</Key>
-    <TrackArtist>Elis Regina</TrackArtist>
-    <TrackTitle>Roda</TrackTitle>
-    <TrackLength>156.333</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>119.1362620997765</Bpm>
-    <Tags>
-      <string>jazz</string>
-    </Tags>
-    <Gain>1.011918</Gain>
   </Sample>
   <Sample>
     <Start>2.345</Start>
@@ -21119,42 +20111,6 @@
     <Gain>0.563415</Gain>
   </Sample>
   <Sample>
-    <Start>4.385</Start>
-    <Length>8.545</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Cm</Key>
-    <TrackArtist>The Bamboos</TrackArtist>
-    <TrackTitle>Tongan Steel</TrackTitle>
-    <TrackLength>304.431</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>112.34640140433</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.734492</Gain>
-  </Sample>
-  <Sample>
-    <Start>205.225</Start>
-    <Length>2.13</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Cm</Key>
-    <TrackArtist>The Bamboos</TrackArtist>
-    <TrackTitle>Tongan Steel</TrackTitle>
-    <TrackLength>304.431</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>112.67605633802825</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>0.734492</Gain>
-  </Sample>
-  <Sample>
     <Start>8.858</Start>
     <Length>8.545</Length>
     <Offset>0</Offset>
@@ -21441,78 +20397,6 @@
       <string>desi</string>
     </Tags>
     <Gain>0.609557</Gain>
-  </Sample>
-  <Sample>
-    <Start>8.717</Start>
-    <Length>4.297</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Abm</Key>
-    <TrackArtist>El Michels Affair</TrackArtist>
-    <TrackTitle>Uzi (Pinky Ring)</TrackTitle>
-    <TrackLength>189.16</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>111.705841284617</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>1.05716</Gain>
-  </Sample>
-  <Sample>
-    <Start>149.714</Start>
-    <Length>8.666</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Abm</Key>
-    <TrackArtist>El Michels Affair</TrackArtist>
-    <TrackTitle>Uzi (Pinky Ring)</TrackTitle>
-    <TrackLength>189.16</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>110.77775213478</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>1.05716</Gain>
-  </Sample>
-  <Sample>
-    <Start>2.564</Start>
-    <Length>4.298</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Bm</Key>
-    <TrackArtist>Young Holt Unlimited</TrackArtist>
-    <TrackTitle>Bumpin' On Young Street</TrackTitle>
-    <TrackLength>311.183</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>111.679851093532</Bpm>
-    <Tags>
-      <string>soul</string>
-    </Tags>
-    <Gain>1.658436</Gain>
-  </Sample>
-  <Sample>
-    <Start>147.294</Start>
-    <Length>8.849</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Bm</Key>
-    <TrackArtist>Young Holt Unlimited</TrackArtist>
-    <TrackTitle>Bumpin' On Young Street</TrackTitle>
-    <TrackLength>311.183</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>108.486834670584</Bpm>
-    <Tags>
-      <string>soul</string>
-    </Tags>
-    <Gain>1.658436</Gain>
   </Sample>
   <Sample>
     <Start>0.359</Start>
@@ -21803,42 +20687,6 @@
     <Gain>-1</Gain>
   </Sample>
   <Sample>
-    <Start>9.347</Start>
-    <Length>8.626</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Abm</Key>
-    <TrackArtist>Wess &amp; The Airedales</TrackArtist>
-    <TrackTitle>Blackout</TrackTitle>
-    <TrackLength>159.478</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>111.291444470206</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>1.176921</Gain>
-  </Sample>
-  <Sample>
-    <Start>77.409</Start>
-    <Length>8.382</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Abm</Key>
-    <TrackArtist>Wess &amp; The Airedales</TrackArtist>
-    <TrackTitle>Blackout</TrackTitle>
-    <TrackLength>159.478</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>114.531138153185</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>1.176921</Gain>
-  </Sample>
-  <Sample>
     <Start>9.767</Start>
     <Length>8.626</Length>
     <Offset>0</Offset>
@@ -22089,42 +20937,6 @@
       <string>latin</string>
     </Tags>
     <Gain>0.848438</Gain>
-  </Sample>
-  <Sample>
-    <Start>34.466</Start>
-    <Length>4.333</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Bm</Key>
-    <TrackArtist>Lyn Collins</TrackArtist>
-    <TrackTitle>Think (About It)</TrackTitle>
-    <TrackLength>202.188</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>110.7777521347795</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>1.092833</Gain>
-  </Sample>
-  <Sample>
-    <Start>134.785</Start>
-    <Length>2.07</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Bm</Key>
-    <TrackArtist>Lyn Collins</TrackArtist>
-    <TrackTitle>Think (About It)</TrackTitle>
-    <TrackLength>202.188</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>115.94202898550725</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>1.092833</Gain>
   </Sample>
   <Sample>
     <Start>21.621</Start>
@@ -22845,42 +21657,6 @@
       <string>hip-hop</string>
     </Tags>
     <Gain>1.217014</Gain>
-  </Sample>
-  <Sample>
-    <Start>36.054</Start>
-    <Length>8.734</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>Wajid &amp; Shreya Ghoshal</TrackArtist>
-    <TrackTitle>MashAllah</TrackTitle>
-    <TrackLength>285.453</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>109.915273643233</Bpm>
-    <Tags>
-      <string>desi</string>
-    </Tags>
-    <Gain>1.011509</Gain>
-  </Sample>
-  <Sample>
-    <Start>182.235</Start>
-    <Length>4.363</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>Wajid &amp; Shreya Ghoshal</TrackArtist>
-    <TrackTitle>MashAllah</TrackTitle>
-    <TrackLength>285.453</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>110.0160440064175</Bpm>
-    <Tags>
-      <string>desi</string>
-    </Tags>
-    <Gain>1.011509</Gain>
   </Sample>
   <Sample>
     <Start>0.356</Start>
@@ -24321,42 +23097,6 @@
       <string>downbeat</string>
     </Tags>
     <Gain>1.58402</Gain>
-  </Sample>
-  <Sample>
-    <Start>40.37</Start>
-    <Length>2.222</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>C</Key>
-    <TrackArtist>Otis Redding &amp; Carla Thomas</TrackArtist>
-    <TrackTitle>Tramp (Instrumental)</TrackTitle>
-    <TrackLength>152.067</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>108.010801080108</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>1.014813</Gain>
-  </Sample>
-  <Sample>
-    <Start>93.497</Start>
-    <Length>4.434</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>C</Key>
-    <TrackArtist>Otis Redding &amp; Carla Thomas</TrackArtist>
-    <TrackTitle>Tramp (Instrumental)</TrackTitle>
-    <TrackLength>152.067</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>108.254397834912</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>1.014813</Gain>
   </Sample>
   <Sample>
     <Start>1.385</Start>
@@ -26231,42 +24971,6 @@
     <Gain>0.764847</Gain>
   </Sample>
   <Sample>
-    <Start>0.947</Start>
-    <Length>9.144</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Dm</Key>
-    <TrackArtist>Young Holt Unlimited</TrackArtist>
-    <TrackTitle>Rubber Lips</TrackTitle>
-    <TrackLength>190.776</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>104.98687664042</Bpm>
-    <Tags>
-      <string>soul</string>
-    </Tags>
-    <Gain>1.203764</Gain>
-  </Sample>
-  <Sample>
-    <Start>153.695</Start>
-    <Length>1.143</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Dm</Key>
-    <TrackArtist>Young Holt Unlimited</TrackArtist>
-    <TrackTitle>Rubber Lips</TrackTitle>
-    <TrackLength>190.776</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>104.98687664042</Bpm>
-    <Tags>
-      <string>soul</string>
-    </Tags>
-    <Gain>1.203764</Gain>
-  </Sample>
-  <Sample>
     <Start>9.268</Start>
     <Length>9.145</Length>
     <Offset>0</Offset>
@@ -27275,42 +25979,6 @@
     <Gain>1.00751</Gain>
   </Sample>
   <Sample>
-    <Start>2.524</Start>
-    <Length>9.255</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Bm</Key>
-    <TrackArtist>Beastie Boys</TrackArtist>
-    <TrackTitle>Shake Your Rump (Instrumental)</TrackTitle>
-    <TrackLength>199.668</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>103.727714748784</Bpm>
-    <Tags>
-      <string>hip-hop</string>
-    </Tags>
-    <Gain>2.111302</Gain>
-  </Sample>
-  <Sample>
-    <Start>76.566</Start>
-    <Length>18.51</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Bm</Key>
-    <TrackArtist>Beastie Boys</TrackArtist>
-    <TrackTitle>Shake Your Rump (Instrumental)</TrackTitle>
-    <TrackLength>199.668</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>103.7277147487844</Bpm>
-    <Tags>
-      <string>hip-hop</string>
-    </Tags>
-    <Gain>2.111302</Gain>
-  </Sample>
-  <Sample>
     <Start>0.289</Start>
     <Length>4.64</Length>
     <Offset>0</Offset>
@@ -27597,42 +26265,6 @@
       <string>funk</string>
     </Tags>
     <Gain>0.542592</Gain>
-  </Sample>
-  <Sample>
-    <Start>2.451</Start>
-    <Length>9.31</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>Beastie Boys</TrackArtist>
-    <TrackTitle>Shake Your Rump</TrackTitle>
-    <TrackLength>200.96</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>103.114930182599</Bpm>
-    <Tags>
-      <string>hip-hop</string>
-    </Tags>
-    <Gain>1.165313</Gain>
-  </Sample>
-  <Sample>
-    <Start>179.351</Start>
-    <Length>9.31</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>Beastie Boys</TrackArtist>
-    <TrackTitle>Shake Your Rump</TrackTitle>
-    <TrackLength>200.96</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>103.114930182599</Bpm>
-    <Tags>
-      <string>hip-hop</string>
-    </Tags>
-    <Gain>1.165313</Gain>
   </Sample>
   <Sample>
     <Start>0.01</Start>
@@ -28713,42 +27345,6 @@
       <string>downbeat</string>
     </Tags>
     <Gain>0.865188</Gain>
-  </Sample>
-  <Sample>
-    <Start>0.266</Start>
-    <Length>2.351</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Bm</Key>
-    <TrackArtist>The Beatnuts</TrackArtist>
-    <TrackTitle>Off The Books (Instrumental)</TrackTitle>
-    <TrackLength>211.017</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>102.084219481072</Bpm>
-    <Tags>
-      <string>hip-hop</string>
-    </Tags>
-    <Gain>1.483859</Gain>
-  </Sample>
-  <Sample>
-    <Start>80.197</Start>
-    <Length>9.403</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Bm</Key>
-    <TrackArtist>The Beatnuts</TrackArtist>
-    <TrackTitle>Off The Books (Instrumental)</TrackTitle>
-    <TrackLength>211.017</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>102.095076039562</Bpm>
-    <Tags>
-      <string>hip-hop</string>
-    </Tags>
-    <Gain>1.483859</Gain>
   </Sample>
   <Sample>
     <Start>28.415</Start>
@@ -30011,42 +28607,6 @@
     <Gain>1.72803</Gain>
   </Sample>
   <Sample>
-    <Start>0.057</Start>
-    <Length>1.189</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Bm</Key>
-    <TrackArtist>The Beatnuts</TrackArtist>
-    <TrackTitle>Watch Out Now (Instrumental)</TrackTitle>
-    <TrackLength>172.434</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>100.92514718250625</Bpm>
-    <Tags>
-      <string>hip-hop</string>
-    </Tags>
-    <Gain>1.249137</Gain>
-  </Sample>
-  <Sample>
-    <Start>59.751</Start>
-    <Length>19.093</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Bm</Key>
-    <TrackArtist>The Beatnuts</TrackArtist>
-    <TrackTitle>Watch Out Now (Instrumental)</TrackTitle>
-    <TrackLength>172.434</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>100.5604148117112</Bpm>
-    <Tags>
-      <string>hip-hop</string>
-    </Tags>
-    <Gain>1.249137</Gain>
-  </Sample>
-  <Sample>
     <Start>19.56</Start>
     <Length>9.512</Length>
     <Offset>0</Offset>
@@ -30405,42 +28965,6 @@
       <string>jazz</string>
     </Tags>
     <Gain>1.168939</Gain>
-  </Sample>
-  <Sample>
-    <Start>0.625</Start>
-    <Length>9.565</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Dm</Key>
-    <TrackArtist>Jurassic 5</TrackArtist>
-    <TrackTitle>Canto De Ossanha (Instrumental)</TrackTitle>
-    <TrackLength>255.453</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>100.365917407214</Bpm>
-    <Tags>
-      <string>hip-hop</string>
-    </Tags>
-    <Gain>1.11828</Gain>
-  </Sample>
-  <Sample>
-    <Start>105.818</Start>
-    <Length>4.793</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Dm</Key>
-    <TrackArtist>Jurassic 5</TrackArtist>
-    <TrackTitle>Canto De Ossanha (Instrumental)</TrackTitle>
-    <TrackLength>255.453</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>100.1460463175465</Bpm>
-    <Tags>
-      <string>hip-hop</string>
-    </Tags>
-    <Gain>1.11828</Gain>
   </Sample>
   <Sample>
     <Start>153.582</Start>
@@ -32099,42 +30623,6 @@
     <Gain>1.181656</Gain>
   </Sample>
   <Sample>
-    <Start>33.869</Start>
-    <Length>9.683</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Abm</Key>
-    <TrackArtist>Jurassic 5</TrackArtist>
-    <TrackTitle>Break (Instrumental)</TrackTitle>
-    <TrackLength>196.362</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>99.1428276360632</Bpm>
-    <Tags>
-      <string>hip-hop</string>
-    </Tags>
-    <Gain>1.311546</Gain>
-  </Sample>
-  <Sample>
-    <Start>145.035</Start>
-    <Length>4.847</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Abm</Key>
-    <TrackArtist>Jurassic 5</TrackArtist>
-    <TrackTitle>Break (Instrumental)</TrackTitle>
-    <TrackLength>196.362</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>99.0303280379615</Bpm>
-    <Tags>
-      <string>hip-hop</string>
-    </Tags>
-    <Gain>1.311546</Gain>
-  </Sample>
-  <Sample>
     <Start>3.056</Start>
     <Length>4.844</Length>
     <Offset>0</Offset>
@@ -32349,42 +30837,6 @@
       <string>hip-hop</string>
     </Tags>
     <Gain>1.064611</Gain>
-  </Sample>
-  <Sample>
-    <Start>0.474</Start>
-    <Length>2.426</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Cm</Key>
-    <TrackArtist>Sharon Jones &amp; The Dap Kings</TrackArtist>
-    <TrackTitle>Without A Heart (Instrumental)</TrackTitle>
-    <TrackLength>167.346</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>98.9282769991755</Bpm>
-    <Tags>
-      <string>soul</string>
-    </Tags>
-    <Gain>1.547947</Gain>
-  </Sample>
-  <Sample>
-    <Start>86.336</Start>
-    <Length>2.426</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Cm</Key>
-    <TrackArtist>Sharon Jones &amp; The Dap Kings</TrackArtist>
-    <TrackTitle>Without A Heart (Instrumental)</TrackTitle>
-    <TrackLength>167.346</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>98.9282769991755</Bpm>
-    <Tags>
-      <string>soul</string>
-    </Tags>
-    <Gain>1.547947</Gain>
   </Sample>
   <Sample>
     <Start>0.08</Start>
@@ -34365,42 +32817,6 @@
       <string>dance</string>
     </Tags>
     <Gain>1.024681</Gain>
-  </Sample>
-  <Sample>
-    <Start>0.328</Start>
-    <Length>2.475</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>Jurassic 5</TrackArtist>
-    <TrackTitle>Great Expectations (Instrumental)</TrackTitle>
-    <TrackLength>283.638</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>96.969696969697</Bpm>
-    <Tags>
-      <string>hip-hop</string>
-    </Tags>
-    <Gain>0.834313</Gain>
-  </Sample>
-  <Sample>
-    <Start>89.417</Start>
-    <Length>19.797</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>Jurassic 5</TrackArtist>
-    <TrackTitle>Great Expectations (Instrumental)</TrackTitle>
-    <TrackLength>283.638</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>96.9843915744810</Bpm>
-    <Tags>
-      <string>hip-hop</string>
-    </Tags>
-    <Gain>0.834313</Gain>
   </Sample>
   <Sample>
     <Start>20.314</Start>
@@ -36743,42 +35159,6 @@
     <Gain>0.880599</Gain>
   </Sample>
   <Sample>
-    <Start>151.174</Start>
-    <Length>10.121</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Bbm</Key>
-    <TrackArtist>A Tribe Called Quest</TrackArtist>
-    <TrackTitle>Push It Along (Instrumental)</TrackTitle>
-    <TrackLength>285.52</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>94.852287323387</Bpm>
-    <Tags>
-      <string>hip-hop</string>
-    </Tags>
-    <Gain>1.247466</Gain>
-  </Sample>
-  <Sample>
-    <Start>231.661</Start>
-    <Length>5.065</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Bbm</Key>
-    <TrackArtist>A Tribe Called Quest</TrackArtist>
-    <TrackTitle>Push It Along (Instrumental)</TrackTitle>
-    <TrackLength>285.52</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>94.7680157946695</Bpm>
-    <Tags>
-      <string>hip-hop</string>
-    </Tags>
-    <Gain>1.247466</Gain>
-  </Sample>
-  <Sample>
     <Start>0.012</Start>
     <Length>5.062</Length>
     <Offset>0</Offset>
@@ -37461,42 +35841,6 @@
       <string>hip-hop</string>
     </Tags>
     <Gain>0.737785</Gain>
-  </Sample>
-  <Sample>
-    <Start>0.038</Start>
-    <Length>2.549</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Bm</Key>
-    <TrackArtist>A Tribe Called Quest</TrackArtist>
-    <TrackTitle>Ham N Eggs (Instrumental)</TrackTitle>
-    <TrackLength>269.693</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>94.1545704197725</Bpm>
-    <Tags>
-      <string>hip-hop</string>
-    </Tags>
-    <Gain>1.062601</Gain>
-  </Sample>
-  <Sample>
-    <Start>51.028</Start>
-    <Length>5.105</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Bm</Key>
-    <TrackArtist>A Tribe Called Quest</TrackArtist>
-    <TrackTitle>Ham N Eggs (Instrumental)</TrackTitle>
-    <TrackLength>269.693</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>94.0254652301665</Bpm>
-    <Tags>
-      <string>hip-hop</string>
-    </Tags>
-    <Gain>1.062601</Gain>
   </Sample>
   <Sample>
     <Start>23.56</Start>
@@ -41169,42 +39513,6 @@
       <string>hip-hop</string>
     </Tags>
     <Gain>2.023792</Gain>
-  </Sample>
-  <Sample>
-    <Start>4.57</Start>
-    <Length>21.257</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>Jurassic 5</TrackArtist>
-    <TrackTitle>Concrete Schoolyard (Instrumental)</TrackTitle>
-    <TrackLength>323.579</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>90.3231876558310</Bpm>
-    <Tags>
-      <string>hip-hop</string>
-    </Tags>
-    <Gain>0.801289</Gain>
-  </Sample>
-  <Sample>
-    <Start>164.202</Start>
-    <Length>10.674</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>Jurassic 5</TrackArtist>
-    <TrackTitle>Concrete Schoolyard (Instrumental)</TrackTitle>
-    <TrackLength>323.579</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>89.938167509837</Bpm>
-    <Tags>
-      <string>hip-hop</string>
-    </Tags>
-    <Gain>0.801289</Gain>
   </Sample>
   <Sample>
     <Start>27.704</Start>
@@ -52545,5 +50853,1697 @@
       <string>funk</string>
     </Tags>
     <Gain>1.08309925</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.266</Start>
+    <Length>2.351</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bm</Key>
+    <TrackArtist>The Beatnuts</TrackArtist>
+    <TrackTitle>Off The Books (Instrumental)</TrackTitle>
+    <TrackLength>211.017</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>102.084219481072</Bpm>
+    <Tags>
+      <string>hip-hop</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>80.197</Start>
+    <Length>9.403</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bm</Key>
+    <TrackArtist>The Beatnuts</TrackArtist>
+    <TrackTitle>Off The Books (Instrumental)</TrackTitle>
+    <TrackLength>211.017</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>102.095076039562</Bpm>
+    <Tags>
+      <string>hip-hop</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.057</Start>
+    <Length>1.189</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bm</Key>
+    <TrackArtist>The Beatnuts</TrackArtist>
+    <TrackTitle>Watch Out Now (Instrumental)</TrackTitle>
+    <TrackLength>172.434</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>100.92514718250625</Bpm>
+    <Tags>
+      <string>hip-hop</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>59.751</Start>
+    <Length>19.093</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bm</Key>
+    <TrackArtist>The Beatnuts</TrackArtist>
+    <TrackTitle>Watch Out Now (Instrumental)</TrackTitle>
+    <TrackLength>172.434</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>100.5604148117112</Bpm>
+    <Tags>
+      <string>hip-hop</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>2.524</Start>
+    <Length>9.255</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bm</Key>
+    <TrackArtist>Beastie Boys</TrackArtist>
+    <TrackTitle>Shake Your Rump (Instrumental)</TrackTitle>
+    <TrackLength>199.668</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>103.727714748784</Bpm>
+    <Tags>
+      <string>hip-hop</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>76.566</Start>
+    <Length>18.51</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bm</Key>
+    <TrackArtist>Beastie Boys</TrackArtist>
+    <TrackTitle>Shake Your Rump (Instrumental)</TrackTitle>
+    <TrackLength>199.668</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>103.7277147487844</Bpm>
+    <Tags>
+      <string>hip-hop</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>2.451</Start>
+    <Length>9.31</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Beastie Boys</TrackArtist>
+    <TrackTitle>Shake Your Rump</TrackTitle>
+    <TrackLength>200.96</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>103.114930182599</Bpm>
+    <Tags>
+      <string>hip-hop</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>179.351</Start>
+    <Length>9.31</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Beastie Boys</TrackArtist>
+    <TrackTitle>Shake Your Rump</TrackTitle>
+    <TrackLength>200.96</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>103.114930182599</Bpm>
+    <Tags>
+      <string>hip-hop</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>34.466</Start>
+    <Length>4.333</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bm</Key>
+    <TrackArtist>Lyn Collins</TrackArtist>
+    <TrackTitle>Think (About It)</TrackTitle>
+    <TrackLength>202.188</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>110.7777521347795</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>134.785</Start>
+    <Length>2.07</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bm</Key>
+    <TrackArtist>Lyn Collins</TrackArtist>
+    <TrackTitle>Think (About It)</TrackTitle>
+    <TrackLength>202.188</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>115.94202898550725</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.39808846</Gain>
+  </Sample>
+  <Sample>
+    <Start>1.193</Start>
+    <Length>7.811</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Spanky Wilson</TrackArtist>
+    <TrackTitle>Sunshine Of Your Love</TrackTitle>
+    <TrackLength>225.053</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>122.903597490718</Bpm>
+    <Tags>
+      <string>soul</string>
+    </Tags>
+    <Gain>1.16055107</Gain>
+  </Sample>
+  <Sample>
+    <Start>160.542</Start>
+    <Length>7.703</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Spanky Wilson</TrackArtist>
+    <TrackTitle>Sunshine Of Your Love</TrackTitle>
+    <TrackLength>225.053</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>124.62676879138</Bpm>
+    <Tags>
+      <string>soul</string>
+    </Tags>
+    <Gain>1.0389359</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.369</Start>
+    <Length>3.849</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Cm</Key>
+    <TrackArtist>Marva Whitney</TrackArtist>
+    <TrackTitle>Things Have Got To Get Better</TrackTitle>
+    <TrackLength>214.968</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>124.7077162899455</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.6006546</Gain>
+  </Sample>
+  <Sample>
+    <Start>158.01</Start>
+    <Length>15.369</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Cm</Key>
+    <TrackArtist>Marva Whitney</TrackArtist>
+    <TrackTitle>Things Have Got To Get Better</TrackTitle>
+    <TrackLength>214.968</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>124.9268007027132</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.17037535</Gain>
+  </Sample>
+  <Sample>
+    <Start>4.727</Start>
+    <Length>7.859</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Speedometer</TrackArtist>
+    <TrackTitle>This Ain't Moving</TrackTitle>
+    <TrackLength>204.643</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>122.152945667388</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.78382051</Gain>
+  </Sample>
+  <Sample>
+    <Start>131.252</Start>
+    <Length>3.745</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Speedometer</TrackArtist>
+    <TrackTitle>This Ain't Moving</TrackTitle>
+    <TrackLength>204.643</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>128.1708945260345</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.72812617</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.474</Start>
+    <Length>2.426</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Cm</Key>
+    <TrackArtist>Sharon Jones &amp; The Dap Kings</TrackArtist>
+    <TrackTitle>Without A Heart (Instrumental)</TrackTitle>
+    <TrackLength>167.346</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>98.9282769991755</Bpm>
+    <Tags>
+      <string>soul</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>86.336</Start>
+    <Length>2.426</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Cm</Key>
+    <TrackArtist>Sharon Jones &amp; The Dap Kings</TrackArtist>
+    <TrackTitle>Without A Heart (Instrumental)</TrackTitle>
+    <TrackLength>167.346</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>98.9282769991755</Bpm>
+    <Tags>
+      <string>soul</string>
+    </Tags>
+    <Gain>1.30162072</Gain>
+  </Sample>
+  <Sample>
+    <Start>4.57</Start>
+    <Length>21.257</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Jurassic 5</TrackArtist>
+    <TrackTitle>Concrete Schoolyard (Instrumental)</TrackTitle>
+    <TrackLength>323.579</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>90.3231876558310</Bpm>
+    <Tags>
+      <string>hip-hop</string>
+    </Tags>
+    <Gain>1.31694865</Gain>
+  </Sample>
+  <Sample>
+    <Start>164.202</Start>
+    <Length>10.674</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Jurassic 5</TrackArtist>
+    <TrackTitle>Concrete Schoolyard (Instrumental)</TrackTitle>
+    <TrackLength>323.579</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>89.938167509837</Bpm>
+    <Tags>
+      <string>hip-hop</string>
+    </Tags>
+    <Gain>1.29621422</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.038</Start>
+    <Length>2.549</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bm</Key>
+    <TrackArtist>A Tribe Called Quest</TrackArtist>
+    <TrackTitle>Ham N Eggs (Instrumental)</TrackTitle>
+    <TrackLength>269.693</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>94.1545704197725</Bpm>
+    <Tags>
+      <string>hip-hop</string>
+    </Tags>
+    <Gain>1.075774</Gain>
+  </Sample>
+  <Sample>
+    <Start>51.028</Start>
+    <Length>5.105</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bm</Key>
+    <TrackArtist>A Tribe Called Quest</TrackArtist>
+    <TrackTitle>Ham N Eggs (Instrumental)</TrackTitle>
+    <TrackLength>269.693</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>94.0254652301665</Bpm>
+    <Tags>
+      <string>hip-hop</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>151.174</Start>
+    <Length>10.121</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bbm</Key>
+    <TrackArtist>A Tribe Called Quest</TrackArtist>
+    <TrackTitle>Push It Along (Instrumental)</TrackTitle>
+    <TrackLength>285.52</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>94.852287323387</Bpm>
+    <Tags>
+      <string>hip-hop</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>231.661</Start>
+    <Length>5.065</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bbm</Key>
+    <TrackArtist>A Tribe Called Quest</TrackArtist>
+    <TrackTitle>Push It Along (Instrumental)</TrackTitle>
+    <TrackLength>285.52</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>94.7680157946695</Bpm>
+    <Tags>
+      <string>hip-hop</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.328</Start>
+    <Length>2.475</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Jurassic 5</TrackArtist>
+    <TrackTitle>Great Expectations (Instrumental)</TrackTitle>
+    <TrackLength>283.638</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>96.969696969697</Bpm>
+    <Tags>
+      <string>hip-hop</string>
+    </Tags>
+    <Gain>1.570128</Gain>
+  </Sample>
+  <Sample>
+    <Start>89.417</Start>
+    <Length>19.797</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Jurassic 5</TrackArtist>
+    <TrackTitle>Great Expectations (Instrumental)</TrackTitle>
+    <TrackLength>283.638</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>96.9843915744810</Bpm>
+    <Tags>
+      <string>hip-hop</string>
+    </Tags>
+    <Gain>1.22548437</Gain>
+  </Sample>
+  <Sample>
+    <Start>33.869</Start>
+    <Length>9.683</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Abm</Key>
+    <TrackArtist>Jurassic 5</TrackArtist>
+    <TrackTitle>Break (Instrumental)</TrackTitle>
+    <TrackLength>196.362</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>99.1428276360632</Bpm>
+    <Tags>
+      <string>hip-hop</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>145.035</Start>
+    <Length>4.847</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Abm</Key>
+    <TrackArtist>Jurassic 5</TrackArtist>
+    <TrackTitle>Break (Instrumental)</TrackTitle>
+    <TrackLength>196.362</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>99.0303280379615</Bpm>
+    <Tags>
+      <string>hip-hop</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.625</Start>
+    <Length>9.565</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Dm</Key>
+    <TrackArtist>Jurassic 5</TrackArtist>
+    <TrackTitle>Canto De Ossanha (Instrumental)</TrackTitle>
+    <TrackLength>255.453</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>100.365917407214</Bpm>
+    <Tags>
+      <string>hip-hop</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>105.818</Start>
+    <Length>4.793</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Dm</Key>
+    <TrackArtist>Jurassic 5</TrackArtist>
+    <TrackTitle>Canto De Ossanha (Instrumental)</TrackTitle>
+    <TrackLength>255.453</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>100.1460463175465</Bpm>
+    <Tags>
+      <string>hip-hop</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>40.37</Start>
+    <Length>2.222</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>C</Key>
+    <TrackArtist>Otis Redding &amp; Carla Thomas</TrackArtist>
+    <TrackTitle>Tramp (Instrumental)</TrackTitle>
+    <TrackLength>152.067</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>108.010801080108</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.14489865</Gain>
+  </Sample>
+  <Sample>
+    <Start>93.497</Start>
+    <Length>4.434</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>C</Key>
+    <TrackArtist>Otis Redding &amp; Carla Thomas</TrackArtist>
+    <TrackTitle>Tramp (Instrumental)</TrackTitle>
+    <TrackLength>152.067</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>108.254397834912</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>2.346</Start>
+    <Length>7.797</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Am</Key>
+    <TrackArtist>Spiller</TrackArtist>
+    <TrackTitle>Groovejet (Radio Edit) (Instrumental)</TrackTitle>
+    <TrackLength>223.869</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>123.12427856868</Bpm>
+    <Tags>
+      <string>house</string>
+    </Tags>
+    <Gain>1.11452377</Gain>
+  </Sample>
+  <Sample>
+    <Start>170.167</Start>
+    <Length>3.898</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Am</Key>
+    <TrackArtist>Spiller</TrackArtist>
+    <TrackTitle>Groovejet (Radio Edit) (Instrumental)</TrackTitle>
+    <TrackLength>223.869</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>123.1400718317085</Bpm>
+    <Tags>
+      <string>house</string>
+    </Tags>
+    <Gain>1.11387968</Gain>
+  </Sample>
+  <Sample>
+    <Start>1.43</Start>
+    <Length>7.097</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Am</Key>
+    <TrackArtist>Soopasoul</TrackArtist>
+    <TrackTitle>Swing Down (Instrumental)</TrackTitle>
+    <TrackLength>224.212</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>135.268423277441</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.16339433</Gain>
+  </Sample>
+  <Sample>
+    <Start>125.697</Start>
+    <Length>14.194</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Am</Key>
+    <TrackArtist>Soopasoul</TrackArtist>
+    <TrackTitle>Swing Down (Instrumental)</TrackTitle>
+    <TrackLength>224.212</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>135.2684232774412</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.16542184</Gain>
+  </Sample>
+  <Sample>
+    <Start>36.054</Start>
+    <Length>8.734</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Wajid &amp; Shreya Ghoshal</TrackArtist>
+    <TrackTitle>MashAllah</TrackTitle>
+    <TrackLength>285.453</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>109.915273643233</Bpm>
+    <Tags>
+      <string>desi</string>
+    </Tags>
+    <Gain>1.04830921</Gain>
+  </Sample>
+  <Sample>
+    <Start>182.235</Start>
+    <Length>4.363</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Wajid &amp; Shreya Ghoshal</TrackArtist>
+    <TrackTitle>MashAllah</TrackTitle>
+    <TrackLength>285.453</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>110.0160440064175</Bpm>
+    <Tags>
+      <string>desi</string>
+    </Tags>
+    <Gain>1.21148372</Gain>
+  </Sample>
+  <Sample>
+    <Start>2.564</Start>
+    <Length>4.298</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bm</Key>
+    <TrackArtist>Young Holt Unlimited</TrackArtist>
+    <TrackTitle>Bumpin' On Young Street</TrackTitle>
+    <TrackLength>311.183</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>111.679851093532</Bpm>
+    <Tags>
+      <string>soul</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>147.294</Start>
+    <Length>8.849</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bm</Key>
+    <TrackArtist>Young Holt Unlimited</TrackArtist>
+    <TrackTitle>Bumpin' On Young Street</TrackTitle>
+    <TrackLength>311.183</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>108.486834670584</Bpm>
+    <Tags>
+      <string>soul</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>8.717</Start>
+    <Length>4.297</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Abm</Key>
+    <TrackArtist>El Michels Affair</TrackArtist>
+    <TrackTitle>Uzi (Pinky Ring)</TrackTitle>
+    <TrackLength>189.16</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>111.705841284617</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.125859</Gain>
+  </Sample>
+  <Sample>
+    <Start>149.714</Start>
+    <Length>8.666</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Abm</Key>
+    <TrackArtist>El Michels Affair</TrackArtist>
+    <TrackTitle>Uzi (Pinky Ring)</TrackTitle>
+    <TrackLength>189.16</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>110.77775213478</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.08615088</Gain>
+  </Sample>
+  <Sample>
+    <Start>4.385</Start>
+    <Length>8.545</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Cm</Key>
+    <TrackArtist>The Bamboos</TrackArtist>
+    <TrackTitle>Tongan Steel</TrackTitle>
+    <TrackLength>304.431</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>112.34640140433</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.58947372</Gain>
+  </Sample>
+  <Sample>
+    <Start>205.225</Start>
+    <Length>2.13</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Cm</Key>
+    <TrackArtist>The Bamboos</TrackArtist>
+    <TrackTitle>Tongan Steel</TrackTitle>
+    <TrackLength>304.431</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>112.67605633802825</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.60693443</Gain>
+  </Sample>
+  <Sample>
+    <Start>9.347</Start>
+    <Length>8.626</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Abm</Key>
+    <TrackArtist>Wess &amp; The Airedales</TrackArtist>
+    <TrackTitle>Blackout</TrackTitle>
+    <TrackLength>159.478</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>111.291444470206</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.03222656</Gain>
+  </Sample>
+  <Sample>
+    <Start>77.409</Start>
+    <Length>8.382</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Abm</Key>
+    <TrackArtist>Wess &amp; The Airedales</TrackArtist>
+    <TrackTitle>Blackout</TrackTitle>
+    <TrackLength>159.478</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>114.531138153185</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.22768831</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.396</Start>
+    <Length>2.094</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>F</Key>
+    <TrackArtist>Elis Regina</TrackArtist>
+    <TrackTitle>Roda</TrackTitle>
+    <TrackLength>156.333</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>114.61318051575925</Bpm>
+    <Tags>
+      <string>jazz</string>
+    </Tags>
+    <Gain>1.776278</Gain>
+  </Sample>
+  <Sample>
+    <Start>146.496</Start>
+    <Length>4.029</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>F</Key>
+    <TrackArtist>Elis Regina</TrackArtist>
+    <TrackTitle>Roda</TrackTitle>
+    <TrackLength>156.333</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>119.1362620997765</Bpm>
+    <Tags>
+      <string>jazz</string>
+    </Tags>
+    <Gain>1.011733</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.111</Start>
+    <Length>4.182</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>The Bamboos</TrackArtist>
+    <TrackTitle>Eel Oil</TrackTitle>
+    <TrackLength>185.208</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>114.777618364419</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.18181491</Gain>
+  </Sample>
+  <Sample>
+    <Start>127.132</Start>
+    <Length>8.539</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>The Bamboos</TrackArtist>
+    <TrackTitle>Eel Oil</TrackTitle>
+    <TrackLength>185.208</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>112.425342545966</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.163353</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.721</Start>
+    <Length>8.342</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Blackbyrds</TrackArtist>
+    <TrackTitle>The Blackbyrds' Theme</TrackTitle>
+    <TrackLength>246.491</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>115.08031647087</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.33193767</Gain>
+  </Sample>
+  <Sample>
+    <Start>134.229</Start>
+    <Length>4.176</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Blackbyrds</TrackArtist>
+    <TrackTitle>The Blackbyrds' Theme</TrackTitle>
+    <TrackLength>246.491</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>114.942528735632</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.29243088</Gain>
+  </Sample>
+  <Sample>
+    <Start>1.157</Start>
+    <Length>4.173</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Cm</Key>
+    <TrackArtist>Monie Love</TrackArtist>
+    <TrackTitle>Monie In The Middle</TrackTitle>
+    <TrackLength>225.025</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>115.0251617541335</Bpm>
+    <Tags>
+      <string>hip-hop</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>122.191</Start>
+    <Length>16.691</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Cm</Key>
+    <TrackArtist>Monie Love</TrackArtist>
+    <TrackTitle>Monie In The Middle</TrackTitle>
+    <TrackLength>225.025</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>115.0320532023246</Bpm>
+    <Tags>
+      <string>hip-hop</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.937</Start>
+    <Length>16.466</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Am</Key>
+    <TrackArtist>Breakestra</TrackArtist>
+    <TrackTitle>Joyful Noise</TrackTitle>
+    <TrackLength>336.118</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>116.6039110895178</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.62857854</Gain>
+  </Sample>
+  <Sample>
+    <Start>167.377</Start>
+    <Length>16.432</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Am</Key>
+    <TrackArtist>Breakestra</TrackArtist>
+    <TrackTitle>Joyful Noise</TrackTitle>
+    <TrackLength>336.118</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>116.8451801363194</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.60488808</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.121</Start>
+    <Length>8.286</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Em</Key>
+    <TrackArtist>Manzel</TrackArtist>
+    <TrackTitle>Space Funk</TrackTitle>
+    <TrackLength>290.4</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>115.858073859522</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.405344</Gain>
+  </Sample>
+  <Sample>
+    <Start>254.546</Start>
+    <Length>8.186</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Em</Key>
+    <TrackArtist>Manzel</TrackArtist>
+    <TrackTitle>Space Funk</TrackTitle>
+    <TrackLength>290.4</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>117.273393598827</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.37301493</Gain>
+  </Sample>
+  <Sample>
+    <Start>6.969</Start>
+    <Length>2.058</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>The Bamboos</TrackArtist>
+    <TrackTitle>The Witch</TrackTitle>
+    <TrackLength>249.913</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>116.61807580174925</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.47280657</Gain>
+  </Sample>
+  <Sample>
+    <Start>153.226</Start>
+    <Length>2.04</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>The Bamboos</TrackArtist>
+    <TrackTitle>The Witch</TrackTitle>
+    <TrackLength>249.913</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>117.6470588235295</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.49757767</Gain>
+  </Sample>
+  <Sample>
+    <Start>6.13</Start>
+    <Length>4.011</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>The Bamboos</TrackArtist>
+    <TrackTitle>Tobago Strut</TrackTitle>
+    <TrackLength>265.456</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>119.670905011219</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.382049</Gain>
+  </Sample>
+  <Sample>
+    <Start>139.23</Start>
+    <Length>8</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>The Bamboos</TrackArtist>
+    <TrackTitle>Tobago Strut</TrackTitle>
+    <TrackLength>265.456</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>120</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.18626451</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.552</Start>
+    <Length>7.989</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Spanky Wilson &amp; The Quantic Soul Orchestra</TrackArtist>
+    <TrackTitle>Don't Joke With A Hungry Man (Part 3)</TrackTitle>
+    <TrackLength>206.6</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>120.165227187383</Bpm>
+    <Tags>
+      <string>soul</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>104.537</Start>
+    <Length>8.006</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Spanky Wilson &amp; The Quantic Soul Orchestra</TrackArtist>
+    <TrackTitle>Don't Joke With A Hungry Man (Part 3)</TrackTitle>
+    <TrackLength>206.6</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>119.910067449413</Bpm>
+    <Tags>
+      <string>soul</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>4.017</Start>
+    <Length>7.588</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Am</Key>
+    <TrackArtist>The Bamboos</TrackArtist>
+    <TrackTitle>Tighten It Up</TrackTitle>
+    <TrackLength>235.337</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>126.515550869794</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.65306222</Gain>
+  </Sample>
+  <Sample>
+    <Start>100.904</Start>
+    <Length>7.752</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Am</Key>
+    <TrackArtist>The Bamboos</TrackArtist>
+    <TrackTitle>Tighten It Up</TrackTitle>
+    <TrackLength>235.337</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>123.839009287926</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.61397886</Gain>
+  </Sample>
+  <Sample>
+    <Start>6.136</Start>
+    <Length>1.915</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bm</Key>
+    <TrackArtist>Stan Getz &amp; Charlie Byrd</TrackArtist>
+    <TrackTitle>E Luxo So</TrackTitle>
+    <TrackLength>223.216</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>125.32637075718025</Bpm>
+    <Tags>
+      <string>jazz</string>
+    </Tags>
+    <Gain>3.23592734</Gain>
+  </Sample>
+  <Sample>
+    <Start>201.678</Start>
+    <Length>8.154</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bm</Key>
+    <TrackArtist>Stan Getz &amp; Charlie Byrd</TrackArtist>
+    <TrackTitle>E Luxo So</TrackTitle>
+    <TrackLength>223.216</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>117.733627667403</Bpm>
+    <Tags>
+      <string>jazz</string>
+    </Tags>
+    <Gain>1.273494</Gain>
+  </Sample>
+  <Sample>
+    <Start>117.917</Start>
+    <Length>1.913</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>The Quantic Soul Orchestra</TrackArtist>
+    <TrackTitle>Get A Move On</TrackTitle>
+    <TrackLength>215.589</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>125.45739675901725</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.62874043</Gain>
+  </Sample>
+  <Sample>
+    <Start>197.76</Start>
+    <Length>7.59</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>The Quantic Soul Orchestra</TrackArtist>
+    <TrackTitle>Get A Move On</TrackTitle>
+    <TrackLength>215.589</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>126.482213438735</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.58325279</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.213</Start>
+    <Length>3.815</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>C</Key>
+    <TrackArtist>Orlandivo</TrackArtist>
+    <TrackTitle>E Samba</TrackTitle>
+    <TrackLength>146.333</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>125.819134993447</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1.88045907</Gain>
+  </Sample>
+  <Sample>
+    <Start>124.771</Start>
+    <Length>14.824</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>C</Key>
+    <TrackArtist>Orlandivo</TrackArtist>
+    <TrackTitle>E Samba</TrackTitle>
+    <TrackLength>146.333</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>129.5196977873718</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1.39606321</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.38</Start>
+    <Length>3.94</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>Los Papines</TrackArtist>
+    <TrackTitle>El Pequeño Tamborilero</TrackTitle>
+    <TrackLength>249.573</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>121.8274111675125</Bpm>
+    <Tags>
+      <string>christmas</string>
+    </Tags>
+    <Gain>1.50355613</Gain>
+  </Sample>
+  <Sample>
+    <Start>92.499</Start>
+    <Length>1.866</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>Los Papines</TrackArtist>
+    <TrackTitle>El Pequeño Tamborilero</TrackTitle>
+    <TrackLength>249.573</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>128.6173633440515</Bpm>
+    <Tags>
+      <string>christmas</string>
+    </Tags>
+    <Gain>1.18211341</Gain>
+  </Sample>
+  <Sample>
+    <Start>1.482</Start>
+    <Length>14.826</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Benard Purdie</TrackArtist>
+    <TrackTitle>Soul Drums</TrackTitle>
+    <TrackLength>206.328</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>129.5022258195062</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.61064684</Gain>
+  </Sample>
+  <Sample>
+    <Start>96.312</Start>
+    <Length>7.723</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Benard Purdie</TrackArtist>
+    <TrackTitle>Soul Drums</TrackTitle>
+    <TrackLength>206.328</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>124.304026932539</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.62688053</Gain>
+  </Sample>
+  <Sample>
+    <Start>12.186</Start>
+    <Length>3.674</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Abm</Key>
+    <TrackArtist>Marcos Valle</TrackArtist>
+    <TrackTitle>Batucada Sergiu</TrackTitle>
+    <TrackLength>138.188</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>130.647795318454</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1.83291376</Gain>
+  </Sample>
+  <Sample>
+    <Start>115.677</Start>
+    <Length>3.799</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Abm</Key>
+    <TrackArtist>Marcos Valle</TrackArtist>
+    <TrackTitle>Batucada Sergiu</TrackTitle>
+    <TrackLength>138.188</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>126.3490392208475</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>2.134</Start>
+    <Length>3.638</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Am</Key>
+    <TrackArtist>Xavier Cugat</TrackArtist>
+    <TrackTitle>Ritmo Tropical</TrackTitle>
+    <TrackLength>168.777</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>131.940626717977</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>2.37167048</Gain>
+  </Sample>
+  <Sample>
+    <Start>152.84</Start>
+    <Length>7.377</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Am</Key>
+    <TrackArtist>Xavier Cugat</TrackArtist>
+    <TrackTitle>Ritmo Tropical</TrackTitle>
+    <TrackLength>168.777</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>130.134200894673</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1.26630855</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.554</Start>
+    <Length>7.361</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>Speedometer</TrackArtist>
+    <TrackTitle>Take A Chance</TrackTitle>
+    <TrackLength>188.134</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>130.417062899063</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.59217691</Gain>
+  </Sample>
+  <Sample>
+    <Start>109.66</Start>
+    <Length>3.638</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>Speedometer</TrackArtist>
+    <TrackTitle>Take A Chance</TrackTitle>
+    <TrackLength>188.134</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>131.940626717977</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.50259089</Gain>
+  </Sample>
+  <Sample>
+    <Start>1.983</Start>
+    <Length>3.851</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Am</Key>
+    <TrackArtist>Roberta Roena</TrackArtist>
+    <TrackTitle>Que Se Sepa</TrackTitle>
+    <TrackLength>227.004</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>124.642949883147</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.17238545</Gain>
+  </Sample>
+  <Sample>
+    <Start>92.95</Start>
+    <Length>1.817</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Am</Key>
+    <TrackArtist>Roberta Roena</TrackArtist>
+    <TrackTitle>Que Se Sepa</TrackTitle>
+    <TrackLength>227.004</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>132.085855806274</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.98515689</Gain>
+  </Sample>
+  <Sample>
+    <Start>1.116</Start>
+    <Length>3.589</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>F</Key>
+    <TrackArtist>Som Tres</TrackArtist>
+    <TrackTitle>Homenagem A Mongo</TrackTitle>
+    <TrackLength>263.576</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>133.7419894120925</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>137.267</Start>
+    <Length>7.314</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>F</Key>
+    <TrackArtist>Som Tres</TrackArtist>
+    <TrackTitle>Homenagem A Mongo</TrackTitle>
+    <TrackLength>263.576</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>131.255127153404</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>3.985</Start>
+    <Length>3.58</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bb</Key>
+    <TrackArtist>Tito Puente</TrackArtist>
+    <TrackTitle>Fiesta Con Puente</TrackTitle>
+    <TrackLength>171.733</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>134.078212290503</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1.563162</Gain>
+  </Sample>
+  <Sample>
+    <Start>153.241</Start>
+    <Length>7.503</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bb</Key>
+    <TrackArtist>Tito Puente</TrackArtist>
+    <TrackTitle>Fiesta Con Puente</TrackTitle>
+    <TrackLength>171.733</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>127.948820471811</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1.23948407</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.787</Start>
+    <Length>3.551</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Eb</Key>
+    <TrackArtist>Speedometer</TrackArtist>
+    <TrackTitle>Soul Grooving (Live)</TrackTitle>
+    <TrackLength>253.68</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>135.173190650521</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.32274342</Gain>
+  </Sample>
+  <Sample>
+    <Start>189.84</Start>
+    <Length>1.801</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Eb</Key>
+    <TrackArtist>Speedometer</TrackArtist>
+    <TrackTitle>Soul Grooving (Live)</TrackTitle>
+    <TrackLength>253.68</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>133.259300388673</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.28826416</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.197</Start>
+    <Length>3.592</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Maceo Parker</TrackArtist>
+    <TrackTitle>Tighten Up</TrackTitle>
+    <TrackLength>429.648</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>133.630289532294</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.91743231</Gain>
+  </Sample>
+  <Sample>
+    <Start>108.894</Start>
+    <Length>3.532</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Maceo Parker</TrackArtist>
+    <TrackTitle>Tighten Up</TrackTitle>
+    <TrackLength>429.648</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>135.9003397508495</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.649484</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.947</Start>
+    <Length>9.144</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Dm</Key>
+    <TrackArtist>Young Holt Unlimited</TrackArtist>
+    <TrackTitle>Rubber Lips</TrackTitle>
+    <TrackLength>190.776</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>104.98687664042</Bpm>
+    <Tags>
+      <string>soul</string>
+    </Tags>
+    <Gain>1.11684108</Gain>
+  </Sample>
+  <Sample>
+    <Start>153.695</Start>
+    <Length>1.143</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Dm</Key>
+    <TrackArtist>Young Holt Unlimited</TrackArtist>
+    <TrackTitle>Rubber Lips</TrackTitle>
+    <TrackLength>190.776</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>104.98687664042</Bpm>
+    <Tags>
+      <string>soul</string>
+    </Tags>
+    <Gain>1</Gain>
   </Sample>
 </ArrayOfSample>
