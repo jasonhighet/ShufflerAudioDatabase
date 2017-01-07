@@ -32279,42 +32279,6 @@
     <Gain>0.946442</Gain>
   </Sample>
   <Sample>
-    <Start>0.115</Start>
-    <Length>19.713</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Bm</Key>
-    <TrackArtist>Mr. Scruff</TrackArtist>
-    <TrackTitle>Music Takes Me Up (feat. Alice Russell)</TrackTitle>
-    <TrackLength>328.467</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>97.3976563688936</Bpm>
-    <Tags>
-      <string>downbeat</string>
-    </Tags>
-    <Gain>1.090646</Gain>
-  </Sample>
-  <Sample>
-    <Start>167.674</Start>
-    <Length>19.713</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Bm</Key>
-    <TrackArtist>Mr. Scruff</TrackArtist>
-    <TrackTitle>Music Takes Me Up (feat. Alice Russell)</TrackTitle>
-    <TrackLength>328.467</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>97.3976563688936</Bpm>
-    <Tags>
-      <string>downbeat</string>
-    </Tags>
-    <Gain>1.090646</Gain>
-  </Sample>
-  <Sample>
     <Start>8.885</Start>
     <Length>9.86</Length>
     <Offset>0</Offset>
@@ -33069,42 +33033,6 @@
       <string>soul</string>
     </Tags>
     <Gain>0.84936</Gain>
-  </Sample>
-  <Sample>
-    <Start>0.044</Start>
-    <Length>4.964</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Bm</Key>
-    <TrackArtist>Jurassic 5</TrackArtist>
-    <TrackTitle>Great Expectations</TrackTitle>
-    <TrackLength>217.783</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>96.696212731668</Bpm>
-    <Tags>
-      <string>hip-hop</string>
-    </Tags>
-    <Gain>0.756629</Gain>
-  </Sample>
-  <Sample>
-    <Start>158.455</Start>
-    <Length>19.771</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Bm</Key>
-    <TrackArtist>Jurassic 5</TrackArtist>
-    <TrackTitle>Great Expectations</TrackTitle>
-    <TrackLength>217.783</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>97.1119316170148</Bpm>
-    <Tags>
-      <string>hip-hop</string>
-    </Tags>
-    <Gain>0.756629</Gain>
   </Sample>
   <Sample>
     <Start>109.749</Start>
@@ -52545,5 +52473,77 @@
       <string>soul</string>
     </Tags>
     <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.044</Start>
+    <Length>4.964</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bm</Key>
+    <TrackArtist>Jurassic 5</TrackArtist>
+    <TrackTitle>Great Expectations</TrackTitle>
+    <TrackLength>217.783</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>96.696212731668</Bpm>
+    <Tags>
+      <string>hip-hop</string>
+    </Tags>
+    <Gain>1.5757153</Gain>
+  </Sample>
+  <Sample>
+    <Start>158.455</Start>
+    <Length>19.771</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bm</Key>
+    <TrackArtist>Jurassic 5</TrackArtist>
+    <TrackTitle>Great Expectations</TrackTitle>
+    <TrackLength>217.783</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>97.1119316170148</Bpm>
+    <Tags>
+      <string>hip-hop</string>
+    </Tags>
+    <Gain>1.33020747</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.115</Start>
+    <Length>4.928</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bm</Key>
+    <TrackArtist>Mr. Scruff</TrackArtist>
+    <TrackTitle>Music Takes Me Up (feat. Alice Russell)</TrackTitle>
+    <TrackLength>328.467</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>97.4025974025975</Bpm>
+    <Tags>
+      <string>downbeat</string>
+    </Tags>
+    <Gain>1.02801657</Gain>
+  </Sample>
+  <Sample>
+    <Start>167.674</Start>
+    <Length>19.713</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bm</Key>
+    <TrackArtist>Mr. Scruff</TrackArtist>
+    <TrackTitle>Music Takes Me Up (feat. Alice Russell)</TrackTitle>
+    <TrackLength>328.467</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>97.3976563688936</Bpm>
+    <Tags>
+      <string>downbeat</string>
+    </Tags>
+    <Gain>1.00716174</Gain>
   </Sample>
 </ArrayOfSample>
