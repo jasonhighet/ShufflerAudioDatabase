@@ -52546,4 +52546,2920 @@
     </Tags>
     <Gain>1.00716174</Gain>
   </Sample>
+  <Sample>
+    <Start>0.026638321995464852</Start>
+    <Length>1.6502154195011338</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 01</TrackTitle>
+    <TrackLength>1.698</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>72.71777889233175</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.75835788</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.034050453514739232</Start>
+    <Length>2.185</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 02</TrackTitle>
+    <TrackLength>6.557</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>109.8398169336385</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.22617221</Gain>
+  </Sample>
+  <Sample>
+    <Start>2.2187386621315195</Start>
+    <Length>2.16734693877551</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 02</TrackTitle>
+    <TrackLength>6.557</TrackLength>
+    <Description>Loop2</Description>
+    <Bpm>110.73446327683625</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.15397072</Gain>
+  </Sample>
+  <Sample>
+    <Start>4.3888151927437642</Start>
+    <Length>2.1342573696145126</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 02</TrackTitle>
+    <TrackLength>6.557</TrackLength>
+    <Description>Loop3</Description>
+    <Bpm>112.4512926214465</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.028035714285714285</Start>
+    <Length>1.8746145124716553</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Disco</TrackArtist>
+    <TrackTitle>Disco House Drum Loop 01</TrackTitle>
+    <TrackLength>3.814</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>128.02632136009825</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.14505875</Gain>
+  </Sample>
+  <Sample>
+    <Start>1.9032539682539682</Start>
+    <Length>1.877437641723356</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Disco</TrackArtist>
+    <TrackTitle>Disco House Drum Loop 01</TrackTitle>
+    <TrackLength>3.814</TrackLength>
+    <Description>Loop2</Description>
+    <Bpm>127.83380638927475</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.15478408</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.028217120181405896</Start>
+    <Length>2.1080158730158729</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 01</TrackTitle>
+    <TrackLength>4.127</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>113.8511351229245</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.45430744</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.034033446712018141</Start>
+    <Length>2.6186536281179138</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 01</TrackTitle>
+    <TrackLength>2.847</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>91.65015083437875</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.030085034013605443</Start>
+    <Length>2.61375283446712</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 02</TrackTitle>
+    <TrackLength>2.847</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>91.82199511566675</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.01748228</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.037162698412698411</Start>
+    <Length>2.6137641723356011</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 03</TrackTitle>
+    <TrackLength>2.847</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>91.82159681435275</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.01339149</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.033622448979591837</Start>
+    <Length>2.611986961451247</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 04</TrackTitle>
+    <TrackLength>2.847</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>91.88407275457975</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.028313492063492065</Start>
+    <Length>2.6226048752834465</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 05</TrackTitle>
+    <TrackLength>2.847</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>91.51206964566525</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.016693</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.033443877551020407</Start>
+    <Length>2.4782397959183675</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 06</TrackTitle>
+    <TrackLength>2.691</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>96.84292875745</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.01827276</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.030099206349206348</Start>
+    <Length>2.4799121315192743</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 07</TrackTitle>
+    <TrackLength>2.691</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>96.7776224607475</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.030099206349206348</Start>
+    <Length>2.4765674603174603</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 08</TrackTitle>
+    <TrackLength>2.691</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>96.908323252069</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.01332879</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.028151927437641722</Start>
+    <Length>2.4790192743764172</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 09</TrackTitle>
+    <TrackLength>2.664</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>96.81247841865625</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.031462585034013606</Start>
+    <Length>2.4790192743764172</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 10</TrackTitle>
+    <TrackLength>2.664</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>96.81247841865625</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.02128792</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.028931405895691611</Start>
+    <Length>2.356281179138322</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 11</TrackTitle>
+    <TrackLength>2.586</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>101.8554161213335</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.02300966</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.03181972789115646</Start>
+    <Length>2.3547562358276646</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 12</TrackTitle>
+    <TrackLength>2.56</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>101.9213778260335</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.02727532</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.033412698412698415</Start>
+    <Length>2.357936507936508</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 13</TrackTitle>
+    <TrackLength>2.56</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>101.78391114103</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.01176429</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.03181972789115646</Start>
+    <Length>2.3563463718820863</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 14</TrackTitle>
+    <TrackLength>2.56</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>101.8525981001275</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.00054967</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.033412698412698415</Start>
+    <Length>2.3563435374149662</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 15</TrackTitle>
+    <TrackLength>2.56</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>101.85272061954625</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.01217067</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.027176870748299321</Start>
+    <Length>2.2466950113378683</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 16</TrackTitle>
+    <TrackLength>2.429</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>106.8235780953125</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.00740945</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.0317063492063492</Start>
+    <Length>2.2466950113378683</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 17</TrackTitle>
+    <TrackLength>2.429</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>106.8235780953125</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.00453722</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.033217120181405893</Start>
+    <Length>2.2436734693877551</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 18</TrackTitle>
+    <TrackLength>2.429</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>106.96743678370025</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.01801968</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.0317063492063492</Start>
+    <Length>2.2436734693877551</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 19</TrackTitle>
+    <TrackLength>2.429</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>106.96743678370025</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.11623228</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.034727891156462583</Start>
+    <Length>2.2421626984126983</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 20</TrackTitle>
+    <TrackLength>2.429</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>107.03951152603875</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.031269841269841267</Start>
+    <Length>2.6161734693877552</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 21</TrackTitle>
+    <TrackLength>2.795</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>91.73703609805575</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.00058019</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.034742063492063491</Start>
+    <Length>2.6127012471655329</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 22</TrackTitle>
+    <TrackLength>2.795</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>91.8589525918325</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.033313492063492066</Start>
+    <Length>2.6195833333333334</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 23</TrackTitle>
+    <TrackLength>2.821</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>91.617623667886</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.00088584</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.029532312925170067</Start>
+    <Length>2.6161734693877552</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 24</TrackTitle>
+    <TrackLength>2.795</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>91.73703609805575</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.031561791383219955</Start>
+    <Length>2.6178287981859412</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 25</TrackTitle>
+    <TrackLength>2.821</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>91.67902811914625</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.052755</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.031462585034013606</Start>
+    <Length>2.4823327664399093</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 26</TrackTitle>
+    <TrackLength>2.664</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>96.68325022523125</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.00435245</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.032794784580498865</Start>
+    <Length>2.480952380952381</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 27</TrackTitle>
+    <TrackLength>2.638</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>96.73704414587325</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.00217152</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.033120748299319727</Start>
+    <Length>2.4823299319727892</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 28</TrackTitle>
+    <TrackLength>2.664</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>96.68336062372825</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.033443877551020407</Start>
+    <Length>2.4832568027210886</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 29</TrackTitle>
+    <TrackLength>2.691</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>96.647273748335</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.101708</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.032794784580498865</Start>
+    <Length>2.480952380952381</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 30</TrackTitle>
+    <TrackLength>2.638</TrackLength>
+    <Description>Fiil1</Description>
+    <Bpm>96.73704414587325</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.033069727891156461</Start>
+    <Length>2.3543509070294784</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 31</TrackTitle>
+    <TrackLength>2.534</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>101.93892477260825</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.05049372</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.035002834467120179</Start>
+    <Length>2.3548809523809524</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 32</TrackTitle>
+    <TrackLength>2.56</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>101.91597998078975</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.01903284</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.030229591836734696</Start>
+    <Length>2.3547562358276646</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 33</TrackTitle>
+    <TrackLength>2.56</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>101.9213778260335</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.03709447</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.030229591836734696</Start>
+    <Length>2.3531632653061223</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 34</TrackTitle>
+    <TrackLength>2.56</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>101.99037335761675</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.13263047</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.036592970521541951</Start>
+    <Length>2.3563463718820863</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 35</TrackTitle>
+    <TrackLength>2.56</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>101.8525981001275</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.001957</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.037746598639455779</Start>
+    <Length>2.2451842403628119</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 36</TrackTitle>
+    <TrackLength>2.429</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>106.89545903868325</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.00134456</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.032859977324263039</Start>
+    <Length>2.2464342403628117</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 37</TrackTitle>
+    <TrackLength>2.403</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>106.83597840871525</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.032859977324263039</Start>
+    <Length>2.2422448979591838</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 38</TrackTitle>
+    <TrackLength>2.403</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>107.03558751251475</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.00009155</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.0317063492063492</Start>
+    <Length>2.2466950113378683</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 39</TrackTitle>
+    <TrackLength>2.429</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>106.8235780953125</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.11566222</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.033574263038548754</Start>
+    <Length>2.2403287981859412</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 40</TrackTitle>
+    <TrackLength>2.456</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>107.12713249695075</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.04383421</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.028313492063492065</Start>
+    <Length>2.6155243764172336</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 41</TrackTitle>
+    <TrackLength>2.847</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>91.759802418188</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.00125277</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.026788548752834467</Start>
+    <Length>2.6216609977324263</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 42</TrackTitle>
+    <TrackLength>2.873</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>91.5450167689815</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.00128341</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.028313492063492065</Start>
+    <Length>2.611986961451247</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 43</TrackTitle>
+    <TrackLength>2.847</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>91.88407275457975</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.026301020408163265</Start>
+    <Length>2.6143225623582764</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 44</TrackTitle>
+    <TrackLength>2.821</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>91.80198474954275</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.00269282</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.028313492063492065</Start>
+    <Length>2.6190646258503403</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 45</TrackTitle>
+    <TrackLength>2.847</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>91.63576859890525</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.01029813</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.030391156462585035</Start>
+    <Length>2.4752862811791383</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 46</TrackTitle>
+    <TrackLength>2.717</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>96.95848186322625</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.00039685</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.030391156462585035</Start>
+    <Length>2.4786621315192745</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 47</TrackTitle>
+    <TrackLength>2.717</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>96.82642783302375</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.028426870748299318</Start>
+    <Length>2.4799121315192743</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 48</TrackTitle>
+    <TrackLength>2.691</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>96.7776224607475</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.0361762</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.030391156462585035</Start>
+    <Length>2.4769756235827662</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 50</TrackTitle>
+    <TrackLength>2.717</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>96.8923544160105</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.009178</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.027599206349206349</Start>
+    <Length>2.3573526077097506</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 51</TrackTitle>
+    <TrackLength>2.612</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>101.80912232437225</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.00109982</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.030847505668934242</Start>
+    <Length>2.3589739229024942</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 52</TrackTitle>
+    <TrackLength>2.612</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>101.739149241931</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.006512</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.03181972789115646</Start>
+    <Length>2.3515731292517006</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 53</TrackTitle>
+    <TrackLength>2.56</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>102.0593393480265</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.030538548752834467</Start>
+    <Length>2.3594954648526079</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 54</TrackTitle>
+    <TrackLength>2.586</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>101.71666086037275</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.00503016</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.025717120181405897</Start>
+    <Length>2.3578883219954649</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 55</TrackTitle>
+    <TrackLength>2.586</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>101.78599120287825</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.03052154195011338</Start>
+    <Length>2.2372760770975058</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 56</TrackTitle>
+    <TrackLength>2.456</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>107.273305452477</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.0039525</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.03052154195011338</Start>
+    <Length>2.2418565759637188</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 57</TrackTitle>
+    <TrackLength>2.456</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>107.05412762492625</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.03052154195011338</Start>
+    <Length>2.2403287981859412</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 58</TrackTitle>
+    <TrackLength>2.456</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>107.12713249695075</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.00462961</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.030847505668934242</Start>
+    <Length>2.2364002267573695</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 59</TrackTitle>
+    <TrackLength>2.482</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>107.3153173249245</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.00266218</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.029305555555555557</Start>
+    <Length>2.2425680272108846</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 60</TrackTitle>
+    <TrackLength>2.482</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>107.02016486808275</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.00342977</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.031740362811791385</Start>
+    <Length>2.6245804988662131</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 61</TrackTitle>
+    <TrackLength>3.004</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>91.4431849599115</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.02393675</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.032145691609977323</Start>
+    <Length>2.6252324263038549</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 62</TrackTitle>
+    <TrackLength>2.873</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>91.42047675294925</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.028574263038548754</Start>
+    <Length>2.630589569160998</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 63</TrackTitle>
+    <TrackLength>2.873</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>91.234300787008</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.01383042</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.031462585034013606</Start>
+    <Length>2.6170521541950111</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 64</TrackTitle>
+    <TrackLength>2.978</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>91.70623505354725</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.00775027</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.042568027210884353</Start>
+    <Length>2.6152012471655328</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 65</TrackTitle>
+    <TrackLength>2.978</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>91.77114008343425</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.00914693</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.032389455782312927</Start>
+    <Length>2.4820379818594103</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 66</TrackTitle>
+    <TrackLength>2.743</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>96.69473301943775</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.02224374</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.03300736961451247</Start>
+    <Length>2.4719869614512473</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 67</TrackTitle>
+    <TrackLength>2.795</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>97.0878907302575</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.01858938</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.027276077097505669</Start>
+    <Length>2.4820379818594103</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 68</TrackTitle>
+    <TrackLength>2.743</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>96.69473301943775</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.2980628</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.028979591836734694</Start>
+    <Length>2.4786281179138321</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 69</TrackTitle>
+    <TrackLength>2.743</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>96.82775655833325</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.29263484</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.031771541950113377</Start>
+    <Length>2.4748951247165532</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 70</TrackTitle>
+    <TrackLength>2.691</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>96.9738061233955</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.011733</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.045589569160997732</Start>
+    <Length>2.3486479591836735</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 71</TrackTitle>
+    <TrackLength>2.717</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>102.1864511714295</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.0163461</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.030099206349206348</Start>
+    <Length>2.3695464852607708</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 72</TrackTitle>
+    <TrackLength>2.691</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>101.28520435993375</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.01045394</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.045150226757369613</Start>
+    <Length>2.3595124716553286</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 73</TrackTitle>
+    <TrackLength>2.691</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>101.71592771095925</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.01017356</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.043835034013605445</Start>
+    <Length>2.3573526077097506</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 74</TrackTitle>
+    <TrackLength>2.612</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>101.80912232437225</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.03229165</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.043835034013605445</Start>
+    <Length>2.3524829931972788</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 75</TrackTitle>
+    <TrackLength>2.612</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>102.01986611338425</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.00432169</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.025456349206349205</Start>
+    <Length>2.2465646258503402</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 76</TrackTitle>
+    <TrackLength>2.56</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>106.829777892171</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.01814628</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.029611678004535149</Start>
+    <Length>2.2443565759637187</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 77</TrackTitle>
+    <TrackLength>2.508</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>106.9348794974545</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.01773512</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.03428854875283447</Start>
+    <Length>2.2412386621315195</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 78</TrackTitle>
+    <TrackLength>2.508</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>107.08364265488325</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.04333568</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.02834750566893424</Start>
+    <Length>2.2504109977324265</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 79</TrackTitle>
+    <TrackLength>2.534</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>106.64718588819125</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.14218485</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.03428854875283447</Start>
+    <Length>2.2381207482993197</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 80</TrackTitle>
+    <TrackLength>2.508</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>107.2328202946015</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.06086707</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.029807256235827664</Start>
+    <Length>2.6195833333333334</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 81</TrackTitle>
+    <TrackLength>2.821</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>91.617623667886</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.26221108</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.028313492063492065</Start>
+    <Length>2.6137556689342403</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 82</TrackTitle>
+    <TrackLength>2.847</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>91.82189554001425</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.23439443</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.035068027210884353</Start>
+    <Length>2.6125708616780043</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 83</TrackTitle>
+    <TrackLength>2.821</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>91.86353699353925</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.17083538</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.029807256235827664</Start>
+    <Length>2.6195833333333334</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 84</TrackTitle>
+    <TrackLength>2.821</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>91.617623667886</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.13337481</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.031561791383219955</Start>
+    <Length>2.6195833333333334</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 85</TrackTitle>
+    <TrackLength>2.821</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>91.617623667886</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.02518618</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.026754535147392289</Start>
+    <Length>2.4799121315192743</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 86</TrackTitle>
+    <TrackLength>2.691</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>96.7776224607475</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.0356195</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.031771541950113377</Start>
+    <Length>2.4799121315192743</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 87</TrackTitle>
+    <TrackLength>2.691</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>96.7776224607475</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.16554618</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.026754535147392289</Start>
+    <Length>2.4799121315192743</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 88</TrackTitle>
+    <TrackLength>2.691</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>96.7776224607475</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.01107752</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.030099206349206348</Start>
+    <Length>2.4748951247165532</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 89</TrackTitle>
+    <TrackLength>2.691</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>96.9738061233955</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.2801609</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.02340986394557823</Start>
+    <Length>2.4849291383219954</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 90</TrackTitle>
+    <TrackLength>2.691</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>96.58223097744575</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.20025647</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.030229591836734696</Start>
+    <Length>2.3547562358276646</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 91</TrackTitle>
+    <TrackLength>2.56</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>101.9213778260335</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.300381</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.03181972789115646</Start>
+    <Length>2.3467998866213153</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 92</TrackTitle>
+    <TrackLength>2.56</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>102.266921593186</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.21738</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.03181972789115646</Start>
+    <Length>2.3499829931972789</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 93</TrackTitle>
+    <TrackLength>2.56</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>102.12839867128875</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.25852668</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.03181972789115646</Start>
+    <Length>2.3483928571428572</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 94</TrackTitle>
+    <TrackLength>2.56</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>102.197551516995</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.08478451</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.028639455782312924</Start>
+    <Length>2.3531632653061223</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 95</TrackTitle>
+    <TrackLength>2.56</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>101.99037335761675</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.03339851</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.028996598639455782</Start>
+    <Length>2.2433815192743762</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 96</TrackTitle>
+    <TrackLength>2.456</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>106.981357356295</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.25993</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.033574263038548754</Start>
+    <Length>2.2433815192743762</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 97</TrackTitle>
+    <TrackLength>2.456</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>106.981357356295</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.20511222</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.027468820861678005</Start>
+    <Length>2.2403287981859412</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 98</TrackTitle>
+    <TrackLength>2.456</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>107.12713249695075</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.143221</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.027468820861678005</Start>
+    <Length>2.2433815192743762</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 99</TrackTitle>
+    <TrackLength>2.456</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>106.981357356295</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.256018</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.028996598639455782</Start>
+    <Length>2.2449064625850341</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Funk Construction Break 100</TrackTitle>
+    <TrackLength>2.456</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>106.90868595194725</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.02521825</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.025861678004535149</Start>
+    <Length>2.8236734693877552</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 03</TrackTitle>
+    <TrackLength>5.695</TrackLength>
+    <Description>HighhatLoop1</Description>
+    <Bpm>84.99566348655675</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.54517591</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.02647108843537415</Start>
+    <Length>1.410079365079365</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 04</TrackTitle>
+    <TrackLength>11.337</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>85.101592840659625</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.42316711</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.03035997732426304</Start>
+    <Length>2.8359665532879816</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 05</TrackTitle>
+    <TrackLength>2.873</TrackLength>
+    <Description>PercLoop1</Description>
+    <Bpm>84.62723219416925</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.16108572</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.021235827664399094</Start>
+    <Length>2.824</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 06</TrackTitle>
+    <TrackLength>5.695</TrackLength>
+    <Description>Loop1a</Description>
+    <Bpm>84.985835694051</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.256018</Gain>
+  </Sample>
+  <Sample>
+    <Start>2.8484948979591835</Start>
+    <Length>2.8239994331065761</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 06</TrackTitle>
+    <TrackLength>5.695</TrackLength>
+    <Description>Loop1b</Description>
+    <Bpm>84.98585275422125</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.42545784</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.022599206349206348</Start>
+    <Length>3.0132539682539683</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 07</TrackTitle>
+    <TrackLength>6.060</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>79.6481154686965</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.01640916</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.022599206349206348</Start>
+    <Length>2.23875283446712</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 08</TrackTitle>
+    <TrackLength>2.273</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>107.202544338543</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>2.74315619</Gain>
+  </Sample>
+  <Sample>
+    <Start>2.6427607709750567</Start>
+    <Length>1.7544926303854875</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 09</TrackTitle>
+    <TrackLength>7.889</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>68.39584157935975</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.35855544</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.031139455782312926</Start>
+    <Length>1.7482397959183673</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 11</TrackTitle>
+    <TrackLength>3.579</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>68.64046927667775</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.043535</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.08659863945578232</Start>
+    <Length>4.321683673469388</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 12</TrackTitle>
+    <TrackLength>6.635</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>111.0678236231625</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.00379872</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.027534013605442179</Start>
+    <Length>1.3172902494331067</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 13</TrackTitle>
+    <TrackLength>1.384</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>91.0960967422645</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.1367563</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.4084778911564626</Start>
+    <Length>1.8480867346938776</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 14</TrackTitle>
+    <TrackLength>3.553</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>129.86403478500925</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.55139434</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.023217120181405895</Start>
+    <Length>1.3778004535147392</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 15</TrackTitle>
+    <TrackLength>1.437</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>87.095340761343625</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.029664</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.025912698412698412</Start>
+    <Length>2.1342800453514741</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 16</TrackTitle>
+    <TrackLength>2.194</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>112.4500978785455</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.16650057</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.027094671201814059</Start>
+    <Length>1.3721031746031747</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 17</TrackTitle>
+    <TrackLength>1.437</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>87.45698007345925</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.029662698412698411</Start>
+    <Length>2.138469387755102</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 18</TrackTitle>
+    <TrackLength>2.273</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>112.22980388414375</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.27117193</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.4364030612244898</Start>
+    <Length>2.6192290249433108</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 19</TrackTitle>
+    <TrackLength>3.135</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>91.63001696852175</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>2.80467343</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.028735827664399093</Start>
+    <Length>1.4962046485260772</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 20</TrackTitle>
+    <TrackLength>1.541</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>80.20293221132075</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>2.35903525</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.027434807256235826</Start>
+    <Length>2.1269472789115644</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 21</TrackTitle>
+    <TrackLength>4.336</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>112.83777570773475</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.01700854</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.03136621315192744</Start>
+    <Length>2.342247732426304</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 22</TrackTitle>
+    <TrackLength>2.403</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>102.465677168737</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.51013923</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.17165532879818593</Start>
+    <Length>2.5576133786848074</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 23</TrackTitle>
+    <TrackLength>2.847</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>93.83748224034325</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.02853286</Gain>
+  </Sample>
+  <Sample>
+    <Start>1.1612981859410432</Start>
+    <Length>1.130107709750567</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 24</TrackTitle>
+    <TrackLength>4.571</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>106.184568926165375</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.12857342</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.024841269841269841</Start>
+    <Length>2.3174121315192742</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 25</TrackTitle>
+    <TrackLength>2.351</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>103.56379719245625</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.022502834467120182</Start>
+    <Length>2.5555839002267575</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 27</TrackTitle>
+    <TrackLength>2.586</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>93.91200186333325</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.026462585034013605</Start>
+    <Length>4.208</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 28</TrackTitle>
+    <TrackLength>4.258</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>114.068441064639</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.00737846</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.026884920634920637</Start>
+    <Length>1.7497987528344672</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 30</TrackTitle>
+    <TrackLength>1.802</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>68.579315081585375</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.03798151</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.02576530612244898</Start>
+    <Length>1.7509183673469388</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 31</TrackTitle>
+    <TrackLength>1.802</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>68.535462439536125</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.02800453514739229</Start>
+    <Length>1.7509183673469388</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 32</TrackTitle>
+    <TrackLength>1.802</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>68.535462439536125</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.03650391</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.025895691609977324</Start>
+    <Length>1.3786933106575965</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 33</TrackTitle>
+    <TrackLength>1.437</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>87.0389368486625</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.02202058</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.028183106575963717</Start>
+    <Length>1.4110345804988662</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 34</TrackTitle>
+    <TrackLength>1.463</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>85.043982378925375</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.01801968</Gain>
+  </Sample>
+  <Sample>
+    <Start>1.7439852607709752</Start>
+    <Length>3.4199149659863948</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 35</TrackTitle>
+    <TrackLength>6.844</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>70.17718346420275</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.025521541950113379</Start>
+    <Length>3.3752522675736962</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 36</TrackTitle>
+    <TrackLength>3.422</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>71.10579624097975</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.035456349206349207</Start>
+    <Length>1.4101275510204081</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 37</TrackTitle>
+    <TrackLength>1.463</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>85.098684805615375</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.00158954</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.025912698412698412</Start>
+    <Length>1.4251247165532879</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 38</TrackTitle>
+    <TrackLength>1.489</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>84.203156822810625</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.026788548752834467</Start>
+    <Length>2.8306065759637189</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 39</TrackTitle>
+    <TrackLength>2.873</TrackLength>
+    <Description>Fill1</Description>
+    <Bpm>84.787480548507</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.00299978</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.048639455782312928</Start>
+    <Length>5.5137698412698413</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 40</TrackTitle>
+    <TrackLength>5.590</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>87.054776281604</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.10070884</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.028183106575963717</Start>
+    <Length>1.4119444444444445</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 41</TrackTitle>
+    <TrackLength>1.463</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>84.989179618335625</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.022825963718820862</Start>
+    <Length>1.9078316326530613</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 42</TrackTitle>
+    <TrackLength>1.933</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>125.7972642304145</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.086955782312925167</Start>
+    <Length>2.5033219954648525</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 43</TrackTitle>
+    <TrackLength>2.691</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>95.8726046568505</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.33786547</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.02375283446712018</Start>
+    <Length>1.953922902494331</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 44</TrackTitle>
+    <TrackLength>2.011</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>122.82982081515175</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.10412109</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.027599206349206349</Start>
+    <Length>4.3966581632653066</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 45</TrackTitle>
+    <TrackLength>4.441</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>109.1738275243835</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.13569248</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.19376700680272108</Start>
+    <Length>2.4308985260770974</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 48</TrackTitle>
+    <TrackLength>4.049</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>98.7289257142725</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.19035852</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.031074263038548752</Start>
+    <Length>1.4802607709750566</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 49</TrackTitle>
+    <TrackLength>1.515</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>81.066797386622125</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.80624</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.025813492063492063</Start>
+    <Length>2.7380045351473923</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 50</TrackTitle>
+    <TrackLength>2.769</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>87.65507760091425</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.020861678004535148</Start>
+    <Length>4.0514484126984129</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 52</TrackTitle>
+    <TrackLength>6.713</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>118.476147566273</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.76128793</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.031252834467120183</Start>
+    <Length>1.962672902494331</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 53</TrackTitle>
+    <TrackLength>2.011</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>122.282220177895</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.00125277</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.023639455782312926</Start>
+    <Length>4.7282738095238095</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 54</TrackTitle>
+    <TrackLength>9.509</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>101.516963555108</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.96609867</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.093222789115646257</Start>
+    <Length>5.00187358276644</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 55</TrackTitle>
+    <TrackLength>5.172</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>95.964040685435</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.51860774</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.028055555555555556</Start>
+    <Length>1.3615164399092972</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 56</TrackTitle>
+    <TrackLength>1.411</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>88.13701875534775</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.14330077</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.056791383219954646</Start>
+    <Length>2.6657227891156463</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 57</TrackTitle>
+    <TrackLength>2.769</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>90.0318671468535</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.084895124716553291</Start>
+    <Length>2.0010685941043085</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 59</TrackTitle>
+    <TrackLength>2.168</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>119.93591859224875</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.28836548</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.028752834467120181</Start>
+    <Length>1.9501729024943311</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 60</TrackTitle>
+    <TrackLength>2.011</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>123.06601106652275</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.027403628117913831</Start>
+    <Length>5.4364739229024943</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 64</TrackTitle>
+    <TrackLength>5.512</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>88.2925232066105</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.028055555555555556</Start>
+    <Length>1.3588860544217687</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 65</TrackTitle>
+    <TrackLength>1.411</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>88.307624917868625</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.29703522</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.025116213151927438</Start>
+    <Length>1.428015873015873</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 66</TrackTitle>
+    <TrackLength>5.773</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>84.032679375312625</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.18480623</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.027502834467120183</Start>
+    <Length>1.963922902494331</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Junglish Break 68</TrackTitle>
+    <TrackLength>2.011</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>122.2043898440115</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
 </ArrayOfSample>
