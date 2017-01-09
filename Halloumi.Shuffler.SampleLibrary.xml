@@ -26915,42 +26915,6 @@
     <Gain>0.93258</Gain>
   </Sample>
   <Sample>
-    <Start>2.444</Start>
-    <Length>2.339</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>Greyboy</TrackArtist>
-    <TrackTitle>On The Strip</TrackTitle>
-    <TrackLength>342.387</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>102.607952116289</Bpm>
-    <Tags>
-      <string>acid jazz</string>
-    </Tags>
-    <Gain>1.57701</Gain>
-  </Sample>
-  <Sample>
-    <Start>240.12</Start>
-    <Length>18.64</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Gm</Key>
-    <TrackArtist>Greyboy</TrackArtist>
-    <TrackTitle>On The Strip</TrackTitle>
-    <TrackLength>342.387</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>103.0042918454936</Bpm>
-    <Tags>
-      <string>acid jazz</string>
-    </Tags>
-    <Gain>1.57701</Gain>
-  </Sample>
-  <Sample>
     <Start>0.101</Start>
     <Length>9.357</Length>
     <Offset>0</Offset>
@@ -56865,5 +56829,41 @@
       <string>samples</string>
     </Tags>
     <Gain>1.01890612</Gain>
+  </Sample>
+  <Sample>
+    <Start>2.444</Start>
+    <Length>2.339</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Greyboy</TrackArtist>
+    <TrackTitle>On The Strip</TrackTitle>
+    <TrackLength>342.387</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>102.607952116289</Bpm>
+    <Tags>
+      <string>acid jazz</string>
+    </Tags>
+    <Gain>1.57359648</Gain>
+  </Sample>
+  <Sample>
+    <Start>240.12</Start>
+    <Length>18.64</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Greyboy</TrackArtist>
+    <TrackTitle>On The Strip</TrackTitle>
+    <TrackLength>342.387</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>103.0042918454936</Bpm>
+    <Tags>
+      <string>acid jazz</string>
+    </Tags>
+    <Gain>1</Gain>
   </Sample>
 </ArrayOfSample>
