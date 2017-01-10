@@ -6724,24 +6724,6 @@
     <Gain>1.18446362</Gain>
   </Sample>
   <Sample>
-    <Start>2.6642658730158728</Start>
-    <Length>5.243072562358277</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
-    <TrackArtist>In Motion Collective</TrackArtist>
-    <TrackTitle>Jesse's Jing</TrackTitle>
-    <TrackLength>232.067</TrackLength>
-    <Description>DrumLoop1</Description>
-    <Bpm>91.549371917161</Bpm>
-    <Tags>
-      <string>funk</string>
-    </Tags>
-    <Gain>1.41940653</Gain>
-  </Sample>
-  <Sample>
     <Start>151.59106292517006</Start>
     <Length>2.6974319727891158</Length>
     <Offset>0</Offset>
@@ -32675,42 +32657,6 @@
     <Gain>1.9876</Gain>
   </Sample>
   <Sample>
-    <Start>1.172</Start>
-    <Length>2.474</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Bbm</Key>
-    <TrackArtist>Ernest Ranglin</TrackArtist>
-    <TrackTitle>Congo Man</TrackTitle>
-    <TrackLength>296.098</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>97.00889248181075</Bpm>
-    <Tags>
-      <string>reggae</string>
-    </Tags>
-    <Gain>1.419356</Gain>
-  </Sample>
-  <Sample>
-    <Start>131.967</Start>
-    <Length>10.047</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Bbm</Key>
-    <TrackArtist>Ernest Ranglin</TrackArtist>
-    <TrackTitle>Congo Man</TrackTitle>
-    <TrackLength>296.098</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>95.5509107196178</Bpm>
-    <Tags>
-      <string>reggae</string>
-    </Tags>
-    <Gain>1.419356</Gain>
-  </Sample>
-  <Sample>
     <Start>14.762</Start>
     <Length>9.898</Length>
     <Offset>0</Offset>
@@ -35985,42 +35931,6 @@
       <string>funk</string>
     </Tags>
     <Gain>0.623964</Gain>
-  </Sample>
-  <Sample>
-    <Start>1.701</Start>
-    <Length>2.56</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Ebm</Key>
-    <TrackArtist>Jackie Mittoo</TrackArtist>
-    <TrackTitle>Get Up And Get It</TrackTitle>
-    <TrackLength>165.747</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>93.75</Bpm>
-    <Tags>
-      <string>reggae</string>
-    </Tags>
-    <Gain>0.933721</Gain>
-  </Sample>
-  <Sample>
-    <Start>99.472</Start>
-    <Length>10.216</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>Ebm</Key>
-    <TrackArtist>Jackie Mittoo</TrackArtist>
-    <TrackTitle>Get Up And Get It</TrackTitle>
-    <TrackLength>165.747</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>93.9702427564604</Bpm>
-    <Tags>
-      <string>reggae</string>
-    </Tags>
-    <Gain>0.933721</Gain>
   </Sample>
   <Sample>
     <Start>29.04</Start>
@@ -58143,5 +58053,95 @@
       <string>samples</string>
     </Tags>
     <Gain>1.02824235</Gain>
+  </Sample>
+  <Sample>
+    <Start>2.6642658730158728</Start>
+    <Length>5.243072562358277</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>In Motion Collective</TrackArtist>
+    <TrackTitle>Jesse's Jing</TrackTitle>
+    <TrackLength>232.067</TrackLength>
+    <Description>DrumLoop1</Description>
+    <Bpm>91.549371917161</Bpm>
+    <Tags>
+      <string>funk</string>
+    </Tags>
+    <Gain>1.41940653</Gain>
+  </Sample>
+  <Sample>
+    <Start>1.701</Start>
+    <Length>2.56</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key>Ebm</Key>
+    <TrackArtist>Jackie Mittoo</TrackArtist>
+    <TrackTitle>Get Up And Get It</TrackTitle>
+    <TrackLength>165.747</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>93.75</Bpm>
+    <Tags>
+      <string>reggae</string>
+    </Tags>
+    <Gain>2.22164226</Gain>
+  </Sample>
+  <Sample>
+    <Start>99.472</Start>
+    <Length>10.216</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Ebm</Key>
+    <TrackArtist>Jackie Mittoo</TrackArtist>
+    <TrackTitle>Get Up And Get It</TrackTitle>
+    <TrackLength>165.747</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>93.9702427564604</Bpm>
+    <Tags>
+      <string>reggae</string>
+    </Tags>
+    <Gain>1.16620994</Gain>
+  </Sample>
+  <Sample>
+    <Start>1.172</Start>
+    <Length>2.474</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key>Bbm</Key>
+    <TrackArtist>Ernest Ranglin</TrackArtist>
+    <TrackTitle>Congo Man</TrackTitle>
+    <TrackLength>296.098</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>97.00889248181075</Bpm>
+    <Tags>
+      <string>reggae</string>
+    </Tags>
+    <Gain>1.21530306</Gain>
+  </Sample>
+  <Sample>
+    <Start>131.967</Start>
+    <Length>10.047</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bbm</Key>
+    <TrackArtist>Ernest Ranglin</TrackArtist>
+    <TrackTitle>Congo Man</TrackTitle>
+    <TrackLength>296.098</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>95.5509107196178</Bpm>
+    <Tags>
+      <string>reggae</string>
+    </Tags>
+    <Gain>1</Gain>
   </Sample>
 </ArrayOfSample>
