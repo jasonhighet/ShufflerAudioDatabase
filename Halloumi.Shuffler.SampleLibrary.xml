@@ -56866,4 +56866,1282 @@
     </Tags>
     <Gain>1</Gain>
   </Sample>
+  <Sample>
+    <Start>0.027032312925170068</Start>
+    <Length>2.6226530612244896</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 117</TrackTitle>
+    <TrackLength>2.9</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>91.5103882966305</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.85051107</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.028835034013605442</Start>
+    <Length>2.6527012471655329</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 118</TrackTitle>
+    <TrackLength>2.9</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>90.4738142889045</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>2.33134127</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.033931405895691609</Start>
+    <Length>2.6224631519274375</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 119</TrackTitle>
+    <TrackLength>2.873</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>91.51701514799425</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>2.41093373</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.030634920634920636</Start>
+    <Length>2.6220691609977322</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 120</TrackTitle>
+    <TrackLength>2.9</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>91.5307664534205</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>2.12455416</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.033622448979591837</Start>
+    <Length>2.5854421768707483</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 121</TrackTitle>
+    <TrackLength>2.847</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>92.82744829763725</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.65556788</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.041074263038548754</Start>
+    <Length>2.5335856009070294</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 122</TrackTitle>
+    <TrackLength>3.004</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>94.7274092156505</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.11433434</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.03035997732426304</Start>
+    <Length>2.6127324263038547</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 123</TrackTitle>
+    <TrackLength>2.873</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>91.8578563896495</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.94995236</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.028055555555555556</Start>
+    <Length>2.5827607709750566</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 124</TrackTitle>
+    <TrackLength>2.821</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>92.9238211672985</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>2.10896564</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.030912698412698413</Start>
+    <Length>2.6620549886621316</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 125</TrackTitle>
+    <TrackLength>2.926</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>90.15591376668625</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.19907057</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.02800453514739229</Start>
+    <Length>2.6176048752834467</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 126</TrackTitle>
+    <TrackLength>3.004</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>91.6868707978745</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>2.2387948</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.027015306122448981</Start>
+    <Length>2.5039880952380953</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 127</TrackTitle>
+    <TrackLength>2.717</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>95.847101053082</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>2.4957726</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.0125</Start>
+    <Length>2.623449546485261</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 128</TrackTitle>
+    <TrackLength>2.873</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>91.482605534205</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.6476593</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.027794784580498867</Start>
+    <Length>2.5271116780045353</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 129</TrackTitle>
+    <TrackLength>2.795</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>94.97008070079025</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.45806074</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.026057256235827664</Start>
+    <Length>2.5241043083900228</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 130</TrackTitle>
+    <TrackLength>2.795</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>95.08323376425025</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>2.007536</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.13873015873015873</Start>
+    <Length>2.5636337868480727</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 131</TrackTitle>
+    <TrackLength>2.926</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>93.61711537398425</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>2.20772123</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.031462585034013606</Start>
+    <Length>2.4674291383219953</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 132</TrackTitle>
+    <TrackLength>2.664</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>97.2672310108225</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.44163847</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.027015306122448981</Start>
+    <Length>2.4600878684807257</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 133</TrackTitle>
+    <TrackLength>2.717</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>97.5574909640185</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>2.1208415</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.027534013605442179</Start>
+    <Length>2.4936309523809523</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 134</TrackTitle>
+    <TrackLength>2.769</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>96.245196094813</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>2.40350628</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.0306859410430839</Start>
+    <Length>2.4922647392290251</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 135</TrackTitle>
+    <TrackLength>2.743</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>96.29795592030225</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>3.49030685</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.03300736961451247</Start>
+    <Length>2.5449489795918367</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 136</TrackTitle>
+    <TrackLength>2.795</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>94.304444578096</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.40733588</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.02285997732426304</Start>
+    <Length>4.571833900226757</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 137</TrackTitle>
+    <TrackLength>4.598</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>104.9906909295615</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.22069073</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.02493764172335601</Start>
+    <Length>4.72249716553288</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 138</TrackTitle>
+    <TrackLength>5.016</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>101.641140941974</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.34494936</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.027468820861678005</Start>
+    <Length>2.2161734693877553</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 139</TrackTitle>
+    <TrackLength>2.456</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>108.29477173837975</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.92520559</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.025456349206349205</Start>
+    <Length>2.3627097505668933</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 140</TrackTitle>
+    <TrackLength>2.56</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>101.57828313122925</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.9535563</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.028412698412698414</Start>
+    <Length>1.7978854875283448</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 141</TrackTitle>
+    <TrackLength>1.829</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>133.490148101669</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.81816673</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.031009070294784582</Start>
+    <Length>4.7227097505668931</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 142</TrackTitle>
+    <TrackLength>4.989</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>101.6365657327095</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.199817</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.033752834467120178</Start>
+    <Length>2.3273497732426303</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 143</TrackTitle>
+    <TrackLength>2.586</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>103.12158608871875</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>2.79772878</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.035717120181405895</Start>
+    <Length>2.37358843537415</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 144</TrackTitle>
+    <TrackLength>2.612</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>101.112727220618</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>2.55692554</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.032794784580498865</Start>
+    <Length>2.3549886621315195</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 145</TrackTitle>
+    <TrackLength>2.638</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>101.911318665447</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.18075025</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.034240362811791381</Start>
+    <Length>2.5752125850340137</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 146</TrackTitle>
+    <TrackLength>2.9</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>93.19618946986075</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>2.25094461</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.072862811791383222</Start>
+    <Length>2.3217006802721087</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 147</TrackTitle>
+    <TrackLength>2.664</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>103.37249846171875</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.83630347</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.1410204081632653</Start>
+    <Length>2.2520549886621315</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 148</TrackTitle>
+    <TrackLength>2.638</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>106.5693338787325</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>2.22768378</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.02677154195011338</Start>
+    <Length>2.2385289115646256</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 149</TrackTitle>
+    <TrackLength>2.534</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>107.21326794580075</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.18211341</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.02992063492063492</Start>
+    <Length>2.2393877551020407</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 150</TrackTitle>
+    <TrackLength>2.534</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>107.172149822291</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.90849793</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.046609977324263037</Start>
+    <Length>2.2743112244897961</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 151</TrackTitle>
+    <TrackLength>2.586</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>105.5264545220015</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>2.09119916</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.0251984126984127</Start>
+    <Length>2.2346626984126985</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 152</TrackTitle>
+    <TrackLength>2.534</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>107.398758734584</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>2.0128386</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.035002834467120179</Start>
+    <Length>2.2688378684807256</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 154</TrackTitle>
+    <TrackLength>2.56</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>105.78102707740425</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.69909251</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.032389455782312927</Start>
+    <Length>2.180875850340136</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Guitar Loop 155</TrackTitle>
+    <TrackLength>2.482</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>110.0475297402045</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.05019069</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.035878684807256235</Start>
+    <Length>4.380096371882086</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 02</TrackTitle>
+    <TrackLength>4.441</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>109.5866298927455</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.031934</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.022534013605442178</Start>
+    <Length>4.5181604308390027</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 03</TrackTitle>
+    <TrackLength>9.064</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>106.237927436956</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.070747</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.048818027210884352</Start>
+    <Length>2.2693112244897957</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 04</TrackTitle>
+    <TrackLength>2.534</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>105.758962195218</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.03021443</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.029305555555555557</Start>
+    <Length>4.6652834467120181</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 06</TrackTitle>
+    <TrackLength>9.43</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>102.887639193347</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.12361979</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.062344104308390019</Start>
+    <Length>9.2123752834467112</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 07</TrackTitle>
+    <TrackLength>10.031</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>104.207652257174</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.06773242630385487</Start>
+    <Length>3.8559608843537414</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 08</TrackTitle>
+    <TrackLength>7.784</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>124.482590564569</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.044418934240362813</Start>
+    <Length>4.4641638321995467</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 09</TrackTitle>
+    <TrackLength>8.934</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>107.522935546812</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.010984</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.048316326530612248</Start>
+    <Length>4.9403089569161</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 10</TrackTitle>
+    <TrackLength>9.718</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>97.1599153384995</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.092443310657596367</Start>
+    <Length>5.5892630385487525</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 11</TrackTitle>
+    <TrackLength>5.721</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>85.8789426601455</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>3.33099532</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.067553854875283453</Start>
+    <Length>5.5619387755102041</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 12</TrackTitle>
+    <TrackLength>5.721</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>86.300842093676</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>2.36328888</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.0771173469387755</Start>
+    <Length>6.4047902494331064</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 14</TrackTitle>
+    <TrackLength>6.531</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>74.9439062493085</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>2.81963682</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.072766439909297057</Start>
+    <Length>6.3872562358276648</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 15</TrackTitle>
+    <TrackLength>6.504</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>75.1496389494385</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.844158</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.064940476190476187</Start>
+    <Length>3.2105130385487528</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 16</TrackTitle>
+    <TrackLength>6.531</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>74.75440751004925</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>2.08004832</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.043401360544217685</Start>
+    <Length>6.4340816326530614</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 17</TrackTitle>
+    <TrackLength>6.478</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>74.6027214768295</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.80078042</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.0771173469387755</Start>
+    <Length>6.4453798185941045</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 18</TrackTitle>
+    <TrackLength>6.531</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>74.471949444354</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>2.80443335</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.03653061224489796</Start>
+    <Length>6.494081632653061</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 19</TrackTitle>
+    <TrackLength>6.531</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>73.9134533798435</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>3.40188956</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.064421768707483</Start>
+    <Length>6.385759637188209</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 21</TrackTitle>
+    <TrackLength>6.478</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>75.167251395537</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>2.53850317</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.079957482993197285</Start>
+    <Length>5.01297052154195</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 29</TrackTitle>
+    <TrackLength>5.146</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>95.7516103350945</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>2.27501225</Gain>
+  </Sample>
+  <Sample>
+    <Start>0</Start>
+    <Length>5.1461224489795923</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 30</TrackTitle>
+    <TrackLength>5.146</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>93.274111675127</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>3.78415513</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.071252834467120177</Start>
+    <Length>5.3883390022675739</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 31</TrackTitle>
+    <TrackLength>5.46</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>89.08125487242</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>3.7448</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.071224489795918361</Start>
+    <Length>2.7186649659863944</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 32</TrackTitle>
+    <TrackLength>2.795</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>88.27862314874175</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>3.09882736</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.078171768707482991</Start>
+    <Length>2.7047704081632653</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 33</TrackTitle>
+    <TrackLength>2.795</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>88.73211540456675</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>4.4041667</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.057687074829931975</Start>
+    <Length>5.4019047619047615</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 35</TrackTitle>
+    <TrackLength>5.46</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>88.85754583921</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>2.65858</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.071252834467120177</Start>
+    <Length>5.3883390022675739</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 36</TrackTitle>
+    <TrackLength>5.46</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>89.08125487242</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>3.20052743</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.078041383219954644</Start>
+    <Length>5.3340476190476194</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 37</TrackTitle>
+    <TrackLength>5.46</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>89.987948042673</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>3.33031821</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.067862811791383218</Start>
+    <Length>5.3883390022675739</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 38</TrackTitle>
+    <TrackLength>5.46</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>89.08125487242</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>3.20741963</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.0644671201814059</Start>
+    <Length>5.3951247165532878</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>GuitarLoops.Funk</TrackArtist>
+    <TrackTitle>Funk Guitar Loop 39</TrackTitle>
+    <TrackLength>5.46</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>88.969212987286</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>3.49440122</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.027324263038548752</Start>
+    <Length>2.3578883219954649</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>PercussionLoop.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Perc Loop 111</TrackTitle>
+    <TrackLength>2.586</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>101.78599120287825</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.14294183</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.025717120181405897</Start>
+    <Length>2.3594954648526079</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>PercussionLoop.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Perc Loop 112</TrackTitle>
+    <TrackLength>2.586</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>101.71666086037275</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.30146563</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.032389455782312927</Start>
+    <Length>2.2410260770975055</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>PercussionLoop.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Perc Loop 113</TrackTitle>
+    <TrackLength>2.482</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>107.09380067136</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.13263047</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.038557256235827661</Start>
+    <Length>2.2394869614512474</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>PercussionLoop.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Perc Loop 114</TrackTitle>
+    <TrackLength>2.482</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>107.167402235945</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.15645516</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.027763605442176872</Start>
+    <Length>2.2410260770975055</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>PercussionLoop.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Perc Loop 115</TrackTitle>
+    <TrackLength>2.482</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>107.09380067136</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.16430378</Gain>
+  </Sample>
+  <Sample>
+    <Start>0.024418934240362813</Start>
+    <Length>2.2464314058956916</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>PercussionLoop.Funk</TrackArtist>
+    <TrackTitle>Funk Construction Perc Loop 116</TrackTitle>
+    <TrackLength>2.456</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>106.83611321054675</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.02824235</Gain>
+  </Sample>
 </ArrayOfSample>
