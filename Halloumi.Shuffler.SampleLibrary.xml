@@ -18545,42 +18545,6 @@
     <Gain>1.612454</Gain>
   </Sample>
   <Sample>
-    <Start>9.677</Start>
-    <Length>8.27</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>F</Key>
-    <TrackArtist>Xavier Cugat</TrackArtist>
-    <TrackTitle>Coco Seco</TrackTitle>
-    <TrackLength>145.136</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>116.082224909311</Bpm>
-    <Tags>
-      <string>latin</string>
-    </Tags>
-    <Gain>0.827942</Gain>
-  </Sample>
-  <Sample>
-    <Start>128.941</Start>
-    <Length>2.096</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>F</Key>
-    <TrackArtist>Xavier Cugat</TrackArtist>
-    <TrackTitle>Coco Seco</TrackTitle>
-    <TrackLength>145.136</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>114.503816793893</Bpm>
-    <Tags>
-      <string>latin</string>
-    </Tags>
-    <Gain>0.827942</Gain>
-  </Sample>
-  <Sample>
     <Start>4.827</Start>
     <Length>4.143</Length>
     <Offset>0</Offset>
@@ -58143,5 +58107,221 @@
       <string>reggae</string>
     </Tags>
     <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>54.792825963718819</Start>
+    <Length>7.90031746031746</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key>Fm</Key>
+    <TrackArtist>Kyuss</TrackArtist>
+    <TrackTitle>Thumb</TrackTitle>
+    <TrackLength>282.6</TrackLength>
+    <Description>MainLoop1</Description>
+    <Bpm>121.51410431568</Bpm>
+    <Tags>
+      <string>rock</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>62.694237528344672</Start>
+    <Length>7.846417233560091</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Fm</Key>
+    <TrackArtist>Kyuss</TrackArtist>
+    <TrackTitle>Thumb</TrackTitle>
+    <TrackLength>282.6</TrackLength>
+    <Description>MainLoop2</Description>
+    <Bpm>122.348834050522</Bpm>
+    <Tags>
+      <string>rock</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>70.54018707482993</Start>
+    <Length>7.7908843537414967</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Fm</Key>
+    <TrackArtist>Kyuss</TrackArtist>
+    <TrackTitle>Thumb</TrackTitle>
+    <TrackLength>282.6</TrackLength>
+    <Description>SecondLoop1</Description>
+    <Bpm>123.220927998882</Bpm>
+    <Tags>
+      <string>rock</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>78.331255668934247</Start>
+    <Length>7.7155102040816326</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Fm</Key>
+    <TrackArtist>Kyuss</TrackArtist>
+    <TrackTitle>Thumb</TrackTitle>
+    <TrackLength>282.6</TrackLength>
+    <Description>SecondLoop2</Description>
+    <Bpm>124.424694492938</Bpm>
+    <Tags>
+      <string>rock</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>9.677</Start>
+    <Length>8.2448611111111116</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key>F</Key>
+    <TrackArtist>Xavier Cugat</TrackArtist>
+    <TrackTitle>Coco Seco</TrackTitle>
+    <TrackLength>145.136</TrackLength>
+    <Description>MainLoop1</Description>
+    <Bpm>116.436163940502</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1.854176</Gain>
+  </Sample>
+  <Sample>
+    <Start>34.439197845804991</Start>
+    <Length>4.2951927437641721</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>F</Key>
+    <TrackArtist>Xavier Cugat</TrackArtist>
+    <TrackTitle>Coco Seco</TrackTitle>
+    <TrackLength>145.136</TrackLength>
+    <Description>Horn Stabs</Description>
+    <Bpm>111.7528429188355</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1.43576372</Gain>
+  </Sample>
+  <Sample>
+    <Start>38.760493197278912</Start>
+    <Length>4.2705583900226758</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>F</Key>
+    <TrackArtist>Xavier Cugat</TrackArtist>
+    <TrackTitle>Coco Seco</TrackTitle>
+    <TrackLength>145.136</TrackLength>
+    <Description>VocalLoop1</Description>
+    <Bpm>112.397479711652</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1.6423738</Gain>
+  </Sample>
+  <Sample>
+    <Start>57.586921768707484</Start>
+    <Length>8.4360374149659858</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>F</Key>
+    <TrackArtist>Xavier Cugat</TrackArtist>
+    <TrackTitle>Coco Seco</TrackTitle>
+    <TrackLength>145.136</TrackLength>
+    <Description>VocalLoop2</Description>
+    <Bpm>113.797503825304</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1.53907943</Gain>
+  </Sample>
+  <Sample>
+    <Start>76.302596371882089</Start>
+    <Length>8.4519132653061178</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>F</Key>
+    <TrackArtist>Xavier Cugat</TrackArtist>
+    <TrackTitle>Coco Seco</TrackTitle>
+    <TrackLength>145.136</TrackLength>
+    <Description>HornLoop1</Description>
+    <Bpm>113.583749603851</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1.3943404</Gain>
+  </Sample>
+  <Sample>
+    <Start>84.754688208616784</Start>
+    <Length>8.4481462585034013</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>F</Key>
+    <TrackArtist>Xavier Cugat</TrackArtist>
+    <TrackTitle>Coco Seco</TrackTitle>
+    <TrackLength>145.136</TrackLength>
+    <Description>HornLoop2</Description>
+    <Bpm>113.634396307204</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1.52107513</Gain>
+  </Sample>
+  <Sample>
+    <Start>116.36758219954649</Start>
+    <Length>4.23062358276644</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>F</Key>
+    <TrackArtist>Xavier Cugat</TrackArtist>
+    <TrackTitle>Coco Seco</TrackTitle>
+    <TrackLength>145.136</TrackLength>
+    <Description>HornLoop3</Description>
+    <Bpm>113.4584513628895</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1.38094234</Gain>
+  </Sample>
+  <Sample>
+    <Start>120.58770691609978</Start>
+    <Length>4.1658276643990932</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>F</Key>
+    <TrackArtist>Xavier Cugat</TrackArtist>
+    <TrackTitle>Coco Seco</TrackTitle>
+    <TrackLength>145.136</TrackLength>
+    <Description>MainLoopAlt</Description>
+    <Bpm>115.2232014065415</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1.42045259</Gain>
   </Sample>
 </ArrayOfSample>
