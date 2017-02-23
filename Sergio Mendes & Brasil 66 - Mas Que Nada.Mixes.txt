@@ -13,7 +13,7 @@ Diana Ross & The Supremes - No Matter What Sign You Are, 0
 Dusty Springfield - Son Of A Preacher Man, 0
 Elza Soares - Chove Chuva, 0
 Group Home - Intro (Instrumental), 0
-Jorge Ben - Balanca Pema, 0
+Jorge Ben - Balanca Pema, 3
 Jorge Ben - Mas Que Nada, 0
 Jorge Ben - Take It Easy My Brother Charles, 0
 Jurassic 5 - Action Satisfaction, 0
@@ -96,3 +96,4 @@ Elzhi & Will Sessions - Memory Lane (Instrumental), 3
 Stan Getz & Laurindo Almeida - Samba Da Sahra, 2
 Nightmares On Wax - Know My Name (Instrumental), 5
 Os Originais Do Samba - Tenha Fé Pois Amanhã Um Lindo Dia Vai Nascer, 4
+Jorge Ben - Salve Se Quem Puder, 3
