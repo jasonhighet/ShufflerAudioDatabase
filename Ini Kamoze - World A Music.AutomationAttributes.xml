@@ -13,6 +13,17 @@
     </TrackFXTrigger>
   </TrackFXTriggers>
   <SampleTriggers />
-  <ExtendedMixes />
+  <ExtendedMixes>
+    <ExtendedMixAttributes>
+      <TrackDescription>King Tubby - Tubby Get Smart</TrackDescription>
+      <FadeLength>11.091541950113379</FadeLength>
+      <FadeEnd>54669560</FadeEnd>
+      <FadeEndLoop>0</FadeEndLoop>
+      <FadeEndVolume>0.024</FadeEndVolume>
+      <PowerDownOnEnd>false</PowerDownOnEnd>
+      <ExtendedFadeType>Default</ExtendedFadeType>
+      <SampleTriggers />
+    </ExtendedMixAttributes>
+  </ExtendedMixes>
   <TrackSamples />
 </AutomationAttributes>
