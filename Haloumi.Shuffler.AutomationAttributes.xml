@@ -11118,6 +11118,11 @@
         <Length>2.2000000000000028</Length>
         <DelayNotes>0.25</DelayNotes>
       </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>140.2691836734694</Start>
+        <Length>1.3801587301587119</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
     </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
@@ -28453,7 +28458,18 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Tommy Mccook - Green Mango</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>86.519750566893421</Start>
+        <Length>0.81893424036280749</Length>
+        <DelayNotes>0.0625</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>86.50049886621315</Start>
+        <Length>0.82079365079364663</Length>
+        <DelayNotes>0.0625</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
