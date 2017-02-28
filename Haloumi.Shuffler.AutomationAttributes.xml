@@ -8321,7 +8321,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>El Michels Affair - Red Rooster</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>118.97950113378685</Start>
+        <Length>2.4202947845804914</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
