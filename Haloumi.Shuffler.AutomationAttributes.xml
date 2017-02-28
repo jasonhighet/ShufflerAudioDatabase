@@ -5289,6 +5289,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Nightmares On Wax - Know My Name (Instrumental)</TrackDescription>
+        <FadeLength>10.684444444444445</FadeLength>
+        <FadeEnd>51223600</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -9272,6 +9282,24 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Fela Soul - Oooh (Instrumental)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Fela Soul - Trouble In The Water (Instrumental)</TrackDescription>
+        <FadeLength>13.141065759637188</FadeLength>
+        <FadeEnd>31818296</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.032</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Fela Soul - Still Ego Trippin' (Instrumental)</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -9310,6 +9338,16 @@
         <FadeEnd>87621960</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.2955647</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Nightmares On Wax - 70s 80s</TrackDescription>
+        <FadeLength>31.58233560090703</FadeLength>
+        <FadeEnd>95681584</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3355059</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -13380,6 +13418,24 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>John Cameron - Swamp Fever</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Burning Spear - The Ghost (Marcus Garvey)</TrackDescription>
+        <FadeLength>10.423265306122449</FadeLength>
+        <FadeEnd>39384712</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1038243</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>John Holt - Man Next Door (Got To Get Away)</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -15291,6 +15347,24 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.528</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Katchafire - Get Away</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Ty - Don't Watch That (Grant Phabao Remix)</TrackDescription>
+        <FadeLength>9.885850340136054</FadeLength>
+        <FadeEnd>62183472</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.056</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -18800,6 +18874,16 @@
         <FadeEnd>70166296</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.224</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Nightmares On Wax - The Sweetest</TrackDescription>
+        <FadeLength>21.382108843537416</FadeLength>
+        <FadeEnd>70159728</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2476395</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -29198,6 +29282,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.176</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Eddie Bo - Check Your Bucket (Parts 1 &amp; 2)</TrackDescription>
+        <FadeLength>14.584716553287981</FadeLength>
+        <FadeEnd>75924608</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.08</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
