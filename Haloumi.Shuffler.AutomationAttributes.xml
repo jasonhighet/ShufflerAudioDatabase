@@ -6986,7 +6986,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Dionne Warwick - Do You Know The Way To San Jose</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>86.6172335600907</Start>
+        <Length>1.0396598639455874</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -14154,8 +14160,36 @@
         <Length>0.56002267573694553</Length>
         <DelayNotes>0.25</DelayNotes>
       </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>57.25267573696145</Start>
+        <Length>0.54018140589569441</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>68.511768707483</Start>
+        <Length>0.79986394557822393</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>56.703197278911567</Start>
+        <Length>1.0808616780045313</Length>
+        <DelayNotes>0.0625</DelayNotes>
+      </TrackFXTrigger>
     </TrackFXTriggers>
-    <SampleTriggers />
+    <SampleTriggers>
+      <SampleTrigger>
+        <Start>68.443015873015867</Start>
+        <Length>0.52174603174603362</Length>
+        <DelayNotes>0.25</DelayNotes>
+        <SampleID>Jurassic 5 - Concrete Schoolyard (Instrumental) - FadeIn</SampleID>
+      </SampleTrigger>
+      <SampleTrigger>
+        <Start>73.7438775510204</Start>
+        <Length>0.31972789115646094</Length>
+        <DelayNotes>0.25</DelayNotes>
+        <SampleID>Jurassic 5 - Concrete Schoolyard (Instrumental) - FadeIn</SampleID>
+      </SampleTrigger>
+    </SampleTriggers>
     <ExtendedMixes>
       <ExtendedMixAttributes>
         <TrackDescription>RJD2 - 2 More Dead</TrackDescription>
@@ -16933,7 +16967,18 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Lennie Hibbert - Real Hot (RB Edit)</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>25.910340136054423</Start>
+        <Length>0.86294784580498884</Length>
+        <DelayNotes>0.125</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>50.713628117913835</Start>
+        <Length>0.33861678004534923</Length>
+        <DelayNotes>0.125</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -19008,6 +19053,24 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Nightmares On Wax - Know My Name (Instrumental)</Track>
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>72.3902947845805</Start>
+        <Length>0.37950113378684591</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>145.38333333333333</Start>
+        <Length>1.3604535147392483</Length>
+        <DelayNotes>0.125</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Nightmares On Wax - Les Nuits</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -20417,15 +20480,31 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Prince Fatty - Switch Blade</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>113.07217687074829</Start>
+        <Length>0.25884353741497534</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>116.1090022675737</Start>
+        <Length>1.8029024943310645</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>129.84687074829932</Start>
+        <Length>0.55922902494330629</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
         <TrackDescription>Lennie Hibbert - Real Hot (RB Edit)</TrackDescription>
-        <FadeLength>12.742879818594105</FadeLength>
-        <FadeEnd>50624488</FadeEnd>
+        <FadeLength>19.003945578231292</FadeLength>
+        <FadeEnd>52891008</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
-        <FadeEndVolume>0.10374</FadeEndVolume>
+        <FadeEndVolume>0.30324</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
