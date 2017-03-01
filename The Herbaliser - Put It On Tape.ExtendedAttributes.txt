@@ -1,1 +1,0 @@
-﻿StartBPM=75.0117205813408;EndBPM=75.0117205813408;Duration=222.739;FadeIn=0.056;FadeOut=115.252;FadeInLengthInSeconds=12.798;FadeOutLengthInSeconds=12.798;Rank=3;Key=Bbm;
