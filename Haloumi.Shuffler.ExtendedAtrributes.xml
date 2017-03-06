@@ -474,7 +474,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Bill Withers - Lovely Day</Track>
-    <Attributes>Duration=252;EndBPM=98.2298168423207;EndLoopCount=2;FadeIn=0.214;FadeInLengthInSeconds=9.815;FadeOut=215.979;FadeOutLengthInSeconds=9.773;Rank=4;SkipLengthInSeconds=19.611;SkipStart=186.520;StartBPM=97.809475292919;StartLoopCount=2;</Attributes>
+    <Attributes>Duration=252;EndBPM=98.2298168423207;EndLoopCount=2;FadeIn=0.214;FadeInLengthInSeconds=9.815;FadeOut=215.979;FadeOutLengthInSeconds=9.773;Key=E;Rank=4;SkipLengthInSeconds=19.611;SkipStart=186.520;StartBPM=97.809475292919;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Bill Withers - The Same Love That Made Me Laugh</Track>
