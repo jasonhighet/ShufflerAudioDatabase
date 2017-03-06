@@ -242,7 +242,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Arrested Development - People Everyday (Instrumental) (RB Edit)</Track>
-    <Attributes>Duration=253.753469387755;EndBPM=91.583039312608;EndLoopCount=2;FadeIn=152.656;FadeInLengthInSeconds=5.261;FadeOut=231.609;FadeOutLengthInSeconds=5.241;Key=Abm;Rank=5;StartBPM=91.237407337008;StartLoopCount=3;</Attributes>
+    <Attributes>Duration=253.753469387755;EndBPM=91.583039312608;EndLoopCount=2;FadeIn=152.656;FadeInLengthInSeconds=5.261;FadeOut=231.609;FadeOutLengthInSeconds=5.241;Key=Abm;Rank=3;StartBPM=91.237407337008;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Arthur Verocai - Na Boca do Sol</Track>
@@ -1114,7 +1114,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>DJ Nu Mark - Comin' Thru (feat. Chali 2na) (Instrumental) (RB Edit)</Track>
-    <Attributes>Duration=213.211428571429;EndBPM=96.8718466195762;EndLoopCount=2;FadeIn=20.314;FadeInLengthInSeconds=19.808;FadeOut=168.919;FadeOutLengthInSeconds=19.820;Key=Gm;PreFadeInPosition=20.220;PreFadeInStartVolume=00;Rank=5;StartBPM=96.9305331179322;</Attributes>
+    <Attributes>Duration=213.211428571429;EndBPM=96.8718466195762;EndLoopCount=2;FadeIn=20.314;FadeInLengthInSeconds=19.808;FadeOut=168.919;FadeOutLengthInSeconds=19.820;Key=Gm;PreFadeInPosition=20.220;PreFadeInStartVolume=00;Rank=3;StartBPM=96.9305331179322;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>DJ Nu-Mark - Lay 'Em Low (Instrumental)</Track>
@@ -2698,7 +2698,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Moloko - Sing It Back (Boris Dlugosch Musical Mix Edit)</Track>
-    <Attributes>Duration=281.093333333333;EndBPM=122.9823212913144;FadeIn=4.909;FadeInLengthInSeconds=7.785;FadeOut=137.597;FadeOutLengthInSeconds=31.224;Key=Ebm;Rank=5;StartBPM=123.314065510597;StartLoopCount=2;</Attributes>
+    <Attributes>Duration=281.093333333333;EndBPM=122.9823212913144;FadeIn=4.909;FadeInLengthInSeconds=7.785;FadeOut=137.597;FadeOutLengthInSeconds=31.224;Key=Ebm;Rank=3;StartBPM=123.314065510597;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Moloko - The Time Is Now (Can 7 Remix)</Track>
@@ -4054,7 +4054,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The HitchHikers - Mr Fortune</Track>
-    <Attributes>Duration=165.328979591837;EndBPM=122.9272040463538;EndLoopCount=1;FadeIn=8.661;FadeInLengthInSeconds=7.984;FadeOut=119.062;FadeOutLengthInSeconds=15.619;Key=Gm;Rank=5;StartBPM=120.240480961924;StartLoopCount=1;</Attributes>
+    <Attributes>Duration=165.328979591837;EndBPM=122.9272040463538;EndLoopCount=1;FadeIn=8.661;FadeInLengthInSeconds=7.984;FadeOut=119.062;FadeOutLengthInSeconds=15.619;Key=Gm;Rank=3;StartBPM=120.240480961924;StartLoopCount=1;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The J.B.'s - (It's Not the Express) It's the J.B.'s Monaurail</Track>
@@ -4434,7 +4434,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Tito Puente - Fiesta Con Puente</Track>
-    <Attributes>Duration=171;EndBPM=127.948820471811;FadeIn=3.985;FadeInLengthInSeconds=3.580;FadeOut=153.241;FadeOutLengthInSeconds=7.503;Key=Bb;Rank=5;StartBPM=134.078212290503;StartLoopCount=2;</Attributes>
+    <Attributes>Duration=171;EndBPM=127.948820471811;FadeIn=3.985;FadeInLengthInSeconds=3.580;FadeOut=153.241;FadeOutLengthInSeconds=7.503;Key=Bb;Rank=3;StartBPM=134.078212290503;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Tito Puente - Jugando Mama, Jugando</Track>
@@ -4790,7 +4790,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Xavier Cugat - Ritmo Tropical</Track>
-    <Attributes>Duration=168;EndBPM=130.134200894673;EndLoopCount=2;FadeIn=2.134;FadeInLengthInSeconds=3.638;FadeOut=152.840;FadeOutLengthInSeconds=7.377;Key=Am;Rank=5;StartBPM=131.940626717977;</Attributes>
+    <Attributes>Duration=168;EndBPM=130.134200894673;EndLoopCount=2;FadeIn=2.134;FadeInLengthInSeconds=3.638;FadeOut=152.840;FadeOutLengthInSeconds=7.377;Key=Am;Rank=3;StartBPM=131.940626717977;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Xavier Cugat - Rivera Mambo</Track>
