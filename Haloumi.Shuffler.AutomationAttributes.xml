@@ -2505,6 +2505,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Jackson do Pandeiro - Eu Balanco (Beatfanatic Rework)</TrackDescription>
+        <FadeLength>12.240589569160997</FadeLength>
+        <FadeEnd>62787072</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.152</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -11647,6 +11657,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Jurassic 5 - Canto De Ossanha (Instrumental)</TrackDescription>
+        <FadeLength>14.504104308390023</FadeLength>
+        <FadeEnd>49733464</FadeEnd>
+        <FadeEndLoop>3</FadeEndLoop>
+        <FadeEndVolume>0.088</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -13764,6 +13784,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Sergio Mendes &amp; Brasil 66 - Mas Que Nada</TrackDescription>
+        <FadeLength>10.921315192743764</FadeLength>
+        <FadeEnd>35676288</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.3035529</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -13789,6 +13819,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.104</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Seu Jorge - Carolina</TrackDescription>
+        <FadeLength>18.320498866213153</FadeLength>
+        <FadeEnd>46606056</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.056</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -14229,6 +14269,16 @@
         <FadeEnd>38376120</FadeEnd>
         <FadeEndLoop>3</FadeEndLoop>
         <FadeEndVolume>0.1275676</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Jorge Ben - Pulo Pulo</TrackDescription>
+        <FadeLength>14.284603174603175</FadeLength>
+        <FadeEnd>37362816</FadeEnd>
+        <FadeEndLoop>3</FadeEndLoop>
+        <FadeEndVolume>0.4544595</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -19843,6 +19893,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Astrud Gilberto - Take It Easy, My Brother Charlie</TrackDescription>
+        <FadeLength>15.346916099773242</FadeLength>
+        <FadeEnd>50191704</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.199375</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -21815,6 +21875,24 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Sergio Mendes &amp; Brasil 66 - Mas Que Nada</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Os Originais Do Samba - Tenha Fé Pois Amanhã Um Lindo Dia Vai Nascer</TrackDescription>
+        <FadeLength>9.56453514739229</FadeLength>
+        <FadeEnd>50949168</FadeEnd>
+        <FadeEndLoop>3</FadeEndLoop>
+        <FadeEndVolume>0.3674524</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Seu Jorge - Carolina</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -21876,6 +21954,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.008</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Jorge Ben - O Namorado Da Viúva</TrackDescription>
+        <FadeLength>11.08968253968254</FadeLength>
+        <FadeEnd>61729296</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1517711</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
