@@ -114,7 +114,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Al Escobar - Tighten Up</Track>
-    <Attributes>Duration=172.930612244898;EndBPM=100;FadeIn=7.452;FadeInLengthInSeconds=7.231;FadeOut=136.516;FadeOutLengthInSeconds=9.600;Key=Am;PowerDown=True;PreFadeInPosition=6.508;PreFadeInStartVolume=50;Rank=3;StartBPM=132.761720370626;StartLoopCount=2;</Attributes>
+    <Attributes>Duration=172.931;EndBPM=132.762;FadeIn=7.452;FadeInLengthInSeconds=7.231;FadeOut=7.452;FadeOutLengthInSeconds=7.231;Key=Am;PowerDown=True;PreFadeInPosition=6.508;PreFadeInStartVolume=50;Rank=3;StartBPM=132.762;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Al Green - Feels Like Christmas</Track>
@@ -2094,7 +2094,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Jorge Ben - Olha A Beleza Dela</Track>
-    <Attributes>Duration=162.548;EndBPM=90.1408450704225;EndLoopCount=2;FadeIn=4.239;FadeInLengthInSeconds=2.400;FadeOut=101.949;FadeOutLengthInSeconds=5.325;Key=E;Rank=3;StartBPM=100;StartLoopCount=3;</Attributes>
+    <Attributes>Duration=162.548;EndBPM=90.141;EndLoopCount=2;FadeIn=4.239;FadeInLengthInSeconds=2.405;FadeOut=101.949;FadeOutLengthInSeconds=5.325;Key=E;Rank=3;StartBPM=99.780;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Jorge Ben - País Tropical</Track>
@@ -4042,7 +4042,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Herbaliser - Worldwide Connected</Track>
-    <Attributes>Duration=306.103;EndBPM=100.041684035015;EndLoopCount=2;FadeIn=4.111;FadeInLengthInSeconds=19.200;FadeOut=128.907;FadeOutLengthInSeconds=9.596;Key=Cm;Rank=3;StartBPM=100;</Attributes>
+    <Attributes>Duration=306.103;EndBPM=100.042;EndLoopCount=2;FadeIn=4.111;FadeInLengthInSeconds=19.140;FadeOut=128.907;FadeOutLengthInSeconds=9.596;Key=Cm;Rank=3;StartBPM=100.312;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Herbaliser Band - Goldrush</Track>
