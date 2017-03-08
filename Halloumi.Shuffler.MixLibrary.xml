@@ -9008,6 +9008,7 @@
       <string>Damu the Fudgemunk - Judgement Day, 3</string>
       <string>Ann Allford - Gotta Get Me A Job, 3</string>
       <string>The Casualties of Jazz - N.I.B., 3</string>
+      <string>Cypress Hill - Loco en el Coco, 3</string>
       <string>Snoop Dogg - Vapors (Instrumental), 2</string>
       <string>People Under The Stairs - Acid Raindrops, 2</string>
       <string>Gilberto Gil - Mancada, 2</string>
@@ -16687,6 +16688,10 @@
       <string>Damu the Fudgemunk - Dream Catcher, 0</string>
       <string>Damu the Fudgemunk - Judgement Day, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Ike Turner's Kings Of Rhythm - Funky Mule</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Inell Young - What Do You See In Her</Track>
