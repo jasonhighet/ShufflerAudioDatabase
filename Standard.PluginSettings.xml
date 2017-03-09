@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<PluginSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WaPlugin>C:\Program Files (x86)\Winamp\Plugins\dsp_iZOzoneFree.dll</WaPlugin>
+  <MainMixerVstPlugin>D:\Music\VstPlugins\CamelCrusher.dll</MainMixerVstPlugin>
+  <MainMixerVstPlugin2>D:\Music\VstPlugins\iZotope Vinyl.dll</MainMixerVstPlugin2>
+  <SamplerVstPlugin>D:\Music\VstPlugins\Classic Delay.dll</SamplerVstPlugin>
+  <TrackVstPlugin />
+  <TrackFxVstPlugin>D:\Music\VstPlugins\Classic Delay.dll</TrackFxVstPlugin>
+  <SamplerVstPlugin2>D:\Music\VstPlugins\Classic Flanger.dll</SamplerVstPlugin2>
+  <TrackFxVstPlugin2>D:\Music\VstPlugins\Classic Flanger.dll</TrackFxVstPlugin2>
+  <MainMixerVstPluginParameters>0,0,0.34,1,1,1,1,0.4000001,0,1,1,1,0,0,0,0,0</MainMixerVstPluginParameters>
+  <MainMixerVstPlugin2Parameters>0,0.6,0.6,0,0,0,0,0,0,0,0,1,0</MainMixerVstPlugin2Parameters>
+  <SamplerVstPluginParameters>0.41,0,0,0,0,0.77,0.5395906,0.6,1,0.3,0,0.75,0.3,0.77</SamplerVstPluginParameters>
+  <TrackVstPluginParameters />
+  <TrackFxvstPluginParameters>0.4,0,0,0,0,0.77,0.5395906,0.61,1,0.3,0,0.75,1,0.81</TrackFxvstPluginParameters>
+  <SamplerVstPlugin2Parameters>0.5,0.1,1,0.05,0.5,0.8,0,1</SamplerVstPlugin2Parameters>
+  <TrackFxvstPlugin2Parameters>0.5,0.1,1,0.05,0.5,0.8,0,1</TrackFxvstPlugin2Parameters>
+</PluginSettings>
