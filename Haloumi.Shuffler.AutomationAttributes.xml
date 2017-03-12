@@ -8096,6 +8096,24 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Duke Pearson - Sandalia Dela</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Osmar Milito - Rita Jeep</TrackDescription>
+        <FadeLength>9.1408163265306115</FadeLength>
+        <FadeEnd>48945632</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.1275294</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Dusty Springfield - Son Of A Preacher Man</Track>
     <TrackFXTriggers>
       <TrackFXTrigger>
