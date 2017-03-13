@@ -1468,6 +1468,8 @@
       <string>Elza Soares - Chove Chuva, 2</string>
       <string>Nightmares On Wax - Know My Name (Instrumental), 2</string>
       <string>King Tubby - King Tubby Dub, 2</string>
+      <string>Jorge Ben - Rosa, Menina Rosa, 2</string>
+      <string>Jorge Ben - Ponta De Laca Africano (Umbabaraúma), 2</string>
       <string>Ernest Ranglin - Love and Happiness, 0</string>
       <string>Pete Rock &amp; CL Smooth - All The Places (Instrumental), 0</string>
       <string>Thievery Corporation - Lebanese Blonde, 0</string>
@@ -2482,6 +2484,7 @@
       <string>Jurassic 5 - Canto De Ossanha (Instrumental), 2</string>
       <string>Free Som Orchestra - The Kings Bounce, 2</string>
       <string>Sharon Jones &amp; The Dap Kings - Nobody's Baby, 0</string>
+      <string>Astrud Gilberto - Take It Easy, My Brother Charlie, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -3201,6 +3204,8 @@
       <string>The Gaylettes - Son Of A Preacher Man, 2</string>
       <string>Jurassic 5 - Concrete Schoolyard (Instrumental), 2</string>
       <string>Byron Lee - Hot Reggae, 2</string>
+      <string>Jorge Ben - O Namorado Da Viúva, 2</string>
+      <string>Elza Soares - Chove Chuva, 2</string>
       <string>Aretha Franklin - One Step Ahead (Ms. Fat Booty Blend), 0</string>
       <string>Elzhi &amp; Will Sessions - The World Is Yours (Instrumental), 0</string>
       <string>Janet Jackson - Got 'Till It's Gone (feat. Q-Tip), 0</string>
@@ -3293,6 +3298,7 @@
       <string>Jurassic 5 - Break (Instrumental), 4</string>
       <string>Spanky Wilson &amp; The Quantic Soul Orchestra - I'm Thankful (Part 1), 4</string>
       <string>Bob James - Nautilus, 4</string>
+      <string>Jorge Ben - Ponta De Laca Africano (Umbabaraúma), 4</string>
       <string>A Tribe Called Quest - Jam (Instrumental), 3</string>
       <string>A Tribe Called Quest - Oh My God, 3</string>
       <string>A Tribe Called Quest - Push It Along (Instrumental), 3</string>
@@ -3324,6 +3330,7 @@
       <string>De La Soul - All Good? (feat. Chaka Khan), 3</string>
       <string>Mario Castro Neves &amp; Samba S.A. - Candomblé, 3</string>
       <string>Jackson do Pandeiro - Eu Balanco (Beatfanatic Rework), 3</string>
+      <string>Jurassic 5 - Canto De Ossanha (Instrumental), 3</string>
       <string>A Tribe Called Quest - Jam, 2</string>
       <string>Aloe Blacc - I Need A Dollar, 2</string>
       <string>Aloe Blacc - I Need A Dollar (Instrumental), 2</string>
@@ -3354,6 +3361,7 @@
       <string>Djavan - Serrado, 2</string>
       <string>Os Originais Do Samba - Tenha Fé Pois Amanhã Um Lindo Dia Vai Nascer, 2</string>
       <string>Osmar Milito - Morre O Burro, Fica O Homem, 2</string>
+      <string>Ana Rosely - Skim Dum Dum Dum, 2</string>
       <string>A Tribe Called Quest - Clap Your Hands (Instrumental), 0</string>
       <string>A Tribe Called Quest - Ham N Eggs (Instrumental), 0</string>
       <string>Al Green - I'm Still In Love With You, 0</string>
@@ -3404,6 +3412,8 @@
       <string>The Maytals - Night and Day, 3</string>
       <string>The Bamboos - Like Tears In Rain, 3</string>
       <string>King Tubby - Dub You Can Feel, 3</string>
+      <string>Gal Costa &amp; Caetano Veloso - Maria Joana, 3</string>
+      <string>Elis Regina - Acuas de Marco, 3</string>
       <string>Cal Tjader - Soul Sauce (Guachi Guaro), 2</string>
       <string>Howard Roberts - Smokin', 2</string>
       <string>The Casualties of Jazz - Sweet Leaf, 2</string>
@@ -3823,10 +3833,16 @@
       <string>Common - The Light (Instrumental), 3</string>
       <string>Quannum Projects - I Changed My Mind (Instrumental), 3</string>
       <string>Joao Gilberto - O Sapo, 3</string>
+      <string>Jorge Ben - Rita Jeep, 3</string>
+      <string>Gilberto Gil - Roda, 3</string>
+      <string>Sergio Mendes &amp; Brasil 66 - Batucada, 3</string>
       <string>Avan Samba - Ibere, 2</string>
       <string>Osmar Milito - Rita Jeep, 2</string>
       <string>Stan Getz &amp; Astrud Gilberto - Eu E Voce (Me And You) (Live), 2</string>
       <string>Tim Armstrong - Wake Up, 2</string>
+      <string>Gilberto Gil - Mancada, 2</string>
+      <string>Jorge Ben - Olha A Beleza Dela, 2</string>
+      <string>Jurassic 5 - Canto De Ossanha (Instrumental), 2</string>
       <string>Edson Frederico - Bobeira, 0</string>
       <string>Elis Regina - Menino Das Laranjas, 0</string>
       <string>Mario Castro Neves &amp; Samba S.A. - Candomblé, 0</string>
@@ -4183,8 +4199,8 @@
     <Track>Beastie Boys - Hey Ladies (Instrumental)</Track>
     <MixRankings>
       <string>Inell Young - What Do You See In Her, 5</string>
-      <string>James Brown - Blues &amp; Pants, 5</string>
       <string>Barry White - Satin Soul, 5</string>
+      <string>James Brown - Blues &amp; Pants, 4</string>
       <string>Lyn Collins - Give It Up Or Turn It Loose, 4</string>
       <string>Nightmares On Wax - Bringin It, 4</string>
       <string>Jurassic 5 - Red Hot (Instrumental), 4</string>
@@ -7539,7 +7555,7 @@
   <TrackMix>
     <Track>Burning Spear - The Ghost (Marcus Garvey)</Track>
     <MixRankings>
-      <string>DJ Nu Mark - Comin' Thru (feat. Chali 2na) (Instrumental) (RB Edit), 5</string>
+      <string>DJ Nu Mark - Comin' Thru (feat. Chali 2na) (Instrumental) (RB Edit), 4</string>
       <string>King Tubby - King Tubby Dub, 4</string>
       <string>Betty And Angel - Honey Coated Loving, 4</string>
       <string>Ty - Don't Watch That (Grant Phabao Remix), 4</string>
@@ -11113,8 +11129,8 @@
   <TrackMix>
     <Track>DJ Nu Mark - Comin' Thru (feat. Chali 2na) (Instrumental) (RB Edit)</Track>
     <MixRankings>
-      <string>James Brown - Hot Pants (Part 1), 5</string>
       <string>Jurassic 5 - Canto De Ossanha (Instrumental), 5</string>
+      <string>James Brown - Hot Pants (Part 1), 4</string>
       <string>Roy Ayers - The Black Five, 4</string>
       <string>El Michels Affair - Red Rooster, 4</string>
       <string>DJ Jazzy Jeff And The Fresh Prince - Summertime (Instrumental), 4</string>
@@ -12892,6 +12908,7 @@
       <string>Gilberto Gil - Mancada, 3</string>
       <string>Sublime - Badfish, 3</string>
       <string>Marvin Gaye - Mercy Mercy Me (The Ecology), 3</string>
+      <string>Os Originais Do Samba - Tenha Fé Pois Amanhã Um Lindo Dia Vai Nascer, 3</string>
       <string>Elizete Cardoso - Outra Vez, 2</string>
       <string>Jorge Ben - Cadê Tereza, 2</string>
       <string>Erykah Badu - Soldier (Grant Phabao Remix), 2</string>
@@ -12951,6 +12968,10 @@
       <string>A Tribe Called Quest - Buggin' Out, 3</string>
       <string>DJ Nu Mark - Comin' Thru (feat. Chali 2na) (Instrumental) (RB Edit), 3</string>
       <string>Os Originais Do Samba - Tenha Fé Pois Amanhã Um Lindo Dia Vai Nascer, 3</string>
+      <string>Astrud Gilberto - Canto De Ossanha (Let Go), 3</string>
+      <string>Jorge Ben - Rosa, Menina Rosa, 3</string>
+      <string>Jorge Ben - Balanca Pema, 3</string>
+      <string>Seu Jorge - Carolina, 3</string>
       <string>Jorge Ben - Cadê Tereza, 2</string>
       <string>Jurassic 5 - Quality Control, 2</string>
       <string>Evinha - Que Bandeira, 2</string>
@@ -14453,6 +14474,7 @@
     <MixRankings>
       <string>Sofa Surfers - Sofa Rockers (Richard Dorfmeister Remix), 4</string>
       <string>Mario Castro Neves &amp; Samba S.A. - Candomblé, 4</string>
+      <string>Joao Gilberto - O Sapo, 4</string>
       <string>Astrud Gilberto - Take It Easy, My Brother Charlie, 3</string>
       <string>Hopeton Lewis - Take it Easy, 3</string>
       <string>Jimmy Cliff - The Harder They Come (Alternate), 3</string>
@@ -14485,6 +14507,7 @@
       <string>Greyboy - Texas Twister, 2</string>
       <string>Gang Starr - Full Clip (Instrumental) (RB Edit), 2</string>
       <string>Naughty By Nature - OPP (Instrumental), 2</string>
+      <string>Banda Black Rio - Mr. Funky Samba, 2</string>
       <string>A Tribe Called Quest - Jam, 0</string>
       <string>A Tribe Called Quest - Oh My God, 0</string>
       <string>Al Green - Love And Happiness, 0</string>
@@ -14545,6 +14568,7 @@
       <string>Jackie And Roy - Samba Triste, 3</string>
       <string>Edson Frederico - Bobeira, 3</string>
       <string>Jorge Ben - Rita Jeep, 3</string>
+      <string>Rubinho E Mauro Assumpcao - Ta Tudo Ai, 3</string>
       <string>A Tribe Called Quest - Luck Of Lucien (Instrumental), 2</string>
       <string>Binky Griptite And The Mellomatics - The Stroll (Part 2), 2</string>
       <string>Greyboy - Panacea, 2</string>
@@ -15099,6 +15123,7 @@
       <string>Breakestra - How Do You Really Feel?, 4</string>
       <string>Tim Maia - No Caminho Do Bem, 4</string>
       <string>A Tribe Called Quest - Luck Of Lucien, 4</string>
+      <string>The Bamboos - Step It Up (feat. Alice Russell), 4</string>
       <string>El Michels Affair - Run Fay Run, 3</string>
       <string>Reuben Wilson - Inner City Blues, 3</string>
       <string>The 3 Sounds - Your Love Is Too Much, 3</string>
@@ -16690,6 +16715,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Ike Turner's Kings Of Rhythm - Funky Mule</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Inell Young - What Do You See In Her</Track>
     <MixRankings>
       <string>Beastie Boys - Shake Your Rump (Instrumental), 3</string>
@@ -16988,6 +17017,7 @@
       <string>Nightmares On Wax - Brothers On The Slide Dub, 2</string>
       <string>Chico Buarque - Samba de Orly, 2</string>
       <string>Jorge Ben &amp; Toquinho - Carolina Carol Bela, 2</string>
+      <string>Vanessa da Mata - Não Me Deixe Só, 2</string>
       <string>Orgone - Don't Stop, 0</string>
       <string>The Herbaliser - What You Asked For, 0</string>
       <string>Michael Vinner's Incredible Bongo Band - Apache, 0</string>
@@ -17475,7 +17505,7 @@
   <TrackMix>
     <Track>James Brown - Blues &amp; Pants</Track>
     <MixRankings>
-      <string>The J.B.'s - (It's Not the Express) It's the J.B.'s Monaurail, 5</string>
+      <string>The J.B.'s - (It's Not the Express) It's the J.B.'s Monaurail, 4</string>
       <string>Jurassic 5 - Break (Instrumental), 4</string>
       <string>James Brown - Funky Drummer, 4</string>
       <string>James Brown - Don't Tell It, 4</string>
@@ -19219,6 +19249,7 @@
       <string>Ty - Don't Watch That (Grant Phabao Remix), 0</string>
       <string>Mario Castro Neves &amp; Samba S.A. - Candomblé, 0</string>
       <string>Osmar Milito - Morre O Burro, Fica O Homem, 0</string>
+      <string>Ana Rosely - Skim Dum Dum Dum, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -19802,6 +19833,7 @@
     <Track>Jorge Ben - Cadê Tereza</Track>
     <MixRankings>
       <string>Jorge Ben - O Telefone Tocou Novamente, 4</string>
+      <string>Astrud Gilberto - Canto De Ossanha (Let Go), 4</string>
       <string>Aretha Franklin - One Step Ahead (Ms. Fat Booty Blend), 3</string>
       <string>Cannonball Adderley - Groovy Sambas, 3</string>
       <string>Jorge Ben - Balanca Pema, 3</string>
@@ -19810,6 +19842,8 @@
       <string>Elzhi &amp; Will Sessions - Memory Lane (Instrumental), 3</string>
       <string>Jorge Ben - Ponta De Laca Africano (Umbabaraúma), 3</string>
       <string>Astrud Gilberto - Take It Easy, My Brother Charlie, 3</string>
+      <string>Agora Chega - Super Som T.A., 3</string>
+      <string>Elza Soares - Chove Chuva, 3</string>
       <string>Al Brown - Here I Am Baby, 2</string>
       <string>Charles Wright &amp; The Watts 103rd Street Rhythm Band - Express Yourself, 2</string>
       <string>Clarence Wheeler &amp; The Enforcers - Right On, 2</string>
@@ -20323,6 +20357,7 @@
     <MixRankings>
       <string>Jorge Ben - Salve Se Quem Puder, 3</string>
       <string>Os Originais Do Samba - Tenha Fé Pois Amanhã Um Lindo Dia Vai Nascer, 3</string>
+      <string>Elizete Cardoso - Chega de Saudade, 3</string>
       <string>Jorge Ben - O Namorado Da Viúva, 2</string>
       <string>Doris Monteiro - Maita, 2</string>
       <string>Erykah Badu - Soldier (Grant Phabao Remix), 2</string>
@@ -20415,6 +20450,7 @@
       <string>Ty - Don't Watch That (Grant Phabao Remix), 3</string>
       <string>Gilberto Gil - Mancada, 3</string>
       <string>Joao Gilberto - O Sapo, 3</string>
+      <string>Agora Chega - Super Som T.A., 3</string>
       <string>Djavan - Serrado, 2</string>
       <string>Os Originais Do Samba - Tenha Fé Pois Amanhã Um Lindo Dia Vai Nascer, 2</string>
       <string>Osmar Milito - Morre O Burro, Fica O Homem, 2</string>
@@ -20478,9 +20514,9 @@
     <MixRankings>
       <string>Young Holt Unlimited - Rubber Lips, 5</string>
       <string>Trio Mocotó - Swinga Sambaby, 5</string>
-      <string>Copa 7 - Copa 7 No Samba, 5</string>
       <string>Osmar Milito - Rita Jeep, 5</string>
       <string>Jurassic 5 - Canto De Ossanha (Instrumental), 5</string>
+      <string>Copa 7 - Copa 7 No Samba, 4</string>
       <string>Jorge Ben - Sem Essa No. 5, 4</string>
       <string>Deltron 3030 - Positive Contact, 4</string>
       <string>Jurassic 5 - React (Instrumental), 4</string>
@@ -20610,6 +20646,7 @@
       <string>Copa 7 - Copa 7 No Samba, 3</string>
       <string>Super Som Lord - Br Samaba, 3</string>
       <string>Rubinho E Mauro Assumpcao - Ta Tudo Ai, 3</string>
+      <string>Trio Mocotó - Swinga Sambaby, 3</string>
       <string>Gilberto Gil - Roda, 2</string>
       <string>Cymande - Brothers On The Slide, 2</string>
       <string>James Brown - Soul Power, 2</string>
@@ -20623,6 +20660,7 @@
       <string>John Cameron - Swamp Fever, 5</string>
       <string>El Michels Affair - Red Rooster, 4</string>
       <string>Astrud Gilberto - Take It Easy, My Brother Charlie, 4</string>
+      <string>Jorge Ben - Ponta De Laca Africano (Umbabaraúma), 4</string>
       <string>Jurassic 5 - Canto De Ossanha (Instrumental), 3</string>
       <string>Ann Allford - Gotta Get Me A Job, 3</string>
       <string>Jurassic 5 - Break (Instrumental), 3</string>
@@ -20640,6 +20678,7 @@
       <string>DJ Nu Mark - Comin' Thru (feat. Chali 2na) (Instrumental) (RB Edit), 3</string>
       <string>Banda Black Rio - Mr. Funky Samba, 3</string>
       <string>Djavan - Serrado, 3</string>
+      <string>Elza Soares - Chove Chuva, 3</string>
       <string>A Tribe Called Quest - Can I Kick It, 2</string>
       <string>A Tribe Called Quest - Oh My God, 2</string>
       <string>Al Green - Love And Happiness, 2</string>
@@ -21137,6 +21176,7 @@
       <string>James Brown - Funky Drummer, 3</string>
       <string>Inell Young - What Do You See In Her, 3</string>
       <string>Jorge Ben - Ponta De Laca Africano (Umbabaraúma), 3</string>
+      <string>Jorge Ben - Rita Jeep, 3</string>
       <string>Charles Wright - You Gotta Know Whatcha Doin', 2</string>
       <string>Harry Deal &amp; The Galaxis - Funky,    Funky, 2</string>
       <string>Harry Deal &amp; The Galaxis - Funky,  Funky, 2</string>
@@ -24596,6 +24636,7 @@
       <string>Jurassic 5 - Canto De Ossanha (Instrumental), 4</string>
       <string>Jorge Ben - Rita Jeep, 4</string>
       <string>Joao Gilberto - O Sapo, 4</string>
+      <string>Astrud Gilberto - Take It Easy, My Brother Charlie, 4</string>
       <string>Elis Regina - Menino Das Laranjas, 3</string>
       <string>Os Originais Do Samba - Tenha Fé Pois Amanhã Um Lindo Dia Vai Nascer, 3</string>
       <string>Ana Rosely - Skim Dum Dum Dum, 3</string>
@@ -27301,6 +27342,7 @@
       <string>Cypress Hill - Latin Thugs (Instrumental), 3</string>
       <string>Sublime - Badfish, 3</string>
       <string>Taggy Matcher - Ain't Hard To Tell, 3</string>
+      <string>Jorge Ben - Cadê Tereza, 3</string>
       <string>Mario Castro Neves &amp; Samba S.A. - Candomblé, 2</string>
       <string>Barry White - Love's Theme, 2</string>
       <string>Nas - The World Is Yours, 2</string>
@@ -27360,6 +27402,7 @@
       <string>Trio Mocotó - Swinga Sambaby, 2</string>
       <string>Tim Maia - No Caminho Do Bem, 2</string>
       <string>Duke Pearson - Sandalia Dela, 2</string>
+      <string>Gilberto Gil - Roda, 2</string>
       <string>Avan Samba - Ibere, 0</string>
     </MixRankings>
   </TrackMix>
@@ -30151,6 +30194,7 @@
       <string>Jorge Ben - Rita Jeep, 3</string>
       <string>Jurassic 5 - Canto De Ossanha (Instrumental), 3</string>
       <string>Cypress Hill - Loco en el Coco, 3</string>
+      <string>Jorge Ben - Olha A Beleza Dela, 3</string>
       <string>Tim Maia - No Caminho Do Bem, 2</string>
       <string>Elis Regina - Menino Das Laranjas, 2</string>
       <string>Mandrake Som - Berimbau, 2</string>
@@ -33948,6 +33992,7 @@
     <Track>Sylvia Telles - Samba De Uma Nota So</Track>
     <MixRankings>
       <string>Jeru The Damaja - Me Or The Papes (Instrumental), 4</string>
+      <string>Elza Soares - Chove Chuva, 4</string>
       <string>Aaron Neville - Hercules, 3</string>
       <string>Ernest Ranglin - 54-46 (Was My Number), 3</string>
       <string>Cypress Hill - Yo Quiero Fumar, 3</string>
@@ -37488,8 +37533,8 @@
     <Track>The J.B.'s - Pass The Peas</Track>
     <MixRankings>
       <string>James Brown - Funky Drummer, 5</string>
-      <string>A Tribe Called Quest - Can I Kick It, 5</string>
       <string>Willie Bobo &amp; The Bo Gents - Broasted Or Fried, 5</string>
+      <string>A Tribe Called Quest - Can I Kick It, 4</string>
       <string>The J.B.'s - You Can Have Watergate Just Gimme Some Bucks and I'll Be Straight, 4</string>
       <string>Jurassic 5 - Great Expectations (Instrumental), 4</string>
       <string>James Brown - Blind Man Can See It, 4</string>
@@ -37574,7 +37619,7 @@
   <TrackMix>
     <Track>The J.B.'s - You Can Have Watergate Just Gimme Some Bucks and I'll Be Straight</Track>
     <MixRankings>
-      <string>The J.B.'s - Pass The Peas, 5</string>
+      <string>The J.B.'s - Pass The Peas, 4</string>
       <string>Damu the Fudgemunk - Start Here (RB Edit), 4</string>
       <string>The J.B.'s - More Peas (Complete Version), 3</string>
       <string>A Tribe Called Quest - Jam, 3</string>
@@ -40816,7 +40861,7 @@
     <MixRankings>
       <string>Bill Withers - Lovely Day, 5</string>
       <string>Damu the Fudgemunk - Start Here (RB Edit), 5</string>
-      <string>Jorge Ben - Pulo Pulo, 5</string>
+      <string>Jorge Ben - Pulo Pulo, 4</string>
       <string>A Tribe Called Quest - Luck Of Lucien, 4</string>
       <string>Nightmares On Wax - Bringin It, 4</string>
       <string>The Marvels - Rock Steady, 4</string>
@@ -41615,6 +41660,7 @@
       <string>ConFunkShun - Clique, 3</string>
       <string>Greyboy - On The Strip, 3</string>
       <string>Jorge Ben - Pulo Pulo, 3</string>
+      <string>Jackie And Roy - Samba Triste, 3</string>
       <string>Tim Maia - No Caminho Do Bem, 2</string>
       <string>Lyn Collins - Give It Up Or Turn It Loose, 2</string>
       <string>Lou Donaldson - Who's Making Love?, 2</string>
@@ -41935,6 +41981,7 @@
       <string>Syl Johnson - I Only Have Love, 2</string>
       <string>Super Som Lord - Br Samaba, 2</string>
       <string>Jorge Ben - Comanche, 2</string>
+      <string>Osmar Milito - Rita Jeep, 2</string>
       <string>A Tribe Called Quest - Luck Of Lucien (Instrumental), 0</string>
       <string>A Tribe Called Quest - Youthful Expression (Instrumental), 0</string>
       <string>Ann Sextona - You're Losing Me, 0</string>
