@@ -34781,42 +34781,6 @@
     <Gain>1.083798</Gain>
   </Sample>
   <Sample>
-    <Start>5.442</Start>
-    <Length>2.527</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>E</Key>
-    <TrackArtist>Xavier Cugat</TrackArtist>
-    <TrackTitle>Maracaibo</TrackTitle>
-    <TrackLength>187.333</TrackLength>
-    <Description>FadeIn</Description>
-    <Bpm>94.9742777997625</Bpm>
-    <Tags>
-      <string>latin</string>
-    </Tags>
-    <Gain>0.914634</Gain>
-  </Sample>
-  <Sample>
-    <Start>110.468</Start>
-    <Length>1.192</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key>E</Key>
-    <TrackArtist>Xavier Cugat</TrackArtist>
-    <TrackTitle>Maracaibo</TrackTitle>
-    <TrackLength>187.333</TrackLength>
-    <Description>FadeOut</Description>
-    <Bpm>100.671140939597375</Bpm>
-    <Tags>
-      <string>latin</string>
-    </Tags>
-    <Gain>0.914634</Gain>
-  </Sample>
-  <Sample>
     <Start>5.434</Start>
     <Length>20.218</Length>
     <Offset>0</Offset>
@@ -58323,5 +58287,59 @@
       <string>latin</string>
     </Tags>
     <Gain>1.42045259</Gain>
+  </Sample>
+  <Sample>
+    <Start>5.442</Start>
+    <Length>2.527</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>E</Key>
+    <TrackArtist>Xavier Cugat</TrackArtist>
+    <TrackTitle>Maracaibo</TrackTitle>
+    <TrackLength>187.333</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>94.9742777997625</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1.38315749</Gain>
+  </Sample>
+  <Sample>
+    <Start>110.468</Start>
+    <Length>1.192</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>E</Key>
+    <TrackArtist>Xavier Cugat</TrackArtist>
+    <TrackTitle>Maracaibo</TrackTitle>
+    <TrackLength>187.333</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>100.671140939597375</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1.48562753</Gain>
+  </Sample>
+  <Sample>
+    <Start>10.515753968253968</Start>
+    <Length>10.190668934240362</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>E</Key>
+    <TrackArtist>Xavier Cugat</TrackArtist>
+    <TrackTitle>Maracaibo</TrackTitle>
+    <TrackLength>187.333</TrackLength>
+    <Description>HornLoop1</Description>
+    <Bpm>94.2038256953306</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1.161868</Gain>
   </Sample>
 </ArrayOfSample>

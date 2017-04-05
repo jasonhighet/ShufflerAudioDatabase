@@ -7553,6 +7553,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Burning Spear - Slavery Days</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Burning Spear - The Ghost (Marcus Garvey)</Track>
     <MixRankings>
       <string>DJ Nu Mark - Comin' Thru (feat. Chali 2na) (Instrumental) (RB Edit), 4</string>
@@ -20507,6 +20511,7 @@
       <string>Roy Ayers - Everybody Loves The Sunshine, 0</string>
       <string>El Michels Affair - Walk On By, 0</string>
       <string>Augustus Pablo &amp; King Tubby - King Tubby's Borderline Dub, 0</string>
+      <string>Jimmy Ponder - While My Guitar Gently Weeps, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -25381,6 +25386,7 @@
     <Track>Monty Alexander - Let It be</Track>
     <MixRankings>
       <string>Edson Frederico - Bobeira, 3</string>
+      <string>Billy Brooks - Forty Days, 3</string>
       <string>Vanessa da Mata - Não Me Deixe Só, 2</string>
       <string>John Legend &amp; The Roots - Hard Times, 2</string>
       <string>Ernie Hines - Our Generation, 2</string>
@@ -29153,6 +29159,7 @@
       <string>Speedometer - Time for Change, 4</string>
       <string>The Quantic Soul Orchestra - That Goose On My Grave, 4</string>
       <string>Marva Whitney - Things Have Got To Get Better, 4</string>
+      <string>Herbie Hancock - Bring Down The Birds, 4</string>
       <string>Donald Byrd - Love's so Far Away, 3</string>
       <string>Lou Donaldson - Turtle Walk, 3</string>
       <string>Os Cobras - Nana, 3</string>
@@ -30250,13 +30257,13 @@
       <string>Tosca - Worksong (Uptight Mix), 4</string>
       <string>Pete Rock - Back On The Block (Instrumental), 4</string>
       <string>Seu Jorge - Carolina, 4</string>
+      <string>A Tribe Called Quest - Oh My God, 4</string>
       <string>Charles Wright &amp; The Watts 103rd Street Rhythm Band - Express Yourself, 3</string>
       <string>Janet Jackson - Got 'Till It's Gone (feat. Q-Tip), 3</string>
       <string>Pete Rock &amp; CL Smooth - All The Places (Instrumental), 3</string>
       <string>Spanky Wilson &amp; The Quantic Soul Orchestra - I'm Thankful (Part 1), 3</string>
       <string>Pete Rock - A Little Soul, 3</string>
       <string>Gian Franco Pienzio - Grigio Perla, 3</string>
-      <string>A Tribe Called Quest - Oh My God, 3</string>
       <string>Nightmares On Wax - The Sweetest, 3</string>
       <string>Average White Band - Stop The Rain, 3</string>
       <string>Thievery Corporation - All That We Perceive, 3</string>
@@ -42383,6 +42390,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Wanda Sá - So Danço Samba (I Only Dance Samba)</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Watson And  The Sherlocks - Funky Walk</Track>
     <MixRankings>
       <string>Billy Wade &amp; The 3 Degrees - Tear It Up (Part 2), 2</string>
@@ -42422,11 +42433,11 @@
       <string>Astrud Gilberto &amp; Antonio Carlos Jobim - Agua de Beber, 4</string>
       <string>Stan Getz &amp; Laurindo Almeida - Corcovado, 4</string>
       <string>King Tubby - Turntable Dub, 4</string>
+      <string>Wes Montgomery - Sunny, 4</string>
       <string>Cal Tjader - Soul Sauce (Guachi Guaro), 3</string>
       <string>Elis Regina - Acuas de Marco, 3</string>
       <string>Ernest Ranglin - Surfin', 3</string>
       <string>The Casualties of Jazz - Sweet Leaf, 3</string>
-      <string>Wes Montgomery - Sunny, 3</string>
       <string>King Tubby - Psalms of Dub, 3</string>
       <string>Soopasoul - Swing Down (Instrumental), 3</string>
       <string>Cal Tjader - Cuchy Frito Man, 2</string>
@@ -42711,11 +42722,11 @@
       <string>Lennie Hibbert - Real Hot (RB Edit), 4</string>
       <string>Tapper Zukie - Beautiful Dub, 4</string>
       <string>Prince Fatty - Switch Blade, 4</string>
+      <string>The 3 Sounds - Sittin' Duck, 4</string>
       <string>Elis Regina - Acuas de Marco, 3</string>
       <string>Astrud Gilberto &amp; Antonio Carlos Jobim - Agua de Beber, 3</string>
       <string>El Michels Affair - Walk On By, 3</string>
       <string>Howard Roberts - Smokin', 3</string>
-      <string>The 3 Sounds - Sittin' Duck, 3</string>
       <string>The New Mastersounds - 3 On The B, 3</string>
       <string>Horace Andy - Zion Gate, 3</string>
       <string>The Maytals - Night and Day, 3</string>

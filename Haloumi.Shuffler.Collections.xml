@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <ArrayOfPlaylist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Playlist>
     <Name>BBQ</Name>
@@ -2952,6 +2952,1561 @@
         <Artist>Vanessa da Mata</Artist>
         <Title>Não Me Deixe Só</Title>
         <Length>189.675</Length>
+      </PlaylistEntry>
+    </Entries>
+  </Playlist>
+  <Playlist>
+    <Name>WhiskeyNight</Name>
+    <Entries>
+      <PlaylistEntry>
+        <Artist>Aaron Neville</Artist>
+        <Title>Hercules</Title>
+        <Length>185.488</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>A Tribe Called Quest</Artist>
+        <Title>Oh My God</Title>
+        <Length>152.155</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>A Tribe Called Quest</Artist>
+        <Title>Youthful Expression (Instrumental)</Title>
+        <Length>96.768</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>A Tribe Called Quest</Artist>
+        <Title>Push It Along (Instrumental)</Title>
+        <Length>90.608</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>A Tribe Called Quest</Artist>
+        <Title>Luck Of Lucien (Instrumental)</Title>
+        <Length>127.875</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>A Tribe Called Quest</Artist>
+        <Title>Jam (RB Instrumental Edit)</Title>
+        <Length>162.381</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>A Tribe Called Quest</Artist>
+        <Title>Ham N Eggs (Instrumental)</Title>
+        <Length>58.637</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>A Tribe Called Quest</Artist>
+        <Title>Electric Relaxation (Instrumental)</Title>
+        <Length>111.956</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>A Tribe Called Quest</Artist>
+        <Title>Clap Your Hands (Instrumental)</Title>
+        <Length>102.499</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>A Tribe Called Quest</Artist>
+        <Title>Check the Rhime</Title>
+        <Length>169.296</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>A Tribe Called Quest</Artist>
+        <Title>Can I Kick It</Title>
+        <Length>124.121</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>A Tribe Called Quest</Artist>
+        <Title>Buggin' Out</Title>
+        <Length>144.773</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>A Tribe Called Quest</Artist>
+        <Title>Award Tour (Instrumental)</Title>
+        <Length>148.309</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>A Tribe Called Quest</Artist>
+        <Title>1nce Again (Instrumental) (RB Edit)</Title>
+        <Length>102.569</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Blackalicious</Artist>
+        <Title>Deep In The Jungle (Instrumental)</Title>
+        <Length>167.282</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Blackalicious</Artist>
+        <Title>Rock The Spot (Instrumental)</Title>
+        <Length>66.738</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Blackalicious</Artist>
+        <Title>Swan Lake (Instrumental)</Title>
+        <Length>132.684</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Bill Withers</Artist>
+        <Title>Use Me</Title>
+        <Length>136.769</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Bill Withers</Artist>
+        <Title>The Same Love That Made Me Laugh</Title>
+        <Length>154.413</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Bill Withers</Artist>
+        <Title>Lovely Day</Title>
+        <Length>205.969</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Betty Wright</Artist>
+        <Title>Clean Up Woman</Title>
+        <Length>139.251</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Betty Harris</Artist>
+        <Title>Break In The Road (feat. The Meters)</Title>
+        <Length>118.978</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Beats International</Artist>
+        <Title>Dub Be Good To Me</Title>
+        <Length>110.114</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Beastie Boys</Artist>
+        <Title>Some Dumb Cop Gave Me Two Tickets Already (Instrumental)</Title>
+        <Length>64.147</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Beastie Boys</Artist>
+        <Title>Shake Your Rump (Instrumental)</Title>
+        <Length>83.297</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Beastie Boys</Artist>
+        <Title>Shadrach (Instrumental)</Title>
+        <Length>84.893</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Beastie Boys</Artist>
+        <Title>Hey Ladies (Instrumental)</Title>
+        <Length>74.892</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Barry White</Artist>
+        <Title>Satin Soul</Title>
+        <Length>116.306</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Barry White</Artist>
+        <Title>It's Ecstasy When You Lay Down Next To Me</Title>
+        <Length>145.133</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Average White Band</Artist>
+        <Title>Pick Up The Pieces</Title>
+        <Length>118.434</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Augustus Pablo</Artist>
+        <Title>East Of The River Nile Version</Title>
+        <Length>57.725</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Arrested Development</Artist>
+        <Title>People Everyday (Instrumental) (RB Edit)</Title>
+        <Length>89.475</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Aretha Franklin</Artist>
+        <Title>One Step Ahead (Ms. Fat Booty Blend)</Title>
+        <Length>135.329</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Aphrodelics</Artist>
+        <Title>Rollin' On Chrome (Wild Motherfucker Dub)</Title>
+        <Length>174.731</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Althea &amp; Donna</Artist>
+        <Title>Uptown Top Ranking</Title>
+        <Length>214.430</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Aloe Blacc</Artist>
+        <Title>I Need A Dollar (Instrumental)</Title>
+        <Length>140.706</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>All The People</Artist>
+        <Title>Cramp Your Style</Title>
+        <Length>101.426</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Al Green</Artist>
+        <Title>Standing In The Rain</Title>
+        <Length>184.977</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Al Green</Artist>
+        <Title>Love And Happiness</Title>
+        <Length>178.188</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Al Green</Artist>
+        <Title>Let's Stay Together</Title>
+        <Length>109.376</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Bob Marley</Artist>
+        <Title>Brand New Second Hand</Title>
+        <Length>149.763</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Bob James</Artist>
+        <Title>Nautilus</Title>
+        <Length>153.355</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Bomb The Bass</Artist>
+        <Title>Bug Powder Dust (K&amp;D Session)</Title>
+        <Length>116.153</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Bomb The Bass</Artist>
+        <Title>Bug Powder Dust</Title>
+        <Length>106.780</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Bobby Hebb</Artist>
+        <Title>Sunny</Title>
+        <Length>145.852</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Bob Marley</Artist>
+        <Title>Run For Cover</Title>
+        <Length>111.124</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Cypress Hill</Artist>
+        <Title>Yo Quiero Fumar</Title>
+        <Length>128.861</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Cypress Hill</Artist>
+        <Title>Loco en el Coco</Title>
+        <Length>131.620</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Cypress Hill</Artist>
+        <Title>Latin Thugs (Instrumental)</Title>
+        <Length>62.009</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Byron Lee</Artist>
+        <Title>Hot Reggae</Title>
+        <Length>94.670</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Brentford Allstars</Artist>
+        <Title>Greedy G</Title>
+        <Length>108.413</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Damu the Fudgemunk</Artist>
+        <Title>Tea Thyme</Title>
+        <Length>63.222</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Damu the Fudgemunk</Artist>
+        <Title>Start Here (RB Edit)</Title>
+        <Length>105.500</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Damu the Fudgemunk</Artist>
+        <Title>Judgement Day</Title>
+        <Length>80.819</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Damu the Fudgemunk</Artist>
+        <Title>Its Called The Chill Out</Title>
+        <Length>70.971</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Damu the Fudgemunk</Artist>
+        <Title>Fabrega's Discotecas</Title>
+        <Length>52.791</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Damu the Fudgemunk</Artist>
+        <Title>Dream Catcher</Title>
+        <Length>88.312</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Damu the Fudgemunk</Artist>
+        <Title>Clap and Form Your Soul</Title>
+        <Length>91.147</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Deltron 3030</Artist>
+        <Title>Talent Supercedes (feat. Black Rob)</Title>
+        <Length>152.528</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Deltron 3030</Artist>
+        <Title>Positive Contact</Title>
+        <Length>134.821</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Del The Funky Homosapien</Artist>
+        <Title>Thank Youse</Title>
+        <Length>148.041</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Dee Lite</Artist>
+        <Title>Groove Is In The Heart</Title>
+        <Length>185.620</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Deadbeats</Artist>
+        <Title>Pick Me Up (Nightmares On Wax Edit)</Title>
+        <Length>109.501</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>De La Soul</Artist>
+        <Title>The Magic Number</Title>
+        <Length>127.805</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>De La Soul</Artist>
+        <Title>Ring Ring Ring (Ha Ha Hey)</Title>
+        <Length>115.500</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>De La Soul</Artist>
+        <Title>Keepin' The Faith</Title>
+        <Length>157.242</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>De La Soul</Artist>
+        <Title>Fallin' (feat. Teenage Fan Club)</Title>
+        <Length>152.707</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>De La Soul</Artist>
+        <Title>Eye Know</Title>
+        <Length>123.144</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>De La Soul</Artist>
+        <Title>Breakadawn</Title>
+        <Length>180.234</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>De La Soul</Artist>
+        <Title>All Good? (feat. Chaka Khan)</Title>
+        <Length>218.174</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>De La Soul</Artist>
+        <Title>A Roller Skating Jam Named Saturdays</Title>
+        <Length>208.846</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>De La Soul</Artist>
+        <Title>4 More (feat. Zhane)</Title>
+        <Length>175.225</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Dandy Livingstone</Artist>
+        <Title>Rudy, A Message To You</Title>
+        <Length>142.762</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>DJ Nu-Mark</Artist>
+        <Title>Lay 'Em Low (Instrumental)</Title>
+        <Length>109.301</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>DJ Nu Mark</Artist>
+        <Title>Comin' Thru (feat. Chali 2na) (Instrumental) (RB Edit)</Title>
+        <Length>148.605</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>DJ Muggs vs. Sick Jacken</Artist>
+        <Title>El Barrio</Title>
+        <Length>104.352</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>DJ Jazzy Jeff And The Fresh Prince</Artist>
+        <Title>Summertime (Instrumental)</Title>
+        <Length>161.657</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Dionne Warwick</Artist>
+        <Title>I Say A Little Prayer</Title>
+        <Length>134.744</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Dionne Warwick</Artist>
+        <Title>Do You Know The Way To San Jose</Title>
+        <Length>134.265</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Fela Soul</Artist>
+        <Title>Trouble In The Water (Instrumental)</Title>
+        <Length>130.901</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Fela Soul</Artist>
+        <Title>Still Ego Trippin' (Instrumental)</Title>
+        <Length>107.626</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Fela Soul</Artist>
+        <Title>Oooh (Instrumental)</Title>
+        <Length>65.467</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Elzhi &amp; Will Sessions</Artist>
+        <Title>The World Is Yours (Instrumental)</Title>
+        <Length>93.380</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Elzhi &amp; Will Sessions</Artist>
+        <Title>Memory Lane (Instrumental)</Title>
+        <Length>69.697</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>El Michels Affair</Artist>
+        <Title>Uzi (Pinky Ring)</Title>
+        <Length>145.294</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>El Michels Affair</Artist>
+        <Title>Criminology</Title>
+        <Length>61.127</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>El Michels Affair</Artist>
+        <Title>C.R.E.A.M.</Title>
+        <Length>109.013</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Eddie Bo</Artist>
+        <Title>Funky Jam</Title>
+        <Length>115.571</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Eddie Bo</Artist>
+        <Title>Check Your Bucket</Title>
+        <Length>133.643</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Eddie Bo</Artist>
+        <Title>Check Your Bucket (Parts 1 &amp; 2)</Title>
+        <Length>105.261</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Dusty Springfield</Artist>
+        <Title>Spooky</Title>
+        <Length>148.451</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Dusty Springfield</Artist>
+        <Title>Son Of A Preacher Man</Title>
+        <Length>129.896</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Dub Specialist</Artist>
+        <Title>Dub It Easy</Title>
+        <Length>72.479</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Donald Byrd</Artist>
+        <Title>Think Twice</Title>
+        <Length>116.131</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Donald Byrd</Artist>
+        <Title>(Fallin' Like) Dominoes</Title>
+        <Length>203.385</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Free Som Orchestra</Artist>
+        <Title>The Kings Bounce</Title>
+        <Length>72.727</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Jackie Mittoo And The Soul Brothers</Artist>
+        <Title>James Bond Theme</Title>
+        <Length>114.797</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Jackie Mittoo</Artist>
+        <Title>Stereo Freeze</Title>
+        <Length>145.512</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Jackie Mittoo</Artist>
+        <Title>Juice Box</Title>
+        <Length>134.916</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Jackie Mittoo</Artist>
+        <Title>Get Up And Get It</Title>
+        <Length>105.451</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Ini Kamoze</Artist>
+        <Title>World A Music</Title>
+        <Length>148.611</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Ini Kamoze</Artist>
+        <Title>Here Comes The Hotstepper</Title>
+        <Length>143.531</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Howard Roberts</Artist>
+        <Title>Dirty Old Bossa Nova</Title>
+        <Length>98.940</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Horace Andy</Artist>
+        <Title>Better Collie Version</Title>
+        <Length>84.520</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Horace Andy</Artist>
+        <Title>Dub Say Who</Title>
+        <Length>111.357</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Horace Andy</Artist>
+        <Title>Zion Gate</Title>
+        <Length>155.823</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Harry J All Stars</Artist>
+        <Title>Liquidator</Title>
+        <Length>139.025</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Gwen McCrae</Artist>
+        <Title>90% Of Me Is You</Title>
+        <Length>133.927</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Group Home</Artist>
+        <Title>Intro (Instrumental)</Title>
+        <Length>64.469</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Greyboy</Artist>
+        <Title>Panacea</Title>
+        <Length>115.532</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Greyboy</Artist>
+        <Title>Lite Bake</Title>
+        <Length>175.451</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Gregory Isaacs</Artist>
+        <Title>Night Nurse (Kruder and Dorfmeister Session)</Title>
+        <Length>167.963</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Grandmaster Flash</Artist>
+        <Title>The Message (Instrumental)</Title>
+        <Length>69.230</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Glen Brown and King Tubby</Artist>
+        <Title>Assack Lawn No. 1 Dub (Version Two) (Version 2)</Title>
+        <Length>119.361</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Glen Brown and King Tubby</Artist>
+        <Title>Assack Lawn No. 1 Dub (Version One) (Version 1)</Title>
+        <Length>161.634</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Gang Starr</Artist>
+        <Title>You Know My Steez (Instrumental)</Title>
+        <Length>60.305</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Gang Starr</Artist>
+        <Title>Mass Appeal (Instrumental) (RB Edit)</Title>
+        <Length>59.990</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Gang Starr</Artist>
+        <Title>Full Clip (Instrumental) (RB Edit)</Title>
+        <Length>80.627</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Jimmy Cliff</Artist>
+        <Title>The Harder They Come (Alternate)</Title>
+        <Length>154.193</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Jimmy Cliff</Artist>
+        <Title>Ruby Soho</Title>
+        <Length>142.212</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Jeru The Damaja</Artist>
+        <Title>Me Or The Papes (Instrumental)</Title>
+        <Length>84.694</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Jean Knight</Artist>
+        <Title>Mr. Big Stuff</Title>
+        <Length>123.629</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Janet Jackson</Artist>
+        <Title>Got 'Till It's Gone (feat. Q-Tip)</Title>
+        <Length>138.688</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>James Brown</Artist>
+        <Title>The Boss</Title>
+        <Length>164.881</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>James Brown</Artist>
+        <Title>The Payback</Title>
+        <Length>169.336</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>James Brown</Artist>
+        <Title>Papa Don't Take No Mess (Part 1)</Title>
+        <Length>192.021</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>James Brown</Artist>
+        <Title>I'm A Greedy Man (Part 1)</Title>
+        <Length>91.093</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>James Brown</Artist>
+        <Title>Hot Pants (Part 1)</Title>
+        <Length>188.417</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>James Brown</Artist>
+        <Title>Give It Up Or Turnit A Loose</Title>
+        <Length>162.524</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>James Brown</Artist>
+        <Title>Get On The Good Foot</Title>
+        <Length>111.493</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>James Brown</Artist>
+        <Title>Funky Drummer</Title>
+        <Length>124.832</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>James Brown</Artist>
+        <Title>Blues &amp; Pants</Title>
+        <Length>166.264</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>James Brown</Artist>
+        <Title>Blind Man Can See It</Title>
+        <Length>64.687</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>KC White</Artist>
+        <Title>No No No</Title>
+        <Length>158.151</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Katchafire</Artist>
+        <Title>Get Away</Title>
+        <Length>185.742</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Katchafire</Artist>
+        <Title>Bounce</Title>
+        <Length>153.832</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Jurassic 5</Artist>
+        <Title>Whats Golden</Title>
+        <Length>102.403</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Jurassic 5</Artist>
+        <Title>Unified Rebelution</Title>
+        <Length>119.921</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Jurassic 5</Artist>
+        <Title>Red Hot (Instrumental)</Title>
+        <Length>88.649</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Jurassic 5</Artist>
+        <Title>React (Instrumental)</Title>
+        <Length>40.878</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Jurassic 5</Artist>
+        <Title>Lausd (Instrumental) (RB Edit)</Title>
+        <Length>70.874</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Jurassic 5</Artist>
+        <Title>Jayou</Title>
+        <Length>169.670</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Jurassic 5</Artist>
+        <Title>Improvise (Instrumental)</Title>
+        <Length>102.009</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Jurassic 5</Artist>
+        <Title>If You Only Knew (Instrumental)</Title>
+        <Length>47.983</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Jurassic 5</Artist>
+        <Title>I Am Somebody (Instrumental)</Title>
+        <Length>86.096</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Jurassic 5</Artist>
+        <Title>How We Get Along (Instrumental)</Title>
+        <Length>41.319</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Jurassic 5</Artist>
+        <Title>Great Expectations (Instrumental)</Title>
+        <Length>103.939</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Jurassic 5</Artist>
+        <Title>Freedom (Instrumental)</Title>
+        <Length>93.844</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Jurassic 5</Artist>
+        <Title>Concrete Schoolyard (Instrumental)</Title>
+        <Length>106.406</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Jurassic 5</Artist>
+        <Title>Break (Instrumental)</Title>
+        <Length>120.849</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Jurassic 5</Artist>
+        <Title>A Day At The Races (feat. Big Daddy Kane)</Title>
+        <Length>221.296</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Jungle Fire</Artist>
+        <Title>Comencemos (Let's Start)</Title>
+        <Length>104.419</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>John Holt</Artist>
+        <Title>Man Next Door (Got To Get Away)</Title>
+        <Length>103.761</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Little Roy</Artist>
+        <Title>Lithium</Title>
+        <Length>159.962</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Lennie Hibbert</Artist>
+        <Title>Real Hot (RB Edit)</Title>
+        <Length>112.498</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Lee 'Scratch' Perry and King Tubby</Artist>
+        <Title>MFA Dub</Title>
+        <Length>110.148</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Lee Perry</Artist>
+        <Title>Jungle Lion</Title>
+        <Length>146.545</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>King Tubby</Artist>
+        <Title>Zion Gate Dub</Title>
+        <Length>146.320</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>King Tubby</Artist>
+        <Title>Turntable Dub</Title>
+        <Length>105.211</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>King Tubby</Artist>
+        <Title>Tubby Get Smart</Title>
+        <Length>99.401</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>King Tubby</Artist>
+        <Title>The Battle Axe Dub</Title>
+        <Length>118.584</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>King Tubby</Artist>
+        <Title>Rock With I Dub</Title>
+        <Length>152.849</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>King Tubby</Artist>
+        <Title>Psalms of Dub</Title>
+        <Length>95.286</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>King Tubby</Artist>
+        <Title>No No No</Title>
+        <Length>125.701</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>King Tubby</Artist>
+        <Title>King Tubby Dub</Title>
+        <Length>144.654</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>King Tubby</Artist>
+        <Title>Dub Of A Woman</Title>
+        <Length>88.503</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>King Tubby</Artist>
+        <Title>Clash of Steel</Title>
+        <Length>132.897</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>King Tubby</Artist>
+        <Title>Black Lash</Title>
+        <Length>140.584</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>King Jammy</Artist>
+        <Title>Dub It in the Dancehall Dub</Title>
+        <Length>95.171</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Señor Coconut</Artist>
+        <Title>Around The Wold (Intro)</Title>
+        <Length>123.237</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>RZA</Artist>
+        <Title>You Can't Stop Me Now</Title>
+        <Length>127.246</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Roy Ayers</Artist>
+        <Title>Running Away</Title>
+        <Length>174.573</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Roy Ayers</Artist>
+        <Title>Running Away (12 Mix)</Title>
+        <Length>173.797</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Roy Ayers</Artist>
+        <Title>Everybody Loves The Sunshine</Title>
+        <Length>142.864</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Ronny Jordan Meets DJ Krush</Artist>
+        <Title>So What! (Tuff 'n' Smooth Mix)</Title>
+        <Length>172.594</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Rodney P &amp; DJ Die</Artist>
+        <Title>Holes In The Building (Radio Edit)</Title>
+        <Length>142.842</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Rockers Hi Fi</Artist>
+        <Title>Transmission Central</Title>
+        <Length>211.983</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>RJD2</Artist>
+        <Title>Ghostwriter</Title>
+        <Length>117.678</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>RJD2</Artist>
+        <Title>All For U</Title>
+        <Length>112.355</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Randy's Allstars</Artist>
+        <Title>Mission Impossible</Title>
+        <Length>181.600</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Quannum Projects</Artist>
+        <Title>I Changed My Mind (Instrumental)</Title>
+        <Length>97.086</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Prince Fatty</Artist>
+        <Title>Switch Blade</Title>
+        <Length>134.828</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Prince Fatty</Artist>
+        <Title>Milk and Honey In My Dub</Title>
+        <Length>98.696</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Prince Fatty</Artist>
+        <Title>Insane In The Brain (feat. Horseman)</Title>
+        <Length>93.881</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Pharrell Williams</Artist>
+        <Title>Happy (Cousin Cole Reggae Mix)</Title>
+        <Length>124.671</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Pete Rock &amp; CL Smooth</Artist>
+        <Title>All The Places (Instrumental)</Title>
+        <Length>95.782</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Pete Rock</Artist>
+        <Title>A Little Soul</Title>
+        <Length>84.580</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Pete Rock</Artist>
+        <Title>Back On The Block (Instrumental)</Title>
+        <Length>81.772</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>People Under The Stairs</Artist>
+        <Title>Youth Explosion</Title>
+        <Length>88.885</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>People Under The Stairs</Artist>
+        <Title>The Hang Loose</Title>
+        <Length>204.356</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>People Under The Stairs</Artist>
+        <Title>The Breakdown</Title>
+        <Length>174.323</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>People Under The Stairs</Artist>
+        <Title>Flex Off</Title>
+        <Length>100.317</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>People Under The Stairs</Artist>
+        <Title>Anotha' (BBQ)</Title>
+        <Length>92.032</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>People Under The Stairs</Artist>
+        <Title>Acid Raindrops</Title>
+        <Length>167.636</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Panjabi MC</Artist>
+        <Title>Mundiya Tu Bach Ke</Title>
+        <Length>97.873</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Otis Redding</Artist>
+        <Title>(Sittin' On) The Dock Of The Bay</Title>
+        <Length>130.017</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Orgone</Artist>
+        <Title>Don't Stop</Title>
+        <Length>192.971</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Nina Simone</Artist>
+        <Title>Save Me</Title>
+        <Length>191.718</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Nina Simone</Artist>
+        <Title>Ain't Got No; I Got Life (Alternate)</Title>
+        <Length>164.811</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Nightmares On Wax</Artist>
+        <Title>Morse</Title>
+        <Length>118.565</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Nightmares On Wax</Artist>
+        <Title>Play On</Title>
+        <Length>185.726</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Nightmares On Wax</Artist>
+        <Title>Les Nuits (DJ Spinna Mix)</Title>
+        <Length>94.772</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Nightmares On Wax</Artist>
+        <Title>Know My Name (Instrumental)</Title>
+        <Length>84.677</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Nightmares On Wax</Artist>
+        <Title>Keep On (feat. De La Soul) (86 Init Mix)</Title>
+        <Length>190.949</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Nightmares On Wax</Artist>
+        <Title>Ethnic Majority</Title>
+        <Length>173.090</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Nightmares On Wax</Artist>
+        <Title>Ease Jimi</Title>
+        <Length>146.449</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Nightmares On Wax</Artist>
+        <Title>Brothers On The Slide Dub</Title>
+        <Length>151.086</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Nightmares On Wax</Artist>
+        <Title>195lbs</Title>
+        <Length>159.064</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Nightmares On Wax</Artist>
+        <Title>70s 80s</Title>
+        <Length>176.552</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Naughty By Nature</Artist>
+        <Title>OPP (Instrumental)</Title>
+        <Length>78.551</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Naughty By Nature</Artist>
+        <Title>Feel Me Flow (Instrumental)</Title>
+        <Length>53.203</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Nas</Artist>
+        <Title>Halftime (Instrumental)</Title>
+        <Length>78.300</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Mungo's Hi Fi</Artist>
+        <Title>Gideon Boot feat. General Levy (Original Mix)</Title>
+        <Length>154.819</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Mr. Scruff</Artist>
+        <Title>Jusjus (feat. Roots Manuva)</Title>
+        <Length>230.100</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Mr. Scruff</Artist>
+        <Title>Get a Move On</Title>
+        <Length>124.582</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Mos Def</Artist>
+        <Title>Mr. Universe</Title>
+        <Length>127.535</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Monie Love</Artist>
+        <Title>Monie In The Middle</Title>
+        <Length>133.553</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Monie Love</Artist>
+        <Title>It's A Shame</Title>
+        <Length>177.761</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Moloko</Artist>
+        <Title>The Time Is Now (Can 7 Remix)</Title>
+        <Length>150.227</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Moloko</Artist>
+        <Title>Sing It Back (Boris Dlugosch Musical Mix Edit)</Title>
+        <Length>140.473</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Michael Vinner's Incredible Bongo Band</Artist>
+        <Title>Apache</Title>
+        <Length>111.219</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Marvin Gaye</Artist>
+        <Title>Mercy Mercy Me (The Ecology)</Title>
+        <Length>112.344</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Marcia Aitken</Artist>
+        <Title>I'm Still In Love</Title>
+        <Length>143.054</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Manzel</Artist>
+        <Title>Space Funk</Title>
+        <Length>147.369</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Pharcyde</Artist>
+        <Title>Running Away (Instrumental) (RB Edit)</Title>
+        <Length>91.853</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Marvels</Artist>
+        <Title>Rock Steady</Title>
+        <Length>178.879</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The J.B.'s</Artist>
+        <Title>Hot Pants Road</Title>
+        <Length>71.661</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The J.B.'s</Artist>
+        <Title>Givin' Up Food for Funk Parts 1 &amp; 2</Title>
+        <Length>87.625</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The J.B.'s</Artist>
+        <Title>(It's Not the Express) It's the J.B.'s Monaurail</Title>
+        <Length>193.903</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Herbaliser Band</Artist>
+        <Title>Goldrush</Title>
+        <Length>199.917</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The HitchHikers</Artist>
+        <Title>Mr Fortune</Title>
+        <Length>110.401</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Herbaliser</Artist>
+        <Title>Worldwide Connected</Title>
+        <Length>124.796</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Herbaliser</Artist>
+        <Title>Take 'em On</Title>
+        <Length>160.010</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Herbaliser</Artist>
+        <Title>Opening Credits</Title>
+        <Length>76.035</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Herbaliser</Artist>
+        <Title>More Styles</Title>
+        <Length>69.275</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Herbaliser</Artist>
+        <Title>Battle of Bongo Hill</Title>
+        <Length>175.373</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Gaylettes</Artist>
+        <Title>Son Of A Preacher Man</Title>
+        <Length>114.494</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Gaturs</Artist>
+        <Title>The Booger Man</Title>
+        <Length>119.332</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Gaturs</Artist>
+        <Title>Gator Bait</Title>
+        <Length>148.959</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Gaturs</Artist>
+        <Title>Cold Bear</Title>
+        <Length>126.052</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Black Seeds</Artist>
+        <Title>Cool Me Down</Title>
+        <Length>147.674</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Beatnuts</Artist>
+        <Title>Fluid</Title>
+        <Length>71.254</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Beatnuts</Artist>
+        <Title>Watch Out Now (Instrumental)</Title>
+        <Length>66.828</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Beatnuts</Artist>
+        <Title>Off The Books (Instrumental)</Title>
+        <Length>94.037</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Beatnuts</Artist>
+        <Title>Get Funky (Instrumental)</Title>
+        <Length>88.571</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Bamboos</Artist>
+        <Title>Tongan Steel</Title>
+        <Length>200.840</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Bamboos</Artist>
+        <Title>The Witch</Title>
+        <Length>160.663</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Bamboos</Artist>
+        <Title>The Ghost</Title>
+        <Length>174.546</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Bamboos</Artist>
+        <Title>Red Triangle</Title>
+        <Length>106.489</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Bamboos</Artist>
+        <Title>Got To Get It Over</Title>
+        <Length>113.422</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Bamboos</Artist>
+        <Title>Black Foot</Title>
+        <Length>117.233</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The 3 Sounds</Artist>
+        <Title>Sittin' Duck</Title>
+        <Length>139.973</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The 3 Sounds</Artist>
+        <Title>Put on Train</Title>
+        <Length>167.183</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The  Dynamics</Artist>
+        <Title>Whole Lotta Love</Title>
+        <Length>150.351</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Tenor Saw</Artist>
+        <Title>Ring The Alarm</Title>
+        <Length>107.016</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Taggy Matcher</Artist>
+        <Title>Witness</Title>
+        <Length>193.105</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Taggy Matcher</Artist>
+        <Title>Root Down</Title>
+        <Length>124.857</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Taggy Matcher</Artist>
+        <Title>My Adidas</Title>
+        <Length>206.448</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Taggy Matcher</Artist>
+        <Title>Breathe And Stop</Title>
+        <Length>151.398</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Taggy Matcher</Artist>
+        <Title>Ain't Hard To Tell</Title>
+        <Length>116.687</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Stevie Wonder</Artist>
+        <Title>Uptight (Grant Phabao Remix)</Title>
+        <Length>182.563</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Sublime</Artist>
+        <Title>Badfish</Title>
+        <Length>145.827</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Souls Of Mischief</Artist>
+        <Title>Let Em Know (Instrumental)</Title>
+        <Length>108.909</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Souls Of Mischief</Artist>
+        <Title>93 Til Infinity (Instrumental)</Title>
+        <Length>134.555</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Sola Rosa</Artist>
+        <Title>Del Ray</Title>
+        <Length>94.094</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Sofa Surfers</Artist>
+        <Title>Sofa Rockers (Richard Dorfmeister Remix)</Title>
+        <Length>119.748</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Snoop Dogg</Artist>
+        <Title>Vapors (Instrumental)</Title>
+        <Length>128.003</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Sister Nancy</Artist>
+        <Title>Bam Bam</Title>
+        <Length>127.290</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Young MC</Artist>
+        <Title>Bust A Move</Title>
+        <Length>179.639</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Young MC</Artist>
+        <Title>Know How (Instrumental)</Title>
+        <Length>57.435</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Young MC</Artist>
+        <Title>Pick Up The Pace (1990 Version)</Title>
+        <Length>189.064</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Young MC</Artist>
+        <Title>Principal's Office (Instrumental)</Title>
+        <Length>95.495</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Xanadu &amp; Sweet Lady</Artist>
+        <Title>Rapper´s Delight</Title>
+        <Length>204.066</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Various</Artist>
+        <Title>Bounch, Rock, Skate, Roll</Title>
+        <Length>185.965</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Ty</Artist>
+        <Title>Don't Watch That (Grant Phabao Remix)</Title>
+        <Length>189.987</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Tosca</Artist>
+        <Title>Worksong</Title>
+        <Length>210.653</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Tosca</Artist>
+        <Title>Worksong (Uptight Mix)</Title>
+        <Length>131.476</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Tosca</Artist>
+        <Title>Chocolate Elvis (Boozoo Bajou Version)</Title>
+        <Length>155.788</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Tosca</Artist>
+        <Title>Chocolate Elvis</Title>
+        <Length>128.758</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Toots &amp; The Maytals</Artist>
+        <Title>54</Title>
+        <Length>154.241</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Tim Maia</Artist>
+        <Title>No Caminho Do Bem</Title>
+        <Length>102.333</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Tim Armstrong</Artist>
+        <Title>Wake Up</Title>
+        <Length>160.759</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Tim Armstrong</Artist>
+        <Title>Hold On</Title>
+        <Length>209.143</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Thievery Corporation</Artist>
+        <Title>Focus On Sight</Title>
+        <Length>199.232</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Whatnauts</Artist>
+        <Title>Help Is On The Way</Title>
+        <Length>115.299</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The U.M.Cs</Artist>
+        <Title>One to Grow On</Title>
+        <Length>172.070</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Sugarhill Gang</Artist>
+        <Title>Rappers Delight (Instrumental)</Title>
+        <Length>123.183</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Revolutionaries</Artist>
+        <Title>Killer Dub</Title>
+        <Length>108.626</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Burning Spear</Artist>
+        <Title>The Ghost (Marcus Garvey)</Title>
+        <Length>107.683</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>People Under The Stairs</Artist>
+        <Title>The Dig</Title>
+        <Length>119.042</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Jurassic 5</Artist>
+        <Title>Quality Control</Title>
+        <Length>195.710</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Horace Andy</Artist>
+        <Title>Nice And Easy Dub</Title>
+        <Length>129.189</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Freesom Orquestra</Artist>
+        <Title>Rush</Title>
+        <Length>54.897</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Bob Marley</Artist>
+        <Title>Bend Down Low</Title>
+        <Length>122.949</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Cymande</Artist>
+        <Title>The Message</Title>
+        <Length>123.585</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Tommy Mccook</Artist>
+        <Title>Green Mango</Title>
+        <Length>151.652</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The 3 Sounds</Artist>
+        <Title>Repeat After Me</Title>
+        <Length>97.987</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>King Tubby</Artist>
+        <Title>Roots of Dub</Title>
+        <Length>78.105</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Orquestra CBD</Artist>
+        <Title>Tema Da Zorra</Title>
+        <Length>103.365</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Al Escobar</Artist>
+        <Title>Tighten Up</Title>
+        <Length>7.231</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>People Under The Stairs</Artist>
+        <Title>The Grind</Title>
+        <Length>147.963</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Herbaliser</Artist>
+        <Title>Move As One</Title>
+        <Length>90.253</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Bamboos</Artist>
+        <Title>Eel Oil</Title>
+        <Length>152.113</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Otis Redding &amp; Carla Thomas</Artist>
+        <Title>Tramp (Instrumental)</Title>
+        <Length>59.793</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Herbaliser</Artist>
+        <Title>What You Asked For</Title>
+        <Length>125.610</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Cymande</Artist>
+        <Title>Brothers On The Slide</Title>
+        <Length>191.761</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Herbaliser</Artist>
+        <Title>24 Carat Blag</Title>
+        <Length>167.050</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>John Cameron</Artist>
+        <Title>Swamp Fever</Title>
+        <Length>98.926</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Specials</Artist>
+        <Title>A Message To You Rudy</Title>
+        <Length>150.866</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Sure Fire Soul Ensemble</Artist>
+        <Title>City Heights</Title>
+        <Length>146.141</Length>
       </PlaylistEntry>
     </Entries>
   </Playlist>
