@@ -20079,6 +20079,24 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Panjabi MC - Mundiya Tu Bach Ke</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Jurassic 5 - Break (Instrumental)</TrackDescription>
+        <FadeLength>24.343061224489794</FadeLength>
+        <FadeEnd>43226744</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.430579</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>People Under The Stairs - Acid Raindrops</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -26379,6 +26397,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.056</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Otis Redding &amp; Carla Thomas - Tramp (Instrumental)</TrackDescription>
+        <FadeLength>10.346621315192744</FadeLength>
+        <FadeEnd>49591688</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.5898857</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
