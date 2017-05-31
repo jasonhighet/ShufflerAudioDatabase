@@ -325,6 +325,10 @@
     <Attributes>Duration=196.36;EndBPM=91.289463674401;EndLoopCount=7;FadeIn=0.338;FadeInLengthInSeconds=10.441;FadeOut=120.684;FadeOutLengthInSeconds=2.629;Key=Am;Rank=3;StartBPM=91.9452159754813;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Bad Company - Night Train</Track>
+    <Attributes>Duration=355.135;EndBPM=87.456;FadeIn=66.814;FadeInLengthInSeconds=21.954;FadeOut=331.375;FadeOutLengthInSeconds=21.954;Rank=5;StartBPM=87.456;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Banda Black Rio - Mr. Funky Samba</Track>
     <Attributes>Duration=219.22;EndBPM=101.512107433647;EndLoopCount=2;FadeIn=8.147;FadeInLengthInSeconds=9.631;FadeOut=121.074;FadeOutLengthInSeconds=9.457;Key=G;PreFadeInPosition=7.797;PreFadeInStartVolume=75;Rank=3;StartBPM=99.6781227286886;</Attributes>
   </ExtenedAttributes>
@@ -559,6 +563,10 @@
   <ExtenedAttributes>
     <Track>Black Sabbath - War Pigs (Instrumental)</Track>
     <Attributes>Duration=262.915;EndBPM=88.6590321388992;FadeIn=85.291;FadeInLengthInSeconds=10.890;FadeOut=438.673;FadeOutLengthInSeconds=10.828;Rank=0;StartBPM=88.1542699724518;StartLoopCount=1;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Black Sun Empire - Battlefish (feat. Nymfo)</Track>
+    <Attributes>Duration=323.895;EndBPM=85.998;FadeIn=44.650;FadeInLengthInSeconds=22.326;FadeOut=248.371;FadeOutLengthInSeconds=22.326;StartBPM=85.998;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Blackalicious - Deep In The Jungle (Instrumental)</Track>

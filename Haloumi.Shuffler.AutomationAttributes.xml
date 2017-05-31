@@ -3024,6 +3024,13 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Bad Company - Night Train</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Barbara &amp; Gwen - Right On</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -3933,6 +3940,13 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Black Sun Empire - Battlefish (feat. Nymfo)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
