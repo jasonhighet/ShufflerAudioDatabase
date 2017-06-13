@@ -329,8 +329,12 @@
     <Attributes>Duration=423.262;EndBPM=86.870;FadeIn=44.270;FadeInLengthInSeconds=22.100;FadeOut=243.130;FadeOutLengthInSeconds=44.204;Rank=5;StartBPM=86.878;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Bad Company - Brain Scan</Track>
+    <Attributes>Duration=426.632;EndBPM=87.142;FadeIn=77.293;FadeInLengthInSeconds=22.036;FadeOut=265.196;FadeOutLengthInSeconds=22.033;Rank=4;StartBPM=87.130;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Bad Company - Night Train</Track>
-    <Attributes>Duration=355.135;EndBPM=87.456;FadeIn=66.814;FadeInLengthInSeconds=21.954;FadeOut=331.375;FadeOutLengthInSeconds=21.954;Rank=5;StartBPM=87.456;</Attributes>
+    <Attributes>Duration=355.135;EndBPM=87.456;FadeIn=66.814;FadeInLengthInSeconds=21.954;FadeOut=276.241;FadeOutLengthInSeconds=21.954;Rank=5;StartBPM=87.456;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Banda Black Rio - Mr. Funky Samba</Track>
@@ -567,6 +571,10 @@
   <ExtenedAttributes>
     <Track>Black Sabbath - War Pigs (Instrumental)</Track>
     <Attributes>Duration=262.915;EndBPM=88.6590321388992;FadeIn=85.291;FadeInLengthInSeconds=10.890;FadeOut=438.673;FadeOutLengthInSeconds=10.828;Rank=0;StartBPM=88.1542699724518;StartLoopCount=1;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Black Sun Empire - 1800 Contact</Track>
+    <Attributes>Duration=323.736;EndBPM=86.014;FadeIn=52.745;FadeInLengthInSeconds=22.324;FadeOut=276.002;FadeOutLengthInSeconds=22.322;Rank=3;StartBPM=86.007;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Black Sun Empire - Battlefish (feat. Nymfo)</Track>
@@ -902,7 +910,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Concord Dawn - Shinkansen</Track>
-    <Attributes>Duration=451.500;EndBPM=90.132;FadeIn=149.297;FadeInLengthInSeconds=21.276;FadeOut=404.696;FadeOutLengthInSeconds=21.302;Rank=4;StartBPM=90.243;</Attributes>
+    <Attributes>Duration=451.500;EndBPM=90.132;FadeIn=170.573;FadeInLengthInSeconds=21.276;FadeOut=404.696;FadeOutLengthInSeconds=21.302;Rank=4;StartBPM=90.243;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>ConFunkShun - Clique</Track>

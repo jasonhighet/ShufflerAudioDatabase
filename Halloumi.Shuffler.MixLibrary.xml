@@ -3820,20 +3820,24 @@
     <Track>Bad Company - 4 Days</Track>
     <MixRankings>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 4</string>
+      <string>Black Sun Empire - 1800 Contact, 4</string>
       <string>Black Sun Empire - Delorean, 3</string>
       <string>Bad Company - Night Train, 2</string>
+      <string>Concord Dawn - Shinkansen, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
     <Track>Bad Company - Brain Scan</Track>
+    <MixRankings>
+      <string>Black Sun Empire - Battlefish (feat. Nymfo), 4</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Bad Company - Breathe</Track>
     <MixRankings />
   </TrackMix>
   <TrackMix>
-    <Track>Bad Company - Bullet Time</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
-    <Track>Bad Company - Bullet Time (Spor Remix)</Track>
+    <Track>Bad Company - China Cup</Track>
     <MixRankings />
   </TrackMix>
   <TrackMix>
@@ -3841,6 +3845,7 @@
     <MixRankings>
       <string>Bad Company - 4 Days, 3</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 2</string>
+      <string>Bad Company - Brain Scan, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -5718,17 +5723,27 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>Black Sun Empire - Battlefish (feat. Nymfo)</Track>
+    <Track>Black Sun Empire - 1800 Contact</Track>
     <MixRankings>
       <string>Bad Company - 4 Days, 4</string>
+      <string>Black Sun Empire - Battlefish (feat. Nymfo), 4</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Black Sun Empire - Battlefish (feat. Nymfo)</Track>
+    <MixRankings>
+      <string>Black Sun Empire - 1800 Contact, 5</string>
+      <string>Bad Company - 4 Days, 4</string>
       <string>Bad Company - Night Train, 2</string>
+      <string>Black Sun Empire - Delorean, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
     <Track>Black Sun Empire - Delorean</Track>
     <MixRankings>
       <string>Bad Company - 4 Days, 4</string>
-      <string>Concord Dawn - Shinkansen, 2</string>
+      <string>Concord Dawn - Shinkansen, 4</string>
+      <string>Black Sun Empire - Battlefish (feat. Nymfo), 3</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -8676,6 +8691,8 @@
     <Track>Concord Dawn - Shinkansen</Track>
     <MixRankings>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 4</string>
+      <string>Bad Company - 4 Days, 4</string>
+      <string>Black Sun Empire - Delorean, 3</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
