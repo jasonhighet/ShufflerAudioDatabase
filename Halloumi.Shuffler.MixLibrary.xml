@@ -3818,29 +3818,21 @@
   </TrackMix>
   <TrackMix>
     <Track>Bad Company - 4 Days</Track>
-    <MixRankings />
+    <MixRankings>
+      <string>Black Sun Empire - Battlefish (feat. Nymfo), 4</string>
+      <string>Bad Company - Night Train, 2</string>
+    </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>Bad Company - Believe</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
-    <Track>Bad Company - Breathe</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
-    <Track>Bad Company - Bullet Time</Track>
+    <Track>Bad Company - Brain Scan</Track>
     <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Bad Company - Night Train</Track>
     <MixRankings>
+      <string>Bad Company - 4 Days, 3</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 2</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>Bad Company - Nitrous</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Banda Black Rio - Mr. Funky Samba</Track>
@@ -5719,12 +5711,9 @@
   <TrackMix>
     <Track>Black Sun Empire - Battlefish (feat. Nymfo)</Track>
     <MixRankings>
+      <string>Bad Company - 4 Days, 4</string>
       <string>Bad Company - Night Train, 2</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>Black Sun Empire - Boris The Blade (Optiv Remix)</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Blackalicious - Deep In The Jungle (Instrumental)</Track>
