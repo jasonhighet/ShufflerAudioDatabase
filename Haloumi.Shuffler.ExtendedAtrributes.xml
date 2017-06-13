@@ -573,6 +573,10 @@
     <Attributes>Duration=323.895;EndBPM=85.998;FadeIn=44.650;FadeInLengthInSeconds=22.326;FadeOut=248.371;FadeOutLengthInSeconds=22.326;StartBPM=85.998;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Black Sun Empire - Delorean</Track>
+    <Attributes>Duration=340.567;EndBPM=87.301;FadeIn=23.440;FadeInLengthInSeconds=21.992;FadeOut=222.067;FadeOutLengthInSeconds=21.993;Rank=3;StartBPM=87.304;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Blackalicious - Deep In The Jungle (Instrumental)</Track>
     <Attributes>Duration=431.38612244898;EndBPM=77.4443368828655;EndLoopCount=4;FadeIn=6.768;FadeInLengthInSeconds=6.211;FadeOut=167.839;FadeOutLengthInSeconds=6.198;Key=Abm;Rank=3;StartBPM=77.2822411849945;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>

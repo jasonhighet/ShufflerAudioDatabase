@@ -3820,11 +3820,16 @@
     <Track>Bad Company - 4 Days</Track>
     <MixRankings>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 4</string>
+      <string>Black Sun Empire - Delorean, 3</string>
       <string>Bad Company - Night Train, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
     <Track>Bad Company - Brain Scan</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
+    <Track>Bad Company - Bullet Time</Track>
     <MixRankings />
   </TrackMix>
   <TrackMix>
@@ -5717,6 +5722,13 @@
     <MixRankings>
       <string>Bad Company - 4 Days, 4</string>
       <string>Bad Company - Night Train, 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Black Sun Empire - Delorean</Track>
+    <MixRankings>
+      <string>Bad Company - 4 Days, 4</string>
+      <string>Concord Dawn - Shinkansen, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
