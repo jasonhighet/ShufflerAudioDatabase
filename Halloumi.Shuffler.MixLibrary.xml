@@ -3828,6 +3828,10 @@
     <MixRankings />
   </TrackMix>
   <TrackMix>
+    <Track>Bad Company - Bullet Time (Spor Remix)</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Bad Company - Night Train</Track>
     <MixRankings>
       <string>Bad Company - 4 Days, 3</string>
@@ -8654,6 +8658,12 @@
       <string>The Pharcyde - Runnin, 0</string>
       <string>Quannum Projects - I Changed My Mind (Instrumental), 0</string>
       <string>Banda Black Rio - Mr. Funky Samba, 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Concord Dawn - Shinkansen</Track>
+    <MixRankings>
+      <string>Black Sun Empire - Battlefish (feat. Nymfo), 4</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>

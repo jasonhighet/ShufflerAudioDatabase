@@ -5812,6 +5812,13 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Concord Dawn - Shinkansen</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>ConFunkShun - Clique</Track>
     <TrackFXTriggers />
     <SampleTriggers />
