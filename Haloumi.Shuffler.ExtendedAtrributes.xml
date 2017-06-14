@@ -330,7 +330,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Bad Company - Brain Scan</Track>
-    <Attributes>Duration=426.632;EndBPM=87.142;FadeIn=77.293;FadeInLengthInSeconds=22.036;FadeOut=265.196;FadeOutLengthInSeconds=22.033;Rank=4;StartBPM=87.130;</Attributes>
+    <Attributes>Duration=426.632;EndBPM=87.142;FadeIn=77.432;FadeInLengthInSeconds=22.091;FadeOut=265.196;FadeOutLengthInSeconds=22.033;Rank=4;StartBPM=86.914;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Bad Company - Night Train</Track>
@@ -943,6 +943,14 @@
   <ExtenedAttributes>
     <Track>Cut Chemist - The Garden</Track>
     <Attributes>Duration=376.387;EndBPM=101.79;FadeIn=89.953;FadeOut=250.282;Key=Bm;Rank=2;StartBPM=101.79;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Cybernetika - Anomaly</Track>
+    <Attributes>Duration=624.094;EndBPM=88.414;FadeIn=360.622;FadeInLengthInSeconds=21.716;FadeOut=555.881;FadeOutLengthInSeconds=21.716;Rank=3;StartBPM=88.414;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Cybernetika - Monolithic</Track>
+    <Attributes>Duration=509.511;EndBPM=89.502;FadeIn=75.082;FadeInLengthInSeconds=21.437;FadeOut=337.869;FadeOutLengthInSeconds=21.452;Rank=3;SkipLengthInSeconds=42.905;SkipStart=235.936;StartBPM=89.565;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Cymande - Brothers On The Slide</Track>
