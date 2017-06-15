@@ -3034,7 +3034,18 @@
     <Track>Bad Company - Brain Scan</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Black Sun Empire - Delorean</TrackDescription>
+        <FadeLength>22.221632653061224</FadeLength>
+        <FadeEnd>101413384</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3115465</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -23413,6 +23424,11 @@
       <TrackFXTrigger>
         <Start>131.688231292517</Start>
         <Length>0.661043083900239</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>14.767709750566894</Start>
+        <Length>1.359569160997733</Length>
         <DelayNotes>0.25</DelayNotes>
       </TrackFXTrigger>
     </TrackFXTriggers>
