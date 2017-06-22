@@ -333,6 +333,10 @@
     <Attributes>Duration=426.632;EndBPM=87.142;FadeIn=77.432;FadeInLengthInSeconds=22.091;FadeOut=265.196;FadeOutLengthInSeconds=22.033;Rank=4;StartBPM=86.914;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Bad Company - Breathe</Track>
+    <Attributes>Duration=425.143;EndBPM=87.012;FadeIn=98.438;FadeInLengthInSeconds=22.056;FadeOut=274.908;FadeOutLengthInSeconds=22.066;Rank=3;StartBPM=87.051;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Bad Company - Night Train</Track>
     <Attributes>Duration=355.135;EndBPM=87.456;FadeIn=66.814;FadeInLengthInSeconds=21.954;FadeOut=276.241;FadeOutLengthInSeconds=21.954;Rank=5;StartBPM=87.456;</Attributes>
   </ExtenedAttributes>
@@ -577,12 +581,20 @@
     <Attributes>Duration=323.736;EndBPM=86.014;FadeIn=52.745;FadeInLengthInSeconds=22.324;FadeOut=276.002;FadeOutLengthInSeconds=22.322;Rank=3;StartBPM=86.007;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Black Sun Empire - Battalion</Track>
+    <Attributes>Duration=332.034;EndBPM=87.020;FadeIn=67.206;FadeInLengthInSeconds=22.063;FadeOut=265.830;FadeOutLengthInSeconds=22.064;PreFadeInPosition=65.335;PreFadeInStartVolume=75;Rank=4;StartBPM=87.024;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Black Sun Empire - Battlefish (feat. Nymfo)</Track>
     <Attributes>Duration=323.895;EndBPM=85.998;FadeIn=44.650;FadeInLengthInSeconds=22.326;FadeOut=248.371;FadeOutLengthInSeconds=22.326;StartBPM=85.998;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Black Sun Empire - Delorean</Track>
     <Attributes>Duration=340.567;EndBPM=87.301;FadeIn=23.440;FadeInLengthInSeconds=21.992;FadeOut=222.067;FadeOutLengthInSeconds=21.993;Rank=3;StartBPM=87.304;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Black Sun Empire - Descent</Track>
+    <Attributes>Duration=318.009;EndBPM=85.998;FadeIn=67.975;FadeInLengthInSeconds=22.326;FadeOut=291.234;FadeOutLengthInSeconds=22.326;Rank=4;StartBPM=85.998;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Blackalicious - Deep In The Jungle (Instrumental)</Track>
@@ -949,6 +961,10 @@
     <Attributes>Duration=624.094;EndBPM=88.414;FadeIn=360.622;FadeInLengthInSeconds=21.716;FadeOut=555.881;FadeOutLengthInSeconds=21.716;Rank=3;StartBPM=88.414;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Cybernetika - Distress Beacon</Track>
+    <Attributes>Duration=505.773;EndBPM=88.455;FadeIn=43.357;FadeInLengthInSeconds=21.706;FadeOut=195.224;FadeOutLengthInSeconds=21.706;Rank=3;StartBPM=88.455;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Cybernetika - Monolithic</Track>
     <Attributes>Duration=509.511;EndBPM=89.502;FadeIn=75.082;FadeInLengthInSeconds=21.437;FadeOut=337.869;FadeOutLengthInSeconds=21.452;Rank=3;SkipLengthInSeconds=42.905;SkipStart=235.936;StartBPM=89.565;</Attributes>
   </ExtenedAttributes>
@@ -1246,7 +1262,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Eddie Bo - Check Your Bucket (Parts 1 &amp; 2)</Track>
-    <Attributes>Duration=293.016;EndBPM=100.41315830762;FadeIn=153.582;FadeInLengthInSeconds=19.137;FadeOut=258.843;FadeOutLengthInSeconds=19.121;Key=Em;Rank=3;StartBPM=100.3292052045776;</Attributes>
+    <Attributes>Duration=293.016;EndBPM=100.413;FadeIn=153.582;FadeInLengthInSeconds=9.568;FadeOut=258.843;FadeOutLengthInSeconds=19.121;Key=Em;Rank=3;StartBPM=100.329;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Eddie Bo - Funky Jam</Track>
@@ -4598,7 +4614,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Ty - Don't Watch That (Grant Phabao Remix)</Track>
-    <Attributes>Duration=273.973;EndBPM=96.0576345807484;FadeIn=10.004;FadeInLengthInSeconds=9.996;FadeOut=199.991;FadeOutLengthInSeconds=19.988;Key=Am;Rank=5;StartBPM=96.0384153661464;</Attributes>
+    <Attributes>Duration=273.973;EndBPM=96.058;EndLoopCount=4;FadeIn=10.004;FadeInLengthInSeconds=9.996;FadeOut=199.991;FadeOutLengthInSeconds=4.997;Key=Am;Rank=5;StartBPM=96.038;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Unknown Artist - Character Dheela</Track>

@@ -3824,9 +3824,13 @@
       <string>Cybernetika - Anomaly, 4</string>
       <string>Bad Company - Brain Scan, 4</string>
       <string>Black Sun Empire - Delorean, 3</string>
+      <string>Black Sun Empire - Descent, 3</string>
+      <string>Black Sun Empire - Battalion, 3</string>
+      <string>Bad Company - Breathe, 3</string>
       <string>Bad Company - Night Train, 2</string>
       <string>Concord Dawn - Shinkansen, 2</string>
       <string>Cybernetika - Monolithic, 2</string>
+      <string>Cybernetika - Distress Beacon, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -3834,28 +3838,40 @@
     <MixRankings>
       <string>Black Sun Empire - 1800 Contact, 4</string>
       <string>Black Sun Empire - Delorean, 4</string>
+      <string>Black Sun Empire - Descent, 4</string>
+      <string>Bad Company - Breathe, 4</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 3</string>
       <string>Cybernetika - Monolithic, 3</string>
       <string>Bad Company - 4 Days, 3</string>
+      <string>Black Sun Empire - Battalion, 3</string>
       <string>Bad Company - Night Train, 2</string>
       <string>Concord Dawn - Shinkansen, 2</string>
       <string>Cybernetika - Anomaly, 2</string>
+      <string>Cybernetika - Distress Beacon, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
     <Track>Bad Company - Breathe</Track>
+    <MixRankings>
+      <string>Black Sun Empire - 1800 Contact, 4</string>
+      <string>Cybernetika - Anomaly, 4</string>
+      <string>Black Sun Empire - Descent, 4</string>
+      <string>Bad Company - Brain Scan, 4</string>
+      <string>Black Sun Empire - Delorean, 3</string>
+      <string>Black Sun Empire - Battalion, 3</string>
+      <string>Concord Dawn - Shinkansen, 3</string>
+      <string>Bad Company - 4 Days, 3</string>
+      <string>Bad Company - Night Train, 3</string>
+      <string>Black Sun Empire - Battlefish (feat. Nymfo), 2</string>
+      <string>Cybernetika - Monolithic, 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Bad Company - Digital Nation</Track>
     <MixRankings />
   </TrackMix>
   <TrackMix>
-    <Track>Bad Company - Bullet Time</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
-    <Track>Bad Company - China Cup</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
-    <Track>Bad Company - Four Days</Track>
+    <Track>Bad Company - Navajo</Track>
     <MixRankings />
   </TrackMix>
   <TrackMix>
@@ -3866,10 +3882,26 @@
       <string>Bad Company - Brain Scan, 3</string>
       <string>Cybernetika - Anomaly, 3</string>
       <string>Black Sun Empire - 1800 Contact, 3</string>
+      <string>Black Sun Empire - Battalion, 3</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 2</string>
       <string>Concord Dawn - Shinkansen, 2</string>
+      <string>Black Sun Empire - Descent, 2</string>
+      <string>Cybernetika - Distress Beacon, 2</string>
+      <string>Bad Company - Breathe, 2</string>
       <string>Cybernetika - Monolithic, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Bad Company - Oxygen (The Drilla Killa)</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
+    <Track>Bad Company - Refuge</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
+    <Track>Bad Company - The Fear</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Banda Black Rio - Mr. Funky Samba</Track>
@@ -5752,9 +5784,30 @@
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 4</string>
       <string>Cybernetika - Anomaly, 4</string>
       <string>Bad Company - Brain Scan, 4</string>
+      <string>Black Sun Empire - Descent, 4</string>
+      <string>Black Sun Empire - Battalion, 4</string>
       <string>Concord Dawn - Shinkansen, 3</string>
       <string>Black Sun Empire - Delorean, 3</string>
       <string>Bad Company - Night Train, 3</string>
+      <string>Cybernetika - Distress Beacon, 3</string>
+      <string>Bad Company - Breathe, 3</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Black Sun Empire - Battalion</Track>
+    <MixRankings>
+      <string>Black Sun Empire - 1800 Contact, 4</string>
+      <string>Black Sun Empire - Battlefish (feat. Nymfo), 4</string>
+      <string>Black Sun Empire - Descent, 4</string>
+      <string>Concord Dawn - Shinkansen, 3</string>
+      <string>Bad Company - 4 Days, 3</string>
+      <string>Bad Company - Brain Scan, 3</string>
+      <string>Cybernetika - Monolithic, 3</string>
+      <string>Bad Company - Breathe, 3</string>
+      <string>Black Sun Empire - Delorean, 2</string>
+      <string>Cybernetika - Anomaly, 2</string>
+      <string>Bad Company - Night Train, 2</string>
+      <string>Cybernetika - Distress Beacon, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -5764,11 +5817,19 @@
       <string>Bad Company - 4 Days, 4</string>
       <string>Concord Dawn - Shinkansen, 3</string>
       <string>Bad Company - Brain Scan, 3</string>
+      <string>Black Sun Empire - Descent, 3</string>
+      <string>Black Sun Empire - Battalion, 3</string>
+      <string>Cybernetika - Distress Beacon, 3</string>
       <string>Bad Company - Night Train, 2</string>
       <string>Black Sun Empire - Delorean, 2</string>
       <string>Cybernetika - Anomaly, 2</string>
       <string>Cybernetika - Monolithic, 2</string>
+      <string>Bad Company - Breathe, 2</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Black Sun Empire - Dawn of a Dark Day (feat. Foreign Beggars) (Prolix Remix)</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Black Sun Empire - Delorean</Track>
@@ -5776,10 +5837,30 @@
       <string>Bad Company - 4 Days, 4</string>
       <string>Bad Company - Brain Scan, 4</string>
       <string>Bad Company - Night Train, 4</string>
+      <string>Black Sun Empire - Descent, 4</string>
+      <string>Black Sun Empire - Battalion, 4</string>
       <string>Concord Dawn - Shinkansen, 3</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 3</string>
       <string>Black Sun Empire - 1800 Contact, 3</string>
+      <string>Cybernetika - Distress Beacon, 3</string>
       <string>Cybernetika - Anomaly, 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Black Sun Empire - Descent</Track>
+    <MixRankings>
+      <string>Black Sun Empire - 1800 Contact, 4</string>
+      <string>Black Sun Empire - Delorean, 4</string>
+      <string>Bad Company - Brain Scan, 4</string>
+      <string>Bad Company - 4 Days, 4</string>
+      <string>Black Sun Empire - Battalion, 4</string>
+      <string>Bad Company - Breathe, 4</string>
+      <string>Black Sun Empire - Battlefish (feat. Nymfo), 3</string>
+      <string>Cybernetika - Anomaly, 2</string>
+      <string>Concord Dawn - Shinkansen, 2</string>
+      <string>Bad Company - Night Train, 2</string>
+      <string>Cybernetika - Monolithic, 2</string>
+      <string>Cybernetika - Distress Beacon, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -8733,12 +8814,12 @@
       <string>Cybernetika - Anomaly, 4</string>
       <string>Black Sun Empire - Delorean, 3</string>
       <string>Bad Company - Night Train, 3</string>
+      <string>Black Sun Empire - Descent, 3</string>
+      <string>Cybernetika - Distress Beacon, 3</string>
+      <string>Bad Company - Breathe, 3</string>
       <string>Cybernetika - Monolithic, 2</string>
+      <string>Black Sun Empire - Battalion, 2</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>Concord Dawn - Vengeance</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>ConFunkShun - Clique</Track>
@@ -9006,11 +9087,43 @@
       <string>Bad Company - 4 Days, 4</string>
       <string>Concord Dawn - Shinkansen, 3</string>
       <string>Cybernetika - Monolithic, 3</string>
+      <string>Black Sun Empire - Descent, 3</string>
+      <string>Bad Company - Breathe, 3</string>
       <string>Black Sun Empire - Delorean, 2</string>
       <string>Black Sun Empire - 1800 Contact, 2</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 2</string>
       <string>Bad Company - Night Train, 2</string>
+      <string>Black Sun Empire - Battalion, 2</string>
+      <string>Cybernetika - Distress Beacon, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Cybernetika - Distress Beacon</Track>
+    <MixRankings>
+      <string>Bad Company - Brain Scan, 4</string>
+      <string>Cybernetika - Monolithic, 3</string>
+      <string>Black Sun Empire - 1800 Contact, 3</string>
+      <string>Black Sun Empire - Descent, 3</string>
+      <string>Black Sun Empire - Battlefish (feat. Nymfo), 3</string>
+      <string>Bad Company - Night Train, 2</string>
+      <string>Black Sun Empire - Delorean, 2</string>
+      <string>Concord Dawn - Shinkansen, 2</string>
+      <string>Bad Company - 4 Days, 2</string>
+      <string>Cybernetika - Anomaly, 0</string>
+      <string>Black Sun Empire - Battalion, 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Cybernetika - Electron Tracker</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
+    <Track>Cybernetika - Ghost Of Midas</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
+    <Track>Cybernetika - Hydroponics</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Cybernetika - Monolithic</Track>
@@ -9021,8 +9134,19 @@
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 2</string>
       <string>Black Sun Empire - 1800 Contact, 2</string>
       <string>Cybernetika - Anomaly, 2</string>
+      <string>Black Sun Empire - Battalion, 2</string>
+      <string>Cybernetika - Distress Beacon, 2</string>
       <string>Concord Dawn - Shinkansen, 0</string>
+      <string>Black Sun Empire - Descent, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Cybernetika - Sol Nexus</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
+    <Track>Cybernetika - Vaporized</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Cymande - Brothers On The Slide</Track>
@@ -16847,6 +16971,10 @@
       <string>Damu the Fudgemunk - Dream Catcher, 0</string>
       <string>Damu the Fudgemunk - Judgement Day, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Ike Turner's Kings Of Rhythm - Funky Mule</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Inell Young - What Do You See In Her</Track>

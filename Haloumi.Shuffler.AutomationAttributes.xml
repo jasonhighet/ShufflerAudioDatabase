@@ -3049,6 +3049,13 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Bad Company - Breathe</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Bad Company - Night Train</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -3986,6 +3993,13 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Black Sun Empire - Battalion</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Black Sun Empire - Battlefish (feat. Nymfo)</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -4005,6 +4019,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Black Sun Empire - Delorean</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Black Sun Empire - Descent</Track>
     <TrackFXTriggers />
     <SampleTriggers />
     <ExtendedMixes />
@@ -5938,6 +5959,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Cybernetika - Anomaly</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Cybernetika - Distress Beacon</Track>
     <TrackFXTriggers />
     <SampleTriggers />
     <ExtendedMixes />
@@ -8393,6 +8421,13 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Eddie Bo - Check Your Bucket (Parts 1 &amp; 2)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -29640,11 +29675,11 @@
       </ExtendedMixAttributes>
       <ExtendedMixAttributes>
         <TrackDescription>Eddie Bo - Check Your Bucket (Parts 1 &amp; 2)</TrackDescription>
-        <FadeLength>14.584716553287981</FadeLength>
-        <FadeEnd>75924608</FadeEnd>
+        <FadeLength>38.464761904761907</FadeLength>
+        <FadeEnd>84724056</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
-        <FadeEndVolume>0.08</FadeEndVolume>
-        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <FadeEndVolume>0.1357821</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
