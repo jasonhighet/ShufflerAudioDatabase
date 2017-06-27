@@ -337,6 +337,10 @@
     <Attributes>Duration=425.143;EndBPM=87.012;FadeIn=98.438;FadeInLengthInSeconds=22.056;FadeOut=274.908;FadeOutLengthInSeconds=22.066;Rank=3;StartBPM=87.051;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Bad Company - Hysteria</Track>
+    <Attributes>Duration=413.231;EndBPM=88.831;FadeIn=76.101;FadeInLengthInSeconds=10.877;FadeOut=259.601;FadeOutLengthInSeconds=21.614;Rank=3;StartBPM=88.259;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Bad Company - Night Train</Track>
     <Attributes>Duration=355.135;EndBPM=87.456;FadeIn=66.814;FadeInLengthInSeconds=21.954;FadeOut=276.241;FadeOutLengthInSeconds=21.954;Rank=5;StartBPM=87.456;</Attributes>
   </ExtenedAttributes>
@@ -589,12 +593,20 @@
     <Attributes>Duration=323.895;EndBPM=85.998;FadeIn=44.650;FadeInLengthInSeconds=22.326;FadeOut=248.371;FadeOutLengthInSeconds=22.326;StartBPM=85.998;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Black Sun Empire - Breach (The Upbeats Remix)</Track>
+    <Attributes>Duration=296.552;EndBPM=87.142;FadeIn=45.453;FadeInLengthInSeconds=22.133;FadeOut=244.142;FadeOutLengthInSeconds=22.033;Rank=3;StartBPM=86.749;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Black Sun Empire - Delorean</Track>
     <Attributes>Duration=340.567;EndBPM=87.301;FadeIn=23.440;FadeInLengthInSeconds=21.992;FadeOut=222.067;FadeOutLengthInSeconds=21.993;Rank=3;StartBPM=87.304;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Black Sun Empire - Descent</Track>
     <Attributes>Duration=318.009;EndBPM=85.998;FadeIn=67.975;FadeInLengthInSeconds=22.326;FadeOut=291.234;FadeOutLengthInSeconds=22.326;Rank=4;StartBPM=85.998;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix)</Track>
+    <Attributes>Duration=339.310;EndBPM=87.001;FadeIn=44.166;FadeInLengthInSeconds=22.040;FadeOut=286.896;FadeOutLengthInSeconds=22.069;Rank=4;StartBPM=87.113;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Blackalicious - Deep In The Jungle (Instrumental)</Track>
@@ -923,6 +935,10 @@
   <ExtenedAttributes>
     <Track>Concord Dawn - Shinkansen</Track>
     <Attributes>Duration=451.500;EndBPM=90.132;FadeIn=170.573;FadeInLengthInSeconds=21.276;FadeOut=404.696;FadeOutLengthInSeconds=21.302;Rank=4;StartBPM=90.243;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Concord Dawn - The Fallen</Track>
+    <Attributes>Duration=1190.008;EndBPM=90.438;FadeIn=160.219;FadeInLengthInSeconds=21.276;FadeOut=394.314;FadeOutLengthInSeconds=21.230;Rank=3;StartBPM=90.243;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>ConFunkShun - Clique</Track>

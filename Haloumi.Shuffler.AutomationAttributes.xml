@@ -3056,6 +3056,13 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Bad Company - Hysteria</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Bad Company - Night Train</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -4018,6 +4025,13 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Black Sun Empire - Breach (The Upbeats Remix)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Black Sun Empire - Delorean</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -4026,6 +4040,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Black Sun Empire - Descent</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix)</Track>
     <TrackFXTriggers />
     <SampleTriggers />
     <ExtendedMixes />
@@ -5888,6 +5909,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Concord Dawn - Shinkansen</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Concord Dawn - The Fallen</Track>
     <TrackFXTriggers />
     <SampleTriggers />
     <ExtendedMixes />
