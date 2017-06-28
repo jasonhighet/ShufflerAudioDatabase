@@ -114,7 +114,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Al Escobar - Tighten Up</Track>
-    <Attributes>Duration=172.931;EndBPM=132.762;FadeIn=7.452;FadeInLengthInSeconds=7.231;FadeOut=7.452;FadeOutLengthInSeconds=7.231;Key=Am;PowerDown=True;PreFadeInPosition=6.508;PreFadeInStartVolume=50;Rank=3;StartBPM=132.762;StartLoopCount=2;</Attributes>
+    <Attributes>Duration=172.931;EndBPM=129.754;FadeIn=7.452;FadeInLengthInSeconds=7.231;FadeOut=136.512;FadeOutLengthInSeconds=7.399;Key=Am;PowerDown=True;PreFadeInPosition=6.508;PreFadeInStartVolume=50;Rank=3;StartBPM=132.762;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Al Green - Feels Like Christmas</Track>
@@ -3375,6 +3375,10 @@
   <ExtenedAttributes>
     <Track>Sergio Mendes &amp; Brasil 66 - Roda</Track>
     <Attributes>Duration=146.808;EndBPM=109.57;FadeIn=0.668;FadeOut=129.901;Key=F;Rank=3;StartBPM=109.57;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Seu Jorge - Burguesinha</Track>
+    <Attributes>Duration=251.507;EndBPM=101.862;EndLoopCount=2;FadeIn=0.462;FadeInLengthInSeconds=18.826;FadeOut=181.664;FadeOutLengthInSeconds=18.849;Rank=4;StartBPM=101.988;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Seu Jorge - Carolina</Track>

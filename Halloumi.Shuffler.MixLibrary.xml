@@ -3780,6 +3780,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>B.B. King - Christmas Celebration</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Baby Huey &amp; The Baby Sitters - Hard Times</Track>
     <MixRankings>
       <string>Nightmares On Wax - Ethnic Majority, 4</string>
@@ -4357,6 +4361,7 @@
       <string>Souls Of Mischief - 93 Til Infinity (Instrumental), 2</string>
       <string>Bobby Womack - California Dreamin', 2</string>
       <string>A Tribe Called Quest - Electric Relaxation (Instrumental), 2</string>
+      <string>Seu Jorge - Burguesinha, 2</string>
       <string>Al Green - Love And Happiness, 0</string>
       <string>Barry White - It's Ecstasy When You Lay Down Next To Me, 0</string>
       <string>Beastie Boys - Shadrach (Instrumental), 0</string>
@@ -5334,6 +5339,7 @@
       <string>The J.B.'s - (It's Not the Express) It's the J.B.'s Monaurail, 0</string>
       <string>The Herbaliser - More Styles, 0</string>
       <string>Ernest Ranglin - Love and Happiness, 0</string>
+      <string>Seu Jorge - Burguesinha, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -5721,6 +5727,14 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Black Sabbath - After Forever (Instrumental)</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
+    <Track>Black Sabbath - Black Sabbath (Instrumental)</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Black Sabbath - Children of the Grave (Instrumental)</Track>
     <MixRankings>
       <string>Black Sabbath - Sweet Leaf (Instrumental), 2</string>
@@ -5732,6 +5746,10 @@
     <MixRankings>
       <string>Black Sabbath - Symptom Of The Universe (Instrumental), 2</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Black Sabbath - Into The Void (Instrumental)</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Black Sabbath - Iron Man (Instrumental)</Track>
@@ -7739,6 +7757,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Bunny &amp; Skully - White Christmas</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Burning Spear - I and I Survive (Slavery Days)</Track>
     <MixRankings>
       <string>Tapper Zukie - Beautiful Dub, 5</string>
@@ -7769,6 +7791,10 @@
       <string>King Tubby - Turntable Dub, 2</string>
       <string>Sly &amp; Robbie - Hypocrite Dub, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Burning Spear - Slavery Days</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Burning Spear - The Ghost (Marcus Garvey)</Track>
@@ -8148,6 +8174,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Carlene Davis &amp; Trinity - Santa Claus (Do You Ever Come To The Ghetto)</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Carolyn Franklin - Deal With It</Track>
     <MixRankings>
       <string>Lyn Collins - Give It Up Or Turn It Loose, 4</string>
@@ -8220,6 +8250,14 @@
       <string>Joe And Everyday People - Sleep Walk (Part 2), 0</string>
       <string>The Skatalites - Chinatown, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Charles Bradley - Every Day Is Christmas (When I'm Lovin' You)</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
+    <Track>Charles Bradley - Mary's Baby</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Charles Bradley - No Time For Dreaming</Track>
@@ -9411,6 +9449,7 @@
       <string>Naughty By Nature - OPP (Instrumental), 2</string>
       <string>Hopeton Lewis - Take it Easy, 2</string>
       <string>Otis Redding - (Sittin' On) The Dock of the Bay, 2</string>
+      <string>Seu Jorge - Burguesinha, 2</string>
       <string>Mr. Scruff - Music Takes Me Up (feat. Alice Russell), 0</string>
       <string>Al Green - I'm Still In Love With You, 0</string>
       <string>Otis Redding - (Sittin' On) The Dock Of The Bay, 0</string>
@@ -10410,6 +10449,10 @@
       <string>The Skatalites Meet King Tubby - Fugitive Dub, 0</string>
       <string>Jackie Mittoo And The Soul Brothers - James Bond, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Deftones - Headup</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Del Tha Funky Homosapian - Mista Dobolina</Track>
@@ -12517,6 +12560,7 @@
       <string>Nightmares On Wax - Bringin It, 2</string>
       <string>A Tribe Called Quest - Electric Relaxation (Instrumental), 2</string>
       <string>Naughty By Nature - OPP (Instrumental), 2</string>
+      <string>Seu Jorge - Burguesinha, 2</string>
       <string>A Tribe Called Quest - Jam, 0</string>
       <string>ConFunkShun - Clique, 0</string>
       <string>De La Soul - Ring Ring Ring (Ha Ha Hey), 0</string>
@@ -12673,6 +12717,7 @@
       <string>Tosca - Annanas (Uko Dub), 2</string>
       <string>James Brown - Get On The Good Foot, 2</string>
       <string>Kool Blues - Can We Try Love Again, 2</string>
+      <string>Seu Jorge - Burguesinha, 2</string>
       <string>Quarteto Em Cy - Tudo Que Você Podia Ser, 0</string>
     </MixRankings>
   </TrackMix>
@@ -17014,6 +17059,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Ike Turner's Kings Of Rhythm - Funky Mule</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Inell Young - What Do You See In Her</Track>
     <MixRankings>
       <string>Beastie Boys - Shake Your Rump (Instrumental), 3</string>
@@ -17193,6 +17242,10 @@
       <string>The Granville Williams Orchestra - Santa Claus is Ska-Ing To Town, 2</string>
       <string>The Wailers - Sound The Trumpet, 2</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>J Lara - Hands of the Lord</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>J.D. McDonald - Boogaloo Santa Claus</Track>
@@ -17651,6 +17704,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Jacob Miller - The Twelve Days of Ismas</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Jacob Miller &amp; Ray I - All I Want for Ismas</Track>
     <MixRankings>
       <string>Barrington Levy &amp; Trinity - Flash Your Dread, 5</string>
@@ -17702,6 +17759,10 @@
       <string>Frank Cosmo - Merry Christmas, 2</string>
       <string>Jacob Miller &amp; Ray I - Silver Bells, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Jah Irie Chorus - Sensimilla (feat Dean Fraser)</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>James Brown - Blind Man Can See It</Track>
@@ -19443,6 +19504,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>João Gilberto - Bim Bom (Live)</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>João Gilberto - Brigas, Nunca Mais</Track>
     <MixRankings>
       <string>Nightmares On Wax - Morse, 4</string>
@@ -19673,6 +19738,7 @@
       <string>El Michels Affair - Red Rooster, 2</string>
       <string>Prince Fatty - Insane In The Brain (feat. Horseman), 2</string>
       <string>Sofa Surfers - Sofa Rockers (Richard Dorfmeister Remix), 2</string>
+      <string>Seu Jorge - Burguesinha, 2</string>
       <string>Bill Withers - The Same Love That Made Me Laugh, 0</string>
       <string>Del Tha Funky Homosapian - Mista Dobolina, 0</string>
       <string>Free Som Orchestra - The Kings Bounce, 0</string>
@@ -21962,6 +22028,7 @@
       <string>James Brown - Hot Pants (Part 1), 2</string>
       <string>Al Green - Love And Happiness, 2</string>
       <string>Deltron 3030 - Positive Contact, 2</string>
+      <string>Seu Jorge - Burguesinha, 2</string>
       <string>Cut Chemist - The Garden, 0</string>
       <string>Del Tha Funky Homosapian - Mista Dobolina, 0</string>
       <string>Grandmaster Flash - The Message (Instrumental), 0</string>
@@ -25243,6 +25310,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Mika Singh &amp; Mamta Sharma - Tooh</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Mika Singh &amp; Pankaj Kapoor - Sajh Dhaj Ke</Track>
     <MixRankings>
       <string>Kishore Kumar, Sumit Kumar &amp; Vishal Dadlani - Bachna Ae Haseeno, 4</string>
@@ -26343,6 +26414,7 @@
       <string>The Bamboos - The Ghost, 4</string>
       <string>Beastie Boys - Hey Ladies (Instrumental), 4</string>
       <string>Ini Kamoze - Here Comes The Hotstepper, 4</string>
+      <string>Seu Jorge - Burguesinha, 4</string>
       <string>Gilberto Gil - Mancada, 3</string>
       <string>Lyn Collins - Give It Up Or Turn It Loose, 3</string>
       <string>James Brown - Blues &amp; Pants, 3</string>
@@ -27700,6 +27772,7 @@
       <string>Tim Maia - No Caminho Do Bem, 2</string>
       <string>Duke Pearson - Sandalia Dela, 2</string>
       <string>Gilberto Gil - Roda, 2</string>
+      <string>Seu Jorge - Burguesinha, 2</string>
       <string>Avan Samba - Ibere, 0</string>
     </MixRankings>
   </TrackMix>
@@ -29035,6 +29108,7 @@
       <string>Sharon Jones &amp; The Dap Kings - Pick It Up, Lay It In The Cut, 0</string>
       <string>Hopeton Lewis - Take it Easy, 0</string>
       <string>Al Green - I'm Still In Love With You, 0</string>
+      <string>Seu Jorge - Burguesinha, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -31024,6 +31098,36 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Seu Jorge - A Doida</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
+    <Track>Seu Jorge - América Do Norte</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
+    <Track>Seu Jorge - Burguesinha</Track>
+    <MixRankings>
+      <string>Naughty By Nature - OPP (Instrumental), 5</string>
+      <string>Xanadu &amp; Sweet Lady - Rapper´s Delight, 4</string>
+      <string>Joe Dukie &amp; DJ Fitchie - Seconds Vocal, 4</string>
+      <string>Beastie Boys - Hey Ladies (Instrumental), 4</string>
+      <string>Cypress Hill - Loco en el Coco, 4</string>
+      <string>The Bamboos - The Ghost, 3</string>
+      <string>Jorge Ben - Olha A Beleza Dela, 3</string>
+      <string>Taggy Matcher - Root Down, 3</string>
+      <string>Prince Fatty - Insane In The Brain (feat. Horseman), 3</string>
+      <string>Osmar Milito - Rita Jeep, 3</string>
+      <string>Vanessa da Mata - Não Me Deixe Só, 3</string>
+      <string>Bill Withers - Lovely Day, 3</string>
+      <string>Edson Frederico - Bobeira, 3</string>
+      <string>Tim Armstrong - Hold On, 2</string>
+      <string>Jurassic 5 - How We Get Along (Instrumental), 2</string>
+      <string>Sharon Jones &amp; The Dap Kings - Better Things To Do, 2</string>
+      <string>El Michels Affair - C.R.E.A.M., 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>Seu Jorge - Carolina</Track>
     <MixRankings>
       <string>Pete Rock - Back On The Block (Instrumental), 5</string>
@@ -31093,6 +31197,14 @@
       <string>Monty Alexander - Inner City Blues, 0</string>
       <string>Fela Soul - Trouble In The Water (Instrumental), 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Seu Jorge - Funk Baby</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
+    <Track>Seu Jorge - Mania De Peitão</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Shankar Mahadevan &amp; Alyssa Mendonsa - Uff Teri Adaa</Track>
@@ -32670,6 +32782,10 @@
       <string>RJD2 - Here's What's Left, 0</string>
       <string>Naughty By Nature - Feel Me Flow (Instrumental), 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Smokey Robinson &amp; The Miracles - Deck The Halls</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Smokey Robinson &amp; The Miracles - Jingle Bells</Track>
@@ -34517,6 +34633,7 @@
       <string>Tim Armstrong - Wake Up, 2</string>
       <string>James Brown - Blues &amp; Pants, 2</string>
       <string>Nightmares On Wax - Play On, 2</string>
+      <string>Seu Jorge - Burguesinha, 2</string>
       <string>A Tribe Called Quest - Award Tour (Instrumental), 0</string>
       <string>Aloe Blacc - I Need A Dollar (Instrumental), 0</string>
       <string>Bill Withers - Lovely Day, 0</string>
@@ -34952,6 +35069,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>The Aggrovators - Christmas Medley</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>The Aggrovators - Santa Claus Dub</Track>
     <MixRankings>
       <string>Doreen Schaffer - Wishing You a Merry Christmas, 4</string>
@@ -35343,6 +35464,7 @@
       <string>James Brown - Funky Drummer, 2</string>
       <string>Average White Band - Stop The Rain, 2</string>
       <string>Prince Fatty - Insane In The Brain (feat. Horseman), 2</string>
+      <string>Seu Jorge - Burguesinha, 2</string>
       <string>Al Green - Love And Happiness, 0</string>
       <string>Eddie Bo - Check Your Bucket, 0</string>
       <string>Grandmaster Flash - The Message (Instrumental), 0</string>
@@ -40638,6 +40760,7 @@
       <string>James Brown - Hot Pants (Part 1), 0</string>
       <string>Bomb The Bass - Bug Powder Dust (K&amp;D Session), 0</string>
       <string>Naughty By Nature - OPP (Instrumental), 0</string>
+      <string>Seu Jorge - Burguesinha, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -42080,6 +42203,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Unknown Artist - Dupatta Tera Nau Rang Da</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Unknown Artist - Hark The Herald Angels Sing</Track>
     <MixRankings>
       <string>Wain Nelson - Santa Claus, 4</string>
@@ -42327,6 +42454,7 @@
       <string>Various - Bounch, Rock, Skate, Roll, 0</string>
       <string>Wess &amp; The Airedales - Blackout, 0</string>
       <string>Sharon Jones And The Dap Kings - Tell Me, 0</string>
+      <string>Seu Jorge - Burguesinha, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -42681,6 +42809,10 @@
       <string>Jack Costanzo and His Afro Cuban Band - Abaniquito, 0</string>
       <string>Sambas de Enredo - Unidos de Lucas, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Wanda Sá - So Danço Samba (I Only Dance Samba)</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Watson And  The Sherlocks - Funky Walk</Track>
