@@ -5388,23 +5388,6 @@
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
-        <TrackDescription>King Tubby - King Tubby Dub</TrackDescription>
-        <FadeLength>10.122743764172336</FadeLength>
-        <FadeEnd>54890232</FadeEnd>
-        <FadeEndLoop>0</FadeEndLoop>
-        <FadeEndVolume>0.224</FadeEndVolume>
-        <PowerDownOnEnd>true</PowerDownOnEnd>
-        <ExtendedFadeType>Default</ExtendedFadeType>
-        <SampleTriggers>
-          <SampleTrigger>
-            <Start>139.9639909297052</Start>
-            <Length>3.6590476190476409</Length>
-            <DelayNotes>0.25</DelayNotes>
-            <SampleID>King Tubby - King Tubby Dub - FadeIn</SampleID>
-          </SampleTrigger>
-        </SampleTriggers>
-      </ExtendedMixAttributes>
-      <ExtendedMixAttributes>
         <TrackDescription>DJ Nu Mark - Comin' Thru (feat. Chali 2na) (Instrumental) (RB Edit)</TrackDescription>
         <FadeLength>20.001315192743764</FadeLength>
         <FadeEnd>58538320</FadeEnd>
@@ -5443,6 +5426,23 @@
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>King Tubby - King Tubby Dub</TrackDescription>
+        <FadeLength>10.162471655328798</FadeLength>
+        <FadeEnd>51257856</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.1834177</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers>
+          <SampleTrigger>
+            <Start>139.9639909297052</Start>
+            <Length>3.6590476190476409</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>King Tubby - King Tubby Dub - FadeIn</SampleID>
+          </SampleTrigger>
+        </SampleTriggers>
       </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
@@ -16376,6 +16376,26 @@
         <Start>125.40997732426304</Start>
         <Length>1.1005668934240305</Length>
         <DelayNotes>0.125</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>9.0842630385487535</Start>
+        <Length>2.0588208616780044</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>68.783786848072566</Start>
+        <Length>0.601451247165528</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>79.144988662131524</Start>
+        <Length>0.99986394557822678</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>87.304331065759641</Start>
+        <Length>0.87988662131519391</Length>
+        <DelayNotes>0.25</DelayNotes>
       </TrackFXTrigger>
     </TrackFXTriggers>
     <SampleTriggers />
