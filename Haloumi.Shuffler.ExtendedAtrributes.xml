@@ -3145,6 +3145,10 @@
     <Attributes>Duration=375.301;EndBPM=87.0748299319728;FadeIn=62.412;FadeInLengthInSeconds=11.081;FadeOut=185.425;FadeOutLengthInSeconds=11.025;Key=Cm;PreFadeInPosition=60.408;PreFadeInStartVolume=50;Rank=3;StartBPM=86.6347802544897;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Rancid - Time Bomb</Track>
+    <Attributes>Duration=144.405;EndBPM=82.356;EndLoopCount=2;FadeIn=6.094;FadeInLengthInSeconds=5.825;FadeOut=125.803;FadeOutLengthInSeconds=5.828;PreFadeInPosition=5.701;PreFadeInStartVolume=75;Rank=5;StartBPM=82.401;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Randy's Allstars - Mission Impossible</Track>
     <Attributes>BPMAdjust=0.5;Duration=199.666666666667;EndBPM=73.7893927747886;FadeIn=7.413;FadeInLengthInSeconds=12.773;FadeOut=176.240;FadeOutLengthInSeconds=13.010;Key=Abm;PreFadeInPosition=6.402;PreFadeInStartVolume=100;Rank=3;StartBPM=75.1585375401237;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>

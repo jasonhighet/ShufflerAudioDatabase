@@ -1325,6 +1325,7 @@
       <string>Tommy Mccook - Green Mango, 2</string>
       <string>Dub Specialist - Dub It Easy, 2</string>
       <string>Jurassic 5 - Quality Control, 2</string>
+      <string>Rancid - Time Bomb, 2</string>
       <string>Billy Wade &amp; The 3 Degrees - Tear It Up (Part 2), 0</string>
       <string>Bob Marley - Bend Down Low, 0</string>
       <string>Bob Marley - Waiting In Vain, 0</string>
@@ -2396,6 +2397,7 @@
       <string>Stan Getz &amp; Astrud Gilberto - One Note Samba (Live), 2</string>
       <string>Dionne Warwick - Do You Know The Way To San Jose, 2</string>
       <string>The Skatalites - Swing Easy, 2</string>
+      <string>Rancid - Time Bomb, 2</string>
       <string>Billy Wade &amp; The 3 Degrees - Tear It Up (Part 2), 0</string>
       <string>Booker T &amp; The MG's - Time Is Tight, 0</string>
       <string>Cymande - The Message, 0</string>
@@ -3331,6 +3333,8 @@
       <string>Mario Castro Neves &amp; Samba S.A. - Candomblé, 3</string>
       <string>Jackson do Pandeiro - Eu Balanco (Beatfanatic Rework), 3</string>
       <string>Jurassic 5 - Canto De Ossanha (Instrumental), 3</string>
+      <string>The New Mastersounds - Colorado Sun (Jesse's Backyard), 3</string>
+      <string>Eddie Russ - Lope Song, 3</string>
       <string>A Tribe Called Quest - Jam, 2</string>
       <string>Aloe Blacc - I Need A Dollar, 2</string>
       <string>Aloe Blacc - I Need A Dollar (Instrumental), 2</string>
@@ -3778,6 +3782,10 @@
       <string>Al Green - Let's Stay Together, 0</string>
       <string>King Jammy - Dub It in the Dancehall Dub, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>B.B. King - Christmas Celebration</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Baby Huey &amp; The Baby Sitters - Hard Times</Track>
@@ -4713,6 +4721,7 @@
       <string>Nina Simone - It Be's That Way Sometimes, 4</string>
       <string>Ramsey Lewis - Back In The U.S.S.R, 4</string>
       <string>Breakestra - Joyful Noise, 4</string>
+      <string>Duke Pearson - Ground Hog, 4</string>
       <string>Blue Mitchell - Good Humour Man, 3</string>
       <string>Dizzy Gillespie - Alligator, 3</string>
       <string>Jackie Mittoo - Totally Together, 3</string>
@@ -5487,6 +5496,7 @@
       <string>Young MC - Bust A Move, 3</string>
       <string>The Herbaliser - Battle of Bongo Hill, 3</string>
       <string>Joe Quarterman &amp; Free Soul - (I Got) So Much Trouble in My Life, 3</string>
+      <string>El Michels Affair - Run Fay Run, 3</string>
       <string>Jackie Mittoo And The Soul Brothers - James Bond Theme, 2</string>
       <string>Blackbyrds - The Blackbyrds' Theme, 2</string>
       <string>James Brown - I'm A Greedy Man (Part 1), 2</string>
@@ -5496,6 +5506,7 @@
       <string>Thievery Corporation - Shadows Of Ourselves, 2</string>
       <string>Jackie Mittoo And The Soul Brothers - James Bond, 2</string>
       <string>Breakestra - Joyful Noise, 2</string>
+      <string>Eddie Russ - Lope Song, 2</string>
       <string>The New Mastersounds - Do What You Gotta Do, 0</string>
       <string>Milt Jackson - I'm Not so Sure, 0</string>
       <string>Beastie Boys - Song For Junior, 0</string>
@@ -5715,6 +5726,14 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Black Sabbath - After Forever (Instrumental)</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
+    <Track>Black Sabbath - Black Sabbath (Instrumental)</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Black Sabbath - Children of the Grave (Instrumental)</Track>
     <MixRankings>
       <string>Black Sabbath - Sweet Leaf (Instrumental), 2</string>
@@ -5726,6 +5745,10 @@
     <MixRankings>
       <string>Black Sabbath - Symptom Of The Universe (Instrumental), 2</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Black Sabbath - Into The Void (Instrumental)</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Black Sabbath - Iron Man (Instrumental)</Track>
@@ -6085,6 +6108,7 @@
       <string>The Bamboos - The Witch, 4</string>
       <string>Sharon Jones &amp; The Dap Kings - What Have You Done For Me Late, 4</string>
       <string>The Bamboos - Tongan Steel, 4</string>
+      <string>Beastie Boys - Song For Junior, 4</string>
       <string>Breakestra - 40 Days, 3</string>
       <string>Breakestra - Inner City Blues, 3</string>
       <string>Tom Scott - Spindrift, 3</string>
@@ -6097,11 +6121,14 @@
       <string>The Vibrette - Humpty Dump, 3</string>
       <string>De La Soul - Keepin' The Faith, 3</string>
       <string>Tosca - Honey, 3</string>
+      <string>Howard Roberts - One Note Samba, 3</string>
+      <string>Reuben Wilson - Inner City Blues, 3</string>
       <string>Jackie And Roy - Samba Triste, 2</string>
       <string>A Tribe Called Quest - Youthful Expression (Instrumental), 2</string>
       <string>Brentford Allstars - Greedy G, 2</string>
       <string>Average White Band - Pick Up The Pieces, 2</string>
       <string>Mr. Scruff - Champagne Nibbler, 2</string>
+      <string>El Michels Affair - Run Fay Run, 2</string>
       <string>Various - Bounch, Rock, Skate, Roll, 0</string>
       <string>The Herbaliser - What You Asked For, 0</string>
     </MixRankings>
@@ -6382,6 +6409,7 @@
       <string>Damu the Fudgemunk - Dream Catcher, 3</string>
       <string>The Herbaliser - Worldwide Connected, 3</string>
       <string>Copa 7 - Copa 7 No Samba, 3</string>
+      <string>Greyboy - On The Strip, 3</string>
       <string>Greyboy - Outerlude, 2</string>
       <string>Greyboy - Singles Party (Part #2), 2</string>
       <string>Stan Getz &amp; Laurindo Almeida - Menina Moca, 2</string>
@@ -7733,6 +7761,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Bunny &amp; Skully - White Christmas</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Burning Spear - I and I Survive (Slavery Days)</Track>
     <MixRankings>
       <string>Tapper Zukie - Beautiful Dub, 5</string>
@@ -7763,6 +7795,10 @@
       <string>King Tubby - Turntable Dub, 2</string>
       <string>Sly &amp; Robbie - Hypocrite Dub, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Burning Spear - Slavery Days</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Burning Spear - The Ghost (Marcus Garvey)</Track>
@@ -7846,6 +7882,7 @@
       <string>Willie Bobo - Lisa, 2</string>
       <string>Jorge Ben - Menina Bonita Nao Chora, 2</string>
       <string>Jorge Ben - Quero Esquecer Voce, 2</string>
+      <string>Gal Costa &amp; Caetano Veloso - Maria Joana, 2</string>
       <string>Roslyn Sweat &amp; The Paragons - Blackbird, 0</string>
     </MixRankings>
   </TrackMix>
@@ -7880,9 +7917,9 @@
       <string>Ray Bryant - Cool Struttin', 4</string>
       <string>Stan Getz &amp; Laurindo Almeida - Corcovado, 4</string>
       <string>Soopasoul - Swing Down (Instrumental), 4</string>
+      <string>Wes Montgomery - California Nights, 4</string>
       <string>Cal Tjader - Cuchy Frito Man, 3</string>
       <string>Ernest Ranglin - Surfin', 3</string>
-      <string>Wes Montgomery - California Nights, 3</string>
       <string>Wes Montgomery - Sunny, 3</string>
       <string>Willie Bobo - Grazing in the Grass, 3</string>
       <string>Astrud Gilberto &amp; Antonio Carlos Jobim - Agua de Beber, 2</string>
@@ -7922,6 +7959,7 @@
       <string>El Michels Affair - Uzi (Pinky Ring), 3</string>
       <string>The Herbaliser Band - Goldrush, 3</string>
       <string>Elizete Cardoso - E De Lei, 3</string>
+      <string>Howard Roberts - One Note Samba, 3</string>
       <string>Breakestra - 40 Days, 2</string>
       <string>Breakestra - Inner City Blues, 2</string>
       <string>Greyboy - Singles Party, 2</string>
@@ -7960,6 +7998,8 @@
       <string>El Michels Affair - Red Rooster, 3</string>
       <string>Stan Getz &amp; Laurindo Almeida - Menina Moca, 3</string>
       <string>Dizzy Gillespie - One Note Samba, 3</string>
+      <string>Wes Montgomery - Four on Six, 3</string>
+      <string>Cortex - La Rue, 3</string>
       <string>A Tribe Called Quest - Oh My God, 2</string>
       <string>Astrud Gilberto - Light My Fire, 2</string>
       <string>Astrud Gilberto - Take It Easy, My Brother Charlie, 2</string>
@@ -8142,6 +8182,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Carlene Davis &amp; Trinity - Santa Claus (Do You Ever Come To The Ghetto)</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Carolyn Franklin - Deal With It</Track>
     <MixRankings>
       <string>Lyn Collins - Give It Up Or Turn It Loose, 4</string>
@@ -8214,6 +8258,14 @@
       <string>Joe And Everyday People - Sleep Walk (Part 2), 0</string>
       <string>The Skatalites - Chinatown, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Charles Bradley - Every Day Is Christmas (When I'm Lovin' You)</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
+    <Track>Charles Bradley - Mary's Baby</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Charles Bradley - No Time For Dreaming</Track>
@@ -8997,6 +9049,7 @@
       <string>Super Som Lord - Br Samaba, 2</string>
       <string>Nightmares On Wax - Know My Name (Instrumental), 2</string>
       <string>King Tubby - King Tubby Dub, 2</string>
+      <string>Greyboy - Ruffneck Jazz, 2</string>
       <string>A Tribe Called Quest - Electric Relaxation (Instrumental), 0</string>
       <string>Ann Allford - Gotta Get Me A Job, 0</string>
       <string>Astrud Gilberto - Gingele, 0</string>
@@ -11029,6 +11082,7 @@
       <string>Sharon Jones And The Dap Kings - How Long Do I Have To Wait, 4</string>
       <string>Donald Byrd - Think Twice, 4</string>
       <string>Spanky Wilson - Kissing My Love, 4</string>
+      <string>Greyboy - On The Strip, 4</string>
       <string>Al Green - Love And Happiness, 3</string>
       <string>A Tribe Called Quest - Electric Relaxation (Instrumental), 3</string>
       <string>A Tribe Called Quest - Luck Of Lucien, 3</string>
@@ -11064,6 +11118,8 @@
       <string>The Herbaliser - 24 Carat Blag, 3</string>
       <string>Cymande - Brothers On The Slide, 3</string>
       <string>Brentford Allstars - Greedy G, 3</string>
+      <string>Stan Getz &amp; Astrud Gilberto - Eu E Voce (Me And You) (Live), 3</string>
+      <string>Dizzy Gillespie - Summertime, 3</string>
       <string>A Tribe Called Quest - Luck Of Lucien (Instrumental), 2</string>
       <string>Beastie Boys - Shadrach (Instrumental), 2</string>
       <string>Blackalicious - Rock The Spot (Instrumental), 2</string>
@@ -11179,6 +11235,7 @@
       <string>RJD2 - All For U, 2</string>
       <string>Tosca - Honey, 2</string>
       <string>Copa 7 - Copa 7 No Samba, 2</string>
+      <string>Bobbi Humphrey - Harlem River Drive, 2</string>
       <string>A Tribe Called Quest - Youthful Expression (Instrumental), 0</string>
       <string>El Michels Affair - Run Fay Run, 0</string>
       <string>James Brown - Talkin' Loud And Sayin' Nothing, 0</string>
@@ -11201,6 +11258,7 @@
     <MixRankings>
       <string>Eddie Russ - Lope Song, 4</string>
       <string>Willie Bobo &amp; The Bo Gents - Broasted Or Fried, 4</string>
+      <string>Cannonball Adderley - Groovy Sambas, 4</string>
       <string>Bobbi Humphrey - Harlem River Drive, 3</string>
       <string>Ernest Ranglin - Love and Happiness, 3</string>
       <string>Stan Getz &amp; Laurindo Almeida - Menina Moca, 3</string>
@@ -11214,6 +11272,7 @@
       <string>Mandrake Som - Berimbau, 2</string>
       <string>Gilberto Gil - Mancada, 2</string>
       <string>Donald Byrd - Think Twice, 2</string>
+      <string>Greyboy - Ruffneck Jazz, 2</string>
       <string>Greyboy - Outerlude, 0</string>
       <string>The Herbaliser - Worldwide Connected, 0</string>
       <string>James Brown - Funky Drummer, 0</string>
@@ -12001,6 +12060,7 @@
       <string>People Under The Stairs - The Breakdown, 3</string>
       <string>Greyboy - Ruffneck Jazz, 3</string>
       <string>Jurassic 5 - Concrete Schoolyard, 3</string>
+      <string>Greyboy - Grey Royale, 3</string>
       <string>Astrud Gilberto - Gentle Rain (RJD2 Remix), 2</string>
       <string>Lou Donaldson - Ode To Billy Joe, 2</string>
       <string>Jorge Ben - Mas Que Nada, 2</string>
@@ -12145,6 +12205,7 @@
   <TrackMix>
     <Track>Duke Pearson - Ground Hog</Track>
     <MixRankings>
+      <string>Beastie Boys - Song For Junior, 4</string>
       <string>Ernest Ranglin - Ball Of Fire, 3</string>
       <string>Richard "Groove" Holmes - Grooving With Mr. G, 3</string>
       <string>Speedometer - Time for Change, 3</string>
@@ -12629,6 +12690,7 @@
       <string>Dizzy Gillespie - Matrix, 2</string>
       <string>Greyboy - Whirlwind, 2</string>
       <string>Wes Montgomery - Bumpin On Sunset, 2</string>
+      <string>Billy Brooks - Forty Days, 2</string>
       <string>Placebo - Only Nineteen, 0</string>
       <string>Chico Buarque - Samba de Orly, 0</string>
     </MixRankings>
@@ -12861,6 +12923,10 @@
       <string>Greyboy - Singles Party, 3</string>
       <string>The Herbaliser - Battle of Bongo Hill, 3</string>
       <string>The Gaturs - Gator Bait, 3</string>
+      <string>Wes Montgomery - Bumpin On Sunset, 3</string>
+      <string>Greyboy - On The Strip, 3</string>
+      <string>Stan Getz &amp; Astrud Gilberto - Eu E Voce (Me And You) (Live), 3</string>
+      <string>Eddie Russ - Lope Song, 3</string>
       <string>Astrud Gilberto - Ponteio, 2</string>
       <string>Breakestra - 40 Days, 2</string>
       <string>Howard Roberts - One Note Samba, 2</string>
@@ -12883,6 +12949,7 @@
       <string>The New Mastersounds - Dusty Groove, 0</string>
       <string>James Brown - Soul Power, 0</string>
       <string>Dandy Livingstone - Rudy, A Message To You, 0</string>
+      <string>Billy Brooks - Forty Days, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -13001,6 +13068,8 @@
       <string>Horace Andy - Love Of A Dub Band, 2</string>
       <string>Tapper Zukie - Beautiful Dub, 2</string>
       <string>Prince Fatty - Switch Blade, 2</string>
+      <string>Jorge Ben - Quero Esquecer Voce, 2</string>
+      <string>Gal Costa &amp; Caetano Veloso - Maria Joana, 2</string>
       <string>Jorge Ben - Menina Bonita Nao Chora, 0</string>
       <string>Bill Withers - Use Me, 0</string>
     </MixRankings>
@@ -13685,6 +13754,7 @@
       <string>Handsome Boy Modeling School - The Truth (feat. Roisin Murphy &amp; J-Live), 0</string>
       <string>Stan Getz &amp; Astrud Gilberto - One Note Samba (Live), 0</string>
       <string>Jimmy Cliff - Ruby Soho, 0</string>
+      <string>Rancid - Time Bomb, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -14250,10 +14320,12 @@
       <string>El Michels Affair - Walk On By, 5</string>
       <string>The 3 Sounds - Repeat After Me, 4</string>
       <string>Lennie Hibbert - Real Hot (RB Edit), 4</string>
+      <string>The 3 Sounds - Sittin' Duck, 4</string>
       <string>Ernest Ranglin - Satta Massagana, 3</string>
       <string>Handsome Boy Modeling School - The Truth (feat. Roisin Murphy &amp; J-Live), 3</string>
       <string>Nightmares On Wax - Morse, 3</string>
       <string>The Herbaliser - Put It On Tape, 3</string>
+      <string>Jimmy Smith &amp; Wes Mongomery - OGD (Road Song), 3</string>
       <string>Cortex - Troupeau Bleu, 2</string>
       <string>Marcia Aitken - I'm Still In Love, 2</string>
       <string>Gwen McCrae - 90% Of Me Is You, 2</string>
@@ -14275,6 +14347,8 @@
       <string>Sylvia Telles - Samba De Uma Nota So, 0</string>
       <string>Joe Dukie &amp; DJ Fitchie - Midnight Marauders, 0</string>
       <string>Jimmy Cliff - Ruby Soho, 0</string>
+      <string>Willie Bobo - Lisa, 0</string>
+      <string>Greyboy - Parkside Bounce, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -14471,9 +14545,13 @@
   <TrackMix>
     <Track>Gal Costa &amp; Caetano Veloso - Maria Joana</Track>
     <MixRankings>
+      <string>Jimmy Smith &amp; Wes Mongomery - OGD (Road Song), 4</string>
       <string>The 3 Sounds - Sittin' Duck, 3</string>
       <string>Glen Brown and King Tubby - Lambs Bread Dubwise, 3</string>
       <string>Astrud Gilberto &amp; Antonio Carlos Jobim - Agua de Beber, 3</string>
+      <string>Frank Pleyer - Sally, 3</string>
+      <string>Willie Bobo - Lisa, 3</string>
+      <string>Howard Roberts - Dirty Old Bossa Nova, 3</string>
       <string>Gal Costa &amp; Caetano Veloso - Remelexo, 2</string>
       <string>Joăo Gilberto - De Conversa Em Conversa, 2</string>
       <string>Joe Dukie &amp; DJ Fitchie - This Room, 2</string>
@@ -14485,6 +14563,7 @@
       <string>Lennie Hibbert - Real Hot (RB Edit), 2</string>
       <string>King Tubby - Turntable Dub, 2</string>
       <string>King Tubby - The Battle Axe Dub, 2</string>
+      <string>El Michels Affair - Walk On By, 2</string>
       <string>Booker T &amp; The MG's - Time Is Tight, 0</string>
       <string>Elis Regina - Acuas de Marco, 0</string>
       <string>Joe Dukie &amp; DJ Fitchie - Midnight Marauders, 0</string>
@@ -15268,13 +15347,14 @@
     <MixRankings>
       <string>Antonio Adollfo - Cascavel, 4</string>
       <string>Donald Byrd - Weasil, 4</string>
+      <string>Monty Alexander - Inner City Blues, 4</string>
       <string>Eddie Henderson - Inside You, 3</string>
       <string>The Three Degrees - You're The Fool, 3</string>
       <string>King Jammy - Dub It in the Dancehall Dub, 3</string>
-      <string>Monty Alexander - Inner City Blues, 3</string>
       <string>The Chosen Few - I Love The Way You Love, 3</string>
       <string>Freesom Orquestra - Rush, 3</string>
       <string>Stan Getz &amp; Laurindo Almeida - Samba Da Sahra, 3</string>
+      <string>The New Mastersounds - Forgiveness, 3</string>
       <string>Jimmy McGriff - Blue Juice, 2</string>
       <string>The New Mastersounds - The Vandenburg Suite, 2</string>
       <string>Horace Andy - Nice And Easy Dub, 2</string>
@@ -15372,12 +15452,15 @@
       <string>Eddie Russ - Lope Song, 4</string>
       <string>Young Holt Unlimited - Rubber Lips, 4</string>
       <string>Sharon Jones &amp; The Dap Kings - Without A Heart (Instrumental), 4</string>
-      <string>Dizzy Gillespie - Matrix, 3</string>
+      <string>Dizzy Gillespie - Matrix, 4</string>
       <string>Grant Green - The Final Comedown, 3</string>
       <string>Greyboy - Singles Party (Part #2), 3</string>
       <string>Wes Montgomery - Bumpin On Sunset, 3</string>
       <string>Willie Bobo &amp; The Bo Gents - Broasted Or Fried, 3</string>
       <string>Bomb The Bass - Bug Powder Dust (K&amp;D Session), 3</string>
+      <string>Dizzy Gillespie - One Note Samba, 3</string>
+      <string>Stan Getz &amp; Astrud Gilberto - Eu E Voce (Me And You) (Live), 3</string>
+      <string>Wes Montgomery - Four on Six, 3</string>
       <string>Greyboy - Whirlwind, 2</string>
       <string>Jurassic 5 - Red Hot (Instrumental), 2</string>
       <string>Beastie Boys - Hey Ladies (Instrumental), 2</string>
@@ -15386,6 +15469,7 @@
       <string>RJD2 - All For U, 2</string>
       <string>Donald Byrd - Think Twice, 2</string>
       <string>Jackson do Pandeiro - Eu Balanco (Beatfanatic Rework), 2</string>
+      <string>Young Holt Unlimited - The Creeper, 2</string>
       <string>The Herbaliser - Worldwide Connected, 0</string>
     </MixRankings>
   </TrackMix>
@@ -15485,6 +15569,7 @@
       <string>Marcia Aitken - I'm Still In Love, 3</string>
       <string>Jeru The Damaja - Me Or The Papes (Instrumental), 3</string>
       <string>Cypress Hill - Yo Quiero Fumar, 3</string>
+      <string>Dorothy Ashby - Come Live with Me, 3</string>
       <string>Dom Salvador E Abolicao - Hei Voce, 2</string>
       <string>Kool &amp; The Gang - Summer Madness, 2</string>
       <string>Stan Getz &amp; Laurindo Almeida - Samba Da Sahra, 2</string>
@@ -15493,6 +15578,8 @@
       <string>Aaron Neville - Hercules, 2</string>
       <string>Tommy Mccook - Green Mango, 2</string>
       <string>Gwen McCrae - 90% Of Me Is You, 2</string>
+      <string>Stan Getz &amp; Astrud Gilberto - One Note Samba (Live), 2</string>
+      <string>The Gaturs - The Booger Man, 2</string>
       <string>The 3 Sounds - Repeat After Me, 0</string>
       <string>Sharon Jones &amp; The Dap Kings - Make It Good To Me, 0</string>
       <string>Slickers - Johnny Too Bad, 0</string>
@@ -15516,6 +15603,7 @@
       <string>Osmar Milito - Morre O Burro, Fica O Homem, 3</string>
       <string>Jurassic 5 - Canto De Ossanha (Instrumental), 3</string>
       <string>Bomb The Bass - Bug Powder Dust, 3</string>
+      <string>Dizzy Gillespie - Summertime, 3</string>
       <string>A Tribe Called Quest - Oh My God, 2</string>
       <string>A Tribe Called Quest - Jam, 2</string>
       <string>Astrud Gilberto - Take It Easy, My Brother Charlie, 2</string>
@@ -15527,6 +15615,7 @@
       <string>A Tribe Called Quest - Ham N Eggs (Instrumental), 2</string>
       <string>Agora Chega - Super Som T.A., 2</string>
       <string>King Tubby - King Tubby Dub, 2</string>
+      <string>The New Mastersounds - Colorado Sun (Jesse's Backyard), 2</string>
       <string>Ann Allford - Gotta Get Me A Job, 0</string>
       <string>Beastie Boys - Sneakin' Out The Hospital, 0</string>
       <string>Bill Withers - Lovely Day, 0</string>
@@ -16613,6 +16702,7 @@
       <string>Augustus Pablo &amp; King Tubby - King Tubby's Borderline Dub, 2</string>
       <string>King Tubby - Black Lash, 2</string>
       <string>Horace Andy - I Feel Good All Over, 2</string>
+      <string>Jimmy Smith &amp; Wes Mongomery - OGD (Road Song), 2</string>
       <string>Billy Wade &amp; The 3 Degrees - Tear It Up (Part 2), 0</string>
       <string>Charles Bradley And The Menahan Street Band - The World (Is Going Up In Flames), 0</string>
       <string>Gloria Jones - Tainted Love, 0</string>
@@ -16644,10 +16734,12 @@
       <string>Brother Jack McDuff - Oblighetto, 3</string>
       <string>Elis Regina - Roda, 3</string>
       <string>The HitchHikers - Mr Fortune, 3</string>
+      <string>Blue Mitchell - Good Humour Man, 3</string>
       <string>Ernest Ranglin - Ball Of Fire, 2</string>
       <string>Blackbyrds - The Blackbyrds' Theme, 2</string>
       <string>Donald Byrd - Think Twice, 2</string>
       <string>The Upsetters - Popcorn, 2</string>
+      <string>Cal Tjader - Tanya, 2</string>
       <string>Stan Getz &amp; Charlie Byrd - Samba Dees Days, 0</string>
       <string>The New Mastersounds - Do What You Gotta Do, 0</string>
     </MixRankings>
@@ -17196,6 +17288,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>J Lara - Hands of the Lord</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>J.D. McDonald - Boogaloo Santa Claus</Track>
     <MixRankings>
       <string>Martin Mull with The Sondra Baskin Glee Club - Santafly, 4</string>
@@ -17652,6 +17748,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Jacob Miller - The Twelve Days of Ismas</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Jacob Miller &amp; Ray I - All I Want for Ismas</Track>
     <MixRankings>
       <string>Barrington Levy &amp; Trinity - Flash Your Dread, 5</string>
@@ -17703,6 +17803,10 @@
       <string>Frank Cosmo - Merry Christmas, 2</string>
       <string>Jacob Miller &amp; Ray I - Silver Bells, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Jah Irie Chorus - Sensimilla (feat Dean Fraser)</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>James Brown - Blind Man Can See It</Track>
@@ -19188,6 +19292,7 @@
       <string>King Tubby - Black Lash, 2</string>
       <string>Horace Andy - Nice And Easy Dub, 2</string>
       <string>Tommy Mccook - Green Mango, 2</string>
+      <string>Rancid - Time Bomb, 2</string>
       <string>Betty Wright - Clean Up Woman, 0</string>
       <string>Charles Bradley - The World (Is Going Up In Flames), 0</string>
       <string>Cypress Hill - Yo Quiero Fumar, 0</string>
@@ -19222,6 +19327,7 @@
       <string>Sharon Jones &amp; The Dap Kings - People Don't Get What They Deserve, 3</string>
       <string>The Chosen Few - I Love The Way You Love, 3</string>
       <string>Erykah Badu - Honey (Grant Phabao Remix), 3</string>
+      <string>Rancid - Time Bomb, 3</string>
       <string>Howard Roberts - Dirty Old Bossa Nova, 2</string>
       <string>Sylvia Telles - Samba De Uma Nota So, 2</string>
       <string>Sister Nancy - Bam Bam, 2</string>
@@ -19428,10 +19534,14 @@
       <string>Tamba Trio - Mas Que Nada, 2</string>
       <string>The Bamboos - Like Tears In Rain, 2</string>
       <string>Lennie Hibbert - Real Hot (RB Edit), 2</string>
+      <string>Stan Getz &amp; Astrud Gilberto - One Note Samba (Live), 2</string>
+      <string>Greyboy - Parkside Bounce, 2</string>
+      <string>Gal Costa &amp; Caetano Veloso - Maria Joana, 2</string>
       <string>The Skatalites - Swing Easy, 0</string>
       <string>Frank Pleyer - Sally, 0</string>
       <string>Jimmy Ponder - While My Guitar Gently Weeps, 0</string>
       <string>Nightmares On Wax - Morse, 0</string>
+      <string>Jorge Ben - Por Causa de Voce Menina, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -19442,6 +19552,10 @@
       <string>La Sonora Matancera - Navidad Me Hace Recordar, 2</string>
       <string>La Sonora Matancera - Los Reyes Magos, 2</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>João Gilberto - Bim Bom (Live)</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>João Gilberto - Brigas, Nunca Mais</Track>
@@ -20775,6 +20889,8 @@
       <string>Prince Fatty - Milk and Honey In My Dub, 3</string>
       <string>Dionne Warwick - Do You Know The Way To San Jose, 3</string>
       <string>Lennie Hibbert - Real Hot (RB Edit), 3</string>
+      <string>The 3 Sounds - Sittin' Duck, 3</string>
+      <string>Jimmy Smith &amp; Wes Mongomery - OGD (Road Song), 3</string>
       <string>Althea &amp; Donna - Uptown Top Ranking, 2</string>
       <string>Blackalicious - Deep In The Jungle (Instrumental), 2</string>
       <string>Gal Costa &amp; Caetano Veloso - Maria Joana, 2</string>
@@ -20887,6 +21003,7 @@
       <string>Nightmares On Wax - Morse, 4</string>
       <string>King Tubby - Watch This Version, 4</string>
       <string>Dionne Warwick - Do You Know The Way To San Jose, 4</string>
+      <string>The 3 Sounds - Sittin' Duck, 4</string>
       <string>Bill Withers - Use Me, 3</string>
       <string>Gal Costa &amp; Caetano Veloso - Maria Joana, 3</string>
       <string>Gal Costa &amp; Caetano Veloso - Remelexo, 3</string>
@@ -20904,6 +21021,9 @@
       <string>King Tubby - Tubby Get Smart, 3</string>
       <string>Roslyn Sweat &amp; The Paragons - Blackbird, 3</string>
       <string>King Tubby - The Battle Axe Dub, 3</string>
+      <string>Greyboy - Parkside Bounce, 3</string>
+      <string>Jimmy Smith &amp; Wes Mongomery - OGD (Road Song), 3</string>
+      <string>Willie Bobo - Lisa, 3</string>
       <string>Gloria Jones - Tainted Love, 2</string>
       <string>Gregory Isaacs - Night Nurse (Kruder and Dorfmeister Session), 2</string>
       <string>Gwen McCrae - 90% Of Me Is You, 2</string>
@@ -20920,6 +21040,7 @@
       <string>King Tubby - Dub You Can Feel, 2</string>
       <string>Augustus Pablo &amp; King Tubby - King Tubby's Borderline Dub, 2</string>
       <string>Lennie Hibbert - Real Hot (RB Edit), 2</string>
+      <string>El Michels Affair - Walk On By, 2</string>
       <string>Althea &amp; Donna - Uptown Top Ranking, 0</string>
       <string>Blackalicious - Deep In The Jungle (Instrumental), 0</string>
       <string>Booker T &amp; The MG's - Time Is Tight, 0</string>
@@ -23485,6 +23606,7 @@
       <string>Augustus Pablo &amp; King Tubby - King Tubby's Borderline Dub, 2</string>
       <string>King Tubby - The Battle Axe Dub, 2</string>
       <string>Toots &amp; The Maytals - 54, 2</string>
+      <string>Rancid - Time Bomb, 2</string>
       <string>King Tubby - Roots of Dub, 0</string>
       <string>Horace Andy - Dub 68, 0</string>
       <string>Scientist - Rasta Dub It Everywhere Dub, 0</string>
@@ -23528,6 +23650,7 @@
       <string>Bill Withers - Use Me, 2</string>
       <string>Sylvia Telles - Samba De Uma Nota So, 2</string>
       <string>The Diplomats Of Solid Sound - Smokey Places, 2</string>
+      <string>Rancid - Time Bomb, 2</string>
       <string>Horace Andy - Dub 68, 0</string>
       <string>Glen Brown and King Tubby - Lambs Bread Dubwise, 0</string>
       <string>Scientist - Rasta Dub It Everywhere Dub, 0</string>
@@ -25246,6 +25369,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Mika Singh &amp; Mamta Sharma - Tooh</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Mika Singh &amp; Pankaj Kapoor - Sajh Dhaj Ke</Track>
     <MixRankings>
       <string>Kishore Kumar, Sumit Kumar &amp; Vishal Dadlani - Bachna Ae Haseeno, 4</string>
@@ -25598,13 +25725,14 @@
     <Track>Monty Alexander - Inner City Blues</Track>
     <MixRankings>
       <string>Dizzy Gillespie - One Note Samba, 5</string>
-      <string>Billy Brooks - Forty Days, 5</string>
       <string>Ernest Ranglin - Love and Happiness, 4</string>
       <string>The Beatnuts - Off The Books (Instrumental), 4</string>
       <string>A Tribe Called Quest - Electric Relaxation (Instrumental), 4</string>
       <string>Astrud Gilberto - Take It Easy, My Brother Charlie, 4</string>
       <string>Tosca - Boss On The Boat, 4</string>
       <string>The Beatnuts - Watch Out Now (Instrumental), 4</string>
+      <string>Eddie Russ - Lope Song, 4</string>
+      <string>Billy Brooks - Forty Days, 3</string>
       <string>Lonnie Smith - Spinnin' Wheel, 3</string>
       <string>Mandrake Som - Berimbau, 3</string>
       <string>The Beatnuts - Fluid, 3</string>
@@ -25630,6 +25758,7 @@
       <string>Otis Redding - (Sittin' On) The Dock Of The Bay, 3</string>
       <string>Djavan - Serrado, 3</string>
       <string>Otis Redding - (Sittin' On) The Dock of the Bay, 3</string>
+      <string>Wes Montgomery - Bumpin On Sunset, 3</string>
       <string>James Brown - Funky Drummer, 2</string>
       <string>John Legend &amp; The Roots - Hard Times, 2</string>
       <string>A Tribe Called Quest - Luck Of Lucien (Instrumental), 2</string>
@@ -26859,7 +26988,6 @@
     <MixRankings>
       <string>Thievery Corporation - All That We Perceive, 4</string>
       <string>Mr. Scruff - Here We Go, 4</string>
-      <string>Sharon Jones &amp; The Dap Kings - Be Easy, 4</string>
       <string>Nas - Halftime (Instrumental), 4</string>
       <string>Jurassic 5 - Quality Control, 4</string>
       <string>Janet Jackson - Got 'Till It's Gone (feat. Q-Tip), 4</string>
@@ -26872,6 +27000,7 @@
       <string>Thievery Corporation - Lebanese Blonde (French), 4</string>
       <string>Jurassic 5 - Freedom (Instrumental), 4</string>
       <string>Agora Chega - Super Som T.A., 4</string>
+      <string>Sharon Jones &amp; The Dap Kings - Be Easy, 3</string>
       <string>Sergio Mendes &amp; Brasil 66 - Mas Que Nada, 3</string>
       <string>Elzhi &amp; Will Sessions - Memory Lane (Instrumental), 3</string>
       <string>Lee 'Scratch' Perry and King Tubby - MFA Dub, 3</string>
@@ -26997,6 +27126,7 @@
       <string>The Quantic Soul Orchestra - End Of The Road (feat. Alice Russell), 2</string>
       <string>Tommy Mccook - Green Mango, 2</string>
       <string>King Tubby - Black Lash, 2</string>
+      <string>Rancid - Time Bomb, 2</string>
       <string>Billy Wade &amp; The 3 Degrees - Tear It Up (Part 2), 0</string>
       <string>Booker T &amp; The MG's - Time Is Tight, 0</string>
       <string>Gloria Jones - Tainted Love, 0</string>
@@ -29329,6 +29459,30 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Rancid - Time Bomb</Track>
+    <MixRankings>
+      <string>Jimmy Cliff - Ruby Soho, 3</string>
+      <string>King Tubby - The Battle Axe Dub, 2</string>
+      <string>The  Dynamics - Whole Lotta Love, 2</string>
+      <string>Jeru The Damaja - Me Or The Papes (Instrumental), 2</string>
+      <string>Nightmares On Wax - Morse, 2</string>
+      <string>Aaron Neville - Hercules, 2</string>
+      <string>Sister Nancy - Bam Bam, 2</string>
+      <string>Inner Circle - Bad Reputation, 2</string>
+      <string>Althea &amp; Donna - Uptown Top Ranking, 2</string>
+      <string>Toots &amp; The Maytals - 54, 2</string>
+      <string>Slickers - Johnny Too Bad, 2</string>
+      <string>Betty Harris - Break In The Road (feat. The Meters), 2</string>
+      <string>Roy Ayers - Everybody Loves The Sunshine, 0</string>
+      <string>Kool &amp; The Gang - Summer Madness, 0</string>
+      <string>Sly &amp; Robbie - Brain Dub, 0</string>
+      <string>King Tubby - Stealing Version, 0</string>
+      <string>Marcia Aitken - I'm Still In Love, 0</string>
+      <string>Ernest Ranglin - Satta Massagana, 0</string>
+      <string>The 3 Sounds - Repeat After Me, 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>Randy's Allstars - Mission Impossible</Track>
     <MixRankings>
       <string>King Tubby - Clash of Steel, 5</string>
@@ -29433,6 +29587,7 @@
       <string>El Michels Affair - Run Fay Run, 3</string>
       <string>Shirley Scott &amp; The Soul Saxes - Messie Bessie, 3</string>
       <string>Al Green - Standing In The Rain, 3</string>
+      <string>Beastie Boys - Song For Junior, 3</string>
       <string>Howard Roberts - One Note Samba, 2</string>
       <string>Michael Longo - Like A Thief In The Night, 2</string>
       <string>Milton Banana - Ladeira Da Preguice, 2</string>
@@ -30211,6 +30366,7 @@
       <string>Toots &amp; The Maytals - 54, 2</string>
       <string>Joăo Gilberto - De Conversa Em Conversa, 2</string>
       <string>The  Dynamics - Whole Lotta Love, 2</string>
+      <string>Rancid - Time Bomb, 2</string>
       <string>Tamba Trio - Mas Que Nada, 0</string>
       <string>The 3 Sounds - Repeat After Me, 0</string>
     </MixRankings>
@@ -32486,6 +32642,7 @@
       <string>Ernest Ranglin - Satta Massagana, 2</string>
       <string>Dionne Warwick - Do You Know The Way To San Jose, 2</string>
       <string>King Tubby - Black Lash, 2</string>
+      <string>Rancid - Time Bomb, 2</string>
       <string>Billy Wade &amp; The 3 Degrees - Tear It Up (Part 2), 0</string>
       <string>Gloria Jones - Tainted Love, 0</string>
       <string>Jorge Ben - País Tropical, 0</string>
@@ -32535,6 +32692,7 @@
       <string>Frank Pleyer - Sally, 2</string>
       <string>Roy Ayers - Everybody Loves The Sunshine, 2</string>
       <string>Ernest Ranglin - 54-46 (Was My Number), 2</string>
+      <string>Rancid - Time Bomb, 2</string>
       <string>Althea &amp; Donna - Uptown Top Ranking, 0</string>
       <string>Billy Wade &amp; The 3 Degrees - Tear It Up (Part 2), 0</string>
       <string>Gal Costa &amp; Caetano Veloso - Remelexo, 0</string>
@@ -32636,6 +32794,7 @@
       <string>King Tubby - The Battle Axe Dub, 2</string>
       <string>King Tubby - Dub Ites Green &amp; Gold, 2</string>
       <string>Toots &amp; The Maytals - 54, 2</string>
+      <string>Rancid - Time Bomb, 2</string>
       <string>King Tubby - Tubby Get Smart, 0</string>
     </MixRankings>
   </TrackMix>
@@ -32698,6 +32857,10 @@
       <string>RJD2 - Here's What's Left, 0</string>
       <string>Naughty By Nature - Feel Me Flow (Instrumental), 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Smokey Robinson &amp; The Miracles - Deck The Halls</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Smokey Robinson &amp; The Miracles - Jingle Bells</Track>
@@ -33904,6 +34067,7 @@
       <string>Ronny Jordan Meets DJ Krush - So What! (Tuff 'n' Smooth Mix), 3</string>
       <string>Sergio Mendes &amp; Brasil 66 - Batucada, 3</string>
       <string>Osmar Milito - Rita Jeep, 3</string>
+      <string>Howard Roberts - One Note Samba, 3</string>
       <string>Greyboy - Whirlwind, 2</string>
       <string>Nightmares On Wax - You Wish, 2</string>
       <string>Tim Maia - No Caminho Do Bem, 2</string>
@@ -33923,6 +34087,7 @@
       <string>Jorge Ben - Pulo Pulo, 2</string>
       <string>Banda Black Rio - Mr. Funky Samba, 2</string>
       <string>The Herbaliser - Opening Credits, 2</string>
+      <string>Greyboy - On The Strip, 2</string>
       <string>The Herbaliser - What You Asked For, 0</string>
       <string>James Brown - Funky Drummer, 0</string>
       <string>Xanadu &amp; Sweet Lady - Rapper´s Delight, 0</string>
@@ -34083,6 +34248,7 @@
     <Track>Stan Getz &amp; Laurindo Almeida - Menina Moca</Track>
     <MixRankings>
       <string>Rubinho E Mauro Assumpcao - Ta Tudo Ai, 4</string>
+      <string>Billy Brooks - Forty Days, 4</string>
       <string>Cannonball Adderley - Minha Saudades, 3</string>
       <string>Breakestra - How Do You Really Feel?, 3</string>
       <string>Beastie Boys - Hey Ladies (Instrumental), 3</string>
@@ -34097,10 +34263,12 @@
       <string>Astrud Gilberto - A Felicidade, 2</string>
       <string>Beastie Boys - Shake Your Rump (Instrumental), 2</string>
       <string>Otis Redding - (Sittin' On) The Dock Of The Bay, 2</string>
+      <string>Young Holt Unlimited - The Creeper, 2</string>
       <string>Grant Green - The Final Comedown, 0</string>
       <string>Reuben Wilson - Inner City Blues, 0</string>
       <string>Lou Donaldson - Who's Making Love?, 0</string>
       <string>Sergio Mendes &amp; Brasil 66 - Batucada, 0</string>
+      <string>El Michels Affair - Run Fay Run, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -34818,6 +34986,7 @@
       <string>Ernest Ranglin - Satta Massagana, 2</string>
       <string>Pharrell Williams - Happy, 2</string>
       <string>King Tubby - The Battle Axe Dub, 2</string>
+      <string>Rancid - Time Bomb, 2</string>
       <string>Althea &amp; Donna - Uptown Top Ranking, 0</string>
       <string>Betty Wright - Clean Up Woman, 0</string>
       <string>Billy Wade &amp; The 3 Degrees - Tear It Up (Part 2), 0</string>
@@ -34910,6 +35079,7 @@
       <string>Althea &amp; Donna - Uptown Top Ranking, 2</string>
       <string>Glen Brown and King Tubby - Lambs Bread Dubwise, 2</string>
       <string>Lennie Hibbert - Real Hot (RB Edit), 2</string>
+      <string>Rancid - Time Bomb, 2</string>
       <string>The Skatalites - Swing Easy, 0</string>
       <string>The Bamboos - Like Tears In Rain, 0</string>
       <string>Betty Harris - Break In The Road (feat. The Meters), 0</string>
@@ -34939,6 +35109,8 @@
       <string>Dionne Warwick - I Say A Little Prayer, 3</string>
       <string>Massive Attack - Teardrop, 3</string>
       <string>Lennie Hibbert - Real Hot (RB Edit), 3</string>
+      <string>Frank Pleyer - Sally, 3</string>
+      <string>Jorge Ben - Quero Esquecer Voce, 3</string>
       <string>Astrud Gilberto &amp; Antonio Carlos Jobim - Agua de Beber, 2</string>
       <string>Cortex - Troupeau Bleu, 2</string>
       <string>Ernest Ranglin - Satta Massagana, 2</string>
@@ -34979,6 +35151,10 @@
       <string>Brother Jack McDuff - Oblighetto, 0</string>
       <string>Breakestra - Gettin' To It, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>The Aggrovators - Christmas Medley</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>The Aggrovators - Santa Claus Dub</Track>
@@ -36440,6 +36616,7 @@
       <string>Bob Marley - Brand New Second Hand, 2</string>
       <string>KC White - No No No, 0</string>
       <string>Glen Brown and King Tubby - Assack Lawn No. 1 Dub (Version One) (Version 1), 0</string>
+      <string>Wes Montgomery - Eleanor Rigby, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -38470,9 +38647,12 @@
       <string>The Casualties of Jazz - N.I.B., 3</string>
       <string>The Gaturs - Cold Bear, 3</string>
       <string>Naughty By Nature - Feel Me Flow (Instrumental), 3</string>
+      <string>The New Mastersounds - Forgiveness, 3</string>
+      <string>Stan Getz &amp; Laurindo Almeida - Menina Moca, 3</string>
       <string>Dizzy Gillespie - Summertime, 2</string>
       <string>DJ Nu Mark - Comin' Thru (feat. Chali 2na) (Instrumental) (RB Edit), 2</string>
       <string>John Cameron - Swamp Fever, 2</string>
+      <string>Eddie Russ - Lope Song, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -38594,6 +38774,8 @@
       <string>Greyboy - Lite Bake, 3</string>
       <string>Lou Donaldson - Ode To Billy Joe, 3</string>
       <string>The New Mastersounds - Colorado Sun (Jesse's Backyard), 3</string>
+      <string>Greyboy - Grey Royale, 3</string>
+      <string>Monty Alexander - Inner City Blues, 3</string>
       <string>Elzhi &amp; Will Sessions - The World Is Yours (Instrumental), 2</string>
       <string>Jorge Ben - O Namorado Da Viúva, 0</string>
     </MixRankings>
@@ -39866,6 +40048,7 @@
   <TrackMix>
     <Track>The Sure Fire Soul Ensemble - City Heights</Track>
     <MixRankings>
+      <string>Wanda Sá - So Danço Samba (I Only Dance Samba), 3</string>
       <string>Jean Knight - Mr. Big Stuff, 0</string>
       <string>John Legend &amp; The Roots - Compared to What, 0</string>
       <string>Donald Byrd - Places and Spaces, 0</string>
@@ -40952,6 +41135,7 @@
       <string>RJD2 - Ghostwriter, 3</string>
       <string>Jackie Mittoo - Get Up And Get It, 3</string>
       <string>Fela Soul - Still Ego Trippin' (Instrumental), 3</string>
+      <string>Wanda Sá - So Danço Samba (I Only Dance Samba), 3</string>
       <string>Greyboy - Outerlude, 2</string>
       <string>Mandrake Som - Berimbau, 2</string>
       <string>A Tribe Called Quest - Can I Kick It, 2</string>
@@ -42111,6 +42295,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Unknown Artist - Dupatta Tera Nau Rang Da</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Unknown Artist - Hark The Herald Angels Sing</Track>
     <MixRankings>
       <string>Wain Nelson - Santa Claus, 4</string>
@@ -42699,6 +42887,7 @@
       <string>Gilberto Gil And Caetano Veloso - Bat Macumba, 2</string>
       <string>Sambas de Enredo - Imperatriz, 2</string>
       <string>Jorge Ben - Força Bruta, 2</string>
+      <string>Wes Montgomery - Eleanor Rigby, 2</string>
       <string>Herbie Hancock - Bring Down The Birds, 0</string>
       <string>The Marvels - Forget About That Mess (Part 2), 0</string>
       <string>Big Ella - Too Hot To Hold, 0</string>
@@ -42712,6 +42901,13 @@
       <string>Tito Puente - Pa Los Rumberos, 0</string>
       <string>Jack Costanzo and His Afro Cuban Band - Abaniquito, 0</string>
       <string>Sambas de Enredo - Unidos de Lucas, 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Wanda Sá - So Danço Samba (I Only Dance Samba)</Track>
+    <MixRankings>
+      <string>Tom Scott - Sneakin' in the Back, 3</string>
+      <string>Donald Byrd - Weasil, 3</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -42729,6 +42925,7 @@
       <string>The New Mastersounds - Spooky, 4</string>
       <string>Jurassic 5 - Improvise (Instrumental), 4</string>
       <string>Otis Redding - (Sittin' On) The Dock Of The Bay, 4</string>
+      <string>Young Holt Unlimited - Rubber Lips, 4</string>
       <string>El Michels Affair - Run Fay Run, 3</string>
       <string>Howard Roberts - One Note Samba, 3</string>
       <string>The New Mastersounds - Miracles, 3</string>
@@ -42736,6 +42933,7 @@
       <string>The U.M.Cs - One to Grow On, 3</string>
       <string>John Cameron - Swamp Fever, 3</string>
       <string>Chico Buarque - Samba de Orly, 3</string>
+      <string>Cal Tjader - Tanya, 3</string>
       <string>The 3 Sounds - Your Love Is Too Much, 2</string>
       <string>Tim Maia - No Caminho Do Bem, 2</string>
       <string>The J.B.'s - Hot Pants Road, 2</string>
@@ -42767,6 +42965,7 @@
       <string>Willie Bobo - Grazing in the Grass, 2</string>
       <string>Wes Montgomery - Eleanor Rigby, 2</string>
       <string>Yabby You - Honey Dub (King Tubby's Version), 2</string>
+      <string>The Dave Brubeck Quartet - Take Five, 2</string>
       <string>Wanda de Sah &amp; The Sergio Mendes Trio - Reza, 0</string>
       <string>Roslyn Sweat &amp; The Paragons - Blackbird, 0</string>
       <string>The Herbaliser - Mr. Chombee Has The Flaw, 0</string>
@@ -42776,13 +42975,13 @@
     <Track>Wes Montgomery - Eleanor Rigby</Track>
     <MixRankings>
       <string>Peter Bjorn And John - Young Folks (feat. Victoria Bergsman), 4</string>
+      <string>Cal Tjader - Soul Sauce (Guachi Guaro), 4</string>
       <string>The Skatalites - James Bond Theme, 3</string>
       <string>Soopasoul - Swing Down (Instrumental), 3</string>
       <string>Willie Bobo - Grazing in the Grass, 3</string>
       <string>Ernest Ranglin - Surfin', 3</string>
       <string>Stan Getz &amp; Laurindo Almeida - Corcovado, 3</string>
       <string>Wes Montgomery - California Nights, 3</string>
-      <string>Cal Tjader - Soul Sauce (Guachi Guaro), 3</string>
       <string>Jorge Ben - Força Bruta, 2</string>
       <string>Sharon Jones &amp; The Dap Kings - Stranger To My Happiness, 2</string>
       <string>Al Escobar - Tighten Up, 2</string>
@@ -42791,12 +42990,16 @@
       <string>The Revolutionaries - Killer Dub, 2</string>
       <string>Ray Bryant - Cool Struttin', 2</string>
       <string>Elis Regina - Acuas de Marco, 2</string>
+      <string>Cal Tjader - Cuchy Frito Man, 2</string>
+      <string>Wes Montgomery - Sunny, 2</string>
+      <string>The Dave Brubeck Quartet - Take Five, 2</string>
       <string>Burning Spear - I and I Survive (Slavery Days), 0</string>
       <string>Sambas de Enredo - Unidos de Lucas, 0</string>
       <string>Lee 'Scratch' Perry and King Tubby - Three Blind Mice, 0</string>
       <string>The Bamboos - Typhoon, 0</string>
       <string>James Last - Let The Sunshine In, 0</string>
       <string>Peggy Lee - Fever, 0</string>
+      <string>Wanda de Sah &amp; The Sergio Mendes Trio - Reza, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -42804,6 +43007,8 @@
     <MixRankings>
       <string>Bobbi Humphrey - Harlem River Drive, 4</string>
       <string>Ernest Ranglin - Love and Happiness, 4</string>
+      <string>Young Holt Unlimited - Rubber Lips, 4</string>
+      <string>Dizzy Gillespie - One Note Samba, 4</string>
       <string>Astrud Gilberto - Gingele, 3</string>
       <string>Greyboy - The Real, 3</string>
       <string>Young Holt Unlimited - The Creeper, 3</string>
@@ -42863,6 +43068,7 @@
       <string>Randy's Allstars - Mission Impossible, 3</string>
       <string>Blackalicious - Deep In The Jungle (Instrumental), 3</string>
       <string>King Tubby - Zion Gate Dub, 3</string>
+      <string>Gal Costa &amp; Caetano Veloso - Maria Joana, 3</string>
       <string>The 3 Sounds - Sittin' Duck, 2</string>
       <string>The Casualties of Jazz - Sweet Leaf, 2</string>
       <string>The New Mastersounds - 3 On The B, 2</string>
@@ -43017,6 +43223,7 @@
       <string>Wes Montgomery - Eleanor Rigby, 3</string>
       <string>James Last - Let The Sunshine In, 3</string>
       <string>Peggy Lee - Fever, 3</string>
+      <string>Wes Montgomery - Sunny, 3</string>
       <string>Lee 'Scratch' Perry and King Tubby - Three Blind Mice, 2</string>
       <string>The Revolutionaries - Killer Dub, 2</string>
       <string>Stan Getz &amp; Laurindo Almeida - Corcovado, 2</string>
@@ -43025,6 +43232,7 @@
       <string>The Quantic Soul Orchestra - That Goose On My Grave, 2</string>
       <string>Sambas de Enredo - Imperatriz, 2</string>
       <string>Xavier Cugat - Ritmo Tropical, 2</string>
+      <string>The Dave Brubeck Quartet - Take Five, 2</string>
       <string>Burning Spear - I and I Survive (Slavery Days), 0</string>
       <string>Gilberto Gil And Caetano Veloso - Bat Macumba, 0</string>
       <string>KC White - No No No, 0</string>
@@ -43053,12 +43261,14 @@
       <string>The Maytals - Night and Day, 3</string>
       <string>King Tubby - Psalms of Dub, 3</string>
       <string>Pharrell Williams - Happy (Cousin Cole Reggae Mix), 3</string>
+      <string>Gal Costa &amp; Caetano Veloso - Maria Joana, 3</string>
       <string>Howard Roberts - Triste, 2</string>
       <string>The Casualties of Jazz - Sweet Leaf, 2</string>
       <string>Wes Montgomery - California Nights, 2</string>
       <string>King Tubby - Clash of Steel, 2</string>
       <string>Prince Fatty - Milk and Honey In My Dub, 2</string>
       <string>Gregory Isaacs - Night Nurse (Kruder and Dorfmeister Session), 2</string>
+      <string>Jorge Ben - Por Causa de Voce Menina, 2</string>
       <string>Jorge Ben - Menina Bonita Nao Chora, 0</string>
       <string>Bob Marley - Brand New Second Hand, 0</string>
     </MixRankings>
@@ -43503,6 +43713,10 @@
       <string>Gilberto Gil - Roda, 4</string>
       <string>Barry White - Satin Soul, 4</string>
       <string>Brentford Allstars - Greedy G, 4</string>
+      <string>Dizzy Gillespie - Matrix, 4</string>
+      <string>Stan Getz &amp; Astrud Gilberto - Eu E Voce (Me And You) (Live), 4</string>
+      <string>Greyboy - On The Strip, 4</string>
+      <string>Wes Montgomery - Four on Six, 4</string>
       <string>Wes Montgomery - Bumpin On Sunset, 3</string>
       <string>Young Holt Unlimited - The Creeper, 3</string>
       <string>The Herbaliser - Worldwide Connected, 3</string>
@@ -43526,6 +43740,7 @@
       <string>Beastie Boys - Shake Your Rump (Instrumental), 2</string>
       <string>Donald Byrd - Think Twice, 2</string>
       <string>Nightmares On Wax - Brothers On The Slide Dub, 2</string>
+      <string>Reuben Wilson - Inner City Blues, 2</string>
       <string>Xanadu &amp; Sweet Lady - Rapper´s Delight, 0</string>
       <string>Thievery Corporation - Focus On Sight, 0</string>
       <string>Jurassic 5 - Canto De Ossanha (Instrumental), 0</string>
@@ -43539,6 +43754,9 @@
       <string>Ernest Ranglin - Love and Happiness, 3</string>
       <string>The Casualties of Jazz - N.I.B., 3</string>
       <string>The J.B.'s - (It's Not the Express) It's the J.B.'s Monaurail, 3</string>
+      <string>Stan Getz &amp; Laurindo Almeida - Menina Moca, 2</string>
+      <string>Astrud Gilberto - Take It Easy, My Brother Charlie, 2</string>
+      <string>Wes Montgomery - Bumpin On Sunset, 2</string>
       <string>Greyboy - Outerlude, 0</string>
     </MixRankings>
   </TrackMix>
