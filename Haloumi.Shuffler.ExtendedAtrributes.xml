@@ -3762,7 +3762,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Stan Getz &amp; Laurindo Almeida - Menina Moca</Track>
-    <Attributes>Duration=342.426666666667;EndBPM=106.3770846030252;FadeIn=0.411;FadeInLengthInSeconds=2.376;FadeOut=200.559;FadeOutLengthInSeconds=18.049;Key=Em;Rank=3;StartBPM=101.010101010101;StartLoopCount=4;</Attributes>
+    <Attributes>Duration=342.427;EndBPM=106.377;FadeIn=0.411;FadeInLengthInSeconds=2.376;FadeOut=200.559;FadeOutLengthInSeconds=9.024;Key=Em;Rank=3;SkipLengthInSeconds=63.683;SkipStart=73.870;StartBPM=101.010;StartLoopCount=4;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Stan Getz &amp; Laurindo Almeida - Samba Da Sahra</Track>
