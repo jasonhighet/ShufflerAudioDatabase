@@ -1298,7 +1298,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Eddie Russ - Lope Song</Track>
-    <Attributes>Duration=397.466666666667;EndBPM=103.059581320451;FadeIn=8.374;FadeInLengthInSeconds=2.387;FadeOut=191.558;FadeOutLengthInSeconds=9.315;Key=Em;Rank=2;SkipLengthInSeconds=56.862;SkipStart=92.483;StartBPM=100.544616673649;StartLoopCount=4;</Attributes>
+    <Attributes>Duration=397.466666666667;EndBPM=103.059581320451;FadeIn=8.374;FadeInLengthInSeconds=2.387;FadeOut=191.558;FadeOutLengthInSeconds=9.315;Key=Em;Rank=3;SkipLengthInSeconds=56.862;SkipStart=92.483;StartBPM=100.544616673649;StartLoopCount=4;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Edson Frederico - Bobeira</Track>
@@ -1306,7 +1306,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>El Michels Affair - C.R.E.A.M.</Track>
-    <Attributes>Duration=171.96;EndBPM=97.1266693646297;EndLoopCount=2;FadeIn=19.829;FadeInLengthInSeconds=19.782;FadeOut=128.842;FadeOutLengthInSeconds=9.884;Key=Gbm;Rank=3;StartBPM=97.057931452836;</Attributes>
+    <Attributes>Duration=171.960;EndBPM=97.127;EndLoopCount=2;FadeIn=19.829;FadeInLengthInSeconds=19.782;FadeOut=128.842;FadeOutLengthInSeconds=9.884;Key=Gbm;PreFadeInPosition=19.495;PreFadeInStartVolume=20;Rank=3;StartBPM=97.058;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>El Michels Affair - Criminology</Track>
@@ -1474,7 +1474,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Gal Costa &amp; Caetano Veloso - Maria Joana</Track>
-    <Attributes>Duration=104.945;EndBPM=77.7957860615885;FadeIn=25.107;FadeInLengthInSeconds=6.352;FadeOut=93.221;FadeOutLengthInSeconds=6.170;Key=G;PreFadeInPosition=21.703;PreFadeInStartVolume=50;Rank=3;StartBPM=75.566750629723;StartLoopCount=1;</Attributes>
+    <Attributes>Duration=104.945;EndBPM=77.652;FadeIn=25.107;FadeInLengthInSeconds=6.352;FadeOut=93.223;FadeOutLengthInSeconds=6.181;Key=G;PreFadeInPosition=21.703;PreFadeInStartVolume=50;Rank=3;StartBPM=75.567;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Gal Costa &amp; Caetano Veloso - Remelexo</Track>
@@ -1574,7 +1574,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Greyboy - On The Strip</Track>
-    <Attributes>Duration=342.387;EndBPM=103.0042918454936;FadeIn=2.444;FadeInLengthInSeconds=2.339;FadeOut=240.120;FadeOutLengthInSeconds=18.640;Key=Gm;Rank=3;SkipLengthInSeconds=55.900;SkipStart=109.343;StartBPM=102.607952116289;StartLoopCount=3;</Attributes>
+    <Attributes>Duration=342.387;EndBPM=103.004;FadeIn=2.444;FadeInLengthInSeconds=2.339;FadeOut=240.120;FadeOutLengthInSeconds=18.640;Key=Gm;Rank=3;SkipLengthInSeconds=111.828;SkipStart=53.728;StartBPM=102.608;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Greyboy - Outerlude</Track>
@@ -3174,7 +3174,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Reuben Wilson - Inner City Blues</Track>
-    <Attributes>Duration=285.787;EndBPM=111.0596945858398;FadeIn=9.225;FadeInLengthInSeconds=8.710;FadeOut=168.772;FadeOutLengthInSeconds=17.288;Key=Gm;Rank=3;StartBPM=110.218140068886;</Attributes>
+    <Attributes>Duration=285.787;EndBPM=113.178;EndLoopCount=4;FadeIn=9.225;FadeInLengthInSeconds=8.710;FadeOut=168.772;FadeOutLengthInSeconds=4.241;Key=Gm;Rank=3;StartBPM=110.218;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Richard "Groove" Holmes - Grooving With Mr. G</Track>
@@ -3762,7 +3762,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Stan Getz &amp; Laurindo Almeida - Menina Moca</Track>
-    <Attributes>Duration=342.427;EndBPM=106.377;FadeIn=0.411;FadeInLengthInSeconds=2.376;FadeOut=200.559;FadeOutLengthInSeconds=9.024;Key=Em;Rank=3;SkipLengthInSeconds=63.683;SkipStart=73.870;StartBPM=101.010;StartLoopCount=4;</Attributes>
+    <Attributes>Duration=342.427;EndBPM=105.893;EndLoopCount=2;FadeIn=0.411;FadeInLengthInSeconds=2.376;FadeOut=200.554;FadeOutLengthInSeconds=9.066;Key=Em;Rank=3;SkipLengthInSeconds=63.769;SkipStart=73.870;StartBPM=101.010;StartLoopCount=4;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Stan Getz &amp; Laurindo Almeida - Samba Da Sahra</Track>

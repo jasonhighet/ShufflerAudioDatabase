@@ -2551,21 +2551,21 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
       <ExtendedMixAttributes>
-        <TrackDescription>Jimmy Smith &amp; Wes Mongomery - OGD (Road Song)</TrackDescription>
-        <FadeLength>13.045102040816326</FadeLength>
-        <FadeEnd>43590480</FadeEnd>
-        <FadeEndLoop>2</FadeEndLoop>
-        <FadeEndVolume>0.056</FadeEndVolume>
-        <PowerDownOnEnd>false</PowerDownOnEnd>
-        <ExtendedFadeType>Default</ExtendedFadeType>
-        <SampleTriggers />
-      </ExtendedMixAttributes>
-      <ExtendedMixAttributes>
         <TrackDescription>The 3 Sounds - Sittin' Duck</TrackDescription>
         <FadeLength>13.004489795918367</FadeLength>
         <FadeEnd>43500080</FadeEnd>
         <FadeEndLoop>2</FadeEndLoop>
         <FadeEndVolume>0.032</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Jimmy Smith &amp; Wes Mongomery - OGD (Road Song)</TrackDescription>
+        <FadeLength>15.583696145124717</FadeLength>
+        <FadeEnd>44542912</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.048</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -3567,10 +3567,10 @@
       </ExtendedMixAttributes>
       <ExtendedMixAttributes>
         <TrackDescription>Cal Tjader - Tanya</TrackDescription>
-        <FadeLength>14.743333333333334</FadeLength>
-        <FadeEnd>70103928</FadeEnd>
+        <FadeLength>11.565124716553289</FadeLength>
+        <FadeEnd>69012712</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
-        <FadeEndVolume>0.008</FadeEndVolume>
+        <FadeEndVolume>0</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -4001,6 +4001,16 @@
         <FadeEnd>115468456</FadeEnd>
         <FadeEndLoop>2</FadeEndLoop>
         <FadeEndVolume>0.56</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Duke Pearson - Ground Hog</TrackDescription>
+        <FadeLength>15.902834467120181</FadeLength>
+        <FadeEnd>115398352</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.09581819</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -5552,6 +5562,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Willie Bobo - Grazing in the Grass</TrackDescription>
+        <FadeLength>11.8418820861678</FadeLength>
+        <FadeEnd>45988704</FadeEnd>
+        <FadeEndLoop>3</FadeEndLoop>
+        <FadeEndVolume>0.032</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -5626,6 +5646,16 @@
         <FadeEnd>60950824</FadeEnd>
         <FadeEndLoop>3</FadeEndLoop>
         <FadeEndVolume>0.024</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Reuben Wilson - Inner City Blues</TrackDescription>
+        <FadeLength>10.30702947845805</FadeLength>
+        <FadeEnd>61478784</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.128</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -7471,6 +7501,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Greyboy - On The Strip</TrackDescription>
+        <FadeLength>19.52390022675737</FadeLength>
+        <FadeEnd>48591032</FadeEnd>
+        <FadeEndLoop>4</FadeEndLoop>
+        <FadeEndVolume>0.07986301</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -8313,6 +8353,24 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Duke Pearson - Ground Hog</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Beastie Boys - Song For Junior</TrackDescription>
+        <FadeLength>16.826961451247165</FadeLength>
+        <FadeEnd>53595608</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.07967213</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Duke Pearson - Sandalia Dela</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -8333,6 +8391,16 @@
         <FadeEnd>49042352</FadeEnd>
         <FadeEndLoop>2</FadeEndLoop>
         <FadeEndVolume>0.3666471</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>El Michels Affair - Run Fay Run</TrackDescription>
+        <FadeLength>17.624920634920635</FadeLength>
+        <FadeEnd>48979672</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.3353823</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -8639,6 +8707,13 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>El Michels Affair - C.R.E.A.M.</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>El Michels Affair - Criminology</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -8812,6 +8887,16 @@
         <FadeEndLoop>1</FadeEndLoop>
         <FadeEndVolume>0.176</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Young Holt Unlimited - Rubber Lips</TrackDescription>
+        <FadeLength>9.2824036281179136</FadeLength>
+        <FadeEnd>54845408</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.2235882</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -9767,6 +9852,13 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Gal Costa &amp; Caetano Veloso - Maria Joana</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Gang Starr - Full Clip (Instrumental) (RB Edit)</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -10325,6 +10417,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Dorothy Ashby - Come Live with Me</TrackDescription>
+        <FadeLength>29.36326530612245</FadeLength>
+        <FadeEnd>52364072</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.08</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -10437,6 +10539,16 @@
         <FadeEnd>91363608</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.104</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Eddie Russ - Lope Song</TrackDescription>
+        <FadeLength>14.547120181405896</FadeLength>
+        <FadeEnd>89720464</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.02391667</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -13649,6 +13761,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Willie Bobo - Lisa</TrackDescription>
+        <FadeLength>12.765578231292517</FadeLength>
+        <FadeEnd>60359952</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.09587368</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -13804,6 +13926,24 @@
         <FadeEndLoop>4</FadeEndLoop>
         <FadeEndVolume>0.08</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Jorge Ben - Balanca Pema</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Greyboy - Grey Royale</TrackDescription>
+        <FadeLength>8.3229024943310659</FadeLength>
+        <FadeEnd>30026192</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.8</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -14220,6 +14360,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Stan Getz &amp; Astrud Gilberto - One Note Samba (Live)</TrackDescription>
+        <FadeLength>14.425918367346938</FadeLength>
+        <FadeEnd>48407240</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -14323,6 +14473,16 @@
         <FadeEndLoop>1</FadeEndLoop>
         <FadeEndVolume>0.632</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The 3 Sounds - Sittin' Duck</TrackDescription>
+        <FadeLength>12.627324263038549</FadeLength>
+        <FadeEnd>40506336</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.2713061</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -18611,6 +18771,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Eddie Russ - Lope Song</TrackDescription>
+        <FadeLength>13.046712018140589</FadeLength>
+        <FadeEnd>49615600</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.008</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -21290,6 +21460,24 @@
     <TrackFXTriggers />
     <SampleTriggers />
     <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Reuben Wilson - Inner City Blues</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>El Michels Affair - Run Fay Run</TrackDescription>
+        <FadeLength>17.645510204081631</FadeLength>
+        <FadeEnd>59595448</FadeEnd>
+        <FadeEndLoop>4</FadeEndLoop>
+        <FadeEndVolume>0.3427164</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -24439,6 +24627,42 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Stan Getz &amp; Astrud Gilberto - Eu E Voce (Me And You) (Live)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Dizzy Gillespie - Matrix</TrackDescription>
+        <FadeLength>11.744557823129252</FadeLength>
+        <FadeEnd>53271304</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.136</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Stan Getz &amp; Astrud Gilberto - One Note Samba (Live)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Dorothy Ashby - Come Live with Me</TrackDescription>
+        <FadeLength>11.610362811791383</FadeLength>
+        <FadeEnd>69718616</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2233846</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Stan Getz &amp; Laurindo Almeida - Corcovado</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -24488,6 +24712,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.08</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Billy Brooks - Forty Days</TrackDescription>
+        <FadeLength>16.986394557823129</FadeLength>
+        <FadeEnd>73490912</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.3667222</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -30132,6 +30366,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Wes Montgomery - Sunny</TrackDescription>
+        <FadeLength>17.545759637188208</FadeLength>
+        <FadeEnd>44163552</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.008</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -30327,6 +30571,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.10387</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Jorge Ben - Quero Esquecer Voce</TrackDescription>
+        <FadeLength>12.282811791383219</FadeLength>
+        <FadeEnd>66286512</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.032</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -30912,6 +31166,16 @@
         <FadeEnd>54229968</FadeEnd>
         <FadeEndLoop>22</FadeEndLoop>
         <FadeEndVolume>0.128</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Stan Getz &amp; Astrud Gilberto - Eu E Voce (Me And You) (Live)</TrackDescription>
+        <FadeLength>13.642018140589569</FadeLength>
+        <FadeEnd>54247880</FadeEnd>
+        <FadeEndLoop>12</FadeEndLoop>
+        <FadeEndVolume>0.056</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
