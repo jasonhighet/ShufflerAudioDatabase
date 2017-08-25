@@ -17463,6 +17463,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Marcia Aitken - I'm Still In Love</TrackDescription>
+        <FadeLength>24.05</FadeLength>
+        <FadeEnd>44510344</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1595876</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -18060,7 +18070,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Marcia Aitken - I'm Still In Love</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>48.23909297052154</Start>
+        <Length>0.759478458049891</Length>
+        <DelayNotes>0.125</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
