@@ -638,7 +638,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Bob Marley - Brand New Second Hand</Track>
-    <Attributes>Duration=192.34;EndBPM=70.3399765533412;FadeIn=1.338;FadeInLengthInSeconds=6.796;FadeOut=144.305;FadeOutLengthInSeconds=13.648;Key=A;Rank=3;StartBPM=70.629782224838;StartLoopCount=2;</Attributes>
+    <Attributes>Duration=192.340;EndBPM=70.340;EndLoopCount=2;FadeIn=1.338;FadeInLengthInSeconds=6.796;FadeOut=144.305;FadeOutLengthInSeconds=13.648;Key=A;Rank=3;StartBPM=70.630;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Bob Marley - Easy Skanking</Track>

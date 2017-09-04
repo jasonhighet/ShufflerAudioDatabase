@@ -4504,6 +4504,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Roslyn Sweat &amp; The Paragons - Blackbird</TrackDescription>
+        <FadeLength>13.34920634920635</FadeLength>
+        <FadeEnd>50932184</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.1995283</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -14721,6 +14731,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Damu the Fudgemunk - Fabrega's Discotecas</TrackDescription>
+        <FadeLength>14.567210884353742</FadeLength>
+        <FadeEnd>51219072</FadeEnd>
+        <FadeEndLoop>3</FadeEndLoop>
+        <FadeEndVolume>0.1993333</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples>
       <TrackSample>
@@ -16545,7 +16565,33 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>King Tubby - Dub You Can Feel</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>110.15825396825397</Start>
+        <Length>1.2794557823129225</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>116.98077097505669</Start>
+        <Length>0.80015873015872785</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>126.15755102040816</Start>
+        <Length>0.80126984126984269</Length>
+        <DelayNotes>0.125</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>139.15868480725624</Start>
+        <Length>1.1602494331065714</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>142.04009070294785</Start>
+        <Length>1.4825623582766525</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -16564,6 +16610,16 @@
             <SampleID>Horace Andy - Love Of A Dub Band - Sample1</SampleID>
           </SampleTrigger>
         </SampleTriggers>
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Lennie Hibbert - Real Hot (RB Edit)</TrackDescription>
+        <FadeLength>25.185056689342403</FadeLength>
+        <FadeEnd>59964168</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.319604</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
@@ -20325,6 +20381,16 @@
             <SampleID>Horace Andy - Zion Gate - Fade In</SampleID>
           </SampleTrigger>
         </SampleTriggers>
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>King Tubby - Dub You Can Feel</TrackDescription>
+        <FadeLength>18.507165532879817</FadeLength>
+        <FadeEnd>35376200</FadeEnd>
+        <FadeEndLoop>5</FadeEndLoop>
+        <FadeEndVolume>0.1038713</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
@@ -27537,6 +27603,16 @@
         <ExtendedFadeType>PowerDown</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Willie Bobo &amp; The Bo Gents - Broasted Or Fried</TrackDescription>
+        <FadeLength>19.28625850340136</FadeLength>
+        <FadeEnd>43027576</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1036579</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -29064,6 +29140,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.104</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Jurassic 5 - Freedom (Instrumental)</TrackDescription>
+        <FadeLength>20.961088435374151</FadeLength>
+        <FadeEnd>73855880</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1276049</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
