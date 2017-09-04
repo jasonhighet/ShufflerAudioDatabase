@@ -16591,6 +16591,16 @@
         <Length>1.4825623582766525</Length>
         <DelayNotes>0.25</DelayNotes>
       </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>52.52390022675737</Start>
+        <Length>0.56011337868480382</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>109.89809523809524</Start>
+        <Length>1.5352380952380997</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
     </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
@@ -17779,7 +17789,20 @@
         <FadeEndVolume>0.03989691</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
-        <SampleTriggers />
+        <SampleTriggers>
+          <SampleTrigger>
+            <Start>88.9072335600907</Start>
+            <Length>0.58006802721088491</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>Marcia Aitken - I'm Still In Love - FadeIn</SampleID>
+          </SampleTrigger>
+          <SampleTrigger>
+            <Start>95.0887074829932</Start>
+            <Length>0.41870748299319871</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>Marcia Aitken - I'm Still In Love - FadeIn</SampleID>
+          </SampleTrigger>
+        </SampleTriggers>
       </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
@@ -18140,6 +18163,11 @@
       <TrackFXTrigger>
         <Start>48.23909297052154</Start>
         <Length>0.759478458049891</Length>
+        <DelayNotes>0.125</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>66.866462585034014</Start>
+        <Length>0.57936507936507553</Length>
         <DelayNotes>0.125</DelayNotes>
       </TrackFXTrigger>
     </TrackFXTriggers>
@@ -20335,6 +20363,11 @@
       <TrackFXTrigger>
         <Start>11.647278911564627</Start>
         <Length>1.299863945578231</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>55.996054421768704</Start>
+        <Length>0.86111111111111427</Length>
         <DelayNotes>0.25</DelayNotes>
       </TrackFXTrigger>
     </TrackFXTriggers>
@@ -29706,6 +29739,16 @@
         <FadeEnd>59221088</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.536</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Slickers - Johnny Too Bad</TrackDescription>
+        <FadeLength>5.3427437641723357</FadeLength>
+        <FadeEnd>56888464</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.248</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
