@@ -8145,7 +8145,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Donald Byrd - Think Twice</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>25.953446712018142</Start>
+        <Length>0.57999999999999829</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -24396,6 +24402,16 @@
         <FadeEnd>87561968</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Xanadu &amp; Sweet Lady - Rapper´s Delight</TrackDescription>
+        <FadeLength>10.203514739229025</FadeLength>
+        <FadeEnd>89169912</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.176</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
