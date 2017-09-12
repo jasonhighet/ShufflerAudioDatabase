@@ -6320,6 +6320,24 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Cypress Hill - Loco en el Coco</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Ini Kamoze - Here Comes The Hotstepper</TrackDescription>
+        <FadeLength>9.6051473922902488</FadeLength>
+        <FadeEnd>50016336</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.7986301</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Cypress Hill - Yo Quiero Fumar</Track>
     <TrackFXTriggers>
       <TrackFXTrigger>
@@ -8149,6 +8167,11 @@
       <TrackFXTrigger>
         <Start>25.953446712018142</Start>
         <Length>0.57999999999999829</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>88.249954648526071</Start>
+        <Length>0.4808163265306149</Length>
         <DelayNotes>0.25</DelayNotes>
       </TrackFXTrigger>
     </TrackFXTriggers>
@@ -14391,7 +14414,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Jorge Ben - Pulo Pulo</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>62.403333333333336</Start>
+        <Length>0.81820861678004064</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -25170,6 +25199,24 @@
         <FadeEnd>44951240</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.7760001</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Taggy Matcher - Breathe And Stop</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The J.B.'s - (It's Not the Express) It's the J.B.'s Monaurail</TrackDescription>
+        <FadeLength>9.9204308390022682</FadeLength>
+        <FadeEnd>56774968</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.4384932</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
