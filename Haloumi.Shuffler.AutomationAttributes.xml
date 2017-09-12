@@ -19366,7 +19366,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Naughty By Nature - OPP (Instrumental)</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>0.54412698412698413</Start>
+        <Length>0.27283446712018145</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
