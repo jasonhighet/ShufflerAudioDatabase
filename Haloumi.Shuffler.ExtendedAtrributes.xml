@@ -1438,7 +1438,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Fela Soul - Still Ego Trippin' (Instrumental)</Track>
-    <Attributes>Duration=249.152857142857;EndBPM=98.159509202454;FadeIn=0.043;FadeInLengthInSeconds=9.780;FadeOut=107.669;FadeOutLengthInSeconds=19.560;Key=Bbm;StartBPM=98.159509202454;</Attributes>
+    <Attributes>Duration=249.152857142857;EndBPM=98.159509202454;FadeIn=0.043;FadeInLengthInSeconds=9.780;FadeOut=107.669;FadeOutLengthInSeconds=19.560;Key=Bbm;Rank=4;StartBPM=98.159509202454;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Fela Soul - Trouble In The Water (Instrumental)</Track>
@@ -2098,7 +2098,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>John Holt - Man Next Door (Got To Get Away)</Track>
-    <Attributes>Duration=140.853333333333;EndBPM=87.114337568058;EndLoopCount=4;FadeIn=7.416;FadeInLengthInSeconds=2.770;FadeOut=111.177;FadeOutLengthInSeconds=5.510;Key=Cm;PreFadeInPosition=1.557;PreFadeInStartVolume=25;Rank=3;StartBPM=86.64259927797825;</Attributes>
+    <Attributes>Duration=140.853333333333;EndBPM=87.114337568058;EndLoopCount=4;FadeIn=7.416;FadeInLengthInSeconds=2.770;FadeOut=111.177;FadeOutLengthInSeconds=5.510;Key=Cm;PreFadeInPosition=1.557;PreFadeInStartVolume=25;Rank=4;StartBPM=86.64259927797825;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>John Legend &amp; The Roots - Compared to What</Track>
@@ -2282,7 +2282,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Jurassic 5 - Concrete Schoolyard (Instrumental)</Track>
-    <Attributes>Duration=323.578775510204;EndBPM=89.9355452366329;EndLoopCount=2;FadeIn=4.570;FadeInLengthInSeconds=21.257;FadeOut=164.202;FadeOutLengthInSeconds=10.674;Key=Gm;PreFadeInPosition=2.074;PreFadeInStartVolume=100;Rank=3;SkipLengthInSeconds=53.226;SkipStart=89.698;StartBPM=90.3231876558310;</Attributes>
+    <Attributes>Duration=323.578775510204;EndBPM=89.9355452366329;EndLoopCount=2;FadeIn=4.570;FadeInLengthInSeconds=21.257;FadeOut=164.202;FadeOutLengthInSeconds=10.674;Key=Gm;PreFadeInPosition=2.074;PreFadeInStartVolume=100;Rank=5;SkipLengthInSeconds=53.226;SkipStart=89.698;StartBPM=90.3231876558310;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Jurassic 5 - Freedom (Instrumental)</Track>
@@ -2366,7 +2366,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Jurassic 5 - Unified Rebelution</Track>
-    <Attributes>Duration=272.28;EndBPM=96.1249624511865;EndLoopCount=2;FadeIn=11.244;FadeInLengthInSeconds=19.994;FadeOut=131.165;FadeOutLengthInSeconds=9.987;Key=Gbm;PreFadeInPosition=8.714;PreFadeInStartVolume=50;Rank=3;StartBPM=96.0288086425928;</Attributes>
+    <Attributes>Duration=272.28;EndBPM=96.1249624511865;EndLoopCount=2;FadeIn=11.244;FadeInLengthInSeconds=19.994;FadeOut=131.165;FadeOutLengthInSeconds=9.987;Key=Gbm;PreFadeInPosition=8.714;PreFadeInStartVolume=50;Rank=4;StartBPM=96.0288086425928;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Jurassic 5 - W.O.E. Is Me (World Of Entertainment)</Track>

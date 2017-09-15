@@ -626,6 +626,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Nightmares On Wax - Keep On (feat. De La Soul) (86 Init Mix)</TrackDescription>
+        <FadeLength>10.540566893424037</FadeLength>
+        <FadeEnd>19780104</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.303519</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -998,6 +1008,26 @@
         <FadeEnd>58310576</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.5741772</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>RZA - You Can't Stop Me Now</TrackDescription>
+        <FadeLength>21.363083900226759</FadeLength>
+        <FadeEnd>61901688</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1275949</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Fela Soul - Still Ego Trippin' (Instrumental)</TrackDescription>
+        <FadeLength>9.861541950113379</FadeLength>
+        <FadeEnd>58301344</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3674177</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -1562,7 +1592,28 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Al Green - Love And Happiness</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>74.516530612244892</Start>
+        <Length>1.7199999999999989</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>119.43653061224489</Start>
+        <Length>1</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>192.25226757369615</Start>
+        <Length>0.68000000000000682</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>202.03226757369615</Start>
+        <Length>0.5</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -1957,6 +2008,11 @@
         <Length>0.91997732426301582</Length>
         <DelayNotes>0.25</DelayNotes>
       </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>202.31120181405896</Start>
+        <Length>0.40011337868480723</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
     </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
@@ -1987,6 +2043,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.8</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Jimmy Cliff - Ruby Soho</TrackDescription>
+        <FadeLength>11.544149659863946</FadeLength>
+        <FadeEnd>76011264</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2236989</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -2203,6 +2269,11 @@
         <Length>1.5444302721088434</Length>
         <DelayNotes>0.0625</DelayNotes>
       </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>114.32154195011339</Start>
+        <Length>2.5799999999999983</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
     </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
@@ -2234,7 +2305,50 @@
         <FadeEndVolume>0.128</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
-        <SampleTriggers />
+        <SampleTriggers>
+          <SampleTrigger>
+            <Start>77.791541950113384</Start>
+            <Length>0.40999999999999659</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>Panjabi MC - Mundiya Tu Bach Ke - FadeIn</SampleID>
+          </SampleTrigger>
+          <SampleTrigger>
+            <Start>87.486371882086175</Start>
+            <Length>0.5</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>Panjabi MC - Mundiya Tu Bach Ke - FadeIn</SampleID>
+          </SampleTrigger>
+          <SampleTrigger>
+            <Start>97.206371882086174</Start>
+            <Length>2.2199999999999989</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>Panjabi MC - Mundiya Tu Bach Ke - FadeIn</SampleID>
+          </SampleTrigger>
+          <SampleTrigger>
+            <Start>106.90637188208616</Start>
+            <Length>2.3400000000000034</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>Panjabi MC - Mundiya Tu Bach Ke - FadeIn</SampleID>
+          </SampleTrigger>
+          <SampleTrigger>
+            <Start>116.56637188208617</Start>
+            <Length>0.8399999999999892</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>Panjabi MC - Mundiya Tu Bach Ke - FadeOut</SampleID>
+          </SampleTrigger>
+          <SampleTrigger>
+            <Start>135.98637188208616</Start>
+            <Length>2.0400000000000205</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>Panjabi MC - Mundiya Tu Bach Ke - FadeIn</SampleID>
+          </SampleTrigger>
+          <SampleTrigger>
+            <Start>155.44637188208617</Start>
+            <Length>1.2599999999999909</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>Panjabi MC - Mundiya Tu Bach Ke - FadeIn</SampleID>
+          </SampleTrigger>
+        </SampleTriggers>
       </ExtendedMixAttributes>
       <ExtendedMixAttributes>
         <TrackDescription>Tom Scott - Sneakin' in the Back</TrackDescription>
@@ -3144,9 +3258,26 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Bad Company - Breathe</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>271.08022675736959</Start>
+        <Length>0.73922902494331311</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Black Sun Empire - Battalion</TrackDescription>
+        <FadeLength>20.782426303854876</FadeLength>
+        <FadeEnd>104317312</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3190698</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -4120,14 +4251,36 @@
     <Track>Black Sun Empire - 1800 Contact</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Cybernetika - Anomaly</TrackDescription>
+        <FadeLength>5.5804988662131523</FadeLength>
+        <FadeEnd>99342304</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Black Sun Empire - Battalion</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Black Sun Empire - Breach (The Upbeats Remix)</TrackDescription>
+        <FadeLength>22.085396825396824</FadeLength>
+        <FadeEnd>101546776</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1757442</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -4189,8 +4342,33 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Blackalicious - Rock The Spot (Instrumental)</Track>
-    <TrackFXTriggers />
-    <SampleTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>94.933537414965983</Start>
+        <Length>0.76000000000000512</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
+    <SampleTriggers>
+      <SampleTrigger>
+        <Start>64.953537414966</Start>
+        <Length>0.47999999999998977</Length>
+        <DelayNotes>0.25</DelayNotes>
+        <SampleID>Blackalicious - Rock The Spot (Instrumental) - PreFadeIn</SampleID>
+      </SampleTrigger>
+      <SampleTrigger>
+        <Start>74.533537414965991</Start>
+        <Length>1.7999999999999972</Length>
+        <DelayNotes>0.25</DelayNotes>
+        <SampleID>Blackalicious - Rock The Spot (Instrumental) - PreFadeIn</SampleID>
+      </SampleTrigger>
+      <SampleTrigger>
+        <Start>89.993537414965985</Start>
+        <Length>0.099999999999994316</Length>
+        <DelayNotes>0.25</DelayNotes>
+        <SampleID>Blackalicious - Rock The Spot (Instrumental) - PreFadeIn</SampleID>
+      </SampleTrigger>
+    </SampleTriggers>
     <ExtendedMixes>
       <ExtendedMixAttributes>
         <TrackDescription>Deltron 3030 - Positive Contact</TrackDescription>
@@ -5645,6 +5823,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Gaylettes - Son Of A Preacher Man</TrackDescription>
+        <FadeLength>0.34818594104308392</FadeLength>
+        <FadeEnd>37507288</FadeEnd>
+        <FadeEndLoop>8</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>EchoOut</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -5897,7 +6085,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Charles Bradley - No Time For Dreaming</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>23.670975056689343</Start>
+        <Length>0.82140589569160838</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -5917,6 +6111,16 @@
         <FadeEndLoop>2</FadeEndLoop>
         <FadeEndVolume>0.008</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Quannum Projects - I Changed My Mind (Instrumental)</TrackDescription>
+        <FadeLength>39.083129251700683</FadeLength>
+        <FadeEnd>50520184</FadeEnd>
+        <FadeEndLoop>3</FadeEndLoop>
+        <FadeEndVolume>0.07986486</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -6123,7 +6327,18 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Concord Dawn - Shinkansen</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>221.0992290249433</Start>
+        <Length>0.90024943310658045</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>222.659410430839</Start>
+        <Length>1.0796145124716645</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes />
     <TrackSamples />
@@ -6213,7 +6428,18 @@
     <Track>Cybernetika - Anomaly</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Bad Company - 4 Days</TrackDescription>
+        <FadeLength>16.32267573696145</FadeLength>
+        <FadeEnd>201770408</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1278095</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -6463,12 +6689,28 @@
         <ExtendedFadeType>PowerDown</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>DJ Muggs vs. Sick Jacken - El Barrio</TrackDescription>
+        <FadeLength>5.1675000000000031</FadeLength>
+        <FadeEnd>52824560</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Cypress Hill - Loco en el Coco</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>129.30478458049888</Start>
+        <Length>0.95925170068025523</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -6499,6 +6741,16 @@
         <FadeEndVolume>1</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>PowerDown</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Beatnuts - Off The Books (Instrumental)</TrackDescription>
+        <FadeLength>9.4877097505668928</FadeLength>
+        <FadeEnd>50031320</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.7733425</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -7313,7 +7565,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Deltron 3030 - Positive Contact</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>137.34578231292517</Start>
+        <Length>93.533537414965991</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -7904,6 +8162,26 @@
         <ExtendedFadeType>QuickFade</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Fela Soul - Trouble In The Water (Instrumental)</TrackDescription>
+        <FadeLength>0.32836734693877551</FadeLength>
+        <FadeEnd>52867912</FadeEnd>
+        <FadeEndLoop>8</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>EchoOut</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>A Tribe Called Quest - Ham N Eggs (Instrumental)</TrackDescription>
+        <FadeLength>16.54607709750567</FadeLength>
+        <FadeEnd>55057552</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.032</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -8117,6 +8395,16 @@
         <FadeEnd>44585592</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.12</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>John Cameron - Swamp Fever</TrackDescription>
+        <FadeLength>8.30170068027211</FadeLength>
+        <FadeEnd>40213720</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.5350946</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -9777,6 +10065,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Beatnuts - Get Funky (Instrumental)</TrackDescription>
+        <FadeLength>9.6808616780045345</FadeLength>
+        <FadeEnd>66251384</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3349231</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -9980,7 +10278,33 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Fela Soul - Still Ego Trippin' (Instrumental)</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>19.004535147392289</Start>
+        <Length>0.5400000000000027</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>43.414535147392293</Start>
+        <Length>0.57000000000000028</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>59.904535147392288</Start>
+        <Length>1.3400000000000034</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>86.8245351473923</Start>
+        <Length>0.85999999999999943</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>106.16453514739229</Start>
+        <Length>1.1600000000000108</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -10027,6 +10351,16 @@
         <FadeEnd>95681584</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.3355059</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Nightmares On Wax - Les Nuits (DJ Spinna Mix)</TrackDescription>
+        <FadeLength>31.462721088435373</FadeLength>
+        <FadeEnd>96240856</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.0797647</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -10551,7 +10885,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Grandmaster Flash - The Message (Instrumental)</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>62.412222222222219</Start>
+        <Length>1.2700000000000031</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -10591,6 +10931,16 @@
         <FadeEndLoop>1</FadeEndLoop>
         <FadeEndVolume>0</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Blackalicious - Rock The Spot (Instrumental)</TrackDescription>
+        <FadeLength>19.191541950113379</FadeLength>
+        <FadeEnd>22583392</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.3189189</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -11655,6 +12005,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>King Tubby - Clash of Steel</TrackDescription>
+        <FadeLength>0.40755102040816327</FadeLength>
+        <FadeEnd>40969800</FadeEnd>
+        <FadeEndLoop>8</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>EchoOut</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples>
       <TrackSample>
@@ -12011,6 +12371,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Lee Perry - Jungle Lion</TrackDescription>
+        <FadeLength>9.7282312925170071</FadeLength>
+        <FadeEnd>55895968</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.6309325</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -12043,6 +12413,16 @@
         <FadeEndVolume>0.024</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Prince Fatty - Milk and Honey In My Dub</TrackDescription>
+        <FadeLength>6.4664852607709751</FadeLength>
+        <FadeEnd>52918400</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -14044,6 +14424,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The  Dynamics - Whole Lotta Love</TrackDescription>
+        <FadeLength>21.283877551020407</FadeLength>
+        <FadeEnd>58180472</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.032</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -14353,6 +14743,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Ty - Don't Watch That (Grant Phabao Remix)</TrackDescription>
+        <FadeLength>4.7824943310657595</FadeLength>
+        <FadeEnd>37574432</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -14387,6 +14787,16 @@
         <FadeEnd>39429696</FadeEnd>
         <FadeEndLoop>4</FadeEndLoop>
         <FadeEndVolume>0.08</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Chosen Few - I Love The Way You Love</TrackDescription>
+        <FadeLength>11.562585034013605</FadeLength>
+        <FadeEnd>39283120</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.4387209</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -15250,7 +15660,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Jurassic 5 - Concrete Schoolyard</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>163.3384126984127</Start>
+        <Length>1.1596145124716486</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -15279,6 +15695,16 @@
         <FadeEnd>65257088</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.3429639</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Sharon Jones &amp; The Dap Kings - Be Easy</TrackDescription>
+        <FadeLength>20.973038548752836</FadeLength>
+        <FadeEnd>65589176</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.335494</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -15324,6 +15750,16 @@
         <Length>1.0808616780045313</Length>
         <DelayNotes>0.0625</DelayNotes>
       </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>45.65167800453515</Start>
+        <Length>1.0198185941043079</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>162.73911564625851</Start>
+        <Length>1.4628843537414866</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
     </TrackFXTriggers>
     <SampleTriggers>
       <SampleTrigger>
@@ -15335,6 +15771,12 @@
       <SampleTrigger>
         <Start>73.7438775510204</Start>
         <Length>0.31972789115646094</Length>
+        <DelayNotes>0.25</DelayNotes>
+        <SampleID>Jurassic 5 - Concrete Schoolyard (Instrumental) - FadeIn</SampleID>
+      </SampleTrigger>
+      <SampleTrigger>
+        <Start>73.740090702947839</Start>
+        <Length>1.7047392290249519</Length>
         <DelayNotes>0.25</DelayNotes>
         <SampleID>Jurassic 5 - Concrete Schoolyard (Instrumental) - FadeIn</SampleID>
       </SampleTrigger>
@@ -15378,6 +15820,16 @@
         <FadeEndVolume>0.744</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Nightmares On Wax - Know My Name (Instrumental)</TrackDescription>
+        <FadeLength>5.3369841269841274</FadeLength>
+        <FadeEnd>59813352</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -16162,6 +16614,11 @@
         <Length>0.50006802721088661</Length>
         <DelayNotes>0.25</DelayNotes>
       </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>75.030725623582768</Start>
+        <Length>0.43999999999999773</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
     </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
@@ -16352,6 +16809,16 @@
         <FadeEndVolume>0.544</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Cypress Hill - Latin Thugs (Instrumental)</TrackDescription>
+        <FadeLength>0.31208616780045351</FadeLength>
+        <FadeEnd>46385112</FadeEnd>
+        <FadeEndLoop>8</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>EchoOut</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -16649,6 +17116,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>John Holt - Man Next Door (Got To Get Away)</TrackDescription>
+        <FadeLength>5.655</FadeLength>
+        <FadeEnd>59443264</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples>
       <TrackSample>
@@ -16858,6 +17335,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.104</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Ini Kamoze - World A Music</TrackDescription>
+        <FadeLength>13.064240362811791</FadeLength>
+        <FadeEnd>52184560</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1038738</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -17456,7 +17943,14 @@
         <DelayNotes>0.25</DelayNotes>
       </TrackFXTrigger>
     </TrackFXTriggers>
-    <SampleTriggers />
+    <SampleTriggers>
+      <SampleTrigger>
+        <Start>145.05798185941043</Start>
+        <Length>0.41999999999998749</Length>
+        <DelayNotes>0.25</DelayNotes>
+        <SampleID>King Tubby - Rock With I Dub - FadeIn</SampleID>
+      </SampleTrigger>
+    </SampleTriggers>
     <ExtendedMixes>
       <ExtendedMixAttributes>
         <TrackDescription>King Tubby - King Tubby Dub</TrackDescription>
@@ -17526,7 +18020,14 @@
         <FadeEndVolume>0.128</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
-        <SampleTriggers />
+        <SampleTriggers>
+          <SampleTrigger>
+            <Start>151.99156462585034</Start>
+            <Length>0.40000000000000568</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>Gang Starr - Full Clip (Instrumental) (RB Edit) - PreFadeIn</SampleID>
+          </SampleTrigger>
+        </SampleTriggers>
       </ExtendedMixAttributes>
       <ExtendedMixAttributes>
         <TrackDescription>Fela Soul - Still Ego Trippin' (Instrumental)</TrackDescription>
@@ -17923,43 +18424,7 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>King Tubby - Zion Gate Dub</Track>
-    <TrackFXTriggers>
-      <TrackFXTrigger>
-        <Start>16.540521541950113</Start>
-        <Length>2.5403401360544215</Length>
-        <DelayNotes>0.125</DelayNotes>
-      </TrackFXTrigger>
-      <TrackFXTrigger>
-        <Start>29.460430839002267</Start>
-        <Length>0.94079365079365118</Length>
-        <DelayNotes>0.25</DelayNotes>
-      </TrackFXTrigger>
-      <TrackFXTrigger>
-        <Start>58.61310657596372</Start>
-        <Length>0.86061224489795762</Length>
-        <DelayNotes>0.25</DelayNotes>
-      </TrackFXTrigger>
-      <TrackFXTrigger>
-        <Start>73.9734693877551</Start>
-        <Length>2.0997959183673487</Length>
-        <DelayNotes>0.125</DelayNotes>
-      </TrackFXTrigger>
-      <TrackFXTrigger>
-        <Start>84.433628117913827</Start>
-        <Length>1.0004761904761921</Length>
-        <DelayNotes>0.125</DelayNotes>
-      </TrackFXTrigger>
-      <TrackFXTrigger>
-        <Start>99.640634920634923</Start>
-        <Length>1.3377097505668871</Length>
-        <DelayNotes>0.125</DelayNotes>
-      </TrackFXTrigger>
-      <TrackFXTrigger>
-        <Start>7.6127210884353742</Start>
-        <Length>1.3797732426303861</Length>
-        <DelayNotes>0.125</DelayNotes>
-      </TrackFXTrigger>
-    </TrackFXTriggers>
+    <TrackFXTriggers />
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -17978,6 +18443,16 @@
             <SampleID>Rockers Almighty - Rockers Almighty Dub - FadeIn</SampleID>
           </SampleTrigger>
         </SampleTriggers>
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Horace Andy - Love Of A Dub Band</TrackDescription>
+        <FadeLength>12.462811791383221</FadeLength>
+        <FadeEnd>57171952</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.056</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
@@ -18144,6 +18619,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Ernest Ranglin - Love and Happiness</TrackDescription>
+        <FadeLength>19.508367346938776</FadeLength>
+        <FadeEnd>56739208</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.07986486</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -18301,6 +18786,16 @@
             <SampleID>Marcia Aitken - I'm Still In Love - FadeIn</SampleID>
           </SampleTrigger>
         </SampleTriggers>
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Prince Fatty - Switch Blade</TrackDescription>
+        <FadeLength>0.39092970521541948</FadeLength>
+        <FadeEnd>35871264</FadeEnd>
+        <FadeEndLoop>8</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>EchoOut</ExtendedFadeType>
+        <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
@@ -18714,6 +19209,16 @@
         <FadeEndVolume>0.096</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Maytals - Night and Day</TrackDescription>
+        <FadeLength>0.75537414965986394</FadeLength>
+        <FadeEnd>46925000</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Cut</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -20063,7 +20568,18 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Nightmares On Wax - 70s 80s</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>164.74512471655328</Start>
+        <Length>0.7224036281179167</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>174.58619047619047</Start>
+        <Length>1.9803854875283662</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -20112,6 +20628,16 @@
         <FadeEnd>70159728</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.2476395</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Gaturs - The Booger Man</TrackDescription>
+        <FadeLength>28.491708333333332</FadeLength>
+        <FadeEnd>72039592</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1997093</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -20452,6 +20978,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Mr. Scruff - Jusjus (feat. Roots Manuva)</TrackDescription>
+        <FadeLength>32.462403628117912</FadeLength>
+        <FadeEnd>79679096</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3434756</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -20473,6 +21009,11 @@
         <Length>0.47981859410431582</Length>
         <DelayNotes>0.25</DelayNotes>
       </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>179.15390022675737</Start>
+        <Length>1.1420997732426201</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
     </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
@@ -20483,6 +21024,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.1837195</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Pete Rock - A Little Soul</TrackDescription>
+        <FadeLength>16.026167800453514</FadeLength>
+        <FadeEnd>69283320</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.104</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -20510,6 +21061,34 @@
         <FadeEnd>87439776</FadeEnd>
         <FadeEndLoop>2</FadeEndLoop>
         <FadeEndVolume>0.536</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Nightmares On Wax - Les Nuits (DJ Spinna Mix)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Pharcyde - Running Away (Instrumental) (RB Edit)</TrackDescription>
+        <FadeLength>14.52485260770975</FadeLength>
+        <FadeEnd>55191776</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1757284</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>People Under The Stairs - Acid Raindrops</TrackDescription>
+        <FadeLength>20.981950113378684</FadeLength>
+        <FadeEnd>57326968</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1278025</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -21224,7 +21803,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Panjabi MC - Mundiya Tu Bach Ke</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>46.300861678004537</Start>
+        <Length>0.60000000000000142</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -21735,6 +22320,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Byron Lee - Hot Reggae</TrackDescription>
+        <FadeLength>11.322766439909296</FadeLength>
+        <FadeEnd>34017552</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.2236585</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -21998,6 +22593,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Althea &amp; Donna - Uptown Top Ranking</TrackDescription>
+        <FadeLength>0.38693877551020406</FadeLength>
+        <FadeEnd>45319248</FadeEnd>
+        <FadeEndLoop>8</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>EchoOut</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -22019,6 +22624,11 @@
         <Length>0.55922902494330629</Length>
         <DelayNotes>0.25</DelayNotes>
       </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>129.84485260770975</Start>
+        <Length>0</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
     </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
@@ -22030,6 +22640,16 @@
         <FadeEndVolume>0.30324</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>King Tubby - Zion Gate Dub</TrackDescription>
+        <FadeLength>6.4214965986394557</FadeLength>
+        <FadeEnd>48286144</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -22156,6 +22776,16 @@
         <FadeEnd>38787752</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.2236316</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Jurassic 5 - Unified Rebelution</TrackDescription>
+        <FadeLength>17.587845804988664</FadeLength>
+        <FadeEnd>41354288</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.4392763</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -23508,6 +24138,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Jurassic 5 - Concrete Schoolyard (Instrumental)</TrackDescription>
+        <FadeLength>21.345034013605442</FadeLength>
+        <FadeEnd>43358056</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.5024819</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -24412,12 +25052,38 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Marcia Aitken - I'm Still In Love</TrackDescription>
+        <FadeLength>18.004965986394559</FadeLength>
+        <FadeEnd>59320040</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2313556</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Slickers - Johnny Too Bad</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>80.424603174603178</Start>
+        <Length>0.86009070294784351</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>110.8644671201814</Start>
+        <Length>1.8596371882086231</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>123.16426303854875</Start>
+        <Length>1.1604308390022737</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -24436,6 +25102,16 @@
         <FadeEnd>47510080</FadeEnd>
         <FadeEndLoop>3</FadeEndLoop>
         <FadeEndVolume>0.1276445</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Jimmy Cliff - Ruby Soho</TrackDescription>
+        <FadeLength>11.543287981859411</FadeLength>
+        <FadeEnd>47528560</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.2476556</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -24622,6 +25298,11 @@
         <Start>14.767709750566894</Start>
         <Length>1.359569160997733</Length>
         <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>36.564535147392291</Start>
+        <Length>0.96000000000000085</Length>
+        <DelayNotes>0.5</DelayNotes>
       </TrackFXTrigger>
     </TrackFXTriggers>
     <SampleTriggers />
@@ -26549,7 +27230,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>The Bamboos - The Ghost</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>163.07968253968255</Start>
+        <Length>1.0598639455782291</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -26598,6 +27285,16 @@
         <FadeEnd>65063000</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.14376</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Cypress Hill - Loco en el Coco</TrackDescription>
+        <FadeLength>18.86231292517007</FadeLength>
+        <FadeEnd>65049200</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.4146133</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -26936,6 +27633,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Jurassic 5 - Concrete Schoolyard</TrackDescription>
+        <FadeLength>21.246916099773241</FadeLength>
+        <FadeEnd>32598584</FadeEnd>
+        <FadeEndLoop>7</FadeEndLoop>
+        <FadeEndVolume>0.3434557</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -26943,13 +27650,18 @@
     <Track>The Beatnuts - Off The Books (Instrumental)</Track>
     <TrackFXTriggers>
       <TrackFXTrigger>
-        <Start>63.735510204081635</Start>
-        <Length>0.88011337868481121</Length>
+        <Start>74.435192743764176</Start>
+        <Length>1.659886621315195</Length>
         <DelayNotes>0.25</DelayNotes>
       </TrackFXTrigger>
       <TrackFXTrigger>
-        <Start>74.435192743764176</Start>
-        <Length>1.659886621315195</Length>
+        <Start>1.038548752834467</Start>
+        <Length>1.3600680272108845</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>1.0336281179138322</Start>
+        <Length>0</Length>
         <DelayNotes>0.25</DelayNotes>
       </TrackFXTrigger>
     </TrackFXTriggers>
@@ -27004,6 +27716,35 @@
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Ini Kamoze - Here Comes The Hotstepper</TrackDescription>
+        <FadeLength>19.241678004535146</FadeLength>
+        <FadeEnd>34962240</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.6069588</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers>
+          <SampleTrigger>
+            <Start>75.5146485260771</Start>
+            <Length>0.62068027210884225</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>Ini Kamoze - Here Comes The Hotstepper - FadeIn</SampleID>
+          </SampleTrigger>
+          <SampleTrigger>
+            <Start>66.112312925170073</Start>
+            <Length>0.52156462585033125</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>Ini Kamoze - Here Comes The Hotstepper - FadeIn</SampleID>
+          </SampleTrigger>
+          <SampleTrigger>
+            <Start>70.852312925170068</Start>
+            <Length>0.56142857142856428</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>Ini Kamoze - Here Comes The Hotstepper - FadeIn</SampleID>
+          </SampleTrigger>
+        </SampleTriggers>
       </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
@@ -27224,6 +27965,24 @@
         <FadeEnd>55217432</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.128</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>The Chosen Few - I Love The Way You Love</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Sister Nancy - Bam Bam</TrackDescription>
+        <FadeLength>11.44310657596372</FadeLength>
+        <FadeEnd>47643712</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3435114</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -27535,7 +28294,18 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>The Gaylettes - Son Of A Preacher Man</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>123.98337868480725</Start>
+        <Length>0.92011337868481746</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>124.12684807256235</Start>
+        <Length>1.0191836734693993</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -27546,6 +28316,16 @@
         <FadeEndVolume>0.04</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>King Jammy - Slow Motion Dub</TrackDescription>
+        <FadeLength>0.35106250000000006</FadeLength>
+        <FadeEnd>44705768</FadeEnd>
+        <FadeEndLoop>8</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>EchoOut</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -28297,7 +29077,23 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>The J.B.'s - Gimme Some More</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>23.13095238095238</Start>
+        <Length>0.6599546485260781</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>56.568049886621317</Start>
+        <Length>1.2197052154195021</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>77.94986394557823</Start>
+        <Length>0.65961451247166281</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -28406,6 +29202,16 @@
         <FadeEnd>41266992</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.3434342</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Charles Bradley - No Time For Dreaming</TrackDescription>
+        <FadeLength>19.600793650793651</FadeLength>
+        <FadeEnd>43043480</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3514211</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -28900,7 +29706,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>The Maytals - Night and Day</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>116.79226757369615</Start>
+        <Length>1.1599999999999966</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -28920,6 +29732,16 @@
         <FadeEndLoop>2</FadeEndLoop>
         <FadeEndVolume>0.224</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Lennie Hibbert - Real Hot (RB Edit)</TrackDescription>
+        <FadeLength>24.06326530612245</FadeLength>
+        <FadeEnd>43819432</FadeEnd>
+        <FadeEndLoop>3</FadeEndLoop>
+        <FadeEndVolume>0.2074747</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -29114,6 +29936,16 @@
             <SampleID>Al Green - Tire Of Being Alone - FadeIn</SampleID>
           </SampleTrigger>
         </SampleTriggers>
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Bamboos - The Ghost</TrackDescription>
+        <FadeLength>19.315351473922902</FadeLength>
+        <FadeEnd>92036272</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3429114</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
@@ -30705,6 +31537,11 @@
         <Length>1.4771201814058941</Length>
         <DelayNotes>0.25</DelayNotes>
       </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>124.24077097505669</Start>
+        <Length>1.4200000000000017</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
     </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
@@ -31127,7 +31964,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Ty - Don't Watch That (Grant Phabao Remix)</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>188.40730158730159</Start>
+        <Length>1.3397052154194853</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -31196,6 +32039,16 @@
         <FadeEnd>72251184</FadeEnd>
         <FadeEndLoop>3</FadeEndLoop>
         <FadeEndVolume>0.3514359</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The J.B.'s - Gimme Some More</TrackDescription>
+        <FadeLength>19.864036281179139</FadeLength>
+        <FadeEnd>70698744</FadeEnd>
+        <FadeEndLoop>4</FadeEndLoop>
+        <FadeEndVolume>0.2711282</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
