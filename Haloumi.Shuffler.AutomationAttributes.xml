@@ -14674,16 +14674,6 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
       <ExtendedMixAttributes>
-        <TrackDescription>People Under The Stairs - The Breakdown</TrackDescription>
-        <FadeLength>14.000725623582767</FadeLength>
-        <FadeEnd>36757400</FadeEnd>
-        <FadeEndLoop>2</FadeEndLoop>
-        <FadeEndVolume>0.056</FadeEndVolume>
-        <PowerDownOnEnd>false</PowerDownOnEnd>
-        <ExtendedFadeType>Default</ExtendedFadeType>
-        <SampleTriggers />
-      </ExtendedMixAttributes>
-      <ExtendedMixAttributes>
         <TrackDescription>Janet Jackson - Got 'Till It's Gone (feat. Q-Tip)</TrackDescription>
         <FadeLength>16.062403628117913</FadeLength>
         <FadeEnd>35669976</FadeEnd>
@@ -14699,6 +14689,16 @@
         <FadeEnd>35676288</FadeEnd>
         <FadeEndLoop>2</FadeEndLoop>
         <FadeEndVolume>0.3035529</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>People Under The Stairs - The Breakdown</TrackDescription>
+        <FadeLength>21.866281179138323</FadeLength>
+        <FadeEnd>35686512</FadeEnd>
+        <FadeEndLoop>4</FadeEndLoop>
+        <FadeEndVolume>0.1997059</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -21437,7 +21437,18 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>People Under The Stairs - The Breakdown</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>238.2571201814059</Start>
+        <Length>2.1409523809523705</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>259.23791383219952</Start>
+        <Length>2.4604761904761858</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -22302,21 +22313,21 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
       <ExtendedMixAttributes>
-        <TrackDescription>El Michels Affair - Red Rooster</TrackDescription>
-        <FadeLength>21.867188208616781</FadeLength>
-        <FadeEnd>72310368</FadeEnd>
-        <FadeEndLoop>0</FadeEndLoop>
-        <FadeEndVolume>0.432</FadeEndVolume>
-        <PowerDownOnEnd>false</PowerDownOnEnd>
-        <ExtendedFadeType>Default</ExtendedFadeType>
-        <SampleTriggers />
-      </ExtendedMixAttributes>
-      <ExtendedMixAttributes>
         <TrackDescription>A Tribe Called Quest - Push It Along (Instrumental)</TrackDescription>
         <FadeLength>15.402766439909296</FadeLength>
         <FadeEnd>69945784</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.248</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>El Michels Affair - Red Rooster</TrackDescription>
+        <FadeLength>11.966054421768707</FadeLength>
+        <FadeEnd>68688656</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.032</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -28910,6 +28921,24 @@
         <FadeEndVolume>0.224</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>The Maytals - Pressure Drop</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Lennie Hibbert - Real Hot (RB Edit)</TrackDescription>
+        <FadeLength>0.41154195011337869</FadeLength>
+        <FadeEnd>56548384</FadeEnd>
+        <FadeEndLoop>8</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>EchoOut</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
