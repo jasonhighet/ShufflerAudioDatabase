@@ -3604,7 +3604,14 @@
         <FadeEndVolume>0.2475753</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
-        <SampleTriggers />
+        <SampleTriggers>
+          <SampleTrigger>
+            <Start>101.47750566893424</Start>
+            <Length>1.4951700680272069</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>King Tubby - King Tubby Dub - FadeIn</SampleID>
+          </SampleTrigger>
+        </SampleTriggers>
       </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
@@ -17727,7 +17734,20 @@
         <FadeEndVolume>0.4146316</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
-        <SampleTriggers />
+        <SampleTriggers>
+          <SampleTrigger>
+            <Start>136.77063492063493</Start>
+            <Length>4.5799546485260691</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>Taggy Matcher - Breathe And Stop - FadeIn</SampleID>
+          </SampleTrigger>
+          <SampleTrigger>
+            <Start>141.67004535147393</Start>
+            <Length>3.1012018140589532</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>Taggy Matcher - Breathe And Stop - FadeIn</SampleID>
+          </SampleTrigger>
+        </SampleTriggers>
       </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
@@ -25472,7 +25492,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Sola Rosa - Del Ray</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>92.644149659863942</Start>
+        <Length>1.4386621315192798</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
