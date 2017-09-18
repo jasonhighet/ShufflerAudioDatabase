@@ -9968,7 +9968,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Ernest Ranglin - Love and Happiness</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>4.847777777777778</Start>
+        <Length>1.2604081632653061</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -28418,7 +28424,18 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>The Gaturs - Gator Bait</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>34.924444444444447</Start>
+        <Length>0.63986394557822734</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>88.378390022675731</Start>
+        <Length>0.63857142857143856</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -28459,7 +28476,20 @@
         <FadeEndVolume>0.032</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
-        <SampleTriggers />
+        <SampleTriggers>
+          <SampleTrigger>
+            <Start>140.85655328798185</Start>
+            <Length>0.48646258503401896</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>Jorge Ben - Comanche - FadeIn</SampleID>
+          </SampleTrigger>
+          <SampleTrigger>
+            <Start>145.21895691609979</Start>
+            <Length>0.41823129251699243</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>Jorge Ben - Comanche - FadeIn</SampleID>
+          </SampleTrigger>
+        </SampleTriggers>
       </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
@@ -30606,7 +30636,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>The Specials - A Message To You Rudy</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>47.652403628117916</Start>
+        <Length>0.73868480725623442</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -32085,7 +32121,18 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Tosca - Worksong (Uptight Mix)</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>30.869750566893423</Start>
+        <Length>0.60086167800453794</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>40.550657596371884</Start>
+        <Length>0.66027210884353593</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -32267,6 +32314,16 @@
         <FadeEndLoop>4</FadeEndLoop>
         <FadeEndVolume>0.2711282</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Specials - A Message To You Rudy</TrackDescription>
+        <FadeLength>7.4227891156462587</FadeLength>
+        <FadeEnd>71507368</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.056</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
