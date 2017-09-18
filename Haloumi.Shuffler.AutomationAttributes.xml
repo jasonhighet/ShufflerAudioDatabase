@@ -19054,7 +19054,18 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Manzel - Space Funk</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>20.861604166666666</Start>
+        <Length>0.37860416666666552</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>25.0226875</Start>
+        <Length>0.39760416666666742</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -21366,9 +21377,35 @@
         <Length>2.4604375000000118</Length>
         <DelayNotes>0.25</DelayNotes>
       </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>151.95747916666667</Start>
+        <Length>0.860062499999998</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>155.73822916666666</Start>
+        <Length>1.1794583333333435</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>159.251375</Start>
+        <Length>0.33362500000001205</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
     </TrackFXTriggers>
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Roberta Roena - Que Se Sepa</TrackDescription>
+        <FadeLength>10.509750566893423</FadeLength>
+        <FadeEnd>65291792</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2714334</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -21429,7 +21466,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Orgone - Don't Stop</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>187.93535147392291</Start>
+        <Length>1.2009070294784578</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -28609,7 +28652,23 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>The Herbaliser - What You Asked For</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>21.042426303854874</Start>
+        <Length>1.4593424036281171</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>39.720589569161</Start>
+        <Length>0.81907029478458071</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>127.03145124716554</Start>
+        <Length>2.6280498866213122</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -30968,7 +31027,18 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Tim Maia - No Caminho Do Bem</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>97.6474149659864</Start>
+        <Length>1.3995238095237994</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>101.48931972789116</Start>
+        <Length>1.5591836734693914</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -33241,7 +33311,18 @@
         <SampleID>Young MC - Know How - Sample1</SampleID>
       </SampleTrigger>
     </SampleTriggers>
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The HitchHikers - Mr Fortune</TrackDescription>
+        <FadeLength>8.196</FadeLength>
+        <FadeEnd>31865944</FadeEnd>
+        <FadeEndLoop>8</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>PowerDown</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>

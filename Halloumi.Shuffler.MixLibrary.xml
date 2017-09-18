@@ -11423,6 +11423,7 @@
       <string>Pete Rock - Back On The Block (Instrumental), 4</string>
       <string>The Pharcyde - Running Away (Instrumental) (RB Edit), 4</string>
       <string>Taggy Matcher - Ain't Hard To Tell, 4</string>
+      <string>Fela Soul - Trouble In The Water (Instrumental), 4</string>
       <string>A Tribe Called Quest - Ham N Eggs (Instrumental), 3</string>
       <string>Snoop Dogg - Vapors (Instrumental), 3</string>
       <string>James Brown - The Payback, 3</string>
@@ -11441,7 +11442,6 @@
       <string>Gang Starr - You Know My Steez (Instrumental), 3</string>
       <string>A Tribe Called Quest - Clap Your Hands (Instrumental), 3</string>
       <string>Jackie Mittoo - Get Up And Get It, 3</string>
-      <string>Fela Soul - Trouble In The Water (Instrumental), 3</string>
       <string>Harry J All Stars - Liquidator, 2</string>
       <string>Aretha Franklin - One Step Ahead (Ms. Fat Booty Blend), 2</string>
       <string>RJD2 - 2 More Dead, 2</string>
@@ -27357,8 +27357,8 @@
   <TrackMix>
     <Track>Nina Simone - Ain't Got No; I Got Life (Alternate)</Track>
     <MixRankings>
+      <string>Roberta Roena - Que Se Sepa, 4</string>
       <string>Ian Pooley - Menino Brincadeira, 3</string>
-      <string>Roberta Roena - Que Se Sepa, 3</string>
       <string>The Bamboos - Tighten Up, 3</string>
       <string>Tosca - Honey (Faze Action Dub), 3</string>
       <string>Young MC - Pick Up The Pace (1990 Version), 3</string>
@@ -27939,8 +27939,8 @@
     <Track>Otis Redding - (Sittin' On) The Dock Of The Bay</Track>
     <MixRankings>
       <string>De La Soul - 4 More (feat. Zhane), 5</string>
-      <string>Lyn Collins - Give It Up Or Turn It Loose, 5</string>
       <string>Bobby Womack - California Dreamin', 5</string>
+      <string>Lyn Collins - Give It Up Or Turn It Loose, 4</string>
       <string>The Bamboos - The Ghost, 4</string>
       <string>The Emotions - I Like It, 4</string>
       <string>Taggy Matcher - Root Down, 4</string>
