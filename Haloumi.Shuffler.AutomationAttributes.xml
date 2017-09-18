@@ -30657,11 +30657,11 @@
       </ExtendedMixAttributes>
       <ExtendedMixAttributes>
         <TrackDescription>A Tribe Called Quest - Luck Of Lucien (Instrumental)</TrackDescription>
-        <FadeLength>16.141927437641723</FadeLength>
-        <FadeEnd>59291664</FadeEnd>
+        <FadeLength>13.822517006802721</FadeLength>
+        <FadeEnd>58459360</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
-        <FadeEndVolume>0.752</FadeEndVolume>
-        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <FadeEndVolume>0.1038219</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
