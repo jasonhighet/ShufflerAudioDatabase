@@ -919,7 +919,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>A Tribe Called Quest - Oh My God</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>108.14349206349206</Start>
+        <Length>1.199659863945584</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -1255,6 +1261,16 @@
         <FadeEndVolume>0.608</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Reuben Wilson - Inner City Blues</TrackDescription>
+        <FadeLength>0.54959374999999988</FadeLength>
+        <FadeEnd>34342816</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Cut</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -3343,7 +3359,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Barry White - Satin Soul</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>63.755104166666669</Start>
+        <Length>0.61989583333333087</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -5754,7 +5776,14 @@
         <FadeEndVolume>0</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
-        <SampleTriggers />
+        <SampleTriggers>
+          <SampleTrigger>
+            <Start>132.26730158730157</Start>
+            <Length>0.761723356009071</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>Nightmares On Wax - Know My Name (Instrumental) - FadeIn</SampleID>
+          </SampleTrigger>
+        </SampleTriggers>
       </ExtendedMixAttributes>
       <ExtendedMixAttributes>
         <TrackDescription>King Tubby - King Tubby Dub</TrackDescription>
@@ -6758,6 +6787,16 @@
         <FadeEndVolume>0.7733425</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Tim Armstrong - Wake Up</TrackDescription>
+        <FadeLength>0.29306249999999895</FadeLength>
+        <FadeEnd>46803880</FadeEnd>
+        <FadeEndLoop>8</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>EchoOut</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -8696,6 +8735,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.008</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Trio Mocotó - Swinga Sambaby</TrackDescription>
+        <FadeLength>17.900249433106577</FadeLength>
+        <FadeEnd>47532560</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3109167</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -20888,7 +20937,23 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Nightmares On Wax - Ethnic Majority</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>174.95555555555555</Start>
+        <Length>1.0209977324263093</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>174.93816326530612</Start>
+        <Length>3.5198367346938824</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>174.25222222222223</Start>
+        <Length>1.7096598639455749</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -20899,7 +20964,20 @@
         <FadeEndVolume>0.096</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
-        <SampleTriggers />
+        <SampleTriggers>
+          <SampleTrigger>
+            <Start>160.21238095238095</Start>
+            <Length>0.5798412698412676</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>A Tribe Called Quest - Oh My God - FadeIn</SampleID>
+          </SampleTrigger>
+          <SampleTrigger>
+            <Start>165.45188208616781</Start>
+            <Length>0.86040816326530489</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>A Tribe Called Quest - Oh My God - FadeIn</SampleID>
+          </SampleTrigger>
+        </SampleTriggers>
       </ExtendedMixAttributes>
       <ExtendedMixAttributes>
         <TrackDescription>RJD2 - Here's What's Left</TrackDescription>
@@ -21890,7 +21968,23 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>People Under The Stairs - Acid Raindrops</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>236.45834467120181</Start>
+        <Length>0.89995464852609075</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>247.09795918367348</Start>
+        <Length>0.79945578231291847</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>254.35743764172335</Start>
+        <Length>1.1722902494331038</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -23775,7 +23869,18 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>RZA - You Can't Stop Me Now</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>1.66718820861678</Start>
+        <Length>3.9392517006802716</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>90.28473922902495</Start>
+        <Length>0.863696145124706</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -23944,6 +24049,16 @@
         <FadeEnd>67410656</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.1916712</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Beastie Boys - Hey Ladies (Instrumental)</TrackDescription>
+        <FadeLength>18.364013605442178</FadeLength>
+        <FadeEnd>70612600</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1275616</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -26450,7 +26565,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Taggy Matcher - Ain't Hard To Tell</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>106.29253968253968</Start>
+        <Length>0.45961451247165996</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
