@@ -12402,6 +12402,11 @@
         <Length>0.79993197278911765</Length>
         <DelayNotes>0.5</DelayNotes>
       </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>49.9531746031746</Start>
+        <Length>0.80013605442177038</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
     </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
