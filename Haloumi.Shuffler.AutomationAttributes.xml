@@ -23925,22 +23925,22 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
       <ExtendedMixAttributes>
-        <TrackDescription>Katchafire - Bounce</TrackDescription>
-        <FadeLength>18.801564625850339</FadeLength>
-        <FadeEnd>44224048</FadeEnd>
-        <FadeEndLoop>2</FadeEndLoop>
-        <FadeEndVolume>0</FadeEndVolume>
-        <PowerDownOnEnd>false</PowerDownOnEnd>
-        <ExtendedFadeType>Default</ExtendedFadeType>
-        <SampleTriggers />
-      </ExtendedMixAttributes>
-      <ExtendedMixAttributes>
         <TrackDescription>John Cameron - Swamp Fever</TrackDescription>
         <FadeLength>8.0016553287981864</FadeLength>
         <FadeEnd>46903048</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.2232113</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Katchafire - Bounce</TrackDescription>
+        <FadeLength>14.461541950113379</FadeLength>
+        <FadeEnd>45974688</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
