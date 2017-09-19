@@ -1220,7 +1220,18 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>A Tribe Called Quest - Youthful Expression (Instrumental)</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>92.415464852607712</Start>
+        <Length>0.53981859410430388</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>95.756281179138327</Start>
+        <Length>0.32022675736961048</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -22617,7 +22628,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Prince Fatty - Insane In The Brain (feat. Horseman)</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>48.294444444444444</Start>
+        <Length>0.79909297052154216</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -22688,7 +22705,20 @@
         <FadeEndVolume>0.5341644</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
-        <SampleTriggers />
+        <SampleTriggers>
+          <SampleTrigger>
+            <Start>68.075283446712021</Start>
+            <Length>0.41968253968254032</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>Cypress Hill - Loco en el Coco - PreFadeIn</SampleID>
+          </SampleTrigger>
+          <SampleTrigger>
+            <Start>86.8922902494331</Start>
+            <Length>0.50070294784580938</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>Cypress Hill - Loco en el Coco - PreFadeIn</SampleID>
+          </SampleTrigger>
+        </SampleTriggers>
       </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
@@ -26767,6 +26797,11 @@
         <Length>0.20088435374150038</Length>
         <DelayNotes>0.25</DelayNotes>
       </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>36.833129251700683</Start>
+        <Length>1.2185487528344652</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
     </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
@@ -27863,6 +27898,16 @@
       <TrackFXTrigger>
         <Start>1.0336281179138322</Start>
         <Length>0</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>22.613038548752833</Start>
+        <Length>0.99993197278911694</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>63.766961451247163</Start>
+        <Length>0.68138321995464679</Length>
         <DelayNotes>0.25</DelayNotes>
       </TrackFXTrigger>
     </TrackFXTriggers>
