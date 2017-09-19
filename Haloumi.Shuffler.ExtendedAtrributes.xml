@@ -1646,7 +1646,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Harry J All Stars - Liquidator</Track>
-    <Attributes>Duration=175.927369614512;EndBPM=91.3415794481446;FadeIn=15.069;FadeInLengthInSeconds=10.956;FadeOut=154.094;FadeOutLengthInSeconds=10.510;Key=Abm;PreFadeInPosition=13.741;PreFadeInStartVolume=75;Rank=5;StartBPM=87.6232201533406;</Attributes>
+    <Attributes>Duration=175.927369614512;EndBPM=91.3415794481446;FadeIn=15.069;FadeInLengthInSeconds=10.956;FadeOut=154.094;FadeOutLengthInSeconds=10.510;Key=Abm;PreFadeInPosition=13.741;PreFadeInStartVolume=75;Rank=3;StartBPM=87.6232201533406;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Harvey Averne Band - Lets Get it Together This Christmas</Track>
@@ -2094,7 +2094,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>John Cameron - Swamp Fever</Track>
-    <Attributes>Duration=128.235;EndBPM=100.365917407214;FadeIn=2.795;FadeInLengthInSeconds=9.618;FadeOut=101.721;FadeOutLengthInSeconds=9.565;Key=Am;PreFadeInPosition=1.473;PreFadeInStartVolume=00;Rank=5;StartBPM=99.812850904554;</Attributes>
+    <Attributes>Duration=128.235;EndBPM=100.365917407214;FadeIn=2.795;FadeInLengthInSeconds=9.618;FadeOut=101.721;FadeOutLengthInSeconds=9.565;Key=Am;PreFadeInPosition=1.473;PreFadeInStartVolume=00;Rank=3;StartBPM=99.812850904554;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>John Holt - Man Next Door (Got To Get Away)</Track>
@@ -3802,7 +3802,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Taggy Matcher - Ain't Hard To Tell</Track>
-    <Attributes>Duration=253;EndBPM=90.5489530277306;FadeIn=10.719;FadeInLengthInSeconds=5.308;FadeOut=116.790;FadeOutLengthInSeconds=10.602;Key=A;PreFadeInPosition=9.198;PreFadeInStartVolume=50;Rank=5;StartBPM=90.4295403165035;StartLoopCount=3;</Attributes>
+    <Attributes>Duration=253;EndBPM=90.5489530277306;FadeIn=10.719;FadeInLengthInSeconds=5.308;FadeOut=116.790;FadeOutLengthInSeconds=10.602;Key=A;PreFadeInPosition=9.198;PreFadeInStartVolume=50;Rank=3;StartBPM=90.4295403165035;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Taggy Matcher - Breathe And Stop</Track>
@@ -4638,7 +4638,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Ty - Don't Watch That (Grant Phabao Remix)</Track>
-    <Attributes>Duration=273.973;EndBPM=96.058;EndLoopCount=4;FadeIn=10.004;FadeInLengthInSeconds=9.996;FadeOut=199.991;FadeOutLengthInSeconds=4.997;Key=Am;Rank=5;StartBPM=96.038;</Attributes>
+    <Attributes>Duration=273.973;EndBPM=96.058;EndLoopCount=4;FadeIn=10.004;FadeInLengthInSeconds=9.996;FadeOut=199.991;FadeOutLengthInSeconds=4.997;Key=Am;Rank=4;StartBPM=96.038;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Unknown Artist - Character Dheela</Track>

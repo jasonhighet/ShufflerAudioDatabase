@@ -16948,7 +16948,18 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Katchafire - Get Away</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>49.415600907029479</Start>
+        <Length>0.60020408163265415</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>58.98020408163265</Start>
+        <Length>1.2403174603174634</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -21381,7 +21392,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Nightmares On Wax - The Sweetest</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>105.95043083900227</Start>
+        <Length>0.73925170068027057</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -21400,6 +21417,16 @@
         <FadeEnd>67830056</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.368</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Katchafire - Get Away</TrackDescription>
+        <FadeLength>10.402630385487528</FadeLength>
+        <FadeEnd>64054912</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3195181</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
