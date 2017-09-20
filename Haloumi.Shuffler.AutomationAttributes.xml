@@ -636,6 +636,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>DJ Muggs vs. Sick Jacken - El Barrio</TrackDescription>
+        <FadeLength>10.369002267573697</FadeLength>
+        <FadeEnd>19775160</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.392</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -7328,6 +7338,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.36</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>King Tubby - King Tubby Dub</TrackDescription>
+        <FadeLength>10.184081632653061</FadeLength>
+        <FadeEnd>74351312</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.5901025</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -17767,6 +17787,21 @@
         <Length>0.87988662131519391</Length>
         <DelayNotes>0.25</DelayNotes>
       </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>30.34750566893424</Start>
+        <Length>0.31913832199546732</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>57.606802721088435</Start>
+        <Length>1.2197505668934241</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>105.50873015873016</Start>
+        <Length>0.7385487528344612</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
     </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
@@ -17837,6 +17872,12 @@
           <SampleTrigger>
             <Start>141.67004535147393</Start>
             <Length>3.1012018140589532</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>Taggy Matcher - Breathe And Stop - FadeIn</SampleID>
+          </SampleTrigger>
+          <SampleTrigger>
+            <Start>127.13702947845805</Start>
+            <Length>2.0804988662131478</Length>
             <DelayNotes>0.25</DelayNotes>
             <SampleID>Taggy Matcher - Breathe And Stop - FadeIn</SampleID>
           </SampleTrigger>
@@ -30057,6 +30098,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.584</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Gang Starr - Full Clip (Instrumental) (RB Edit)</TrackDescription>
+        <FadeLength>9.3290249433106585</FadeLength>
+        <FadeEnd>62140648</FadeEnd>
+        <FadeEndLoop>3</FadeEndLoop>
+        <FadeEndVolume>0.5342368</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>

@@ -4186,7 +4186,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Marvels - Rock Steady</Track>
-    <Attributes>Duration=185.260408163265;EndBPM=99.1940483570986;FadeIn=10.045;FadeInLengthInSeconds=4.837;FadeOut=174.413;FadeOutLengthInSeconds=9.678;Key=Abm;Rank=3;StartBPM=99.235063055613;StartLoopCount=4;</Attributes>
+    <Attributes>Duration=185.260;EndBPM=97.319;EndLoopCount=4;FadeIn=10.045;FadeInLengthInSeconds=4.837;FadeOut=174.413;FadeOutLengthInSeconds=2.466;Key=Abm;Rank=3;StartBPM=99.235;StartLoopCount=4;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Maytals - Night and Day</Track>
