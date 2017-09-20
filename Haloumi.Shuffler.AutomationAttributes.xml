@@ -10574,7 +10574,38 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Gang Starr - Full Clip (Instrumental) (RB Edit)</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>19.89063492063492</Start>
+        <Length>0.79770975056689508</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>40.830657596371886</Start>
+        <Length>0.94049886621314727</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>51.570952380952384</Start>
+        <Length>0.31934240362811295</Length>
+        <DelayNotes>0.125</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>56.610090702947844</Start>
+        <Length>0.16106575963718939</Length>
+        <DelayNotes>0.125</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>187.22659863945577</Start>
+        <Length>0.67702947845805284</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>197.44641723356008</Start>
+        <Length>0.57725623582766161</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -19887,6 +19918,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.128</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Al Escobar - Tighten Up</TrackDescription>
+        <FadeLength>14.664512471655328</FadeLength>
+        <FadeEnd>95513632</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.5108966</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
