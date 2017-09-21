@@ -3943,13 +3943,7 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Betty Harris - Break In The Road (feat. The Meters)</Track>
-    <TrackFXTriggers>
-      <TrackFXTrigger>
-        <Start>2.4819104308390023</Start>
-        <Length>0.20766439909297052</Length>
-        <DelayNotes>0.0625</DelayNotes>
-      </TrackFXTrigger>
-    </TrackFXTriggers>
+    <TrackFXTriggers />
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -3973,6 +3967,13 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Betty Harris - Ride Your Pony</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -8737,6 +8738,16 @@
         <FadeEndLoop>1</FadeEndLoop>
         <FadeEndVolume>0.1736709</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>De La Soul - Breakadawn</TrackDescription>
+        <FadeLength>16.099637188208618</FadeLength>
+        <FadeEnd>68485656</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.024</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -16051,16 +16062,6 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
       <ExtendedMixAttributes>
-        <TrackDescription>Greyboy - Lite Bake</TrackDescription>
-        <FadeLength>10.238344671201814</FadeLength>
-        <FadeEnd>36771712</FadeEnd>
-        <FadeEndLoop>0</FadeEndLoop>
-        <FadeEndVolume>0.6</FadeEndVolume>
-        <PowerDownOnEnd>true</PowerDownOnEnd>
-        <ExtendedFadeType>Default</ExtendedFadeType>
-        <SampleTriggers />
-      </ExtendedMixAttributes>
-      <ExtendedMixAttributes>
         <TrackDescription>A Tribe Called Quest - 1nce Again (Instrumental) (RB Edit)</TrackDescription>
         <FadeLength>10.360748299319727</FadeLength>
         <FadeEnd>36840496</FadeEnd>
@@ -16087,6 +16088,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.176</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Greyboy - Lite Bake</TrackDescription>
+        <FadeLength>10.280997732426304</FadeLength>
+        <FadeEnd>36787224</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.6549877</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -20606,9 +20617,9 @@
     <Track>Naughty By Nature - OPP (Instrumental)</Track>
     <TrackFXTriggers>
       <TrackFXTrigger>
-        <Start>0.54412698412698413</Start>
-        <Length>0.27283446712018145</Length>
-        <DelayNotes>0.25</DelayNotes>
+        <Start>235.28140589569162</Start>
+        <Length>0.40349206349205247</Length>
+        <DelayNotes>0.5</DelayNotes>
       </TrackFXTrigger>
     </TrackFXTriggers>
     <SampleTriggers />
@@ -20680,6 +20691,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.2955132</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Bamboos - The Ghost</TrackDescription>
+        <FadeLength>17.767369614512472</FadeLength>
+        <FadeEnd>89671128</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.032</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -22418,6 +22439,16 @@
         <FadeEndVolume>0.36</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Nightmares On Wax - Know My Name (Instrumental)</TrackDescription>
+        <FadeLength>5.4464999999999986</FadeLength>
+        <FadeEnd>94313488</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -33113,16 +33144,6 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
       <ExtendedMixAttributes>
-        <TrackDescription>Chic - Good Times</TrackDescription>
-        <FadeLength>26.340430839002266</FadeLength>
-        <FadeEnd>80451824</FadeEnd>
-        <FadeEndLoop>0</FadeEndLoop>
-        <FadeEndVolume>0.12</FadeEndVolume>
-        <PowerDownOnEnd>false</PowerDownOnEnd>
-        <ExtendedFadeType>Default</ExtendedFadeType>
-        <SampleTriggers />
-      </ExtendedMixAttributes>
-      <ExtendedMixAttributes>
         <TrackDescription>Breakestra - Cramp Your Style</TrackDescription>
         <FadeLength>17.58154195011338</FadeLength>
         <FadeEnd>77371224</FadeEnd>
@@ -33168,6 +33189,16 @@
         <FadeEnd>77334512</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.288</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Chic - Good Times</TrackDescription>
+        <FadeLength>17.421541950113379</FadeLength>
+        <FadeEnd>77297504</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3666667</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />

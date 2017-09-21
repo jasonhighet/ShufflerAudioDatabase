@@ -462,11 +462,11 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Betty Harris - Break In The Road (feat. The Meters)</Track>
-    <Attributes>Duration=168.229;EndBPM=80.2876975830058;FadeIn=1.391;FadeInLengthInSeconds=1.448;FadeOut=117.473;FadeOutLengthInSeconds=11.957;Key=Ebm;Rank=3;StartBPM=82.872928176795625;StartLoopCount=3;</Attributes>
+    <Attributes>Duration=171.102;EndBPM=79.798;FadeIn=1.057;FadeInLengthInSeconds=1.443;FadeOut=117.971;FadeOutLengthInSeconds=12.030;Key=Ebm;Rank=3;StartBPM=83.160;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Betty Harris - Ride Your Pony</Track>
-    <Attributes>Duration=189.753;EndBPM=124.4409877503402;FadeIn=4.067;FadeInLengthInSeconds=3.811;FadeOut=151.415;FadeOutLengthInSeconds=15.429;Key=Ebm;Rank=3;StartBPM=125.951193912359;StartLoopCount=4;</Attributes>
+    <Attributes>Duration=191.295;EndBPM=124.489;EndLoopCount=2;FadeIn=2.183;FadeInLengthInSeconds=3.867;FadeOut=149.948;FadeOutLengthInSeconds=7.711;Key=Ebm;Rank=3;StartBPM=124.126;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Betty Wright - Clean Up Woman</Track>
@@ -898,7 +898,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Chic - Good Times</Track>
-    <Attributes>Duration=495.804;EndBPM=109.8901098901098;FadeIn=1.637;FadeInLengthInSeconds=17.386;FadeOut=192.800;FadeOutLengthInSeconds=17.472;Key=Gbm;Rank=3;StartBPM=110.4336822730932;</Attributes>
+    <Attributes>Duration=495.804;EndBPM=109.890;FadeIn=1.637;FadeInLengthInSeconds=17.386;FadeOut=192.800;FadeOutLengthInSeconds=17.472;Key=Gbm;Rank=3;SkipLengthInSeconds=69.464;SkipStart=79.829;StartBPM=110.434;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Chico Buarque - Samba de Orly</Track>
@@ -1786,7 +1786,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Ini Kamoze - Here Comes The Hotstepper</Track>
-    <Attributes>Duration=251.493333333333;EndBPM=100.311518729331;FadeIn=5.191;FadeInLengthInSeconds=19.142;FadeOut=148.722;FadeOutLengthInSeconds=9.570;Key=Bm;Rank=4;StartBPM=100.3019381881844;</Attributes>
+    <Attributes>Duration=251.493;EndBPM=100.313;FadeIn=5.191;FadeInLengthInSeconds=19.142;FadeOut=148.722;FadeOutLengthInSeconds=9.570;Key=Bm;PreFadeInPosition=0.409;PreFadeInStartVolume=75;Rank=4;StartBPM=100.303;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Ini Kamoze - World A Music</Track>
