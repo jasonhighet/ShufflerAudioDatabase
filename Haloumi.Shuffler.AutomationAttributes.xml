@@ -6255,7 +6255,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Chic - Good Times</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>187.96650793650792</Start>
+        <Length>1.019863945578237</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -6286,6 +6292,16 @@
         <FadeEndVolume>0.336</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Orgone - Don't Stop</TrackDescription>
+        <FadeLength>0.54331065759637187</FadeLength>
+        <FadeEnd>68211520</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Cut</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -6634,6 +6650,16 @@
         <FadeEnd>70766824</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.176</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Prince Fatty - Insane In The Brain (feat. Horseman)</TrackDescription>
+        <FadeLength>8.7040589569161</FadeLength>
+        <FadeEnd>70562672</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.08</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -22141,6 +22167,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Jurassic 5 - Red Hot (Instrumental)</TrackDescription>
+        <FadeLength>9.0021315192743767</FadeLength>
+        <FadeEnd>37883456</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2471842</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -31101,6 +31137,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Monie Love - Monie In The Middle</TrackDescription>
+        <FadeLength>16.798185941043084</FadeLength>
+        <FadeEnd>67337760</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3985075</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -32686,6 +32732,41 @@
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>De La Soul - A Roller Skating Jam Named Saturdays</TrackDescription>
+        <FadeLength>4.3472500000000016</FadeLength>
+        <FadeEnd>67802240</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
+        <SampleTriggers>
+          <SampleTrigger>
+            <Start>161.78426303854874</Start>
+            <Length>2.1016326530612446</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>De La Soul - A Roller Skating Jam Named Saturdays - FadeIn</SampleID>
+          </SampleTrigger>
+          <SampleTrigger>
+            <Start>170.44503401360544</Start>
+            <Length>2.1204761904761824</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>De La Soul - A Roller Skating Jam Named Saturdays - FadeIn</SampleID>
+          </SampleTrigger>
+          <SampleTrigger>
+            <Start>179.06786848072562</Start>
+            <Length>0.49761904761905384</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>De La Soul - A Roller Skating Jam Named Saturdays - FadeIn</SampleID>
+          </SampleTrigger>
+          <SampleTrigger>
+            <Start>183.52732426303854</Start>
+            <Length>0.45900226757370888</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>De La Soul - A Roller Skating Jam Named Saturdays - FadeIn</SampleID>
+          </SampleTrigger>
+        </SampleTriggers>
       </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
