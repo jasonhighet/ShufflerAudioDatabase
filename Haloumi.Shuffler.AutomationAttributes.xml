@@ -17565,6 +17565,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>King Tubby - Turntable Dub</TrackDescription>
+        <FadeLength>12.826961451247165</FadeLength>
+        <FadeEnd>51988712</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1518155</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -17847,6 +17857,16 @@
         <FadeEnd>59964168</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.319604</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Orquestra CBD - Tema Da Zorra</TrackDescription>
+        <FadeLength>13.004603174603174</FadeLength>
+        <FadeEnd>55370944</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.119703</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -18644,6 +18664,37 @@
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>King Tubby - Turntable Dub</Track>
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>74.893151927437643</Start>
+        <Length>0.93913832199545766</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>King Tubby - Dub You Can Feel</TrackDescription>
+        <FadeLength>0</FadeLength>
+        <FadeEnd>0</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers>
+          <SampleTrigger>
+            <Start>100.65303854875283</Start>
+            <Length>6.5499614512471709</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>King Tubby - Dub You Can Feel - FadeOut</SampleID>
+          </SampleTrigger>
+        </SampleTriggers>
       </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
@@ -19519,6 +19570,16 @@
         <FadeEndVolume>1</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Cut</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The  Dynamics - Whole Lotta Love</TrackDescription>
+        <FadeLength>23.274104308390022</FadeLength>
+        <FadeEnd>46715176</FadeEnd>
+        <FadeEndLoop>8</FadeEndLoop>
+        <FadeEndVolume>0.3989474</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -21386,6 +21447,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Seu Jorge - Carolina</TrackDescription>
+        <FadeLength>5.2304988662131517</FadeLength>
+        <FadeEnd>51784160</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -21886,6 +21957,16 @@
         <FadeEnd>49306128</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.152</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Lennie Hibbert - Real Hot (RB Edit)</TrackDescription>
+        <FadeLength>12.511383219954649</FadeLength>
+        <FadeEnd>35667896</FadeEnd>
+        <FadeEndLoop>3</FadeEndLoop>
+        <FadeEndVolume>0.007990099</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -27415,6 +27496,16 @@
             <SampleID>Tenor Saw - Ring The Alarm - Fade In</SampleID>
           </SampleTrigger>
         </SampleTriggers>
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Nightmares On Wax - 70s 80s</TrackDescription>
+        <FadeLength>12.086848072562358</FadeLength>
+        <FadeEnd>49401456</FadeEnd>
+        <FadeEndLoop>4</FadeEndLoop>
+        <FadeEndVolume>0.4786666</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />

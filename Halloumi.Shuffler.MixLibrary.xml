@@ -23322,13 +23322,13 @@
       <string>Rockers Almighty - Rockers Almighty Dub, 4</string>
       <string>King Tubby - Dub Of A Woman, 4</string>
       <string>Horace Andy - Zion Gate, 4</string>
+      <string>King Tubby - Turntable Dub, 4</string>
       <string>The Maytals - Night and Day, 3</string>
       <string>Bob Marley - Brand New Second Hand, 3</string>
       <string>Randy's Allstars - Mission Impossible, 3</string>
       <string>Stevie Wonder - Uptight (Grant Phabao Remix), 3</string>
       <string>Wes Montgomery - Sunny, 3</string>
       <string>Jorge Ben - Menina Bonita Nao Chora, 3</string>
-      <string>King Tubby - Turntable Dub, 3</string>
       <string>Ini Kamoze - World A Music, 3</string>
       <string>Astrud Gilberto &amp; Antonio Carlos Jobim - Agua de Beber, 2</string>
       <string>The Maytals - Pressure Drop, 2</string>
@@ -23416,12 +23416,12 @@
       <string>Lennie Hibbert - Real Hot (RB Edit), 4</string>
       <string>King Tubby - Turntable Dub, 4</string>
       <string>Pharrell Williams - Happy (Cousin Cole Reggae Mix), 4</string>
+      <string>Orquestra CBD - Tema Da Zorra, 4</string>
       <string>Sly &amp; Robbie - I Yah Who Dub, 3</string>
       <string>King Tubby - Tubby Get Smart, 3</string>
       <string>King Tubby - Roots of Dub, 3</string>
       <string>Augustus Pablo - King Tubby Meets The Rockers Uptown, 3</string>
       <string>Lee Scratch Perry - Lee Perry Special Dub, 3</string>
-      <string>Orquestra CBD - Tema Da Zorra, 3</string>
       <string>The Maytals - Pressure Drop, 3</string>
       <string>Gregory Isaacs - Night Nurse (Kruder and Dorfmeister Session), 3</string>
       <string>Roslyn Sweat &amp; The Paragons - Blackbird, 3</string>
@@ -27118,7 +27118,6 @@
   <TrackMix>
     <Track>Nightmares On Wax - Les Nuits (DJ Spinna Mix)</Track>
     <MixRankings>
-      <string>Seu Jorge - Carolina, 4</string>
       <string>Triflicts - Genuine (Instrumental), 4</string>
       <string>RJD2 - Here's What's Left, 4</string>
       <string>A Tribe Called Quest - Ham N Eggs (Instrumental), 4</string>
@@ -27140,6 +27139,7 @@
       <string>Elizete Cardoso - Chega de Saudade, 2</string>
       <string>Jurassic 5 - Unified Rebelution, 2</string>
       <string>Fela Soul - Oooh (Instrumental), 2</string>
+      <string>Seu Jorge - Carolina, 0</string>
       <string>Sharon Jones &amp; The Dap Kings - I'm Not Gonna Cry, 0</string>
       <string>Bob Marley - Run For Cover, 0</string>
       <string>Jorge Ben - Ponta De Laca Africano (Umbabaraúma), 0</string>
