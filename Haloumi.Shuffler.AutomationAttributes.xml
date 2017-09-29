@@ -7076,6 +7076,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>DJ Nu Mark - Comin' Thru (feat. Chali 2na) (Instrumental) (RB Edit)</TrackDescription>
+        <FadeLength>19.924875283446713</FadeLength>
+        <FadeEnd>33734224</FadeEnd>
+        <FadeEndLoop>4</FadeEndLoop>
+        <FadeEndVolume>0.2715641</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -8159,7 +8169,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>DJ Jazzy Jeff And The Fresh Prince - Summertime (Instrumental)</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>69.802290249433113</Start>
+        <Length>0.81634920634920149</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers>
       <SampleTrigger>
         <Start>121.60541950113378</Start>
@@ -8291,7 +8307,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>DJ Nu Mark - Comin' Thru (feat. Chali 2na) (Instrumental) (RB Edit)</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>167.720589569161</Start>
+        <Length>0.87698412698412653</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -8341,6 +8363,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.2232727</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>DJ Jazzy Jeff And The Fresh Prince - Summertime (Instrumental)</TrackDescription>
+        <FadeLength>20.445034013605444</FadeLength>
+        <FadeEnd>59672824</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.152</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
