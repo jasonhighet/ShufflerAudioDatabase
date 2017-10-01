@@ -21496,7 +21496,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Nightmares On Wax - Les Nuits (DJ Spinna Mix)</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>132.30539682539683</Start>
+        <Length>1.4827437641723407</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -21518,6 +21524,23 @@
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Nightmares On Wax - Keep On (feat. De La Soul) (86 Init Mix)</TrackDescription>
+        <FadeLength>21.122335600907029</FadeLength>
+        <FadeEnd>57287472</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.4792593</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers>
+          <SampleTrigger>
+            <Start>136.36816326530612</Start>
+            <Length>1.9195238095238096</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>Nightmares On Wax - Keep On (feat. De La Soul) (86 Init Mix) - PreFadeIn</SampleID>
+          </SampleTrigger>
+        </SampleTriggers>
       </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
