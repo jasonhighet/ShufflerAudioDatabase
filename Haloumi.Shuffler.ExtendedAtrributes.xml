@@ -1165,6 +1165,10 @@
     <Attributes>Duration=226.717;EndBPM=100.4814737282815;EndLoopCount=2;FadeIn=1.274;FadeInLengthInSeconds=9.749;FadeOut=107.592;FadeOutLengthInSeconds=4.777;Key=Gm;PreFadeInPosition=0.293;PreFadeInStartVolume=75;Rank=3;StartBPM=98.4716381167299;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>DJ Jazzy Jeff &amp; The Fresh Prince - A Touch Of Jazz</Track>
+    <Attributes>Duration=201.117;EndBPM=103.237;EndLoopCount=2;FadeIn=2.620;FadeInLengthInSeconds=18.575;FadeOut=95.501;FadeOutLengthInSeconds=9.299;PreFadeInPosition=0.284;PreFadeInStartVolume=75;StartBPM=103.366;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>DJ Jazzy Jeff And The Fresh Prince - Summertime (Instrumental)</Track>
     <Attributes>Duration=349.805714285714;EndBPM=95.0306869926747;EndLoopCount=2;FadeIn=5.434;FadeInLengthInSeconds=20.218;FadeOut=167.091;FadeOutLengthInSeconds=10.102;Key=Gm;PreFadeInPosition=4.343;PreFadeInStartVolume=100;Rank=3;StartBPM=94.9648827777228;</Attributes>
   </ExtenedAttributes>
@@ -1779,6 +1783,10 @@
   <ExtenedAttributes>
     <Track>Ike Turner's Kings Of Rhythm - Funky Mule</Track>
     <Attributes>Duration=201.769795918367;EndBPM=132.4137931034485;EndLoopCount=4;FadeIn=1.203;FadeInLengthInSeconds=3.604;FadeOut=91.926;FadeOutLengthInSeconds=3.625;Key=Am;Rank=3;StartBPM=133.1853496115425;StartLoopCount=4;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>In - Flux</Track>
+    <Attributes>Duration=732.253;EndBPM=74.978;FadeIn=260.996;FadeInLengthInSeconds=12.812;FadeOut=642.135;FadeOutLengthInSeconds=25.607;SkipLengthInSeconds=227.569;SkipStart=363.395;StartBPM=74.930;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Inell Young - What Do You See In Her</Track>
@@ -3189,12 +3197,20 @@
     <Attributes>Duration=238.067;EndBPM=104.031209362809;FadeIn=19.638;FadeInLengthInSeconds=4.613;FadeOut=121.031;FadeOutLengthInSeconds=4.614;Key=Am;PowerDown=True;Rank=2;SkipLengthInSeconds=9.228;SkipStart=65.771;StartBPM=104.053761109907;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>RJD2 - 1976</Track>
+    <Attributes>Duration=147.280;EndBPM=102.696;FadeIn=23.485;FadeInLengthInSeconds=4.674;FadeOut=140.209;FadeOutLengthInSeconds=4.674;StartBPM=102.696;StartLoopCount=4;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>RJD2 - 2 More Dead</Track>
     <Attributes>Duration=317.857959183673;EndBPM=91.0125142207055;FadeIn=24.024;FadeInLengthInSeconds=21.094;FadeOut=182.248;FadeOutLengthInSeconds=5.274;Key=Abm;Rank=3;StartBPM=91.0211434531146;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>RJD2 - All For U</Track>
-    <Attributes>Duration=208.16;EndBPM=102.3454157782515;EndLoopCount=4;FadeIn=7.110;FadeInLengthInSeconds=9.367;FadeOut=119.465;FadeOutLengthInSeconds=4.690;Key=Fm;Rank=3;StartBPM=102.487455962421;</Attributes>
+    <Attributes>Duration=208.160;EndBPM=102.345;FadeIn=16.441;FadeInLengthInSeconds=9.421;FadeOut=119.465;FadeOutLengthInSeconds=18.760;Key=Fm;Rank=3;StartBPM=101.904;StartLoopCount=2;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>RJD2 - Fire</Track>
+    <Attributes>Duration=250.907;EndBPM=108.028;FadeIn=0.265;FadeInLengthInSeconds=8.888;FadeOut=89.160;FadeOutLengthInSeconds=17.773;SkipLengthInSeconds=17.766;SkipStart=46.867;StartBPM=108.009;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>RJD2 - Ghostwriter</Track>
@@ -3203,6 +3219,10 @@
   <ExtenedAttributes>
     <Track>RJD2 - Here's What's Left</Track>
     <Attributes>Duration=357.929795918367;EndBPM=91.6161664360356;FadeIn=10.490;FadeInLengthInSeconds=20.957;FadeOut=157.224;FadeOutLengthInSeconds=20.957;Key=Bm;Rank=3;StartBPM=91.6161664360356;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>RJD2 - Priceless</Track>
+    <Attributes>Duration=220.120;EndBPM=101.285;FadeIn=0.034;FadeInLengthInSeconds=18.981;FadeOut=123.365;FadeOutLengthInSeconds=18.956;SkipLengthInSeconds=37.962;SkipStart=56.931;StartBPM=101.155;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>RJD2 - Work</Track>
