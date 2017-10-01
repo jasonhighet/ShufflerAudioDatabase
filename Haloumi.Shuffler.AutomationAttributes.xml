@@ -16071,7 +16071,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Jurassic 5 - Freedom (Instrumental)</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>90.543492063492067</Start>
+        <Length>0.99972789115645355</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
