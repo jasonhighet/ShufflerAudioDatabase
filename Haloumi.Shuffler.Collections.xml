@@ -1589,11 +1589,6 @@
         <Length>155.011</Length>
       </PlaylistEntry>
       <PlaylistEntry>
-        <Artist>Ike Turner's Kings Of Rhythm</Artist>
-        <Title>Funky Mule</Title>
-        <Length>201.77</Length>
-      </PlaylistEntry>
-      <PlaylistEntry>
         <Artist>Inell Young</Artist>
         <Title>What Do You See In Her</Title>
         <Length>181.2</Length>
@@ -3177,6 +3172,11 @@
         <Artist>Rancid</Artist>
         <Title>Time Bomb</Title>
         <Length>119.709</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>RJD2</Artist>
+        <Title>Fire</Title>
+        <Length>80.017</Length>
       </PlaylistEntry>
     </Entries>
   </Playlist>

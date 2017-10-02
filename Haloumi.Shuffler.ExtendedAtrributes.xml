@@ -3198,7 +3198,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>RJD2 - 1976</Track>
-    <Attributes>Duration=147.280;EndBPM=102.696;FadeIn=23.485;FadeInLengthInSeconds=4.674;FadeOut=140.209;FadeOutLengthInSeconds=4.674;StartBPM=102.696;StartLoopCount=4;</Attributes>
+    <Attributes>Duration=147.280;EndBPM=102.696;FadeIn=23.485;FadeInLengthInSeconds=4.674;FadeOut=140.209;FadeOutLengthInSeconds=4.674;Rank=3;StartBPM=102.696;StartLoopCount=4;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>RJD2 - 2 More Dead</Track>
@@ -3210,7 +3210,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>RJD2 - Fire</Track>
-    <Attributes>Duration=250.907;EndBPM=108.028;FadeIn=0.265;FadeInLengthInSeconds=8.888;FadeOut=89.160;FadeOutLengthInSeconds=17.773;SkipLengthInSeconds=17.766;SkipStart=46.867;StartBPM=108.009;StartLoopCount=2;</Attributes>
+    <Attributes>Duration=250.907;EndBPM=108.028;FadeIn=0.265;FadeInLengthInSeconds=8.888;FadeOut=89.160;FadeOutLengthInSeconds=17.773;Rank=3;SkipLengthInSeconds=17.766;SkipStart=46.867;StartBPM=108.009;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>RJD2 - Ghostwriter</Track>
@@ -3222,7 +3222,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>RJD2 - Priceless</Track>
-    <Attributes>Duration=220.120;EndBPM=101.285;FadeIn=0.034;FadeInLengthInSeconds=18.981;FadeOut=123.365;FadeOutLengthInSeconds=18.956;SkipLengthInSeconds=37.962;SkipStart=56.931;StartBPM=101.155;</Attributes>
+    <Attributes>Duration=220.120;EndBPM=101.285;FadeIn=0.034;FadeInLengthInSeconds=18.981;FadeOut=123.365;FadeOutLengthInSeconds=18.956;Rank=3;SkipLengthInSeconds=37.962;SkipStart=56.931;StartBPM=101.155;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>RJD2 - Work</Track>
