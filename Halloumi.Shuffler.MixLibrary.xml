@@ -1317,6 +1317,7 @@
       <string>Horace Andy - I Feel Good All Over, 3</string>
       <string>King Tubby - Black Lash, 3</string>
       <string>Inner Circle - Bad Reputation, 3</string>
+      <string>John Holt - Man Next Door (Got To Get Away), 3</string>
       <string>Althea &amp; Donna - Uptown Top Ranking, 2</string>
       <string>Betty Harris - Break In The Road (feat. The Meters), 2</string>
       <string>Gal Costa &amp; Caetano Veloso - Remelexo, 2</string>
@@ -3792,10 +3793,6 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>B.B. King - Christmas Celebration</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
     <Track>Baby Huey &amp; The Baby Sitters - Hard Times</Track>
     <MixRankings>
       <string>Nightmares On Wax - Ethnic Majority, 4</string>
@@ -3907,10 +3904,10 @@
       <string>Cybernetika - Anomaly, 3</string>
       <string>Black Sun Empire - 1800 Contact, 3</string>
       <string>Black Sun Empire - Battalion, 3</string>
+      <string>Cybernetika - Distress Beacon, 3</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 2</string>
       <string>Concord Dawn - Shinkansen, 2</string>
       <string>Black Sun Empire - Descent, 2</string>
-      <string>Cybernetika - Distress Beacon, 2</string>
       <string>Bad Company - Breathe, 2</string>
       <string>Concord Dawn - The Fallen, 2</string>
       <string>Cybernetika - Monolithic, 0</string>
@@ -5739,14 +5736,6 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>Black Sabbath - After Forever (Instrumental)</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
-    <Track>Black Sabbath - Black Sabbath (Instrumental)</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
     <Track>Black Sabbath - Children of the Grave (Instrumental)</Track>
     <MixRankings>
       <string>Black Sabbath - Sweet Leaf (Instrumental), 2</string>
@@ -5758,10 +5747,6 @@
     <MixRankings>
       <string>Black Sabbath - Symptom Of The Universe (Instrumental), 2</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>Black Sabbath - Into The Void (Instrumental)</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Black Sabbath - Iron Man (Instrumental)</Track>
@@ -5835,8 +5820,8 @@
     <MixRankings>
       <string>Black Sun Empire - 1800 Contact, 4</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 4</string>
-      <string>Black Sun Empire - Descent, 4</string>
       <string>Black Sun Empire - Breach (The Upbeats Remix), 4</string>
+      <string>Black Sun Empire - Descent, 3</string>
       <string>Concord Dawn - Shinkansen, 3</string>
       <string>Bad Company - 4 Days, 3</string>
       <string>Bad Company - Brain Scan, 3</string>
@@ -5925,10 +5910,10 @@
     <Track>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix)</Track>
     <MixRankings>
       <string>Black Sun Empire - 1800 Contact, 4</string>
-      <string>Black Sun Empire - Breach (The Upbeats Remix), 4</string>
       <string>Black Sun Empire - Delorean, 4</string>
       <string>Bad Company - 4 Days, 4</string>
       <string>Bad Company - Brain Scan, 4</string>
+      <string>Black Sun Empire - Breach (The Upbeats Remix), 3</string>
       <string>Cybernetika - Anomaly, 3</string>
       <string>Concord Dawn - Shinkansen, 3</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 3</string>
@@ -7776,10 +7761,6 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>Bunny &amp; Skully - White Christmas</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
     <Track>Burning Spear - I and I Survive (Slavery Days)</Track>
     <MixRankings>
       <string>Tapper Zukie - Beautiful Dub, 5</string>
@@ -7810,10 +7791,6 @@
       <string>King Tubby - Turntable Dub, 2</string>
       <string>Sly &amp; Robbie - Hypocrite Dub, 0</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>Burning Spear - Slavery Days</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Burning Spear - The Ghost (Marcus Garvey)</Track>
@@ -8204,10 +8181,6 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>Carlene Davis &amp; Trinity - Santa Claus (Do You Ever Come To The Ghetto)</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
     <Track>Carolyn Franklin - Deal With It</Track>
     <MixRankings>
       <string>Lyn Collins - Give It Up Or Turn It Loose, 4</string>
@@ -8280,14 +8253,6 @@
       <string>Joe And Everyday People - Sleep Walk (Part 2), 0</string>
       <string>The Skatalites - Chinatown, 0</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>Charles Bradley - Every Day Is Christmas (When I'm Lovin' You)</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
-    <Track>Charles Bradley - Mary's Baby</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Charles Bradley - No Time For Dreaming</Track>
@@ -8925,12 +8890,12 @@
       <string>Bad Company - Brain Scan, 4</string>
       <string>Black Sun Empire - 1800 Contact, 4</string>
       <string>Cybernetika - Anomaly, 4</string>
+      <string>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix), 4</string>
       <string>Black Sun Empire - Delorean, 3</string>
       <string>Bad Company - Night Train, 3</string>
       <string>Black Sun Empire - Descent, 3</string>
       <string>Cybernetika - Distress Beacon, 3</string>
       <string>Bad Company - Breathe, 3</string>
-      <string>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix), 3</string>
       <string>Cybernetika - Monolithic, 2</string>
       <string>Black Sun Empire - Battalion, 2</string>
       <string>Black Sun Empire - Breach (The Upbeats Remix), 2</string>
@@ -8940,6 +8905,7 @@
     <Track>Concord Dawn - The Fallen</Track>
     <MixRankings>
       <string>Bad Company - Night Train, 2</string>
+      <string>Bad Company - Hysteria, 2</string>
       <string>Cybernetika - Distress Beacon, 0</string>
       <string>Cybernetika - Monolithic, 0</string>
       <string>Bad Company - 4 Days, 0</string>
@@ -9027,7 +8993,7 @@
   <TrackMix>
     <Track>Cortex - La Rue</Track>
     <MixRankings>
-      <string>Del The Funky Homosapien - Thank Youse, 3</string>
+      <string>Del The Funky Homosapien - Thank Youse, 5</string>
       <string>Al Green - Love And Happiness, 3</string>
       <string>Al Green - Tire Of Being Alone, 3</string>
       <string>Deodato - September 13, 3</string>
@@ -11318,10 +11284,6 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>DJ Jazzy Jeff &amp; The Fresh Prince - A Touch Of Jazz</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
     <Track>DJ Jazzy Jeff And The Fresh Prince - Summertime (Instrumental)</Track>
     <MixRankings>
       <string>A Tribe Called Quest - 1nce Again (Instrumental) (RB Edit), 5</string>
@@ -13504,6 +13466,7 @@
       <string>Sharon Jones &amp; The Dap Kings - Nobody's Baby, 3</string>
       <string>Jurassic 5 - Concrete Schoolyard, 3</string>
       <string>Barry White - It's Only Love Doing It's Thing, 3</string>
+      <string>John Holt - Man Next Door (Got To Get Away), 3</string>
       <string>Cal Tjader - Pantano, 2</string>
       <string>Wes Montgomery - Tequila, 2</string>
       <string>Byron Lee - Hot Reggae, 2</string>
@@ -14248,6 +14211,7 @@
       <string>Taggy Matcher - Witness, 2</string>
       <string>Bob James - Nautilus, 2</string>
       <string>Barry White - It's Only Love Doing It's Thing, 2</string>
+      <string>John Holt - Man Next Door (Got To Get Away), 2</string>
       <string>Nas - The World Is Yours (Instrumental), 0</string>
       <string>Monty Alexander - Inner City Blues, 0</string>
       <string>Sharon Jones &amp; The Dap Kings - People Don't Get What They Deserve, 0</string>
@@ -14588,6 +14552,7 @@
       <string>Sharon Jones &amp; The Dap Kings - Be Easy, 2</string>
       <string>Elzhi &amp; Will Sessions - Memory Lane (Instrumental), 2</string>
       <string>Os Originais Do Samba - Tenha Fé Pois Amanhã Um Lindo Dia Vai Nascer, 2</string>
+      <string>John Holt - Man Next Door (Got To Get Away), 2</string>
       <string>Thievery Corporation - Lebanese Blonde (French), 0</string>
       <string>Juan Pablo Torres - Blanca Navidad, 0</string>
       <string>Jorge Ben - Ponta De Laca Africano (Umbabaraúma), 0</string>
@@ -17310,6 +17275,7 @@
       <string>Sly &amp; Robbie - Asian Roots Dub, 2</string>
       <string>Sublime - Badfish, 2</string>
       <string>King Jammy - Slow Motion Dub, 0</string>
+      <string>John Holt - Man Next Door (Got To Get Away), 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -17350,10 +17316,6 @@
       <string>The Granville Williams Orchestra - Santa Claus is Ska-Ing To Town, 2</string>
       <string>The Wailers - Sound The Trumpet, 2</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>J Lara - Hands of the Lord</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>J.D. McDonald - Boogaloo Santa Claus</Track>
@@ -17813,10 +17775,6 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>Jacob Miller - The Twelve Days of Ismas</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
     <Track>Jacob Miller &amp; Ray I - All I Want for Ismas</Track>
     <MixRankings>
       <string>Barrington Levy &amp; Trinity - Flash Your Dread, 5</string>
@@ -17868,10 +17826,6 @@
       <string>Frank Cosmo - Merry Christmas, 2</string>
       <string>Jacob Miller &amp; Ray I - Silver Bells, 0</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>Jah Irie Chorus - Sensimilla (feat Dean Fraser)</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>James Brown - Blind Man Can See It</Track>
@@ -19625,10 +19579,6 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>João Gilberto - Bim Bom (Live)</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
     <Track>João Gilberto - Brigas, Nunca Mais</Track>
     <MixRankings>
       <string>Nightmares On Wax - Morse, 4</string>
@@ -20056,6 +20006,9 @@
       <string>Mr. Scruff - Jusjus (feat. Roots Manuva), 4</string>
       <string>Tenor Saw - Ring The Alarm, 4</string>
       <string>Jurassic 5 - If You Only Knew (Instrumental), 4</string>
+      <string>Jurassic 5 - Concrete Schoolyard, 4</string>
+      <string>King Jammy - Slow Motion Dub, 4</string>
+      <string>The Black Seeds - Cool Me Down, 4</string>
       <string>De La Soul - Fallin' (feat. Teenage Fan Club), 3</string>
       <string>Group Home - Intro (Instrumental), 3</string>
       <string>Jeru The Damaja - Me Or The Papes (Instrumental), 3</string>
@@ -20073,6 +20026,8 @@
       <string>Dub Specialist - Dub It Easy, 3</string>
       <string>The Gaylettes - Son Of A Preacher Man, 3</string>
       <string>Horace Andy - I Feel Good All Over, 3</string>
+      <string>People Under The Stairs - Flex Off, 3</string>
+      <string>Nightmares On Wax - Know My Name (Instrumental), 3</string>
       <string>Astrud Gilberto - Canto De Ossanha (Let Go), 2</string>
       <string>Betty Wright - Clean Up Woman, 2</string>
       <string>Charles Bradley And The Menahan Street Band - The World (Is Going Up In Flames), 2</string>
@@ -20088,6 +20043,13 @@
       <string>Sister Nancy - Bam Bam, 2</string>
       <string>Byron Lee - Hot Reggae, 2</string>
       <string>Elza Soares - Chove Chuva, 2</string>
+      <string>RJD2 - Work, 2</string>
+      <string>Mr. Scruff - Here We Go, 2</string>
+      <string>Evinha - Que Bandeira, 2</string>
+      <string>Betty Harris - Break In The Road (feat. The Meters), 2</string>
+      <string>Elzhi &amp; Will Sessions - Memory Lane (Instrumental), 2</string>
+      <string>Fela Soul - Oooh (Instrumental), 2</string>
+      <string>Aaron Neville - Hercules, 2</string>
       <string>Al Brown - Here I Am Baby, 0</string>
       <string>Aretha Franklin - One Step Ahead (Ms. Fat Booty Blend), 0</string>
       <string>Beastie Boys - Some Dumb Cop Gave Me Two Tickets Already (Instrumental), 0</string>
@@ -20098,7 +20060,6 @@
       <string>Janet Jackson - Got 'Till It's Gone (feat. Q-Tip), 0</string>
       <string>Jorge Ben - Criola, 0</string>
       <string>Jorge Ben - Take It Easy My Brother Charles, 0</string>
-      <string>Jurassic 5 - Concrete Schoolyard, 0</string>
       <string>Jurassic 5 - Quality Control, 0</string>
       <string>RZA - You Can't Stop Me Now, 0</string>
       <string>Sharon Jones &amp; The Dap Kings - Be Easy, 0</string>
@@ -20107,6 +20068,8 @@
       <string>The Three Degrees - You're The Fool, 0</string>
       <string>Dom Salvador E Abolicao - Hei Voce, 0</string>
       <string>Damu the Fudgemunk - Tea Thyme, 0</string>
+      <string>Freesom Orquestra - Rush, 0</string>
+      <string>Inner Circle - Bad Reputation, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -21787,6 +21750,7 @@
       <string>The Gaylettes - Son Of A Preacher Man, 2</string>
       <string>Astrud Gilberto - Canto De Ossanha (Let Go), 2</string>
       <string>Elzhi &amp; Will Sessions - Memory Lane (Instrumental), 2</string>
+      <string>John Holt - Man Next Door (Got To Get Away), 2</string>
       <string>Jorge Ben - Mas Que Nada, 0</string>
       <string>Sergio Mendes &amp; Brasil 66 - Mas Que Nada, 0</string>
       <string>Jurassic 5 - Concrete Schoolyard (Instrumental), 0</string>
@@ -21989,6 +21953,7 @@
       <string>El Michels Affair - Criminology, 4</string>
       <string>James Brown - Papa Don't Take No Mess (Part 1), 4</string>
       <string>Jurassic 5 - Canto De Ossanha (Instrumental), 4</string>
+      <string>RJD2 - All For U, 4</string>
       <string>A Tribe Called Quest - Push It Along (Instrumental), 3</string>
       <string>Astrud Gilberto - Take It Easy, My Brother Charlie, 3</string>
       <string>Ike &amp; Tine Turner - Bold Soul Sister, 3</string>
@@ -22010,7 +21975,6 @@
       <string>Bomb The Bass - Bug Powder Dust, 3</string>
       <string>King Tubby - King Tubby Dub, 3</string>
       <string>Burning Spear - The Ghost (Marcus Garvey), 3</string>
-      <string>RJD2 - All For U, 3</string>
       <string>Evinha - Que Bandeira, 2</string>
       <string>Ian Pooley - Venasque, 2</string>
       <string>The Beatnuts - Get Funky (Instrumental), 2</string>
@@ -25445,10 +25409,6 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>Mika Singh &amp; Mamta Sharma - Tooh</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
     <Track>Mika Singh &amp; Pankaj Kapoor - Sajh Dhaj Ke</Track>
     <MixRankings>
       <string>Kishore Kumar, Sumit Kumar &amp; Vishal Dadlani - Bachna Ae Haseeno, 4</string>
@@ -26113,6 +26073,7 @@
       <string>Seu Jorge - Carolina, 0</string>
       <string>Damu the Fudgemunk - Tea Thyme, 0</string>
       <string>Beastie Boys - Transitions, 0</string>
+      <string>John Holt - Man Next Door (Got To Get Away), 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -27095,6 +27056,7 @@
       <string>Cortex - La Rue, 3</string>
       <string>Bob James - Nautilus, 3</string>
       <string>The Black Seeds - Cool Me Down, 3</string>
+      <string>John Holt - Man Next Door (Got To Get Away), 3</string>
       <string>Aloe Blacc - Good Things, 2</string>
       <string>The Gaylettes - Son Of A Preacher Man, 2</string>
       <string>Jorge Ben - Mas Que Nada, 2</string>
@@ -28442,6 +28404,7 @@
       <string>Ann Allford - Gotta Get Me A Job, 2</string>
       <string>Nightmares On Wax - 70s 80s, 2</string>
       <string>Monty Alexander - Inner City Blues, 2</string>
+      <string>John Holt - Man Next Door (Got To Get Away), 2</string>
       <string>A Tribe Called Quest - Oh My God, 0</string>
       <string>Betty And Angel - Honey Coated Loving, 0</string>
       <string>Betty Wright - Clean Up Woman, 0</string>
@@ -28462,7 +28425,6 @@
       <string>Snoop Dogg - Vapors (Instrumental), 0</string>
       <string>Thievery Corporation - Lebanese Blonde (French), 0</string>
       <string>Tosca - Suzuki, 0</string>
-      <string>John Holt - Man Next Door (Got To Get Away), 0</string>
       <string>Jorge Ben - O Namorado Da Viúva, 0</string>
       <string>Horace Andy - Nice And Easy Dub, 0</string>
       <string>Beastie Boys - Transitions, 0</string>
@@ -30060,12 +30022,12 @@
       <string>Stan Getz &amp; Astrud Gilberto - One Note Samba (Live), 3</string>
       <string>Charles Bradley - The World (Is Going Up In Flames), 3</string>
       <string>Freesom Orquestra - Rush, 3</string>
+      <string>John Holt - Man Next Door (Got To Get Away), 3</string>
       <string>Aaron Neville - Hercules, 2</string>
       <string>Cymande - The Message, 2</string>
       <string>Gal Costa &amp; Caetano Veloso - Remelexo, 2</string>
       <string>Gloria Jones - Tainted Love, 2</string>
       <string>Howard Roberts - Dirty Old Bossa Nova, 2</string>
-      <string>John Holt - Man Next Door (Got To Get Away), 2</string>
       <string>Sharon Jones &amp; The Dap Kings - Make It Good To Me, 2</string>
       <string>Sister Nancy - Bam Bam, 2</string>
       <string>The  Dynamics - Whole Lotta Love, 2</string>
@@ -32998,10 +32960,6 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>Smokey Robinson &amp; The Miracles - Deck The Halls</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
     <Track>Smokey Robinson &amp; The Miracles - Jingle Bells</Track>
     <MixRankings>
       <string>The Jackson 5 - Up on the House Top, 4</string>
@@ -35298,10 +35256,6 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>The Aggrovators - Christmas Medley</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
     <Track>The Aggrovators - Santa Claus Dub</Track>
     <MixRankings>
       <string>Doreen Schaffer - Wishing You a Merry Christmas, 4</string>
@@ -36355,6 +36309,7 @@
       <string>Mr. Scruff - Here We Go, 4</string>
       <string>Nas - Halftime (Instrumental), 4</string>
       <string>Burning Spear - The Ghost (Marcus Garvey), 4</string>
+      <string>John Holt - Man Next Door (Got To Get Away), 3</string>
       <string>Katchafire - Get Away, 0</string>
       <string>Thievery Corporation - Lebanese Blonde (French), 0</string>
       <string>Sharon Jones &amp; The Dap Kings - Be Easy, 0</string>
@@ -42470,10 +42425,6 @@
       <string>Sunidhi Chauhan - Kamli, 3</string>
       <string>DJ Sanj &amp; Master Saleem - Teray Hussan De Maare, 2</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>Unknown Artist - Dupatta Tera Nau Rang Da</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Unknown Artist - Hark The Herald Angels Sing</Track>

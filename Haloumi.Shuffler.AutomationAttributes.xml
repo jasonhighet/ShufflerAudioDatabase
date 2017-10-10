@@ -3266,7 +3266,18 @@
     <Track>Bad Company - 4 Days</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Black Sun Empire - Battlefish (feat. Nymfo)</TrackDescription>
+        <FadeLength>11.301451247165533</FadeLength>
+        <FadeEnd>89721696</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1517791</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -3335,6 +3346,16 @@
         <FadeEnd>105014640</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.112</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Cybernetika - Distress Beacon</TrackDescription>
+        <FadeLength>8.17154195011338</FadeLength>
+        <FadeEnd>100366920</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.128</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -4331,6 +4352,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Black Sun Empire - Descent</TrackDescription>
+        <FadeLength>18.385056689342402</FadeLength>
+        <FadeEnd>100190112</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1754884</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -4349,6 +4380,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Black Sun Empire - Battalion</TrackDescription>
+        <FadeLength>21.847732426303853</FadeLength>
+        <FadeEnd>95423240</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2476437</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -4356,21 +4397,54 @@
     <Track>Black Sun Empire - Breach (The Upbeats Remix)</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Black Sun Empire - 1800 Contact</TrackDescription>
+        <FadeLength>22.401315192743763</FadeLength>
+        <FadeEnd>93930360</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3190698</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Black Sun Empire - Delorean</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Concord Dawn - Shinkansen</TrackDescription>
+        <FadeLength>10.980634920634921</FadeLength>
+        <FadeEnd>82343912</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.104</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Black Sun Empire - Descent</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Bad Company - Breathe</TrackDescription>
+        <FadeLength>11.048956916099773</FadeLength>
+        <FadeEnd>106691248</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.056</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -4386,6 +4460,16 @@
         <FadeEndVolume>0.104</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Black Sun Empire - Breach (The Upbeats Remix)</TrackDescription>
+        <FadeLength>5.5172335600907028</FadeLength>
+        <FadeEnd>103163384</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -6414,14 +6498,36 @@
       </TrackFXTrigger>
     </TrackFXTriggers>
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix)</TrackDescription>
+        <FadeLength>13.967210884353742</FadeLength>
+        <FadeEnd>147537680</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1038434</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Concord Dawn - The Fallen</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Bad Company - Hysteria</TrackDescription>
+        <FadeLength>5.3075000000000028</FadeLength>
+        <FadeEnd>140986456</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -6487,12 +6593,12 @@
     <ExtendedMixes>
       <ExtendedMixAttributes>
         <TrackDescription>Del The Funky Homosapien - Thank Youse</TrackDescription>
-        <FadeLength>16.984285714285715</FadeLength>
-        <FadeEnd>41448784</FadeEnd>
-        <FadeEndLoop>0</FadeEndLoop>
-        <FadeEndVolume>0.032</FadeEndVolume>
+        <FadeLength>0.30399092970521541</FadeLength>
+        <FadeEnd>35651848</FadeEnd>
+        <FadeEndLoop>8</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
-        <ExtendedFadeType>Default</ExtendedFadeType>
+        <ExtendedFadeType>EchoOut</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -6520,7 +6626,18 @@
     <Track>Cybernetika - Distress Beacon</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Concord Dawn - The Fallen</TrackDescription>
+        <FadeLength>5.4265000000000034</FadeLength>
+        <FadeEnd>70789488</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>PowerDown</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -7091,7 +7208,18 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Damu the Fudgemunk - Tea Thyme</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>32.759342403628118</Start>
+        <Length>1.0604535147392298</Length>
+        <DelayNotes>0.125</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>61.796984126984128</Start>
+        <Length>0.85916099773242394</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -7670,6 +7798,16 @@
         <FadeEnd>57601864</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.36</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>De La Soul - Breakadawn</TrackDescription>
+        <FadeLength>20.142403628117915</FadeLength>
+        <FadeEnd>59404312</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.4632467</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -9982,7 +10120,23 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Elzhi &amp; Will Sessions - Memory Lane (Instrumental)</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>181.72625850340137</Start>
+        <Length>1.2005442176870531</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>202.68850340136055</Start>
+        <Length>1.19850340136054</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>202.68573696145126</Start>
+        <Length>1.2372630385487469</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -13955,6 +14109,11 @@
         <Length>1.0565986394557818</Length>
         <DelayNotes>0.25</DelayNotes>
       </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>176.6491836734694</Start>
+        <Length>1.0162358276643886</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
     </TrackFXTriggers>
     <SampleTriggers>
       <SampleTrigger>
@@ -14523,6 +14682,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.1993827</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Nightmares On Wax - Know My Name (Instrumental)</TrackDescription>
+        <FadeLength>12.640816326530612</FadeLength>
+        <FadeEnd>44359520</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.056</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -16066,6 +16235,16 @@
         <ExtendedFadeType>QuickFade</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Cortex - La Rue</TrackDescription>
+        <FadeLength>7.8676643990929707</FadeLength>
+        <FadeEnd>60766872</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.5831205</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -16314,6 +16493,16 @@
         <FadeEnd>35034664</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.392</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>RJD2 - All For U</TrackDescription>
+        <FadeLength>9.4849886621315189</FadeLength>
+        <FadeEnd>35057728</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2955195</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -18034,6 +18223,16 @@
           </SampleTrigger>
         </SampleTriggers>
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The J.B.'s - (It's Not the Express) It's the J.B.'s Monaurail</TrackDescription>
+        <FadeLength>10.240204081632653</FadeLength>
+        <FadeEnd>51799352</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.654921</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -18571,6 +18770,11 @@
         <Start>60.274285714285718</Start>
         <Length>71.803714285714278</Length>
         <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>131.31759637188208</Start>
+        <Length>0.76040362811792761</Length>
+        <DelayNotes>0.5</DelayNotes>
       </TrackFXTrigger>
     </TrackFXTriggers>
     <SampleTriggers />
@@ -20621,6 +20825,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Elzhi &amp; Will Sessions - Memory Lane (Instrumental)</TrackDescription>
+        <FadeLength>16.004671201814059</FadeLength>
+        <FadeEnd>33512288</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.5582716</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -21411,11 +21625,6 @@
     <Track>Nightmares On Wax - Know My Name (Instrumental)</Track>
     <TrackFXTriggers>
       <TrackFXTrigger>
-        <Start>72.3902947845805</Start>
-        <Length>0.37950113378684591</Length>
-        <DelayNotes>0.25</DelayNotes>
-      </TrackFXTrigger>
-      <TrackFXTrigger>
         <Start>145.38333333333333</Start>
         <Length>1.3604535147392483</Length>
         <DelayNotes>0.125</DelayNotes>
@@ -21461,6 +21670,26 @@
         <FadeEndVolume>1</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>QuickFade</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>John Holt - Man Next Door (Got To Get Away)</TrackDescription>
+        <FadeLength>0.33143749999999961</FadeLength>
+        <FadeEnd>63725352</FadeEnd>
+        <FadeEndLoop>8</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>EchoOut</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Damu the Fudgemunk - Tea Thyme</TrackDescription>
+        <FadeLength>10.625600907029478</FadeLength>
+        <FadeEnd>67380752</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.008</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -22553,6 +22782,16 @@
         <FadeEndVolume>0.4865122</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>John Holt - Man Next Door (Got To Get Away)</TrackDescription>
+        <FadeLength>21.12</FadeLength>
+        <FadeEnd>63330768</FadeEnd>
+        <FadeEndLoop>8</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>PowerDown</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -30286,6 +30525,16 @@
         <FadeEnd>37242880</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.392</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Jurassic 5 - Great Expectations (Instrumental)</TrackDescription>
+        <FadeLength>22.350884353741495</FadeLength>
+        <FadeEnd>38089488</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.6777334</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
