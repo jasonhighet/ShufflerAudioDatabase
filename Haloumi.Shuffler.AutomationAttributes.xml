@@ -7936,6 +7936,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>RJD2 - Fire</TrackDescription>
+        <FadeLength>0.28578124999999988</FadeLength>
+        <FadeEnd>81582800</FadeEnd>
+        <FadeEndLoop>8</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>EchoOut</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -23819,9 +23829,38 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>RJD2 - Fire</Track>
-    <TrackFXTriggers />
-    <SampleTriggers />
-    <ExtendedMixes />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>35.658730158730158</Start>
+        <Length>0.87634920634920377</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>44.754988662131517</Start>
+        <Length>0.63972789115646833</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
+    <SampleTriggers>
+      <SampleTrigger>
+        <Start>80.36349206349206</Start>
+        <Length>0.73777777777777942</Length>
+        <DelayNotes>0.25</DelayNotes>
+        <SampleID>RJD2 - Fire - FadeIn</SampleID>
+      </SampleTrigger>
+    </SampleTriggers>
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Jungle Fire - Comencemos (Let's Start)</TrackDescription>
+        <FadeLength>0.277687074829932</FadeLength>
+        <FadeEnd>31553616</FadeEnd>
+        <FadeEndLoop>8</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>EchoOut</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -31639,6 +31678,16 @@
         <FadeEndVolume>0.3985075</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>RJD2 - Fire</TrackDescription>
+        <FadeLength>0.26881250000000023</FadeLength>
+        <FadeEnd>61328208</FadeEnd>
+        <FadeEndLoop>8</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>EchoOut</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
