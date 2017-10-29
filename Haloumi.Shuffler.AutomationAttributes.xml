@@ -7653,7 +7653,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Deadbeats - Pick Me Up (Nightmares On Wax Edit)</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>90.334988662131522</Start>
+        <Length>1.1002040816326542</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -13478,6 +13484,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>RJD2 - All For U</TrackDescription>
+        <FadeLength>17.242562358276643</FadeLength>
+        <FadeEnd>78907832</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.08</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples>
       <TrackSample>
@@ -15348,10 +15364,10 @@
       </ExtendedMixAttributes>
       <ExtendedMixAttributes>
         <TrackDescription>Orgone - Don't Stop</TrackDescription>
-        <FadeLength>17.664625850340137</FadeLength>
-        <FadeEnd>58661296</FadeEnd>
-        <FadeEndLoop>4</FadeEndLoop>
-        <FadeEndVolume>0.2709851</FadeEndVolume>
+        <FadeLength>17.224716553287983</FadeLength>
+        <FadeEnd>55288648</FadeEnd>
+        <FadeEndLoop>3</FadeEndLoop>
+        <FadeEndVolume>0.2550448</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
