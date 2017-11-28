@@ -461,6 +461,7 @@
       <string>Bob Marley - Run For Cover, 2</string>
       <string>Common - The Light (Instrumental), 2</string>
       <string>Cypress Hill - Latin Thugs (Instrumental), 2</string>
+      <string>El Michels Affair - C.R.E.A.M., 2</string>
       <string>Mr. Scruff - Music Takes Me Up (feat. Alice Russell), 0</string>
       <string>Al Green - Here I Am (Come And Take Me), 0</string>
       <string>Gilberto Gil - Mancada, 0</string>
@@ -1479,6 +1480,7 @@
       <string>King Tubby - King Tubby Dub, 2</string>
       <string>Jorge Ben - Rosa, Menina Rosa, 2</string>
       <string>Jorge Ben - Ponta De Laca Africano (Umbabaraúma), 2</string>
+      <string>The Bamboos - Kings Cross, 2</string>
       <string>Ernest Ranglin - Love and Happiness, 0</string>
       <string>Pete Rock &amp; CL Smooth - All The Places (Instrumental), 0</string>
       <string>Thievery Corporation - Lebanese Blonde, 0</string>
@@ -4588,6 +4590,7 @@
       <string>Eddie Bo - Check Your Bucket, 3</string>
       <string>Speedometer - Are You My Woman? (Tell Me So) (Live), 3</string>
       <string>Ini Kamoze - Here Comes The Hotstepper, 3</string>
+      <string>Eddie Bo - Check Your Bucket (Parts 1 &amp; 2), 3</string>
       <string>A Tribe Called Quest - Luck Of Lucien, 2</string>
       <string>Aretha Franklin - Rock Steady, 2</string>
       <string>Barry White - Satin Soul, 2</string>
@@ -4675,6 +4678,7 @@
   <TrackMix>
     <Track>Beastie Boys - Some Dumb Cop Gave Me Two Tickets Already (Instrumental)</Track>
     <MixRankings>
+      <string>Jurassic 5 - Concrete Schoolyard, 5</string>
       <string>De La Soul - Fallin' (feat. Teenage Fan Club), 4</string>
       <string>People Under The Stairs - The Breakdown, 4</string>
       <string>Gian Franco Pienzio - Grigio Perla, 4</string>
@@ -4836,6 +4840,7 @@
       <string>RJD2 - Here's What's Left, 2</string>
       <string>Del The Funky Homosapien - Thank Youse, 2</string>
       <string>DJ Nu Mark - Comin' Thru (feat. Chali 2na) (Instrumental) (RB Edit), 2</string>
+      <string>Cortex - La Rue, 2</string>
       <string>A Tribe Called Quest - Oh My God, 0</string>
       <string>Bill Withers - Lovely Day, 0</string>
       <string>Charles Wright &amp; The Watts 103rd Street Rhythm Band - Express Yourself, 0</string>
@@ -5295,6 +5300,7 @@
     <MixRankings>
       <string>Jurassic 5 - Unified Rebelution, 5</string>
       <string>The J.B.'s - Gimme Some More, 4</string>
+      <string>Jorge Ben - Olha A Beleza Dela, 4</string>
       <string>Breakestra - Burgundy Blues (feat. James "The Penguin" King), 3</string>
       <string>De La Soul - Breakadawn, 3</string>
       <string>Hopeton Lewis - Take it Easy, 3</string>
@@ -7820,6 +7826,7 @@
       <string>King Jammy - Dub It in the Dancehall Dub, 2</string>
       <string>Jurassic 5 - Concrete Schoolyard (Instrumental), 2</string>
       <string>Katchafire - Get Away, 2</string>
+      <string>Ian Pooley - Spicy Snapper, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -9026,6 +9033,7 @@
       <string>The J.B.'s - (It's Not the Express) It's the J.B.'s Monaurail, 3</string>
       <string>RJD2 - All For U, 3</string>
       <string>Beats International - Dub Be Good To Me, 3</string>
+      <string>Burning Spear - The Ghost (Marcus Garvey), 3</string>
       <string>A Tribe Called Quest - Can I Kick It, 2</string>
       <string>A Tribe Called Quest - Jam, 2</string>
       <string>Cannonball Adderley - Groovy Sambas, 2</string>
@@ -12574,6 +12582,7 @@
       <string>Barry White - It's Ecstasy When You Lay Down Next To Me, 0</string>
       <string>RJD2 - All For U, 0</string>
       <string>Otis Redding - (Sittin' On) The Dock of the Bay, 0</string>
+      <string>Nightmares On Wax - You Wish, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -12765,6 +12774,7 @@
       <string>James Brown - Get On The Good Foot, 2</string>
       <string>Kool Blues - Can We Try Love Again, 2</string>
       <string>Seu Jorge - Burguesinha, 2</string>
+      <string>RJD2 - 1976, 2</string>
       <string>Quarteto Em Cy - Tudo Que Você Podia Ser, 0</string>
     </MixRankings>
   </TrackMix>
@@ -12788,6 +12798,7 @@
       <string>Naughty By Nature - OPP (Instrumental), 2</string>
       <string>The Pharcyde - Runnin, 2</string>
       <string>A Tribe Called Quest - Electric Relaxation (Instrumental), 2</string>
+      <string>The Beatnuts - Watch Out Now (Instrumental), 2</string>
       <string>A Tribe Called Quest - Oh My God, 0</string>
       <string>Al Green - Love And Happiness, 0</string>
       <string>Aloe Blacc - I Need A Dollar (Instrumental), 0</string>
@@ -16984,6 +16995,7 @@
       <string>Katchafire - Get Away, 2</string>
       <string>Jurassic 5 - Concrete Schoolyard (Instrumental), 2</string>
       <string>Elzhi &amp; Will Sessions - Memory Lane (Instrumental), 2</string>
+      <string>Jorge Ben - Ponta De Laca Africano (Umbabaraúma), 2</string>
       <string>A Tribe Called Quest - Jam, 0</string>
       <string>A Tribe Called Quest - Push It Along (Instrumental), 0</string>
       <string>Aloe Blacc - I Need A Dollar, 0</string>
@@ -17208,6 +17220,7 @@
     <Track>Ini Kamoze - Here Comes The Hotstepper</Track>
     <MixRankings>
       <string>Aretha Franklin - Rock Steady, 5</string>
+      <string>The Bamboos - The Ghost, 5</string>
       <string>The Beatnuts - Watch Out Now (Instrumental), 4</string>
       <string>The Beatnuts - Off The Books (Instrumental), 4</string>
       <string>Quannum Projects - I Changed My Mind (Instrumental), 4</string>
@@ -18772,6 +18785,7 @@
       <string>Taggy Matcher - Breathe And Stop, 3</string>
       <string>Explosions - Hip Drop, 3</string>
       <string>Avan Samba - Ibere, 3</string>
+      <string>Young Holt Unlimited - Rubber Lips, 3</string>
       <string>Jeanne &amp; The Darlings - How Can You Mistreat The One You Love, 2</string>
       <string>Jurassic 5 - React (Instrumental), 2</string>
       <string>Monie Love - It's A Shame, 2</string>
@@ -20843,6 +20857,7 @@
       <string>Erykah Badu - Soldier (Grant Phabao Remix), 2</string>
       <string>Wes Montgomery - Tequila, 2</string>
       <string>Taggy Matcher - Ain't Hard To Tell, 2</string>
+      <string>Taggy Matcher - My Adidas, 2</string>
       <string>Jorge Ben - Criola, 0</string>
       <string>Jorge Ben - Balanca Pema, 0</string>
       <string>Cypress Hill - Latin Thugs (Instrumental), 0</string>
@@ -20936,6 +20951,7 @@
       <string>Osmar Milito - Morre O Burro, Fica O Homem, 2</string>
       <string>The Pharcyde - Runnin, 2</string>
       <string>Jorge Ben - Rosa, Menina Rosa, 2</string>
+      <string>Ini Kamoze - Here Comes The Hotstepper, 2</string>
       <string>Mario Castro Neves &amp; Samba S.A. - Candomblé, 0</string>
       <string>Elza Soares - Mas Que Nada, 0</string>
       <string>Cypress Hill - Latin Thugs (Instrumental), 0</string>
@@ -21753,6 +21769,7 @@
     <MixRankings>
       <string>El Michels Affair - Red Rooster, 5</string>
       <string>Agora Chega - Super Som T.A., 5</string>
+      <string>The Black Seeds - Cool Me Down, 5</string>
       <string>People Under The Stairs - Flex Off, 4</string>
       <string>Sharon Jones &amp; The Dap Kings - Be Easy, 4</string>
       <string>The Beatnuts - Get Funky (Instrumental), 4</string>
@@ -22908,6 +22925,7 @@
       <string>A Tribe Called Quest - Electric Relaxation (Instrumental), 2</string>
       <string>Taggy Matcher - My Adidas, 2</string>
       <string>DJ Muggs vs. Sick Jacken - El Barrio, 2</string>
+      <string>A Tribe Called Quest - Check the Rhime, 2</string>
       <string>Al Green - I'm Still In Love With You, 0</string>
       <string>Bill Withers - Lovely Day, 0</string>
       <string>Breakestra - Come On Over (feat. Afrodyete), 0</string>
@@ -27271,6 +27289,7 @@
       <string>Al Green - Tire Of Being Alone, 3</string>
       <string>Cypress Hill - Latin Thugs (Instrumental), 3</string>
       <string>Ini Kamoze - Here Comes The Hotstepper, 3</string>
+      <string>Bill Withers - Lovely Day, 3</string>
       <string>A Tribe Called Quest - 1nce Again (Instrumental), 2</string>
       <string>Astrud Gilberto - Take It Easy, My Brother Charlie, 2</string>
       <string>Ike &amp; Tine Turner - Bold Soul Sister, 2</string>
@@ -27429,6 +27448,7 @@
       <string>Stan Getz &amp; Laurindo Almeida - Menina Moca, 3</string>
       <string>Ernest Ranglin - Love and Happiness, 3</string>
       <string>Bomb The Bass - Bug Powder Dust (K&amp;D Session), 3</string>
+      <string>James Brown - Soul Power, 3</string>
       <string>Greyboy - Singles Party (Part #2), 2</string>
       <string>Greyboy - Whirlwind, 2</string>
       <string>Stan Getz &amp; Astrud Gilberto - Eu E Voce (Me And You) (Live), 2</string>
@@ -29766,6 +29786,7 @@
   <TrackMix>
     <Track>RJD2 - 1976</Track>
     <MixRankings>
+      <string>Beastie Boys - Shake Your Rump (Instrumental), 4</string>
       <string>Edson Frederico - Bobeira, 3</string>
     </MixRankings>
   </TrackMix>
@@ -34830,6 +34851,7 @@
     <Track>Taggy Matcher - My Adidas</Track>
     <MixRankings>
       <string>Jurassic 5 - Great Expectations (Instrumental), 4</string>
+      <string>Jurassic 5 - Unified Rebelution, 4</string>
       <string>James Brown - The Payback, 3</string>
       <string>Nas - One Love (Large Professor Remix) (Instrumental), 3</string>
       <string>Nightmares On Wax - Keep On (feat. De La Soul) (86 Init Mix), 3</string>
@@ -35495,6 +35517,7 @@
       <string>The Bamboos - The Ghost, 4</string>
       <string>The Herbaliser - 24 Carat Blag, 4</string>
       <string>Del The Funky Homosapien - Thank Youse, 4</string>
+      <string>The Sure Fire Soul Ensemble - City Heights, 4</string>
       <string>A Tribe Called Quest - Award Tour (Instrumental), 3</string>
       <string>Beastie Boys - Hey Ladies (Instrumental), 3</string>
       <string>Lena Mone - You Stay On My Mind, 3</string>
@@ -35691,6 +35714,7 @@
   <TrackMix>
     <Track>The Bamboos - The Ghost</Track>
     <MixRankings>
+      <string>Nightmares On Wax - Play On, 5</string>
       <string>Explosions - Garden Of Four Trees, 4</string>
       <string>Jurassic 5 - Break, 4</string>
       <string>Jurassic 5 - Jayou, 4</string>
@@ -36284,6 +36308,7 @@
       <string>Nightmares On Wax - Play On, 3</string>
       <string>Prince Fatty - Insane In The Brain (feat. Horseman), 3</string>
       <string>Cypress Hill - Loco en el Coco, 3</string>
+      <string>Edson Frederico - Bobeira, 3</string>
       <string>A Tribe Called Quest - Electric Relaxation (Instrumental), 2</string>
       <string>Aretha Franklin - Rock Steady, 2</string>
       <string>Aretha Franklin - Think, 2</string>
@@ -36393,6 +36418,7 @@
     <Track>The Black Seeds - Cool Me Down</Track>
     <MixRankings>
       <string>People Under The Stairs - Flex Off, 5</string>
+      <string>Agora Chega - Super Som T.A., 5</string>
       <string>Mr. Scruff - Here We Go, 4</string>
       <string>Nas - Halftime (Instrumental), 4</string>
       <string>Burning Spear - The Ghost (Marcus Garvey), 4</string>
@@ -38136,6 +38162,7 @@
       <string>Prince Fatty - Insane In The Brain (feat. Horseman), 4</string>
       <string>El Michels Affair - Uzi (Pinky Ring), 4</string>
       <string>Lee Perry - Jungle Lion, 4</string>
+      <string>The Gaturs - Gator Bait, 4</string>
       <string>Aretha Franklin - Rock Steady, 3</string>
       <string>Beastie Boys - Shadrach (Instrumental), 3</string>
       <string>Brentford Allstars - Greedy G, 3</string>
@@ -40256,6 +40283,7 @@
     <Track>The Sure Fire Soul Ensemble - City Heights</Track>
     <MixRankings>
       <string>Dizzy Gillespie - One Note Samba, 4</string>
+      <string>Beats International - Dub Be Good To Me, 4</string>
       <string>Wanda Sá - So Danço Samba (I Only Dance Samba), 3</string>
       <string>Nightmares On Wax - Les Nuits, 3</string>
       <string>Cannonball Adderley - Groovy Sambas, 2</string>
@@ -43921,6 +43949,7 @@
   <TrackMix>
     <Track>Young Holt Unlimited - Rubber Lips</Track>
     <MixRankings>
+      <string>The J.B.'s - Hot Pants Road, 5</string>
       <string>Astrud Gilberto - Ponteio, 4</string>
       <string>Donald Byrd - (Fallin' Like) Dominoes, 4</string>
       <string>Nightmares On Wax - You Wish, 4</string>

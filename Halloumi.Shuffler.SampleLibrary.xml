@@ -58342,4 +58342,22 @@
     </Tags>
     <Gain>1.161868</Gain>
   </Sample>
+  <Sample>
+    <Start>163.70387471655329</Start>
+    <Length>8.3178089569161</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>Godsnake</TrackArtist>
+    <TrackTitle>Children Of The Night</TrackTitle>
+    <TrackLength>0</TrackLength>
+    <Description>Riff1</Description>
+    <Bpm>115.41500952625</Bpm>
+    <Tags>
+      <string>metal</string>
+    </Tags>
+    <Gain>1.15230691</Gain>
+  </Sample>
 </ArrayOfSample>
