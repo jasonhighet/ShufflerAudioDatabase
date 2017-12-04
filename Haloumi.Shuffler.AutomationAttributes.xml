@@ -14940,22 +14940,22 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
       <ExtendedMixAttributes>
-        <TrackDescription>DJ Nu Mark - Comin' Thru (feat. Chali 2na) (Instrumental) (RB Edit)</TrackDescription>
-        <FadeLength>10.0302947845805</FadeLength>
-        <FadeEnd>43705424</FadeEnd>
-        <FadeEndLoop>0</FadeEndLoop>
-        <FadeEndVolume>0.1993827</FadeEndVolume>
-        <PowerDownOnEnd>true</PowerDownOnEnd>
-        <ExtendedFadeType>Default</ExtendedFadeType>
-        <SampleTriggers />
-      </ExtendedMixAttributes>
-      <ExtendedMixAttributes>
         <TrackDescription>Nightmares On Wax - Know My Name (Instrumental)</TrackDescription>
         <FadeLength>12.640816326530612</FadeLength>
         <FadeEnd>44359520</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.056</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>DJ Nu Mark - Comin' Thru (feat. Chali 2na) (Instrumental) (RB Edit)</TrackDescription>
+        <FadeLength>20.026666666666667</FadeLength>
+        <FadeEnd>47385720</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3429383</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
