@@ -15602,10 +15602,10 @@
       </ExtendedMixAttributes>
       <ExtendedMixAttributes>
         <TrackDescription>Orgone - Don't Stop</TrackDescription>
-        <FadeLength>17.224716553287983</FadeLength>
-        <FadeEnd>55288648</FadeEnd>
-        <FadeEndLoop>3</FadeEndLoop>
-        <FadeEndVolume>0.2550448</FadeEndVolume>
+        <FadeLength>17.313877551020408</FadeLength>
+        <FadeEnd>58521392</FadeEnd>
+        <FadeEndLoop>4</FadeEndLoop>
+        <FadeEndVolume>0.1836567</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -22581,6 +22581,11 @@
       <TrackFXTrigger>
         <Start>24.360748299319727</Start>
         <Length>1.0201587301587303</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>116.46052154195012</Start>
+        <Length>1.1987528344671148</Length>
         <DelayNotes>0.5</DelayNotes>
       </TrackFXTrigger>
     </TrackFXTriggers>
