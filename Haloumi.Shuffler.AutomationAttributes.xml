@@ -798,6 +798,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Fela Soul - Still Ego Trippin' (Instrumental)</TrackDescription>
+        <FadeLength>18.376349206349207</FadeLength>
+        <FadeEnd>49713424</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.056</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -1261,6 +1271,16 @@
         <FadeEnd>81795192</FadeEnd>
         <FadeEndLoop>4</FadeEndLoop>
         <FadeEndVolume>0.688</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Damu the Fudgemunk - Dream Catcher</TrackDescription>
+        <FadeLength>26.642222222222223</FadeLength>
+        <FadeEnd>82489104</FadeEnd>
+        <FadeEndLoop>5</FadeEndLoop>
+        <FadeEndVolume>0.1196202</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -2865,6 +2885,16 @@
         <FadeEnd>44542912</FadeEnd>
         <FadeEndLoop>2</FadeEndLoop>
         <FadeEndVolume>0.048</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Lennie Hibbert - Real Hot (RB Edit)</TrackDescription>
+        <FadeLength>25.165578231292518</FadeLength>
+        <FadeEnd>43390552</FadeEnd>
+        <FadeEndLoop>4</FadeEndLoop>
+        <FadeEndVolume>0.392</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -7020,6 +7050,16 @@
         <ExtendedFadeType>QuickFade</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Pete Rock - Back On The Block (Instrumental)</TrackDescription>
+        <FadeLength>0.32296875000000019</FadeLength>
+        <FadeEnd>51115408</FadeEnd>
+        <FadeEndLoop>8</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>EchoOut</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -7219,6 +7259,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Damu the Fudgemunk - Fabrega's Discotecas</TrackDescription>
+        <FadeLength>19.307301587301588</FadeLength>
+        <FadeEnd>48551776</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3194737</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -7244,6 +7294,16 @@
         <FadeEndLoop>1</FadeEndLoop>
         <FadeEndVolume>0.056</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>RJD2 - All For U</TrackDescription>
+        <FadeLength>18.943310657596371</FadeLength>
+        <FadeEnd>20827712</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.31148</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -9679,6 +9739,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Jurassic 5 - Quality Control</TrackDescription>
+        <FadeLength>11.055986394557824</FadeLength>
+        <FadeEnd>50852080</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3674651</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -10793,6 +10863,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Nightmares On Wax - Les Nuits (DJ Spinna Mix)</TrackDescription>
+        <FadeLength>19.681269841269842</FadeLength>
+        <FadeEnd>34419736</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.4626353</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -10833,6 +10913,16 @@
         <FadeEnd>44911032</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.3986842</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>A Tribe Called Quest - Push It Along (Instrumental)</TrackDescription>
+        <FadeLength>20.281473922902496</FadeLength>
+        <FadeEnd>44896464</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3428685</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -16685,6 +16775,24 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Jurassic 5 - Great Expectations</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Cypress Hill - Latin Thugs (Instrumental)</TrackDescription>
+        <FadeLength>10.111405895691609</FadeLength>
+        <FadeEnd>59313968</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.104</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Jurassic 5 - Great Expectations (Instrumental)</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -17356,6 +17464,16 @@
         <FadeEndLoop>2</FadeEndLoop>
         <FadeEndVolume>0.608</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Nightmares On Wax - Know My Name (Instrumental)</TrackDescription>
+        <FadeLength>21.321904761904761</FadeLength>
+        <FadeEnd>67415136</FadeEnd>
+        <FadeEndLoop>4</FadeEndLoop>
+        <FadeEndVolume>0.152</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -19302,6 +19420,16 @@
             <SampleID>King Tubby - Roots of Dub - FadeIn</SampleID>
           </SampleTrigger>
         </SampleTriggers>
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Skatalites - Swing Easy</TrackDescription>
+        <FadeLength>12.150385487528345</FadeLength>
+        <FadeEnd>37717720</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.2476837</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples>
@@ -22095,6 +22223,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>People Under The Stairs - Flex Off</TrackDescription>
+        <FadeLength>21.230702947845806</FadeLength>
+        <FadeEnd>71129768</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.056</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -22173,6 +22311,16 @@
             <SampleID>Nightmares On Wax - Keep On (feat. De La Soul) (86 Init Mix) - PreFadeIn</SampleID>
           </SampleTrigger>
         </SampleTriggers>
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Triflicts - Genuine (Instrumental)</TrackDescription>
+        <FadeLength>19.825895691609976</FadeLength>
+        <FadeEnd>56879640</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.152</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
@@ -22865,6 +23013,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Jurassic 5 - Great Expectations</TrackDescription>
+        <FadeLength>24.94748299319728</FadeLength>
+        <FadeEnd>50119304</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.4233375</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -23230,6 +23388,16 @@
         <FadeEndVolume>0.4865122</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Fela Soul - Oooh (Instrumental)</TrackDescription>
+        <FadeLength>0.33</FadeLength>
+        <FadeEnd>55996056</FadeEnd>
+        <FadeEndLoop>8</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>EchoOut</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -23640,6 +23808,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.1198101</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>DJ Muggs vs. Sick Jacken - El Barrio</TrackDescription>
+        <FadeLength>10.326145124716554</FadeLength>
+        <FadeEnd>34666344</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -30949,6 +31127,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>A Tribe Called Quest - Jam (Instrumental)</TrackDescription>
+        <FadeLength>20.569569160997734</FadeLength>
+        <FadeEnd>33920272</FadeEnd>
+        <FadeEndLoop>4</FadeEndLoop>
+        <FadeEndVolume>0.2955256</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -32084,6 +32272,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.2473111</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Eddie Henderson - Inside You</TrackDescription>
+        <FadeLength>22.366009070294783</FadeLength>
+        <FadeEnd>61306384</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.08</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -33688,6 +33886,24 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.536</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Triflicts - Genuine (Instrumental)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Os Originais Do Samba - Tenha Fé Pois Amanhã Um Lindo Dia Vai Nascer</TrackDescription>
+        <FadeLength>7.3898866213151928</FadeLength>
+        <FadeEnd>35647736</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.128</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
