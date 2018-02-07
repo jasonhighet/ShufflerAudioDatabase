@@ -11672,6 +11672,11 @@
         <Length>0.7393877551020438</Length>
         <DelayNotes>0.25</DelayNotes>
       </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>191.92351473922903</Start>
+        <Length>2.1699999999999875</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
     </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
@@ -11692,6 +11697,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.296</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Roslyn Sweat &amp; The Paragons - Blackbird</TrackDescription>
+        <FadeLength>10.423083900226757</FadeLength>
+        <FadeEnd>72391496</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.176</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -15692,10 +15707,10 @@
       </ExtendedMixAttributes>
       <ExtendedMixAttributes>
         <TrackDescription>Orgone - Don't Stop</TrackDescription>
-        <FadeLength>17.313877551020408</FadeLength>
-        <FadeEnd>58521392</FadeEnd>
-        <FadeEndLoop>4</FadeEndLoop>
-        <FadeEndVolume>0.1836567</FadeEndVolume>
+        <FadeLength>17.224716553287983</FadeLength>
+        <FadeEnd>55288648</FadeEnd>
+        <FadeEndLoop>3</FadeEndLoop>
+        <FadeEndVolume>0.2550448</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -22731,11 +22746,6 @@
         <Length>1.0201587301587303</Length>
         <DelayNotes>0.5</DelayNotes>
       </TrackFXTrigger>
-      <TrackFXTrigger>
-        <Start>116.46052154195012</Start>
-        <Length>1.1987528344671148</Length>
-        <DelayNotes>0.5</DelayNotes>
-      </TrackFXTrigger>
     </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
@@ -24870,6 +24880,16 @@
         <FadeEndVolume>0.2</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Massive Attack - Teardrop</TrackDescription>
+        <FadeLength>0.40854875283446712</FadeLength>
+        <FadeEnd>41894488</FadeEnd>
+        <FadeEndLoop>8</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>EchoOut</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -30326,6 +30346,55 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>The Herbaliser - Put It On Tape</Track>
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>69.778875</Start>
+        <Length>0.7212708333333353</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>73.417145833333336</Start>
+        <Length>1.9656250000000028</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>79.400895833333337</Start>
+        <Length>2.4973541666666677</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>88.6203125</Start>
+        <Length>1.1787916666666689</Length>
+        <DelayNotes>0.0625</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>108.91889583333334</Start>
+        <Length>3.5219999999999914</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>111.71445833333334</Start>
+        <Length>1.5813749999999942</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Prince Fatty - Switch Blade</TrackDescription>
+        <FadeLength>13.247913832199547</FadeLength>
+        <FadeEnd>49295792</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.104</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>The Herbaliser - Repetitive Loop (Reloop)</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -33329,16 +33398,6 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
-      <ExtendedMixAttributes>
-        <TrackDescription>Ernest Ranglin - Surfin'</TrackDescription>
-        <FadeLength>6.986</FadeLength>
-        <FadeEnd>49405752</FadeEnd>
-        <FadeEndLoop>0</FadeEndLoop>
-        <FadeEndVolume>1</FadeEndVolume>
-        <PowerDownOnEnd>false</PowerDownOnEnd>
-        <ExtendedFadeType>QuickFade</ExtendedFadeType>
-        <SampleTriggers />
-      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -34391,6 +34450,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.12</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Herbaliser - Put It On Tape</TrackDescription>
+        <FadeLength>23.66025</FadeLength>
+        <FadeEnd>50519072</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.032</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
