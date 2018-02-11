@@ -973,6 +973,10 @@
     <Attributes>Duration=376.387;EndBPM=101.79;FadeIn=89.953;FadeOut=250.282;Key=Bm;Rank=2;StartBPM=101.79;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Cutty Ranks - The Stopper (Richard Dorfmeister's Full Moon 6 live Dub)</Track>
+    <Attributes>Duration=378.776;EndBPM=91.980;FadeIn=74.632;FadeInLengthInSeconds=20.878;FadeOut=262.450;FadeOutLengthInSeconds=20.874;Rank=4;StartBPM=91.965;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Cybernetika - Anomaly</Track>
     <Attributes>Duration=624.094;EndBPM=88.414;FadeIn=360.622;FadeInLengthInSeconds=21.716;FadeOut=555.881;FadeOutLengthInSeconds=21.716;Rank=3;StartBPM=88.414;</Attributes>
   </ExtenedAttributes>
@@ -1435,6 +1439,10 @@
   <ExtenedAttributes>
     <Track>Family Plann - Come On Let's Do The Breakdown</Track>
     <Attributes>Duration=167.747;EndBPM=112.954465231204;EndLoopCount=2;FadeIn=3.383;FadeInLengthInSeconds=4.239;FadeOut=66.621;FadeOutLengthInSeconds=8.499;Key=Bm;PreFadeInPosition=2.297;PreFadeInStartVolume=100;Rank=3;StartBPM=113.234253361642;StartLoopCount=3;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Fat Freddys Drop - Roady</Track>
+    <Attributes>Duration=430.002;EndBPM=86.557;FadeIn=105.118;FadeInLengthInSeconds=11.128;FadeOut=377.026;FadeOutLengthInSeconds=22.182;PreFadeInPosition=104.752;PreFadeInStartVolume=75;Rank=4;SkipLengthInSeconds=55.491;SkipStart=288.244;StartBPM=86.265;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Fela Soul - Oooh (Instrumental)</Track>
