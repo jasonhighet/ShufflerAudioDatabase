@@ -6761,6 +6761,13 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Cutty Ranks - The Stopper (Richard Dorfmeister's Full Moon 6 live Dub)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Cybernetika - Anomaly</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -10852,6 +10859,13 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Fat Freddys Drop - Roady</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -29547,7 +29561,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>The Black Seeds - Cool Me Down</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>41.063333333333333</Start>
+        <Length>0.61909297052154244</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
