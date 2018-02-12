@@ -9846,6 +9846,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Al Green - Here I Am (Come And Take Me)</TrackDescription>
+        <FadeLength>4.9419999999999993</FadeLength>
+        <FadeEnd>47198992</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -22262,6 +22272,16 @@
         <TrackDescription>People Under The Stairs - Flex Off</TrackDescription>
         <FadeLength>21.230702947845806</FadeLength>
         <FadeEnd>71129768</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.056</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Janet Jackson - Got 'Till It's Gone (feat. Q-Tip)</TrackDescription>
+        <FadeLength>14.716190476190477</FadeLength>
+        <FadeEnd>68765536</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.056</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
