@@ -4461,7 +4461,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Black Sun Empire - 1800 Contact</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>183.8365306122449</Start>
+        <Length>1.2599999999999909</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
