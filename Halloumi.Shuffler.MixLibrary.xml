@@ -1,6 +1,10 @@
 <?xml version="1.0"?>
 <ArrayOfTrackMix xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <TrackMix>
+    <Track>1000 Homo DJs - Supernaut</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>24 Carat Black - The 24 Carat Black</Track>
     <MixRankings>
       <string>Dizzy Gillespie - Alligator, 3</string>
@@ -36,6 +40,10 @@
       <string>The Bamboos - The Witch, 0</string>
       <string>The Pioneers - Papa Was A Rolling Stone, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>8 Foot Sativa - Disorder</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>A Tribe Called Quest - 1nce Again (Instrumental)</Track>
@@ -1312,7 +1320,7 @@
   <TrackMix>
     <Track>Aaron Neville - Hercules</Track>
     <MixRankings>
-      <string>The  Dynamics - Whole Lotta Love, 5</string>
+      <string>The  Dynamics - Whole Lotta Love, 4</string>
       <string>Various - Tenor Saw - Ring The Alarm, 4</string>
       <string>Jorge Ben - Take It Easy My Brother Charles, 3</string>
       <string>Charles Bradley - The World (Is Going Up In Flames), 3</string>
