@@ -33551,7 +33551,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Tosca - Boss On The Boat</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>47.381723356009068</Start>
+        <Length>0.56034013605442112</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers>
       <SampleTrigger>
         <Start>64.838140589569164</Start>
