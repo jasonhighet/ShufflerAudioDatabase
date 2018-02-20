@@ -1450,10 +1450,10 @@
     <ExtendedMixes>
       <ExtendedMixAttributes>
         <TrackDescription>The  Dynamics - Whole Lotta Love</TrackDescription>
-        <FadeLength>23.24328798185941</FadeLength>
-        <FadeEnd>75691784</FadeEnd>
-        <FadeEndLoop>4</FadeEndLoop>
-        <FadeEndVolume>0.07988889</FadeEndVolume>
+        <FadeLength>11.682222222222222</FadeLength>
+        <FadeEnd>75688248</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.2236889</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
