@@ -3360,7 +3360,23 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Average White Band - Stop The Rain</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>64.496734693877556</Start>
+        <Length>1.1394104308389927</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>73.275034013605449</Start>
+        <Length>1.6190022675736913</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>90.397460317460315</Start>
+        <Length>1.2997959183673515</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -3923,6 +3939,16 @@
         <FadeEndVolume>1</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>EchoOut</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Dizzy Gillespie - Matrix</TrackDescription>
+        <FadeLength>18.51</FadeLength>
+        <FadeEnd>33542808</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>PowerDown</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -6808,7 +6834,18 @@
     <Track>Cutty Ranks - The Stopper (Richard Dorfmeister's Full Moon 6 live Dub)</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>People Under The Stairs - Acid Raindrops</TrackDescription>
+        <FadeLength>26.08154195011338</FadeLength>
+        <FadeEnd>101753200</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.056</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -7906,6 +7943,11 @@
         <Length>1.1002040816326542</Length>
         <DelayNotes>0.5</DelayNotes>
       </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>91.084807256235834</Start>
+        <Length>0.33718820861678012</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
     </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
@@ -8075,6 +8117,16 @@
         <Start>137.34578231292517</Start>
         <Length>93.533537414965991</Length>
         <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>121.6752380952381</Start>
+        <Length>1.2005442176870673</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>137.19537414965987</Start>
+        <Length>1.5798185941042959</Length>
+        <DelayNotes>0.25</DelayNotes>
       </TrackFXTrigger>
     </TrackFXTriggers>
     <SampleTriggers />
@@ -29602,6 +29654,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Deltron 3030 - Positive Contact</TrackDescription>
+        <FadeLength>18.421882086167802</FadeLength>
+        <FadeEnd>27863160</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2955</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -33055,6 +33117,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.352</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Beatnuts - Watch Out Now (Instrumental)</TrackDescription>
+        <FadeLength>11.470430839002267</FadeLength>
+        <FadeEnd>62439888</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
