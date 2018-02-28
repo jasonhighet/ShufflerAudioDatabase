@@ -3534,6 +3534,13 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Bad Company - Sentient</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Barbara &amp; Gwen - Right On</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -4542,6 +4549,16 @@
     <ExtendedMixes>
       <ExtendedMixAttributes>
         <TrackDescription>Cybernetika - Anomaly</TrackDescription>
+        <FadeLength>5.5804988662131523</FadeLength>
+        <FadeEnd>99342304</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Cybernetika - Stinger</TrackDescription>
         <FadeLength>5.5804988662131523</FadeLength>
         <FadeEnd>99342304</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
@@ -6735,6 +6752,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Bad Company - Hysteria</TrackDescription>
+        <FadeLength>8.0515419501133785</FadeLength>
+        <FadeEnd>145550992</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.05591567</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -6889,6 +6916,24 @@
     <TrackFXTriggers />
     <SampleTriggers />
     <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Cybernetika - Stinger</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Black Sun Empire - Descent</TrackDescription>
+        <FadeLength>18.984875283446712</FadeLength>
+        <FadeEnd>124423248</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.247631</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>

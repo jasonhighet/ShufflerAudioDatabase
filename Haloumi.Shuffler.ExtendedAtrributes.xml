@@ -345,6 +345,10 @@
     <Attributes>Duration=355.135;EndBPM=87.456;FadeIn=66.814;FadeInLengthInSeconds=21.954;FadeOut=276.241;FadeOutLengthInSeconds=21.954;Rank=5;StartBPM=87.456;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Bad Company - Sentient</Track>
+    <Attributes>Duration=379.481;EndBPM=86.903;FadeIn=22.269;FadeInLengthInSeconds=22.096;FadeOut=220.939;FadeOutLengthInSeconds=22.094;Rank=4;StartBPM=86.894;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Banda Black Rio - Mr. Funky Samba</Track>
     <Attributes>Duration=219.22;EndBPM=101.512107433647;EndLoopCount=2;FadeIn=8.147;FadeInLengthInSeconds=9.631;FadeOut=121.074;FadeOutLengthInSeconds=9.457;Key=G;PreFadeInPosition=7.797;PreFadeInStartVolume=75;Rank=3;StartBPM=99.6781227286886;</Attributes>
   </ExtenedAttributes>
@@ -938,7 +942,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Concord Dawn - The Fallen</Track>
-    <Attributes>Duration=1190.008;EndBPM=90.438;FadeIn=160.219;FadeInLengthInSeconds=21.276;FadeOut=394.314;FadeOutLengthInSeconds=21.230;Rank=3;StartBPM=90.243;</Attributes>
+    <Attributes>Duration=1190.008;EndBPM=90.190;FadeIn=160.219;FadeInLengthInSeconds=21.276;FadeOut=394.393;FadeOutLengthInSeconds=21.288;Rank=3;StartBPM=90.243;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>ConFunkShun - Clique</Track>
@@ -987,6 +991,10 @@
   <ExtenedAttributes>
     <Track>Cybernetika - Monolithic</Track>
     <Attributes>Duration=509.511;EndBPM=89.502;FadeIn=75.082;FadeInLengthInSeconds=21.437;FadeOut=337.869;FadeOutLengthInSeconds=21.452;Rank=3;SkipLengthInSeconds=42.905;SkipStart=235.936;StartBPM=89.565;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Cybernetika - Stinger</Track>
+    <Attributes>Duration=687.647;EndBPM=89.203;FadeIn=183.372;FadeInLengthInSeconds=10.760;FadeOut=334.373;FadeOutLengthInSeconds=21.524;PreFadeInPosition=182.035;PreFadeInStartVolume=75;Rank=4;StartBPM=89.219;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Cymande - Brothers On The Slide</Track>
