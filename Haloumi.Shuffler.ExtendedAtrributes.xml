@@ -337,6 +337,10 @@
     <Attributes>Duration=425.143;EndBPM=87.012;FadeIn=98.438;FadeInLengthInSeconds=22.056;FadeOut=274.908;FadeOutLengthInSeconds=22.066;Rank=3;StartBPM=87.051;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Bad Company - Bullet Time</Track>
+    <Attributes>Duration=379.193;EndBPM=86.833;FadeIn=66.387;FadeInLengthInSeconds=11.057;FadeOut=265.354;FadeOutLengthInSeconds=11.056;PreFadeInPosition=63.294;PreFadeInStartVolume=00;Rank=3;StartBPM=86.826;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Bad Company - Hysteria</Track>
     <Attributes>Duration=413.231;EndBPM=88.831;FadeIn=76.101;FadeInLengthInSeconds=10.877;FadeOut=259.601;FadeOutLengthInSeconds=21.614;Rank=3;StartBPM=88.259;</Attributes>
   </ExtenedAttributes>
@@ -345,8 +349,16 @@
     <Attributes>Duration=355.135;EndBPM=87.456;FadeIn=66.814;FadeInLengthInSeconds=21.954;FadeOut=276.241;FadeOutLengthInSeconds=21.954;Rank=5;StartBPM=87.456;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Bad Company - Nitrous</Track>
+    <Attributes>Duration=435.722;EndBPM=86.776;FadeIn=254.177;FadeInLengthInSeconds=11.068;FadeOut=419.843;FadeOutLengthInSeconds=11.063;Rank=3;StartBPM=86.737;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Bad Company - Sentient</Track>
     <Attributes>Duration=379.481;EndBPM=86.903;FadeIn=22.269;FadeInLengthInSeconds=22.096;FadeOut=220.939;FadeOutLengthInSeconds=22.094;Rank=4;StartBPM=86.894;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Bad Company - The Nine</Track>
+    <Attributes>Duration=425.613;EndBPM=86.822;FadeIn=88.551;FadeInLengthInSeconds=22.107;FadeOut=353.778;FadeOutLengthInSeconds=11.057;PreFadeInPosition=88.197;PreFadeInStartVolume=75;Rank=3;StartBPM=86.850;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Banda Black Rio - Mr. Funky Samba</Track>
@@ -559,6 +571,18 @@
   <ExtenedAttributes>
     <Track>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix)</Track>
     <Attributes>Duration=339.310;EndBPM=87.001;FadeIn=44.166;FadeInLengthInSeconds=22.040;FadeOut=286.896;FadeOutLengthInSeconds=22.069;Rank=4;StartBPM=87.113;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Black Sun Empire - Feed The Machine (feat. Noisia)</Track>
+    <Attributes>Duration=320.292;EndBPM=86.692;FadeIn=79.139;FadeInLengthInSeconds=11.165;FadeOut=268.928;FadeOutLengthInSeconds=11.074;Rank=3;StartBPM=85.983;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Black Sun Empire - Hideous (feat. Noisia) (VIP Remix)</Track>
+    <Attributes>Duration=397.241;EndBPM=86.721;FadeIn=110.335;FadeInLengthInSeconds=22.080;FadeOut=314.472;FadeOutLengthInSeconds=22.140;PreFadeInPosition=109.641;PreFadeInStartVolume=00;Rank=3;StartBPM=86.956;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Black Sun Empire - Tripel (feat. State Of Mind)</Track>
+    <Attributes>Duration=333.485;EndBPM=86.988;FadeIn=67.204;FadeInLengthInSeconds=22.070;FadeOut=243.763;FadeOutLengthInSeconds=22.072;Rank=3;StartBPM=86.996;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Blackalicious - Deep In The Jungle (Instrumental)</Track>
@@ -885,6 +909,18 @@
     <Attributes>Duration=241.763265306122;EndBPM=97.0285021224985;EndLoopCount=2;FadeIn=0.194;FadeInLengthInSeconds=2.473;FadeOut=69.444;FadeOutLengthInSeconds=9.894;Key=Em;Rank=3;StartBPM=97.048119692681;StartLoopCount=7;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Concord Dawn - Chloroform</Track>
+    <Attributes>Duration=379.324;EndBPM=87.067;FadeIn=77.546;FadeInLengthInSeconds=11.054;FadeOut=220.964;FadeOutLengthInSeconds=11.026;Rank=3;StartBPM=86.848;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Concord Dawn - Cloud City</Track>
+    <Attributes>Duration=472.163;EndBPM=90.138;FadeIn=127.836;FadeInLengthInSeconds=21.314;FadeOut=319.477;FadeOutLengthInSeconds=21.301;Rank=3;StartBPM=90.081;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Concord Dawn - Guardian Angel</Track>
+    <Attributes>Duration=408.738;EndBPM=90.177;FadeIn=106.727;FadeInLengthInSeconds=10.596;FadeOut=300.992;FadeOutLengthInSeconds=10.646;PreFadeInPosition=105.622;PreFadeInStartVolume=75;Rank=3;StartBPM=90.604;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Concord Dawn - Shinkansen</Track>
     <Attributes>Duration=451.500;EndBPM=90.132;FadeIn=170.573;FadeInLengthInSeconds=21.276;FadeOut=404.696;FadeOutLengthInSeconds=21.302;Rank=4;StartBPM=90.243;</Attributes>
   </ExtenedAttributes>
@@ -933,12 +969,24 @@
     <Attributes>Duration=624.094;EndBPM=88.414;FadeIn=360.622;FadeInLengthInSeconds=21.716;FadeOut=555.881;FadeOutLengthInSeconds=21.716;Rank=3;StartBPM=88.414;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Cybernetika - Close Your Eyes</Track>
+    <Attributes>Duration=476.472;EndBPM=87.304;FadeIn=246.904;FadeInLengthInSeconds=21.990;FadeOut=427.884;FadeOutLengthInSeconds=10.996;Rank=3;StartBPM=87.312;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Cybernetika - Distress Beacon</Track>
     <Attributes>Duration=505.773;EndBPM=88.455;FadeIn=43.357;FadeInLengthInSeconds=21.706;FadeOut=195.224;FadeOutLengthInSeconds=21.706;Rank=3;StartBPM=88.455;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Cybernetika - Electron Tracker</Track>
+    <Attributes>Duration=807.414;EndBPM=88.626;FadeIn=108.027;FadeInLengthInSeconds=10.830;FadeOut=303.278;FadeOutLengthInSeconds=21.664;PreFadeInPosition=105.303;PreFadeInStartVolume=00;Rank=3;StartBPM=88.643;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Cybernetika - Monolithic</Track>
     <Attributes>Duration=509.511;EndBPM=89.502;FadeIn=75.082;FadeInLengthInSeconds=21.437;FadeOut=337.869;FadeOutLengthInSeconds=21.452;Rank=3;SkipLengthInSeconds=42.905;SkipStart=235.936;StartBPM=89.565;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Cybernetika - Neuronal Interface</Track>
+    <Attributes>Duration=574.389;EndBPM=89.027;FadeIn=43.099;FadeInLengthInSeconds=21.580;FadeOut=248.036;FadeOutLengthInSeconds=21.566;PreFadeInPosition=37.799;PreFadeInStartVolume=75;Rank=3;StartBPM=88.971;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Cybernetika - Stinger</Track>
