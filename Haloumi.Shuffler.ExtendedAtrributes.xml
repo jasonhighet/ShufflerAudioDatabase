@@ -338,7 +338,11 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Bad Company - Bullet Time</Track>
-    <Attributes>Duration=379.193;EndBPM=86.833;FadeIn=66.387;FadeInLengthInSeconds=11.057;FadeOut=265.354;FadeOutLengthInSeconds=11.056;PreFadeInPosition=63.294;PreFadeInStartVolume=00;Rank=3;StartBPM=86.826;</Attributes>
+    <Attributes>Duration=379.193;EndBPM=86.831;FadeIn=110.605;FadeInLengthInSeconds=11.052;FadeOut=331.680;FadeOutLengthInSeconds=22.112;Rank=3;StartBPM=86.862;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Bad Company - Bullet Time (Spor Remix)</Track>
+    <Attributes>Duration=351.160;EndBPM=86.099;FadeIn=89.300;FadeInLengthInSeconds=11.152;FadeOut=312.562;FadeOutLengthInSeconds=11.150;PreFadeInPosition=86.915;PreFadeInStartVolume=25;Rank=3;StartBPM=86.083;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Bad Company - Hysteria</Track>
@@ -547,6 +551,10 @@
   <ExtenedAttributes>
     <Track>Black Sun Empire - 1800 Contact</Track>
     <Attributes>Duration=323.736;EndBPM=86.014;FadeIn=52.745;FadeInLengthInSeconds=22.324;FadeOut=276.002;FadeOutLengthInSeconds=22.322;Rank=3;StartBPM=86.007;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Black Sun Empire - Arrakis</Track>
+    <Attributes>Duration=441.522;EndBPM=87.257;FadeIn=105.620;FadeInLengthInSeconds=22.070;FadeOut=326.311;FadeOutLengthInSeconds=22.004;Rank=3;StartBPM=86.996;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Black Sun Empire - Battalion</Track>
@@ -921,6 +929,10 @@
     <Attributes>Duration=408.738;EndBPM=90.177;FadeIn=106.727;FadeInLengthInSeconds=10.596;FadeOut=300.992;FadeOutLengthInSeconds=10.646;PreFadeInPosition=105.622;PreFadeInStartVolume=75;Rank=3;StartBPM=90.604;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Concord Dawn - Killsaw</Track>
+    <Attributes>Duration=375.197;EndBPM=90.309;FadeIn=106.938;FadeInLengthInSeconds=21.263;FadeOut=330.466;FadeOutLengthInSeconds=21.260;Rank=3;StartBPM=90.298;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Concord Dawn - Shinkansen</Track>
     <Attributes>Duration=451.500;EndBPM=90.132;FadeIn=170.573;FadeInLengthInSeconds=21.276;FadeOut=404.696;FadeOutLengthInSeconds=21.302;Rank=4;StartBPM=90.243;</Attributes>
   </ExtenedAttributes>
@@ -991,6 +1003,10 @@
   <ExtenedAttributes>
     <Track>Cybernetika - Stinger</Track>
     <Attributes>Duration=687.647;EndBPM=89.203;FadeIn=183.372;FadeInLengthInSeconds=10.760;FadeOut=334.373;FadeOutLengthInSeconds=21.524;PreFadeInPosition=182.035;PreFadeInStartVolume=75;Rank=4;StartBPM=89.219;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Cybernetika - Towards The End Of Time</Track>
+    <Attributes>Duration=564.473;EndBPM=89.531;FadeIn=32.175;FadeInLengthInSeconds=10.734;FadeOut=311.070;FadeOutLengthInSeconds=21.445;Rank=3;StartBPM=89.435;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Cymande - Brothers On The Slide</Track>
