@@ -326,7 +326,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Bad Company - 4 Days</Track>
-    <Attributes>Duration=423.262;EndBPM=86.870;FadeIn=44.270;FadeInLengthInSeconds=22.100;FadeOut=243.130;FadeOutLengthInSeconds=44.204;Rank=5;StartBPM=86.878;</Attributes>
+    <Attributes>Duration=423.262;EndBPM=86.870;FadeIn=44.270;FadeInLengthInSeconds=22.100;FadeOut=243.130;FadeOutLengthInSeconds=44.204;Rank=4;StartBPM=86.878;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Bad Company - Brain Scan</Track>
@@ -350,11 +350,15 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Bad Company - Night Train</Track>
-    <Attributes>Duration=355.135;EndBPM=87.456;FadeIn=66.814;FadeInLengthInSeconds=21.954;FadeOut=276.241;FadeOutLengthInSeconds=21.954;Rank=5;StartBPM=87.456;</Attributes>
+    <Attributes>Duration=355.135;EndBPM=87.456;FadeIn=66.814;FadeInLengthInSeconds=21.954;FadeOut=276.241;FadeOutLengthInSeconds=21.954;Rank=4;StartBPM=87.456;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Bad Company - Nitrous</Track>
     <Attributes>Duration=435.722;EndBPM=86.776;FadeIn=254.177;FadeInLengthInSeconds=11.068;FadeOut=419.843;FadeOutLengthInSeconds=11.063;Rank=3;StartBPM=86.737;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Bad Company - Pulse</Track>
+    <Attributes>Duration=455.001;EndBPM=87.579;FadeIn=128.815;FadeInLengthInSeconds=21.923;FadeOut=380.897;FadeOutLengthInSeconds=21.923;PreFadeInPosition=128.652;PreFadeInStartVolume=75;Rank=3;StartBPM=87.579;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Bad Company - Sentient</Track>
