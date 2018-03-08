@@ -4002,6 +4002,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Bad Company - Pulse</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Bad Company - Sentient</Track>
     <MixRankings>
       <string>Bad Company - Night Train, 4</string>
@@ -6109,6 +6113,7 @@
   <TrackMix>
     <Track>Black Sun Empire - Hideous (feat. Noisia) (VIP Remix)</Track>
     <MixRankings>
+      <string>Cybernetika - Anomaly, 4</string>
       <string>Black Sun Empire - Battalion, 3</string>
       <string>Black Sun Empire - Delorean, 3</string>
       <string>Concord Dawn - Shinkansen, 2</string>
