@@ -1298,7 +1298,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Dusty Springfield - Spooky</Track>
-    <Attributes>Duration=155.768163265306;EndBPM=107.974356090429;EndLoopCount=2;FadeIn=0.191;FadeInLengthInSeconds=4.519;FadeOut=135.085;FadeOutLengthInSeconds=8.891;Key=Am;Rank=3;StartBPM=106.2181898650145;StartLoopCount=4;</Attributes>
+    <Attributes>Duration=155.820;EndBPM=108.097;EndLoopCount=2;FadeIn=0.370;FadeInLengthInSeconds=4.529;FadeOut=135.253;FadeOutLengthInSeconds=8.881;Key=Am;Rank=3;StartBPM=105.988;StartLoopCount=4;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Dusty Springfield - Willie &amp; Laura Mae Jones</Track>
@@ -1426,7 +1426,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Ernest Ranglin - Love and Happiness</Track>
-    <Attributes>Duration=322.827;EndBPM=91.316;EndLoopCount=2;FadeIn=26.048;FadeInLengthInSeconds=9.733;FadeOut=176.896;FadeOutLengthInSeconds=10.513;Key=Am;PreFadeInPosition=23.837;PreFadeInStartVolume=50;Rank=3;SkipLengthInSeconds=31.657;SkipStart=135.582;StartBPM=98.634;StartLoopCount=2;</Attributes>
+    <Attributes>Duration=322.827;EndBPM=91.316;EndLoopCount=2;FadeIn=26.048;FadeInLengthInSeconds=9.733;FadeOut=176.896;FadeOutLengthInSeconds=10.513;Key=Am;PreFadeInPosition=23.837;PreFadeInStartVolume=50;Rank=3;SkipLengthInSeconds=31.660;SkipStart=134.704;StartBPM=98.634;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Ernest Ranglin - Satta Massagana</Track>
