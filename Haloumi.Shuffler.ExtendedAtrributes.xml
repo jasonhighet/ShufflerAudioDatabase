@@ -1693,6 +1693,10 @@
     <Attributes>Duration=105.247;EndBPM=132.816823464305;EndLoopCount=2;FadeIn=0.398;FadeInLengthInSeconds=3.575;FadeOut=90.153;FadeOutLengthInSeconds=7.228;Key=Bbm;Rank=3;StartBPM=134.265734265734;StartLoopCount=4;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Herbie Hancock - Cantaloupe Island</Track>
+    <Attributes>Duration=332.330;EndBPM=116.364;EndLoopCount=4;FadeIn=0.684;FadeInLengthInSeconds=4.423;FadeOut=234.621;FadeOutLengthInSeconds=4.125;PreFadeInPosition=0.429;PreFadeInStartVolume=75;Rank=4;SkipLengthInSeconds=99.452;SkipStart=75.927;StartBPM=108.531;StartLoopCount=3;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Herbie Hancock - Fat Mama</Track>
     <Attributes>Duration=229.317551020408;EndBPM=102.7177402097155;EndLoopCount=4;FadeIn=0.588;FadeInLengthInSeconds=9.231;FadeOut=138.744;FadeOutLengthInSeconds=4.673;Key=E;PreFadeInPosition=0.260;PreFadeInStartVolume=75;Rank=3;StartBPM=103.997400064998;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
@@ -2603,6 +2607,10 @@
   <ExtenedAttributes>
     <Track>Landlord &amp; Tenants - Sagittarius</Track>
     <Attributes>Duration=170.293333333333;EndBPM=110.028653295129;EndLoopCount=2;FadeIn=3.070;FadeInLengthInSeconds=9.571;FadeOut=101.727;FadeOutLengthInSeconds=8.725;Key=Bm;PreFadeInPosition=1.085;PreFadeInStartVolume=100;Rank=2;StartBPM=100.30299864173;StartLoopCount=2;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Lauryn Hill - Doo Wop (That Thing)</Track>
+    <Attributes>Duration=320.313;EndBPM=99.912;FadeIn=28.902;FadeInLengthInSeconds=19.214;FadeOut=182.668;FadeOutLengthInSeconds=19.217;Rank=4;StartBPM=99.927;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Lee Fields And Sugarman And Co. - Stand Up</Track>

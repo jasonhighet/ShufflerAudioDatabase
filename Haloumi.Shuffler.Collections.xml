@@ -1055,11 +1055,6 @@
       </PlaylistEntry>
       <PlaylistEntry>
         <Artist>Breakestra</Artist>
-        <Title>Gettin' To It</Title>
-        <Length>163.19</Length>
-      </PlaylistEntry>
-      <PlaylistEntry>
-        <Artist>Breakestra</Artist>
         <Title>Joyful Noise</Title>
         <Length>336.118</Length>
       </PlaylistEntry>
@@ -3197,6 +3192,16 @@
         <Artist>Fat Freddys Drop</Artist>
         <Title>Roady</Title>
         <Length>205.306</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Herbie Hancock</Artist>
+        <Title>Cantaloupe Island</Title>
+        <Length>143.331</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Lauryn Hill</Artist>
+        <Title>Doo Wop (That Thing)</Title>
+        <Length>153.766</Length>
       </PlaylistEntry>
     </Entries>
   </Playlist>
