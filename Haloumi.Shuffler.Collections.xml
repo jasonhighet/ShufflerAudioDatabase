@@ -1910,11 +1910,6 @@
       </PlaylistEntry>
       <PlaylistEntry>
         <Artist>Jurassic 5</Artist>
-        <Title>W.O.E. Is Me (World Of Entertainment)</Title>
-        <Length>237.714</Length>
-      </PlaylistEntry>
-      <PlaylistEntry>
-        <Artist>Jurassic 5</Artist>
         <Title>Whats Golden</Title>
         <Length>187.69</Length>
       </PlaylistEntry>
@@ -3202,6 +3197,11 @@
         <Artist>Lauryn Hill</Artist>
         <Title>Doo Wop (That Thing)</Title>
         <Length>153.766</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Digable Planets</Artist>
+        <Title>Rebirth Of Slick (Cool Like Dat)</Title>
+        <Length>136.729</Length>
       </PlaylistEntry>
     </Entries>
   </Playlist>

@@ -1141,6 +1141,10 @@
     <Attributes>Duration=154.88;EndBPM=107.488538275464;FadeIn=2.252;FadeInLengthInSeconds=9.032;FadeOut=78.170;FadeOutLengthInSeconds=8.931;Key=Gm;Rank=3;StartBPM=106.283501122026;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Digable Planets - Rebirth Of Slick (Cool Like Dat)</Track>
+    <Attributes>Duration=261.267;EndBPM=98.330;FadeIn=19.791;FadeInLengthInSeconds=9.767;FadeOut=146.753;FadeOutLengthInSeconds=9.763;Rank=4;StartBPM=98.290;StartLoopCount=2;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Diljit Dosanjh - Beautiful Billo</Track>
     <Attributes>Duration=167.304;EndBPM=133.000831255195;FadeIn=16.289;FadeInLengthInSeconds=7.218;FadeOut=120.950;FadeOutLengthInSeconds=7.218;Key=Em;Rank=2;StartBPM=133.000831255195;</Attributes>
   </ExtenedAttributes>

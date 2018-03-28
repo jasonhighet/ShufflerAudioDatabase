@@ -8542,6 +8542,13 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Digable Planets - Rebirth Of Slick (Cool Like Dat)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Dionne Warwick - Do You Know The Way To San Jose</Track>
     <TrackFXTriggers>
       <TrackFXTrigger>
