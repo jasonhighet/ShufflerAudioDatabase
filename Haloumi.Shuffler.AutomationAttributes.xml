@@ -2249,6 +2249,13 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Amerigo Gazaway - Get Up And Get Down</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Ann Allford - Gotta Get Me A Job</Track>
     <TrackFXTriggers />
     <SampleTriggers />

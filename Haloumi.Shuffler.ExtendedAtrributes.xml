@@ -189,6 +189,10 @@
     <Attributes>Duration=129.506666666667;EndBPM=82.6730967964175;FadeIn=1.919;FadeInLengthInSeconds=11.737;FadeOut=101.985;FadeOutLengthInSeconds=11.612;Key=D;Rank=4;StartBPM=81.7926216239244;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Amerigo Gazaway - Get Up And Get Down</Track>
+    <Attributes>Duration=343.192;EndBPM=94.984;FadeIn=34.556;FadeInLengthInSeconds=10.107;FadeOut=176.029;FadeOutLengthInSeconds=10.107;PreFadeInPosition=33.620;PreFadeInStartVolume=75;StartBPM=94.984;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Ana Rosely - Skim Dum Dum Dum</Track>
     <Attributes>Duration=145.16;EndBPM=98.4110712455152;FadeIn=0.856;FadeInLengthInSeconds=10.012;FadeOut=109.769;FadeOutLengthInSeconds=19.510;Key=Gm;Rank=3;StartBPM=95.8849380743108;</Attributes>
   </ExtenedAttributes>
