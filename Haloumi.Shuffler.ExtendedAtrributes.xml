@@ -953,6 +953,10 @@
     <Attributes>Duration=180.746666666667;EndBPM=101.716465352829;EndLoopCount=4;FadeIn=4.932;FadeInLengthInSeconds=9.436;FadeOut=97.018;FadeOutLengthInSeconds=4.719;Key=Gm;PreFadeInPosition=4.265;PreFadeInStartVolume=25;Rank=2;StartBPM=101.738024586689;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Cookin' On 3 Burners - This Girl (feat. Kylie Auldist)</Track>
+    <Attributes>Duration=230.360;EndBPM=103.315;FadeIn=1.462;FadeInLengthInSeconds=9.554;FadeOut=158.408;FadeOutLengthInSeconds=18.584;PreFadeInPosition=0.231;PreFadeInStartVolume=75;Rank=4;StartBPM=100.481;StartLoopCount=2;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Copa 7 - Copa 7 No Samba</Track>
     <Attributes>Duration=170.664;EndBPM=109.7268259229626;FadeIn=0.446;FadeInLengthInSeconds=4.671;FadeOut=141.732;FadeOutLengthInSeconds=17.498;Key=Fm;Rank=3;StartBPM=102.761721258831;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>

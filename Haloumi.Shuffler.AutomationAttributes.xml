@@ -6968,6 +6968,13 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Cookin' On 3 Burners - This Girl (feat. Kylie Auldist)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Copa 7 - Copa 7 No Samba</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -19137,6 +19144,16 @@
         <FadeEndVolume>0.654921</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Cookin' On 3 Burners - This Girl (feat. Kylie Auldist)</TrackDescription>
+        <FadeLength>4.837</FadeLength>
+        <FadeEnd>53383216</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>PowerDown</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
