@@ -1673,6 +1673,10 @@
     <Attributes>Duration=48.2046258503401;EndBPM=88.24;FadeIn=0.472;FadeInLengthInSeconds=21.688;FadeOut=43.253;Key=Abm;PowerDown=True;PreFadeInPosition=0.167;PreFadeInStartVolume=100;Rank=3;StartBPM=88.5282183696054;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Guru - No Time to Play</Track>
+    <Attributes>Duration=294.400;EndBPM=100.146;EndLoopCount=2;FadeIn=4.940;FadeInLengthInSeconds=4.793;FadeOut=182.500;FadeOutLengthInSeconds=4.793;Rank=4;SkipLengthInSeconds=76.806;SkipStart=57.722;StartBPM=100.146;StartLoopCount=2;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Gwen McCrae - 90% Of Me Is You</Track>
     <Attributes>Duration=173.792653061224;EndBPM=80.133555926544;EndLoopCount=4;FadeIn=7.227;FadeInLengthInSeconds=5.934;FadeOut=129.286;FadeOutLengthInSeconds=5.990;Key=Gm;PreFadeInPosition=0.270;PreFadeInStartVolume=00;Rank=3;StartBPM=80.8897876643075;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
