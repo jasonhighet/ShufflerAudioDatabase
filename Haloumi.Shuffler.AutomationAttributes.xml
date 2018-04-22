@@ -7063,6 +7063,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Jurassic 5 - Unified Rebelution</TrackDescription>
+        <FadeLength>18.329795918367346</FadeLength>
+        <FadeEnd>99340160</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3195062</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -9810,6 +9820,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Fat Freddys Drop - Roady</TrackDescription>
+        <FadeLength>22.12063492063492</FadeLength>
+        <FadeEnd>26026320</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.1757471</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -11240,7 +11260,18 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Fat Freddys Drop - Roady</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>155.04439909297051</Start>
+        <Length>0.54081632653063139</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>182.84065759637187</Start>
+        <Length>1.1045578231292552</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -18184,6 +18215,16 @@
         <FadeEnd>49779920</FadeEnd>
         <FadeEndLoop>1</FadeEndLoop>
         <FadeEndVolume>0.2476026</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Gang Starr - Full Clip (Instrumental) (RB Edit)</TrackDescription>
+        <FadeLength>18.169977324263037</FadeLength>
+        <FadeEnd>49102568</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.2635769</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -25423,6 +25464,16 @@
         <ExtendedFadeType>EchoOut</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The 3 Sounds - Sittin' Duck</TrackDescription>
+        <FadeLength>12.571678004535148</FadeLength>
+        <FadeEnd>46351152</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2952745</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -28690,6 +28741,16 @@
         <FadeEnd>44995064</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.4865122</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Cutty Ranks - The Stopper (Richard Dorfmeister's Full Moon 6 live Dub)</TrackDescription>
+        <FadeLength>14.310634920634922</FadeLength>
+        <FadeEnd>46329352</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.05582927</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
