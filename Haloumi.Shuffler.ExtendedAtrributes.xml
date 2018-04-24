@@ -510,7 +510,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Betty Wright - Shoorah! Shoorah!</Track>
-    <Attributes>Duration=176.796734693878;EndBPM=123.1558691468890;FadeIn=0.687;FadeInLengthInSeconds=7.892;FadeOut=154.218;FadeOutLengthInSeconds=15.590;Key=Gm;Rank=3;StartBPM=121.642169285352;StartLoopCount=2;</Attributes>
+    <Attributes>Duration=176.797;EndBPM=123.156;FadeIn=0.687;FadeInLengthInSeconds=7.892;FadeOut=154.218;FadeOutLengthInSeconds=15.590;Key=Gm;Rank=3;SkipLengthInSeconds=47.185;SkipStart=75.705;StartBPM=121.642;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Big Ella - Too Hot To Hold</Track>
@@ -954,7 +954,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Cookin' On 3 Burners - This Girl (feat. Kylie Auldist)</Track>
-    <Attributes>Duration=230.360;EndBPM=103.315;FadeIn=1.462;FadeInLengthInSeconds=9.554;FadeOut=158.408;FadeOutLengthInSeconds=18.584;PreFadeInPosition=0.231;PreFadeInStartVolume=75;Rank=4;StartBPM=100.481;StartLoopCount=2;</Attributes>
+    <Attributes>Duration=230.360;EndBPM=103.315;FadeIn=1.462;FadeInLengthInSeconds=9.554;FadeOut=158.408;FadeOutLengthInSeconds=18.584;PreFadeInPosition=0.231;PreFadeInStartVolume=75;Rank=5;StartBPM=100.481;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Copa 7 - Copa 7 No Samba</Track>
@@ -1902,7 +1902,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Jackie Mittoo - Juice Box</Track>
-    <Attributes>Duration=279.06612244898;EndBPM=123.84071187348;FadeIn=1.151;FadeInLengthInSeconds=7.942;FadeOut=136.067;FadeOutLengthInSeconds=7.752;Key=Dm;Rank=3;StartBPM=120.876353563334;</Attributes>
+    <Attributes>Duration=278.857;EndBPM=123.823;FadeIn=1.151;FadeInLengthInSeconds=7.942;FadeOut=135.954;FadeOutLengthInSeconds=7.753;Key=Dm;Rank=3;StartBPM=120.876;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Jackie Mittoo - Stereo Freeze</Track>
@@ -2758,7 +2758,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Marva Whitney - Things Have Got To Get Better</Track>
-    <Attributes>Duration=214.968;EndBPM=124.9268007027132;FadeIn=0.369;FadeInLengthInSeconds=3.849;FadeOut=158.010;FadeOutLengthInSeconds=15.369;Key=Cm;Rank=3;StartBPM=124.7077162899455;StartLoopCount=8;</Attributes>
+    <Attributes>Duration=214.968;EndBPM=124.927;FadeIn=0.369;FadeInLengthInSeconds=3.849;FadeOut=158.010;FadeOutLengthInSeconds=15.369;Key=Cm;Rank=3;SkipLengthInSeconds=70.371;SkipStart=87.599;StartBPM=124.708;StartLoopCount=8;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Marva Whitney - What Do I Have To Do To Prove My Love To You</Track>
@@ -3294,7 +3294,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Rockers Hi Fi - Transmission Central</Track>
-    <Attributes>Duration=370.051;EndBPM=120.1426694199362;FadeIn=8.787;FadeInLengthInSeconds=15.981;FadeOut=220.770;FadeOutLengthInSeconds=15.981;Key=E;Rank=3;StartBPM=120.1426694199362;</Attributes>
+    <Attributes>Duration=370.051;EndBPM=120.143;FadeIn=8.787;FadeInLengthInSeconds=15.981;FadeOut=220.770;FadeOutLengthInSeconds=15.981;Key=E;Rank=3;SkipLengthInSeconds=34.061;SkipStart=48.731;StartBPM=120.143;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Rodney P &amp; DJ Die - Holes In The Building (Radio Edit)</Track>
@@ -4998,7 +4998,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Young MC - Pick Up The Pace (1990 Version)</Track>
-    <Attributes>Duration=223.256;EndBPM=121.8583396801218;FadeIn=0.063;FadeInLengthInSeconds=15.756;FadeOut=189.127;FadeOutLengthInSeconds=15.756;Key=Bbm;Rank=3;StartBPM=121.8583396801218;</Attributes>
+    <Attributes>Duration=223.256;EndBPM=121.858;EndLoopCount=2;FadeIn=0.021;FadeInLengthInSeconds=15.740;FadeOut=94.534;FadeOutLengthInSeconds=15.756;Key=Bbm;Rank=3;StartBPM=121.985;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Young MC - Principal's Office (Instrumental)</Track>
