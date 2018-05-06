@@ -7130,6 +7130,13 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Cybernetika - Constellations</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Cybernetika - Distress Beacon</Track>
     <TrackFXTriggers />
     <SampleTriggers />
