@@ -1002,7 +1002,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Cybernetika - Constellations</Track>
-    <Attributes>Duration=607.636;EndBPM=89.577;FadeIn=69.732;FadeInLengthInSeconds=10.718;FadeOut=225.237;FadeOutLengthInSeconds=10.717;Rank=3;StartBPM=89.569;</Attributes>
+    <Attributes>Duration=607.636;EndBPM=89.577;FadeIn=69.732;FadeInLengthInSeconds=10.718;FadeOut=225.237;FadeOutLengthInSeconds=10.717;PreFadeInPosition=67.053;PreFadeInStartVolume=25;Rank=3;StartBPM=89.569;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Cybernetika - Distress Beacon</Track>
