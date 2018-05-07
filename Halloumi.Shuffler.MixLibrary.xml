@@ -4061,6 +4061,7 @@
       <string>Bad Company - Sentient, 4</string>
       <string>Cybernetika - Constellations, 4</string>
       <string>Black Sun Empire - Arrakis, 3</string>
+      <string>Bad Company - Rage, 3</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -4089,6 +4090,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Bad Company - Navajo</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Bad Company - Night Train</Track>
     <MixRankings>
       <string>Bad Company - Bullet Time, 5</string>
@@ -4106,6 +4111,7 @@
       <string>Black Sun Empire - Breach (The Upbeats Remix), 3</string>
       <string>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix), 3</string>
       <string>Cybernetika - Neuronal Interface, 3</string>
+      <string>Bad Company - Rage, 3</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 2</string>
       <string>Concord Dawn - Shinkansen, 2</string>
       <string>Black Sun Empire - Descent, 2</string>
@@ -4129,6 +4135,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Bad Company - Oxygen (The Drilla Killa)</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Bad Company - Pulse</Track>
     <MixRankings>
       <string>Concord Dawn - The Fallen, 5</string>
@@ -4137,6 +4147,19 @@
       <string>Cybernetika - Constellations, 4</string>
       <string>Bad Company - Hysteria, 2</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Bad Company - Rage</Track>
+    <MixRankings>
+      <string>Black Sun Empire - Arrakis, 3</string>
+      <string>Bad Company - Bullet Time (Spor Remix), 3</string>
+      <string>Bad Company - Nitrous, 3</string>
+      <string>Bad Company - Night Train, 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Bad Company - Running Man</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Bad Company - Sentient</Track>
@@ -4168,6 +4191,14 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Bad Company - Son Of Nitrous</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
+    <Track>Bad Company - Speedball</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Bad Company - The Nine</Track>
     <MixRankings>
       <string>Black Sun Empire - Tripel (feat. State Of Mind), 4</string>
@@ -4175,6 +4206,10 @@
       <string>Bad Company - 4 Days, 3</string>
       <string>Cybernetika - Stinger, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Bad Company - Thin Air</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Banda Black Rio - Mr. Funky Samba</Track>
@@ -6121,6 +6156,7 @@
       <string>Cybernetika - Neuronal Interface, 4</string>
       <string>Bad Company - Nitrous, 3</string>
       <string>Bad Company - Night Train, 2</string>
+      <string>Bad Company - Rage, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>

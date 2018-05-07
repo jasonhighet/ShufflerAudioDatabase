@@ -365,6 +365,10 @@
     <Attributes>Duration=455.001;EndBPM=87.579;FadeIn=128.815;FadeInLengthInSeconds=21.923;FadeOut=380.897;FadeOutLengthInSeconds=21.923;PreFadeInPosition=128.652;PreFadeInStartVolume=75;Rank=3;StartBPM=87.579;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Bad Company - Rage</Track>
+    <Attributes>Duration=385.750;EndBPM=87.555;FadeIn=55.499;FadeInLengthInSeconds=10.964;FadeOut=287.151;FadeOutLengthInSeconds=21.929;Rank=3;StartBPM=87.559;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Bad Company - Sentient</Track>
     <Attributes>Duration=379.481;EndBPM=86.903;FadeIn=22.269;FadeInLengthInSeconds=22.096;FadeOut=220.939;FadeOutLengthInSeconds=22.094;Rank=4;StartBPM=86.894;</Attributes>
   </ExtenedAttributes>
