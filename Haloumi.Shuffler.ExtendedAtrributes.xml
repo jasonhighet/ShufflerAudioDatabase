@@ -366,7 +366,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Bad Company - Rage</Track>
-    <Attributes>Duration=385.750;EndBPM=87.555;FadeIn=55.499;FadeInLengthInSeconds=10.964;FadeOut=287.151;FadeOutLengthInSeconds=21.929;Rank=3;StartBPM=87.559;</Attributes>
+    <Attributes>Duration=385.750;EndBPM=87.555;FadeIn=66.463;FadeInLengthInSeconds=10.964;FadeOut=287.151;FadeOutLengthInSeconds=21.929;PreFadeInPosition=63.703;PreFadeInStartVolume=25;Rank=3;StartBPM=87.559;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Bad Company - Sentient</Track>
@@ -374,7 +374,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Bad Company - The Nine</Track>
-    <Attributes>Duration=425.613;EndBPM=86.822;FadeIn=88.551;FadeInLengthInSeconds=22.107;FadeOut=353.778;FadeOutLengthInSeconds=11.057;PreFadeInPosition=88.197;PreFadeInStartVolume=75;Rank=3;StartBPM=86.850;</Attributes>
+    <Attributes>Duration=425.613;EndBPM=86.823;FadeIn=88.551;FadeInLengthInSeconds=22.107;FadeOut=353.778;FadeOutLengthInSeconds=11.057;PreFadeInPosition=88.197;PreFadeInStartVolume=75;Rank=3;SkipLengthInSeconds=77.372;SkipStart=243.247;StartBPM=86.850;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Banda Black Rio - Mr. Funky Samba</Track>
@@ -1026,7 +1026,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Cybernetika - Towards The End Of Time</Track>
-    <Attributes>Duration=564.473;EndBPM=89.531;FadeIn=32.175;FadeInLengthInSeconds=10.734;FadeOut=311.070;FadeOutLengthInSeconds=21.445;Rank=3;StartBPM=89.435;</Attributes>
+    <Attributes>Duration=564.473;EndBPM=89.531;FadeIn=32.175;FadeInLengthInSeconds=10.734;FadeOut=311.070;FadeOutLengthInSeconds=21.445;PreFadeInPosition=31.165;PreFadeInStartVolume=25;Rank=3;StartBPM=89.435;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Cymande - Brothers On The Slide</Track>
