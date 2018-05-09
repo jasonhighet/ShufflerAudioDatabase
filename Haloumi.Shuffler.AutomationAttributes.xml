@@ -3675,7 +3675,18 @@
     <Track>Bad Company - Rage</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Bad Company - Thin Air</TrackDescription>
+        <FadeLength>0.68524999999999991</FadeLength>
+        <FadeEnd>101548624</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Cut</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -3732,11 +3743,39 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
       <ExtendedMixAttributes>
+        <TrackDescription>Bad Company - Thin Air</TrackDescription>
+        <FadeLength>0.34553125000000029</FadeLength>
+        <FadeEnd>124934768</FadeEnd>
+        <FadeEndLoop>8</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>EchoOut</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
         <TrackDescription>Black Sun Empire - Tripel (feat. State Of Mind)</TrackDescription>
-        <FadeLength>19.921541950113379</FadeLength>
-        <FadeEnd>131824608</FadeEnd>
+        <FadeLength>15.340861678004535</FadeLength>
+        <FadeEnd>126332456</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.2712093</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Bad Company - Thin Air</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Black Sun Empire - Arrakis</TrackDescription>
+        <FadeLength>22.522426303854875</FadeLength>
+        <FadeEnd>101628720</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
-        <FadeEndVolume>0.2304908</FadeEndVolume>
+        <FadeEndVolume>0.1515529</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -4835,6 +4874,16 @@
         <ExtendedFadeType>QuickFade</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Bad Company - Thin Air</TrackDescription>
+        <FadeLength>15.56124716553288</FadeLength>
+        <FadeEnd>120640384</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.08</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -5078,6 +5127,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Black Sun Empire - Feed The Machine (feat. Noisia)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Black Sun Empire - Fever (Chris SU Remix)</Track>
     <TrackFXTriggers />
     <SampleTriggers />
     <ExtendedMixes />

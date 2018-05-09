@@ -377,6 +377,10 @@
     <Attributes>Duration=425.613;EndBPM=86.823;FadeIn=88.551;FadeInLengthInSeconds=22.107;FadeOut=353.778;FadeOutLengthInSeconds=11.057;PreFadeInPosition=88.197;PreFadeInStartVolume=75;Rank=3;SkipLengthInSeconds=77.372;SkipStart=243.247;StartBPM=86.850;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Bad Company - Thin Air</Track>
+    <Attributes>Duration=358.740;EndBPM=87.727;FadeIn=89.272;FadeInLengthInSeconds=10.933;FadeOut=265.742;FadeOutLengthInSeconds=21.886;Rank=3;StartBPM=87.811;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Banda Black Rio - Mr. Funky Samba</Track>
     <Attributes>Duration=219.22;EndBPM=101.512107433647;EndLoopCount=2;FadeIn=8.147;FadeInLengthInSeconds=9.631;FadeOut=121.074;FadeOutLengthInSeconds=9.457;Key=G;PreFadeInPosition=7.797;PreFadeInStartVolume=75;Rank=3;StartBPM=99.6781227286886;</Attributes>
   </ExtenedAttributes>
@@ -595,6 +599,10 @@
   <ExtenedAttributes>
     <Track>Black Sun Empire - Feed The Machine (feat. Noisia)</Track>
     <Attributes>Duration=320.292;EndBPM=86.692;FadeIn=79.139;FadeInLengthInSeconds=11.165;FadeOut=268.928;FadeOutLengthInSeconds=11.074;Rank=4;StartBPM=85.983;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Black Sun Empire - Fever (Chris SU Remix)</Track>
+    <Attributes>Duration=342.069;EndBPM=86.744;FadeIn=77.239;FadeInLengthInSeconds=11.067;FadeOut=308.964;FadeOutLengthInSeconds=22.134;PreFadeInPosition=74.472;PreFadeInStartVolume=25;Rank=4;StartBPM=86.744;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Black Sun Empire - Hideous (feat. Noisia) (VIP Remix)</Track>
