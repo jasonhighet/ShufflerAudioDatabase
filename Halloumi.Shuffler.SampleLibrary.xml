@@ -10175,24 +10175,6 @@
     <Gain>1</Gain>
   </Sample>
   <Sample>
-    <Start>38.204719387755105</Start>
-    <Length>4.8908588435374147</Length>
-    <Offset>0</Offset>
-    <LoopMode>FullLoop</LoopMode>
-    <IsAtonal>false</IsAtonal>
-    <IsPrimaryLoop>true</IsPrimaryLoop>
-    <Key />
-    <TrackArtist>DrumLoops.Breaks</TrackArtist>
-    <TrackTitle>Jaw Breaks 20</TrackTitle>
-    <TrackLength>151.301</TrackLength>
-    <Description>DrumLoop1</Description>
-    <Bpm>98.1422722175375</Bpm>
-    <Tags>
-      <string>samples</string>
-    </Tags>
-    <Gain>1.20281184</Gain>
-  </Sample>
-  <Sample>
     <Start>0.40060657596371885</Start>
     <Length>6.255425170068027</Length>
     <Offset>0</Offset>
@@ -11495,7 +11477,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>Bb</Key>
     <TrackArtist>Bunny &amp; Skully</TrackArtist>
     <TrackTitle>White Christmas</TrackTitle>
     <TrackLength>190.433</TrackLength>
@@ -11513,7 +11495,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>Bb</Key>
     <TrackArtist>Bunny &amp; Skully</TrackArtist>
     <TrackTitle>White Christmas</TrackTitle>
     <TrackLength>190.433</TrackLength>
@@ -12323,7 +12305,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>Gm</Key>
     <TrackArtist>Black Sabbath</TrackArtist>
     <TrackTitle>Black Sabbath (Instrumental)</TrackTitle>
     <TrackLength>372.767</TrackLength>
@@ -12341,7 +12323,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>Gm</Key>
     <TrackArtist>Black Sabbath</TrackArtist>
     <TrackTitle>Black Sabbath (Instrumental)</TrackTitle>
     <TrackLength>372.767</TrackLength>
@@ -13655,7 +13637,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>Gbm</Key>
     <TrackArtist>Black Sabbath</TrackArtist>
     <TrackTitle>Iron Man (Instrumental)</TrackTitle>
     <TrackLength>357.494</TrackLength>
@@ -13673,7 +13655,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>Gbm</Key>
     <TrackArtist>Black Sabbath</TrackArtist>
     <TrackTitle>Iron Man (Instrumental)</TrackTitle>
     <TrackLength>357.494</TrackLength>
@@ -18623,7 +18605,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>Bm</Key>
     <TrackArtist>Black Sabbath</TrackArtist>
     <TrackTitle>Supernaut (Instrumental)</TrackTitle>
     <TrackLength>283.298</TrackLength>
@@ -18641,7 +18623,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>Bm</Key>
     <TrackArtist>Black Sabbath</TrackArtist>
     <TrackTitle>Supernaut (Instrumental)</TrackTitle>
     <TrackLength>283.298</TrackLength>
@@ -18731,7 +18713,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>C</Key>
     <TrackArtist>The New Mastersounds</TrackArtist>
     <TrackTitle>Thirty Three</TrackTitle>
     <TrackLength>195.973</TrackLength>
@@ -18749,7 +18731,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>C</Key>
     <TrackArtist>The New Mastersounds</TrackArtist>
     <TrackTitle>Thirty Three</TrackTitle>
     <TrackLength>195.973</TrackLength>
@@ -19235,7 +19217,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>Gm</Key>
     <TrackArtist>The Soul Shakers</TrackArtist>
     <TrackTitle>You Ain't My Brother</TrackTitle>
     <TrackLength>278.107</TrackLength>
@@ -19253,7 +19235,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>Gm</Key>
     <TrackArtist>The Soul Shakers</TrackArtist>
     <TrackTitle>You Ain't My Brother</TrackTitle>
     <TrackLength>278.107</TrackLength>
@@ -21143,7 +21125,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>Eb</Key>
     <TrackArtist>Clarence Carter</TrackArtist>
     <TrackTitle>Take It Off Him (And Put It On Me)</TrackTitle>
     <TrackLength>172.373</TrackLength>
@@ -21161,7 +21143,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>Eb</Key>
     <TrackArtist>Clarence Carter</TrackArtist>
     <TrackTitle>Take It Off Him (And Put It On Me)</TrackTitle>
     <TrackLength>172.373</TrackLength>
@@ -21935,7 +21917,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>Abm</Key>
     <TrackArtist>Jurassic 5</TrackArtist>
     <TrackTitle>In The House</TrackTitle>
     <TrackLength>294.06</TrackLength>
@@ -21953,7 +21935,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>Abm</Key>
     <TrackArtist>Jurassic 5</TrackArtist>
     <TrackTitle>In The House</TrackTitle>
     <TrackLength>294.06</TrackLength>
@@ -26831,7 +26813,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>Ebm</Key>
     <TrackArtist>The Diplomats Of Solid Sound</TrackArtist>
     <TrackTitle>Come In My Kitchen</TrackTitle>
     <TrackLength>204.696</TrackLength>
@@ -26849,7 +26831,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>Ebm</Key>
     <TrackArtist>The Diplomats Of Solid Sound</TrackArtist>
     <TrackTitle>Come In My Kitchen</TrackTitle>
     <TrackLength>204.696</TrackLength>
@@ -27803,7 +27785,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>Abm</Key>
     <TrackArtist>Black Sabbath</TrackArtist>
     <TrackTitle>Into The Void (Instrumental)</TrackTitle>
     <TrackLength>368.562</TrackLength>
@@ -27821,7 +27803,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>Abm</Key>
     <TrackArtist>Black Sabbath</TrackArtist>
     <TrackTitle>Into The Void (Instrumental)</TrackTitle>
     <TrackLength>368.562</TrackLength>
@@ -29315,7 +29297,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>F</Key>
     <TrackArtist>Smokey Robinson &amp; The Miracles</TrackArtist>
     <TrackTitle>Deck The Halls</TrackTitle>
     <TrackLength>242.307</TrackLength>
@@ -29333,7 +29315,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>F</Key>
     <TrackArtist>Smokey Robinson &amp; The Miracles</TrackArtist>
     <TrackTitle>Deck The Halls</TrackTitle>
     <TrackLength>242.307</TrackLength>
@@ -31871,7 +31853,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>E</Key>
     <TrackArtist>Bill Withers</TrackArtist>
     <TrackTitle>Lovely Day</TrackTitle>
     <TrackLength>252.667</TrackLength>
@@ -31889,7 +31871,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>E</Key>
     <TrackArtist>Bill Withers</TrackArtist>
     <TrackTitle>Lovely Day</TrackTitle>
     <TrackLength>252.667</TrackLength>
@@ -36047,7 +36029,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>Bbm</Key>
     <TrackArtist>Jorge Ben</TrackArtist>
     <TrackTitle>Vem Morena Vem</TrackTitle>
     <TrackLength>119.38</TrackLength>
@@ -36065,7 +36047,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>Bbm</Key>
     <TrackArtist>Jorge Ben</TrackArtist>
     <TrackTitle>Vem Morena Vem</TrackTitle>
     <TrackLength>119.38</TrackLength>
@@ -36839,7 +36821,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>B</Key>
     <TrackArtist>Jah Irie Chorus</TrackArtist>
     <TrackTitle>Sensimilla (feat Dean Fraser)</TrackTitle>
     <TrackLength>251.22</TrackLength>
@@ -36857,7 +36839,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>B</Key>
     <TrackArtist>Jah Irie Chorus</TrackArtist>
     <TrackTitle>Sensimilla (feat Dean Fraser)</TrackTitle>
     <TrackLength>251.22</TrackLength>
@@ -40403,7 +40385,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>Bm</Key>
     <TrackArtist>Nas</TrackArtist>
     <TrackTitle>The World Is Yours</TrackTitle>
     <TrackLength>290.56</TrackLength>
@@ -40421,7 +40403,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>Bm</Key>
     <TrackArtist>Nas</TrackArtist>
     <TrackTitle>The World Is Yours</TrackTitle>
     <TrackLength>290.56</TrackLength>
@@ -41123,7 +41105,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>Em</Key>
     <TrackArtist>Betty Wright</TrackArtist>
     <TrackTitle>Is It You Girl</TrackTitle>
     <TrackLength>194.586</TrackLength>
@@ -41141,7 +41123,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>Em</Key>
     <TrackArtist>Betty Wright</TrackArtist>
     <TrackTitle>Is It You Girl</TrackTitle>
     <TrackLength>194.586</TrackLength>
@@ -41555,7 +41537,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>B</Key>
     <TrackArtist>Black Sabbath</TrackArtist>
     <TrackTitle>Symptom Of The Universe (Instrumental)</TrackTitle>
     <TrackLength>357.825</TrackLength>
@@ -41573,7 +41555,7 @@
     <LoopMode>FullLoop</LoopMode>
     <IsAtonal>false</IsAtonal>
     <IsPrimaryLoop>false</IsPrimaryLoop>
-    <Key />
+    <Key>B</Key>
     <TrackArtist>Black Sabbath</TrackArtist>
     <TrackTitle>Symptom Of The Universe (Instrumental)</TrackTitle>
     <TrackLength>357.825</TrackLength>
@@ -58359,5 +58341,23 @@
       <string>metal</string>
     </Tags>
     <Gain>1.15230691</Gain>
+  </Sample>
+  <Sample>
+    <Start>38.204719387755105</Start>
+    <Length>4.8908588435374147</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>true</IsAtonal>
+    <IsPrimaryLoop>true</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>DrumLoops.Breaks</TrackArtist>
+    <TrackTitle>Jaw Breaks 20</TrackTitle>
+    <TrackLength>151.301</TrackLength>
+    <Description>DrumLoop1</Description>
+    <Bpm>98.1422722175375</Bpm>
+    <Tags>
+      <string>samples</string>
+    </Tags>
+    <Gain>1.20281184</Gain>
   </Sample>
 </ArrayOfSample>

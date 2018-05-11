@@ -373,6 +373,10 @@
     <Attributes>Duration=379.481;EndBPM=86.903;FadeIn=22.269;FadeInLengthInSeconds=22.096;FadeOut=220.939;FadeOutLengthInSeconds=22.094;Rank=4;StartBPM=86.894;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Bad Company - The Fear</Track>
+    <Attributes>Duration=446.511;EndBPM=87.035;FadeIn=132.552;FadeInLengthInSeconds=11.044;FadeOut=265.403;FadeOutLengthInSeconds=22.060;PreFadeInPosition=130.016;PreFadeInStartVolume=50;Rank=3;StartBPM=86.923;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Bad Company - The Nine</Track>
     <Attributes>Duration=425.613;EndBPM=86.823;FadeIn=88.551;FadeInLengthInSeconds=22.107;FadeOut=353.778;FadeOutLengthInSeconds=11.057;PreFadeInPosition=88.197;PreFadeInStartVolume=75;Rank=3;SkipLengthInSeconds=77.372;SkipStart=243.247;StartBPM=86.850;</Attributes>
   </ExtenedAttributes>

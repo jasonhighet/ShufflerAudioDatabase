@@ -3573,6 +3573,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Bad Company - The Fear</TrackDescription>
+        <FadeLength>33.271541950113381</FadeLength>
+        <FadeEnd>108708216</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2153721</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -3605,7 +3615,18 @@
     <Track>Bad Company - Hysteria</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Cybernetika - Constellations</TrackDescription>
+        <FadeLength>0.3377097505668934</FadeLength>
+        <FadeEnd>91706376</FadeEnd>
+        <FadeEndLoop>8</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>EchoOut</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -3728,6 +3749,24 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Bad Company - The Fear</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Cybernetika - Towards The End Of Time</TrackDescription>
+        <FadeLength>32.363083900226755</FadeLength>
+        <FadeEnd>105358416</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.4147907</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Bad Company - The Nine</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -3778,6 +3817,16 @@
         <FadeEndVolume>0.1515529</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Bad Company - Hysteria</TrackDescription>
+        <FadeLength>5.4715000000000016</FadeLength>
+        <FadeEnd>95684120</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -4932,6 +4981,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Concord Dawn - Cloud City</TrackDescription>
+        <FadeLength>21.49154195011338</FadeLength>
+        <FadeEnd>101630064</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1994186</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -5136,7 +5195,18 @@
     <Track>Black Sun Empire - Fever (Chris SU Remix)</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Black Sun Empire - 1800 Contact</TrackDescription>
+        <FadeLength>19.751541950113378</FadeLength>
+        <FadeEnd>115910408</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.343</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -7335,6 +7405,11 @@
         <Length>0.91999999999995907</Length>
         <DelayNotes>0.25</DelayNotes>
       </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>392.36052154195011</Start>
+        <Length>2.0324784580498658</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
     </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
@@ -7535,6 +7610,16 @@
         <FadeEndVolume>1</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>QuickFade</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Black Sun Empire - Tripel (feat. State Of Mind)</TrackDescription>
+        <FadeLength>16.821541950113378</FadeLength>
+        <FadeEnd>85221168</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2233253</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
