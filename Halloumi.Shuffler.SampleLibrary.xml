@@ -58360,4 +58360,1480 @@
     </Tags>
     <Gain>1.20281184</Gain>
   </Sample>
+  <Sample>
+    <Start>32.175</Start>
+    <Length>10.734</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Dm</Key>
+    <TrackArtist>Cybernetika</TrackArtist>
+    <TrackTitle>Towards The End Of Time</TrackTitle>
+    <TrackLength>564.473</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>89.4354387926216</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.77726</Gain>
+  </Sample>
+  <Sample>
+    <Start>311.07</Start>
+    <Length>21.445</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Dm</Key>
+    <TrackArtist>Cybernetika</TrackArtist>
+    <TrackTitle>Towards The End Of Time</TrackTitle>
+    <TrackLength>564.473</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>89.531359291210</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.77726</Gain>
+  </Sample>
+  <Sample>
+    <Start>183.372</Start>
+    <Length>10.76</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Abm</Key>
+    <TrackArtist>Cybernetika</TrackArtist>
+    <TrackTitle>Stinger</TrackTitle>
+    <TrackLength>687.647</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>89.2193308550186</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.056553</Gain>
+  </Sample>
+  <Sample>
+    <Start>334.373</Start>
+    <Length>21.524</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Abm</Key>
+    <TrackArtist>Cybernetika</TrackArtist>
+    <TrackTitle>Stinger</TrackTitle>
+    <TrackLength>687.647</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>89.202750418138</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.056553</Gain>
+  </Sample>
+  <Sample>
+    <Start>43.099</Start>
+    <Length>21.58</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Em</Key>
+    <TrackArtist>Cybernetika</TrackArtist>
+    <TrackTitle>Neuronal Interface</TrackTitle>
+    <TrackLength>574.389</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>88.9712696941612</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.042068</Gain>
+  </Sample>
+  <Sample>
+    <Start>248.036</Start>
+    <Length>21.566</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Em</Key>
+    <TrackArtist>Cybernetika</TrackArtist>
+    <TrackTitle>Neuronal Interface</TrackTitle>
+    <TrackLength>574.389</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>89.0290271724010</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.042068</Gain>
+  </Sample>
+  <Sample>
+    <Start>75.082</Start>
+    <Length>21.437</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gbm</Key>
+    <TrackArtist>Cybernetika</TrackArtist>
+    <TrackTitle>Monolithic</TrackTitle>
+    <TrackLength>509.511</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>89.5647711899986</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.11962</Gain>
+  </Sample>
+  <Sample>
+    <Start>337.869</Start>
+    <Length>21.452</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gbm</Key>
+    <TrackArtist>Cybernetika</TrackArtist>
+    <TrackTitle>Monolithic</TrackTitle>
+    <TrackLength>509.511</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>89.5021443222078</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.11962</Gain>
+  </Sample>
+  <Sample>
+    <Start>108.027</Start>
+    <Length>10.83</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gbm</Key>
+    <TrackArtist>Cybernetika</TrackArtist>
+    <TrackTitle>Electron Tracker</TrackTitle>
+    <TrackLength>807.414</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>88.6426592797784</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.972992</Gain>
+  </Sample>
+  <Sample>
+    <Start>303.278</Start>
+    <Length>21.664</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gbm</Key>
+    <TrackArtist>Cybernetika</TrackArtist>
+    <TrackTitle>Electron Tracker</TrackTitle>
+    <TrackLength>807.414</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>88.6262924667652</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.972992</Gain>
+  </Sample>
+  <Sample>
+    <Start>43.357</Start>
+    <Length>21.706</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Dbm</Key>
+    <TrackArtist>Cybernetika</TrackArtist>
+    <TrackTitle>Distress Beacon</TrackTitle>
+    <TrackLength>505.773</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>88.4548051230074</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.082077</Gain>
+  </Sample>
+  <Sample>
+    <Start>195.224</Start>
+    <Length>21.706</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Dbm</Key>
+    <TrackArtist>Cybernetika</TrackArtist>
+    <TrackTitle>Distress Beacon</TrackTitle>
+    <TrackLength>505.773</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>88.4548051230074</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.082077</Gain>
+  </Sample>
+  <Sample>
+    <Start>69.732</Start>
+    <Length>10.718</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Ebm</Key>
+    <TrackArtist>Cybernetika</TrackArtist>
+    <TrackTitle>Constellations</TrackTitle>
+    <TrackLength>607.636</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>89.568949430864</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.922477</Gain>
+  </Sample>
+  <Sample>
+    <Start>225.237</Start>
+    <Length>10.717</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Ebm</Key>
+    <TrackArtist>Cybernetika</TrackArtist>
+    <TrackTitle>Constellations</TrackTitle>
+    <TrackLength>607.636</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>89.5773070822058</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.922477</Gain>
+  </Sample>
+  <Sample>
+    <Start>246.904</Start>
+    <Length>21.99</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Cybernetika</TrackArtist>
+    <TrackTitle>Close Your Eyes</TrackTitle>
+    <TrackLength>476.472</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>87.312414733970</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.892881</Gain>
+  </Sample>
+  <Sample>
+    <Start>427.884</Start>
+    <Length>10.996</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Cybernetika</TrackArtist>
+    <TrackTitle>Close Your Eyes</TrackTitle>
+    <TrackLength>476.472</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>87.3044743543106</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.892881</Gain>
+  </Sample>
+  <Sample>
+    <Start>360.622</Start>
+    <Length>21.716</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Cybernetika</TrackArtist>
+    <TrackTitle>Anomaly</TrackTitle>
+    <TrackLength>624.094</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>88.414072573218</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.733055</Gain>
+  </Sample>
+  <Sample>
+    <Start>555.881</Start>
+    <Length>21.716</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Cybernetika</TrackArtist>
+    <TrackTitle>Anomaly</TrackTitle>
+    <TrackLength>624.094</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>88.414072573218</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.733055</Gain>
+  </Sample>
+  <Sample>
+    <Start>160.219</Start>
+    <Length>21.276</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Abm</Key>
+    <TrackArtist>Concord Dawn</TrackArtist>
+    <TrackTitle>The Fallen</TrackTitle>
+    <TrackLength>1190.008</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>90.2425267907502</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.884018</Gain>
+  </Sample>
+  <Sample>
+    <Start>394.393</Start>
+    <Length>21.288</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Abm</Key>
+    <TrackArtist>Concord Dawn</TrackArtist>
+    <TrackTitle>The Fallen</TrackTitle>
+    <TrackLength>1190.008</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>90.1916572717024</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.884018</Gain>
+  </Sample>
+  <Sample>
+    <Start>170.573</Start>
+    <Length>21.276</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Concord Dawn</TrackArtist>
+    <TrackTitle>Shinkansen</TrackTitle>
+    <TrackLength>451.5</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>90.2425267907502</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.923914</Gain>
+  </Sample>
+  <Sample>
+    <Start>404.696</Start>
+    <Length>21.302</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Concord Dawn</TrackArtist>
+    <TrackTitle>Shinkansen</TrackTitle>
+    <TrackLength>451.5</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>90.1323819359684</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.923914</Gain>
+  </Sample>
+  <Sample>
+    <Start>106.938</Start>
+    <Length>21.263</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Em</Key>
+    <TrackArtist>Concord Dawn</TrackArtist>
+    <TrackTitle>Killsaw</TrackTitle>
+    <TrackLength>375.197</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>90.2977002304472</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.885997</Gain>
+  </Sample>
+  <Sample>
+    <Start>330.466</Start>
+    <Length>21.26</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Em</Key>
+    <TrackArtist>Concord Dawn</TrackArtist>
+    <TrackTitle>Killsaw</TrackTitle>
+    <TrackLength>375.197</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>90.3104421448730</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.885997</Gain>
+  </Sample>
+  <Sample>
+    <Start>106.727</Start>
+    <Length>10.596</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Dm</Key>
+    <TrackArtist>Concord Dawn</TrackArtist>
+    <TrackTitle>Guardian Angel</TrackTitle>
+    <TrackLength>408.738</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>90.6002265005662</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.951848</Gain>
+  </Sample>
+  <Sample>
+    <Start>300.992</Start>
+    <Length>10.646</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Dm</Key>
+    <TrackArtist>Concord Dawn</TrackArtist>
+    <TrackTitle>Guardian Angel</TrackTitle>
+    <TrackLength>408.738</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>90.1747135074206</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.951848</Gain>
+  </Sample>
+  <Sample>
+    <Start>127.836</Start>
+    <Length>21.314</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Cm</Key>
+    <TrackArtist>Concord Dawn</TrackArtist>
+    <TrackTitle>Cloud City</TrackTitle>
+    <TrackLength>472.163</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>90.0816364830628</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.103672</Gain>
+  </Sample>
+  <Sample>
+    <Start>319.477</Start>
+    <Length>21.301</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Cm</Key>
+    <TrackArtist>Concord Dawn</TrackArtist>
+    <TrackTitle>Cloud City</TrackTitle>
+    <TrackLength>472.163</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>90.1366133045396</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.103672</Gain>
+  </Sample>
+  <Sample>
+    <Start>77.546</Start>
+    <Length>11.054</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Concord Dawn</TrackArtist>
+    <TrackTitle>Chloroform</TrackTitle>
+    <TrackLength>379.324</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>86.8463904468971</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.923001</Gain>
+  </Sample>
+  <Sample>
+    <Start>220.964</Start>
+    <Length>11.026</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Concord Dawn</TrackArtist>
+    <TrackTitle>Chloroform</TrackTitle>
+    <TrackLength>379.324</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>87.0669327045166</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.923001</Gain>
+  </Sample>
+  <Sample>
+    <Start>67.204</Start>
+    <Length>22.07</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Fm</Key>
+    <TrackArtist>Black Sun Empire</TrackArtist>
+    <TrackTitle>Tripel (feat. State Of Mind)</TrackTitle>
+    <TrackLength>333.485</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>86.9959220661532</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.757179</Gain>
+  </Sample>
+  <Sample>
+    <Start>243.763</Start>
+    <Length>22.072</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Fm</Key>
+    <TrackArtist>Black Sun Empire</TrackArtist>
+    <TrackTitle>Tripel (feat. State Of Mind)</TrackTitle>
+    <TrackLength>333.485</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>86.9880391446176</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.757179</Gain>
+  </Sample>
+  <Sample>
+    <Start>110.335</Start>
+    <Length>22.08</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Black Sun Empire</TrackArtist>
+    <TrackTitle>Hideous (feat. Noisia) (VIP Remix)</TrackTitle>
+    <TrackLength>397.241</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>86.9565217391304</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.67442</Gain>
+  </Sample>
+  <Sample>
+    <Start>314.472</Start>
+    <Length>22.14</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Black Sun Empire</TrackArtist>
+    <TrackTitle>Hideous (feat. Noisia) (VIP Remix)</TrackTitle>
+    <TrackLength>397.241</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>86.720867208672</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.67442</Gain>
+  </Sample>
+  <Sample>
+    <Start>77.239</Start>
+    <Length>11.067</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>G</Key>
+    <TrackArtist>Black Sun Empire</TrackArtist>
+    <TrackTitle>Fever (Chris SU Remix)</TrackTitle>
+    <TrackLength>342.069</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>86.7443751694226</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.684254</Gain>
+  </Sample>
+  <Sample>
+    <Start>308.964</Start>
+    <Length>22.134</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>G</Key>
+    <TrackArtist>Black Sun Empire</TrackArtist>
+    <TrackTitle>Fever (Chris SU Remix)</TrackTitle>
+    <TrackLength>342.069</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>86.7443751694226</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.684254</Gain>
+  </Sample>
+  <Sample>
+    <Start>79.139</Start>
+    <Length>11.165</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Abm</Key>
+    <TrackArtist>Black Sun Empire</TrackArtist>
+    <TrackTitle>Feed The Machine (feat. Noisia)</TrackTitle>
+    <TrackLength>320.292</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>85.9829825347067</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.690756</Gain>
+  </Sample>
+  <Sample>
+    <Start>268.928</Start>
+    <Length>11.074</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Abm</Key>
+    <TrackArtist>Black Sun Empire</TrackArtist>
+    <TrackTitle>Feed The Machine (feat. Noisia)</TrackTitle>
+    <TrackLength>320.292</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>86.6895430738667</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.690756</Gain>
+  </Sample>
+  <Sample>
+    <Start>44.166</Start>
+    <Length>22.04</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Black Sun Empire</TrackArtist>
+    <TrackTitle>Drizzle (feat. Audio) (VIP Remix)</TrackTitle>
+    <TrackLength>339.31</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>87.114337568058</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.711047</Gain>
+  </Sample>
+  <Sample>
+    <Start>286.896</Start>
+    <Length>22.069</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Black Sun Empire</TrackArtist>
+    <TrackTitle>Drizzle (feat. Audio) (VIP Remix)</TrackTitle>
+    <TrackLength>339.31</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>86.9998640627124</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.711047</Gain>
+  </Sample>
+  <Sample>
+    <Start>67.975</Start>
+    <Length>22.326</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>F</Key>
+    <TrackArtist>Black Sun Empire</TrackArtist>
+    <TrackTitle>Descent</TrackTitle>
+    <TrackLength>318.009</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>85.9983875302338</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.658027</Gain>
+  </Sample>
+  <Sample>
+    <Start>291.234</Start>
+    <Length>22.326</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>F</Key>
+    <TrackArtist>Black Sun Empire</TrackArtist>
+    <TrackTitle>Descent</TrackTitle>
+    <TrackLength>318.009</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>85.9983875302338</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.658027</Gain>
+  </Sample>
+  <Sample>
+    <Start>23.44</Start>
+    <Length>21.992</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Black Sun Empire</TrackArtist>
+    <TrackTitle>Delorean</TrackTitle>
+    <TrackLength>340.567</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>87.3044743543106</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.663918</Gain>
+  </Sample>
+  <Sample>
+    <Start>222.067</Start>
+    <Length>21.993</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Black Sun Empire</TrackArtist>
+    <TrackTitle>Delorean</TrackTitle>
+    <TrackLength>340.567</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>87.3005047060428</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.663918</Gain>
+  </Sample>
+  <Sample>
+    <Start>45.453</Start>
+    <Length>22.133</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Black Sun Empire</TrackArtist>
+    <TrackTitle>Breach (The Upbeats Remix)</TrackTitle>
+    <TrackLength>296.552</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>86.7482944020242</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.805882</Gain>
+  </Sample>
+  <Sample>
+    <Start>244.142</Start>
+    <Length>22.033</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Black Sun Empire</TrackArtist>
+    <TrackTitle>Breach (The Upbeats Remix)</TrackTitle>
+    <TrackLength>296.552</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>87.1420142513502</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.805882</Gain>
+  </Sample>
+  <Sample>
+    <Start>44.65</Start>
+    <Length>22.326</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Black Sun Empire</TrackArtist>
+    <TrackTitle>Battlefish (feat. Nymfo)</TrackTitle>
+    <TrackLength>323.895</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>85.9983875302338</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.671925</Gain>
+  </Sample>
+  <Sample>
+    <Start>248.371</Start>
+    <Length>22.326</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Black Sun Empire</TrackArtist>
+    <TrackTitle>Battlefish (feat. Nymfo)</TrackTitle>
+    <TrackLength>323.895</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>85.9983875302338</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.671925</Gain>
+  </Sample>
+  <Sample>
+    <Start>67.206</Start>
+    <Length>22.063</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Black Sun Empire</TrackArtist>
+    <TrackTitle>Battalion</TrackTitle>
+    <TrackLength>332.034</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>87.0235235462086</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.707191</Gain>
+  </Sample>
+  <Sample>
+    <Start>265.83</Start>
+    <Length>22.064</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Black Sun Empire</TrackArtist>
+    <TrackTitle>Battalion</TrackTitle>
+    <TrackLength>332.034</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>87.0195794053662</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.707191</Gain>
+  </Sample>
+  <Sample>
+    <Start>105.62</Start>
+    <Length>22.07</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bm</Key>
+    <TrackArtist>Black Sun Empire</TrackArtist>
+    <TrackTitle>Arrakis</TrackTitle>
+    <TrackLength>441.522</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>86.9959220661532</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.893559</Gain>
+  </Sample>
+  <Sample>
+    <Start>326.311</Start>
+    <Length>22.004</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bm</Key>
+    <TrackArtist>Black Sun Empire</TrackArtist>
+    <TrackTitle>Arrakis</TrackTitle>
+    <TrackLength>441.522</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>87.2568623886566</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.893559</Gain>
+  </Sample>
+  <Sample>
+    <Start>52.745</Start>
+    <Length>22.324</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Black Sun Empire</TrackArtist>
+    <TrackTitle>1800 Contact</TrackTitle>
+    <TrackLength>323.736</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>86.0060920981904</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.377362</Gain>
+  </Sample>
+  <Sample>
+    <Start>276.002</Start>
+    <Length>22.322</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Black Sun Empire</TrackArtist>
+    <TrackTitle>1800 Contact</TrackTitle>
+    <TrackLength>323.736</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>86.013798046770</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.377362</Gain>
+  </Sample>
+  <Sample>
+    <Start>89.272</Start>
+    <Length>10.933</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Dbm</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>Thin Air</TrackTitle>
+    <TrackLength>358.74</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>87.8075551083874</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.671539</Gain>
+  </Sample>
+  <Sample>
+    <Start>265.742</Start>
+    <Length>21.886</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Dbm</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>Thin Air</TrackTitle>
+    <TrackLength>358.74</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>87.7273142648268</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.671539</Gain>
+  </Sample>
+  <Sample>
+    <Start>88.551</Start>
+    <Length>22.107</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bbm</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>The Nine</TrackTitle>
+    <TrackLength>425.613</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>86.8503189035148</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.417175</Gain>
+  </Sample>
+  <Sample>
+    <Start>353.778</Start>
+    <Length>11.057</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bbm</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>The Nine</TrackTitle>
+    <TrackLength>425.613</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>86.8228271683096</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.417175</Gain>
+  </Sample>
+  <Sample>
+    <Start>132.552</Start>
+    <Length>11.044</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>The Fear</TrackTitle>
+    <TrackLength>446.511</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>86.925027164071</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.003022</Gain>
+  </Sample>
+  <Sample>
+    <Start>265.403</Start>
+    <Length>22.06</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gm</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>The Fear</TrackTitle>
+    <TrackLength>446.511</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>87.035358114234</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.003022</Gain>
+  </Sample>
+  <Sample>
+    <Start>22.269</Start>
+    <Length>22.096</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gbm</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>Sentient</TrackTitle>
+    <TrackLength>379.481</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>86.8935553946416</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.751666</Gain>
+  </Sample>
+  <Sample>
+    <Start>220.939</Start>
+    <Length>22.094</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gbm</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>Sentient</TrackTitle>
+    <TrackLength>379.481</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>86.9014212003258</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.751666</Gain>
+  </Sample>
+  <Sample>
+    <Start>66.463</Start>
+    <Length>10.964</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bm</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>Rage</TrackTitle>
+    <TrackLength>385.75</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>87.5592849325064</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.080514</Gain>
+  </Sample>
+  <Sample>
+    <Start>287.151</Start>
+    <Length>21.929</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bm</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>Rage</TrackTitle>
+    <TrackLength>385.75</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>87.5552920789822</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.080514</Gain>
+  </Sample>
+  <Sample>
+    <Start>128.815</Start>
+    <Length>21.923</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Abm</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>Pulse</TrackTitle>
+    <TrackLength>455.001</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>87.5792546640514</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.434348</Gain>
+  </Sample>
+  <Sample>
+    <Start>380.897</Start>
+    <Length>21.923</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Abm</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>Pulse</TrackTitle>
+    <TrackLength>455.001</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>87.5792546640514</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.434348</Gain>
+  </Sample>
+  <Sample>
+    <Start>254.177</Start>
+    <Length>11.068</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gbm</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>Nitrous</TrackTitle>
+    <TrackLength>434.521</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>86.7365377665342</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.845727</Gain>
+  </Sample>
+  <Sample>
+    <Start>419.843</Start>
+    <Length>11.063</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gbm</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>Nitrous</TrackTitle>
+    <TrackLength>434.521</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>86.775738949652</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.845727</Gain>
+  </Sample>
+  <Sample>
+    <Start>66.814</Start>
+    <Length>21.954</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bm</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>Night Train</TrackTitle>
+    <TrackLength>355.135</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>87.455588958732</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.032151</Gain>
+  </Sample>
+  <Sample>
+    <Start>276.241</Start>
+    <Length>21.954</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Bm</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>Night Train</TrackTitle>
+    <TrackLength>355.135</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>87.455588958732</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.032151</Gain>
+  </Sample>
+  <Sample>
+    <Start>76.101</Start>
+    <Length>10.877</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Abm</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>Hysteria</TrackTitle>
+    <TrackLength>413.231</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>88.2596304127976</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.343442</Gain>
+  </Sample>
+  <Sample>
+    <Start>259.601</Start>
+    <Length>21.614</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Abm</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>Hysteria</TrackTitle>
+    <TrackLength>413.231</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>88.8313130378458</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.343442</Gain>
+  </Sample>
+  <Sample>
+    <Start>89.3</Start>
+    <Length>11.152</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gbm</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>Bullet Time (Spor Remix)</TrackTitle>
+    <TrackLength>351.16</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>86.0832137733142</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.802656</Gain>
+  </Sample>
+  <Sample>
+    <Start>312.562</Start>
+    <Length>11.15</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gbm</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>Bullet Time (Spor Remix)</TrackTitle>
+    <TrackLength>351.16</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>86.0986547085202</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.802656</Gain>
+  </Sample>
+  <Sample>
+    <Start>98.438</Start>
+    <Length>22.056</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Dm</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>Breathe</TrackTitle>
+    <TrackLength>425.143</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>87.051142546246</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.970717</Gain>
+  </Sample>
+  <Sample>
+    <Start>274.908</Start>
+    <Length>22.066</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Dm</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>Breathe</TrackTitle>
+    <TrackLength>425.143</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>87.0116921961388</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>0.970717</Gain>
+  </Sample>
+  <Sample>
+    <Start>77.432</Start>
+    <Length>22.091</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Am</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>Brain Scan</TrackTitle>
+    <TrackLength>426.632</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>86.9132225793310</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.027457</Gain>
+  </Sample>
+  <Sample>
+    <Start>265.196</Start>
+    <Length>22.033</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Am</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>Brain Scan</TrackTitle>
+    <TrackLength>426.632</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>87.1420142513502</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.027457</Gain>
+  </Sample>
+  <Sample>
+    <Start>44.27</Start>
+    <Length>22.1</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Cm</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>4 Days</TrackTitle>
+    <TrackLength>423.262</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>86.8778280542986</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.219598</Gain>
+  </Sample>
+  <Sample>
+    <Start>243.13</Start>
+    <Length>44.204</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Cm</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>4 Days</TrackTitle>
+    <TrackLength>423.262</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>86.8699665188672</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.219598</Gain>
+  </Sample>
+  <Sample>
+    <Start>110.605</Start>
+    <Length>11.052</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gbm</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>Bullet Time</TrackTitle>
+    <TrackLength>379.193</TrackLength>
+    <Description>FadeIn</Description>
+    <Bpm>86.8621064060804</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.228826</Gain>
+  </Sample>
+  <Sample>
+    <Start>331.68</Start>
+    <Length>22.112</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key>Gbm</Key>
+    <TrackArtist>Bad Company</TrackArtist>
+    <TrackTitle>Bullet Time</TrackTitle>
+    <TrackLength>379.193</TrackLength>
+    <Description>FadeOut</Description>
+    <Bpm>86.8306801736614</Bpm>
+    <Tags>
+      <string>drum &amp; bass</string>
+    </Tags>
+    <Gain>1.228826</Gain>
+  </Sample>
 </ArrayOfSample>
