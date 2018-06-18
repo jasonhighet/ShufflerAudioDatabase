@@ -613,6 +613,10 @@
     <Attributes>Duration=397.241;EndBPM=86.721;FadeIn=110.335;FadeInLengthInSeconds=22.080;FadeOut=314.472;FadeOutLengthInSeconds=22.140;PreFadeInPosition=109.641;PreFadeInStartVolume=00;Rank=3;StartBPM=86.956;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix)</Track>
+    <Attributes>Duration=417.541;EndBPM=86.870;FadeIn=165.196;FadeInLengthInSeconds=11.041;FadeOut=374.852;FadeOutLengthInSeconds=11.051;Rank=4;StartBPM=86.946;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Black Sun Empire - Tripel (feat. State Of Mind)</Track>
     <Attributes>Duration=333.485;EndBPM=86.988;FadeIn=67.204;FadeInLengthInSeconds=22.070;FadeOut=243.763;FadeOutLengthInSeconds=22.072;Rank=3;StartBPM=86.996;</Attributes>
   </ExtenedAttributes>
