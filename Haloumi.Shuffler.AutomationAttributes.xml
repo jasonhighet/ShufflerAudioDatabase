@@ -7405,6 +7405,13 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Concord Dawn - Styx (feat. Geist)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Concord Dawn - The Fallen</Track>
     <TrackFXTriggers>
       <TrackFXTrigger>

@@ -965,6 +965,10 @@
     <Attributes>Duration=451.500;EndBPM=90.132;FadeIn=170.573;FadeInLengthInSeconds=21.276;FadeOut=404.696;FadeOutLengthInSeconds=21.302;Rank=4;StartBPM=90.243;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Concord Dawn - Styx (feat. Geist)</Track>
+    <Attributes>Duration=326.243;EndBPM=90.243;FadeIn=64.261;FadeInLengthInSeconds=10.638;FadeOut=255.855;FadeOutLengthInSeconds=10.638;Rank=3;StartBPM=90.243;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Concord Dawn - The Fallen</Track>
     <Attributes>Duration=1190.008;EndBPM=90.190;FadeIn=160.219;FadeInLengthInSeconds=21.276;FadeOut=394.393;FadeOutLengthInSeconds=21.288;Rank=3;StartBPM=90.243;</Attributes>
   </ExtenedAttributes>
