@@ -4013,6 +4013,7 @@
       <string>Bad Company - The Fear, 4</string>
       <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 4</string>
       <string>Concord Dawn - Styx (feat. Geist), 4</string>
+      <string>Cybernetika - Vaporized, 4</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 3</string>
       <string>Cybernetika - Monolithic, 3</string>
       <string>Bad Company - 4 Days, 3</string>
@@ -4048,6 +4049,7 @@
       <string>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix), 3</string>
       <string>Concord Dawn - The Fallen, 3</string>
       <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 3</string>
+      <string>Cybernetika - Vaporized, 3</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 2</string>
       <string>Black Sun Empire - Breach (The Upbeats Remix), 2</string>
       <string>Cybernetika - Monolithic, 2</string>
@@ -4066,6 +4068,7 @@
       <string>Bad Company - Sentient, 3</string>
       <string>Cybernetika - Constellations, 3</string>
       <string>Bad Company - Thin Air, 3</string>
+      <string>Cybernetika - Vaporized, 3</string>
       <string>Bad Company - Night Train, 2</string>
       <string>Bad Company - Rage, 2</string>
     </MixRankings>
@@ -4078,6 +4081,7 @@
       <string>Cybernetika - Constellations, 4</string>
       <string>Black Sun Empire - Arrakis, 3</string>
       <string>Bad Company - Rage, 3</string>
+      <string>Cybernetika - Vaporized, 3</string>
       <string>Bad Company - Thin Air, 2</string>
     </MixRankings>
   </TrackMix>
@@ -4127,6 +4131,7 @@
       <string>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix), 3</string>
       <string>Cybernetika - Neuronal Interface, 3</string>
       <string>Bad Company - Rage, 3</string>
+      <string>Cybernetika - Vaporized, 3</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 2</string>
       <string>Concord Dawn - Shinkansen, 2</string>
       <string>Black Sun Empire - Descent, 2</string>
@@ -4145,6 +4150,7 @@
       <string>Bad Company - Night Train, 4</string>
       <string>Cybernetika - Stinger, 3</string>
       <string>Bad Company - Thin Air, 3</string>
+      <string>Cybernetika - Vaporized, 3</string>
       <string>Bad Company - Sentient, 2</string>
       <string>Cybernetika - Monolithic, 2</string>
       <string>Cybernetika - Electron Tracker, 2</string>
@@ -4185,6 +4191,7 @@
       <string>Bad Company - Hysteria, 2</string>
       <string>Cybernetika - Towards The End Of Time, 2</string>
       <string>Cybernetika - Stinger, 2</string>
+      <string>Cybernetika - Vaporized, 2</string>
       <string>Cybernetika - Neuronal Interface, 0</string>
       <string>Cybernetika - Monolithic, 0</string>
       <string>Cybernetika - Distress Beacon, 0</string>
@@ -4219,6 +4226,7 @@
       <string>Concord Dawn - Shinkansen, 0</string>
       <string>Bad Company - 4 Days, 0</string>
       <string>Cybernetika - Constellations, 0</string>
+      <string>Cybernetika - Vaporized, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -6235,6 +6243,7 @@
     <MixRankings>
       <string>Cybernetika - Neuronal Interface, 4</string>
       <string>Bad Company - Thin Air, 4</string>
+      <string>Cybernetika - Vaporized, 4</string>
       <string>Bad Company - Nitrous, 3</string>
       <string>Bad Company - Night Train, 2</string>
       <string>Bad Company - Rage, 2</string>
@@ -9559,6 +9568,7 @@
       <string>Concord Dawn - Shinkansen, 2</string>
       <string>Bad Company - The Fear, 2</string>
       <string>Concord Dawn - Styx (feat. Geist), 2</string>
+      <string>Cybernetika - Vaporized, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -9571,6 +9581,7 @@
       <string>Black Sun Empire - Fever (Chris SU Remix), 0</string>
       <string>Bad Company - Thin Air, 0</string>
       <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 0</string>
+      <string>Cybernetika - Vaporized, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -10106,6 +10117,7 @@
       <string>Cybernetika - Constellations, 4</string>
       <string>Bad Company - Rage, 4</string>
       <string>Bad Company - Thin Air, 4</string>
+      <string>Cybernetika - Vaporized, 4</string>
       <string>Bad Company - Night Train, 3</string>
       <string>Bad Company - Nitrous, 2</string>
     </MixRankings>
@@ -10141,6 +10153,7 @@
       <string>Black Sun Empire - Delorean, 0</string>
       <string>Black Sun Empire - Breach (The Upbeats Remix), 0</string>
       <string>Bad Company - Thin Air, 0</string>
+      <string>Cybernetika - Vaporized, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -10156,6 +10169,7 @@
       <string>Bad Company - Rage, 4</string>
       <string>Bad Company - Thin Air, 4</string>
       <string>Bad Company - The Fear, 4</string>
+      <string>Cybernetika - Vaporized, 4</string>
       <string>Bad Company - Breathe, 3</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 3</string>
     </MixRankings>
@@ -10199,11 +10213,33 @@
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 3</string>
       <string>Bad Company - Rage, 3</string>
       <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 3</string>
+      <string>Cybernetika - Vaporized, 3</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
     <Track>Cybernetika - Unleash</Track>
     <MixRankings />
+  </TrackMix>
+  <TrackMix>
+    <Track>Cybernetika - Vaporized</Track>
+    <MixRankings>
+      <string>Concord Dawn - Killsaw, 5</string>
+      <string>Black Sun Empire - Arrakis, 4</string>
+      <string>Cybernetika - Neuronal Interface, 4</string>
+      <string>Bad Company - Brain Scan, 4</string>
+      <string>Bad Company - Night Train, 4</string>
+      <string>Bad Company - Bullet Time (Spor Remix), 3</string>
+      <string>Cybernetika - Towards The End Of Time, 3</string>
+      <string>Bad Company - Sentient, 3</string>
+      <string>Bad Company - Rage, 2</string>
+      <string>Bad Company - Nitrous, 2</string>
+      <string>Bad Company - Bullet Time, 2</string>
+      <string>Cybernetika - Electron Tracker, 2</string>
+      <string>Cybernetika - Monolithic, 2</string>
+      <string>Concord Dawn - Guardian Angel, 2</string>
+      <string>Bad Company - Breathe, 0</string>
+      <string>Black Sun Empire - 1800 Contact, 0</string>
+    </MixRankings>
   </TrackMix>
   <TrackMix>
     <Track>Cymande - Brothers On The Slide</Track>

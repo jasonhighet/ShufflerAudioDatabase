@@ -7804,6 +7804,13 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Cybernetika - Vaporized</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Cymande - Brothers On The Slide</Track>
     <TrackFXTriggers>
       <TrackFXTrigger>

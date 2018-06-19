@@ -1049,6 +1049,10 @@
     <Attributes>Duration=564.473;EndBPM=89.531;FadeIn=32.175;FadeInLengthInSeconds=10.734;FadeOut=311.070;FadeOutLengthInSeconds=21.445;PreFadeInPosition=31.165;PreFadeInStartVolume=25;Rank=3;StartBPM=89.435;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Cybernetika - Vaporized</Track>
+    <Attributes>Duration=425.146;EndBPM=87.343;FadeIn=32.912;FadeInLengthInSeconds=10.968;FadeOut=187.914;FadeOutLengthInSeconds=10.991;Rank=3;StartBPM=87.526;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Cymande - Brothers On The Slide</Track>
     <Attributes>Duration=251.715918367347;EndBPM=113.933064324709;FadeIn=9.450;FadeInLengthInSeconds=4.521;FadeOut=192.169;FadeOutLengthInSeconds=8.426;Key=Am;Rank=3;StartBPM=106.171201061712;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
