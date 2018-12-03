@@ -2070,7 +2070,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>James Brown - Soulful Christmas</Track>
-    <Attributes>Duration=189.133;EndBPM=111.337;FadeIn=1.403;FadeInLengthInSeconds=4.246;FadeOut=144.987;FadeOutLengthInSeconds=8.622;PreFadeInPosition=0.262;PreFadeInStartVolume=75;Rank=5;StartBPM=113.048;StartLoopCount=2;</Attributes>
+    <Attributes>Duration=189.133;EndBPM=111.343;FadeIn=1.403;FadeInLengthInSeconds=4.332;FadeOut=144.987;FadeOutLengthInSeconds=8.622;PreFadeInPosition=0.262;PreFadeInStartVolume=75;Rank=5;StartBPM=110.803;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>James Brown - Super Bad (Parts 1 &amp; 2)</Track>
@@ -3446,7 +3446,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Run D.M.C. - Christmas In Hollis</Track>
-    <Attributes>Duration=180.400;EndBPM=94.862;FadeIn=11.726;FadeInLengthInSeconds=10.098;FadeOut=147.907;FadeOutLengthInSeconds=10.120;PreFadeInPosition=10.433;PreFadeInStartVolume=75;Rank=4;StartBPM=95.073;</Attributes>
+    <Attributes>Duration=180.400;EndBPM=94.862;FadeIn=31.897;FadeInLengthInSeconds=10.093;FadeOut=147.907;FadeOutLengthInSeconds=10.120;PreFadeInPosition=30.287;PreFadeInStartVolume=75;Rank=5;StartBPM=95.115;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Run D.M.C. - Christmas Is</Track>
@@ -3690,7 +3690,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Short Stuff - Merry Christmas Baby</Track>
-    <Attributes>Duration=127.28;EndBPM=118.6356895699456;FadeIn=0.666;FadeInLengthInSeconds=4.083;FadeOut=106.303;FadeOutLengthInSeconds=16.184;Key=Gm;PreFadeInPosition=0.101;PreFadeInStartVolume=75;Rank=3;StartBPM=117.5606171932405;StartLoopCount=3;</Attributes>
+    <Attributes>Duration=127.280;EndBPM=118.636;FadeIn=0.666;FadeInLengthInSeconds=4.083;FadeOut=106.303;FadeOutLengthInSeconds=16.184;Key=Gm;PreFadeInPosition=0.101;PreFadeInStartVolume=75;Rank=3;StartBPM=117.561;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Shreya Ghoshal &amp; Udit Narayan - Radha</Track>
@@ -4530,7 +4530,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Soul Saints Orchestra - Santas Got a Bag of Soul</Track>
-    <Attributes>Duration=199.346666666667;EndBPM=91.7676589232647;FadeIn=0.693;FadeInLengthInSeconds=10.412;FadeOut=157.155;FadeOutLengthInSeconds=10.461;Key=Dm;PreFadeInPosition=0.221;PreFadeInStartVolume=50;Rank=3;StartBPM=92.1987862104711;</Attributes>
+    <Attributes>Duration=199.347;EndBPM=89.955;FadeIn=0.693;FadeInLengthInSeconds=10.412;FadeOut=157.175;FadeOutLengthInSeconds=2.668;Key=Dm;PreFadeInPosition=0.221;PreFadeInStartVolume=50;Rank=3;StartBPM=92.201;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Soul Searcher - Ashley's Roachclip</Track>

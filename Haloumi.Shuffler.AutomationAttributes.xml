@@ -1534,6 +1534,24 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Al &amp; The Vibrators - Merry Christmas</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Johnny Clarke - I Saw Mommy Kissing Santa Claus</TrackDescription>
+        <FadeLength>11.472675736961451</FadeLength>
+        <FadeEnd>45162256</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1276768</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Al Brown - Here I Am Baby</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -1989,6 +2007,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.128</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Sweet Tee - Let The Jingle Bells Rock</TrackDescription>
+        <FadeLength>18.777936507936509</FadeLength>
+        <FadeEnd>60924512</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3667397</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -5952,6 +5980,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Toasters - We Three Kings</TrackDescription>
+        <FadeLength>5.9073015873015873</FadeLength>
+        <FadeEnd>39166608</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.4620667</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -6495,6 +6533,26 @@
         <FadeEndVolume>0.104</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Marvin Gaye - Purple Snowflakes</TrackDescription>
+        <FadeLength>8.9738321995464858</FadeLength>
+        <FadeEnd>70362040</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2630833</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Sweet Tee - Let The Jingle Bells Rock</TrackDescription>
+        <FadeLength>9.193</FadeLength>
+        <FadeEnd>70313384</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>PowerDown</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -7083,6 +7141,16 @@
         <FadeEndVolume>0.128</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Funk Brothers - Winter Wonderland</TrackDescription>
+        <FadeLength>4.2364999999999986</FadeLength>
+        <FadeEnd>51001992</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -9348,7 +9416,18 @@
     <Track>Derek B - Chillin' With Santa</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Jimmy Reed - Christmas Present Blues</TrackDescription>
+        <FadeLength>17.324625850340137</FadeLength>
+        <FadeEnd>79717888</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2949578</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -10412,6 +10491,24 @@
         <FadeEndVolume>0.008</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Doreen Schaffer - Wishing You a Merry Christmas</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Silvertones - Bling Bling Christmas</TrackDescription>
+        <FadeLength>6.3340000000000023</FadeLength>
+        <FadeEnd>47012712</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -13472,6 +13569,34 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Half Pint - Christmas Vibes</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Johnny Osbourne - Christmas Stylee</TrackDescription>
+        <FadeLength>11.617</FadeLength>
+        <FadeEnd>57084792</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>PowerDown</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Ethiopians - Ding Dong Bell</TrackDescription>
+        <FadeLength>8.9748752834467123</FadeLength>
+        <FadeEnd>56091984</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Handsome Boy Modeling School - The Truth (feat. Roisin Murphy &amp; J-Live)</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -13510,6 +13635,24 @@
         <FadeEnd>59141064</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.112</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Harvey Averne Band - Lets Get it Together This Christmas</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Soul Saints Orchestra - Santas Got a Bag of Soul</TrackDescription>
+        <FadeLength>15.41702947845805</FadeLength>
+        <FadeEnd>50632848</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.032</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -14487,6 +14630,16 @@
         <FadeEndVolume>0.1277143</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Gary Walker - Santa's Got a Brand New Bag</TrackDescription>
+        <FadeLength>3.5770000000000111</FadeLength>
+        <FadeEnd>49618840</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -15958,7 +16111,18 @@
     <Track>James Brown - Soulful Christmas</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Kurtis Blow - Christmas Rappin'</TrackDescription>
+        <FadeLength>4.310997732426304</FadeLength>
+        <FadeEnd>52672328</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -16677,6 +16841,16 @@
         <ExtendedFadeType>QuickFade</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Count Sidney &amp; His Dukes - Soul Christmas (Vocal)</TrackDescription>
+        <FadeLength>11.812063492063492</FadeLength>
+        <FadeEnd>50078208</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.032</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -16919,6 +17093,24 @@
         <FadeEndVolume>0.4387209</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Johnny Osbourne - Christmas Stylee</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Doreen Schaffer - Wishing You a Merry Christmas</TrackDescription>
+        <FadeLength>6.019</FadeLength>
+        <FadeEnd>53730720</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -22106,6 +22298,16 @@
           </SampleTrigger>
         </SampleTriggers>
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Run D.M.C. - Christmas In Hollis</TrackDescription>
+        <FadeLength>10.275396825396825</FadeLength>
+        <FadeEnd>42908168</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.3668205</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -24209,6 +24411,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Cimarons - Holy Christmas</TrackDescription>
+        <FadeLength>10.180634920634921</FadeLength>
+        <FadeEnd>51540824</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.5342368</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -24583,6 +24795,34 @@
         <FadeEndLoop>1</FadeEndLoop>
         <FadeEndVolume>0.08</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Otis Redding - Merry Christmas Baby</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Breakestra - Let The Bells Ring</TrackDescription>
+        <FadeLength>18.719863945578233</FadeLength>
+        <FadeEnd>46051896</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.159452</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects</TrackDescription>
+        <FadeLength>10.185600907029478</FadeLength>
+        <FadeEnd>46044600</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.1514795</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -26281,6 +26521,24 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Roman Stewart - Christmas Affair</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Roy Richards - Jingle Bells</TrackDescription>
+        <FadeLength>10.068979591836735</FadeLength>
+        <FadeEnd>52517848</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Ronie E O Central Do Brasil - Atoa Atoa</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -26775,7 +27033,18 @@
     <Track>Run D.M.C. - Christmas In Hollis</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Albert King - Santa Claus Wants Some Lovin'</TrackDescription>
+        <FadeLength>9.5495918367346935</FadeLength>
+        <FadeEnd>55772048</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1834103</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -28124,18 +28393,7 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Short Stuff - Merry Christmas Baby</Track>
-    <TrackFXTriggers>
-      <TrackFXTrigger>
-        <Start>4.2018594104308393</Start>
-        <Length>0.85977324263038479</Length>
-        <DelayNotes>0.125</DelayNotes>
-      </TrackFXTrigger>
-      <TrackFXTrigger>
-        <Start>9.9621768707483</Start>
-        <Length>0.63988662131519192</Length>
-        <DelayNotes>0.25</DelayNotes>
-      </TrackFXTrigger>
-    </TrackFXTriggers>
+    <TrackFXTriggers />
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -29531,7 +29789,28 @@
     <Track>Sweet Tee - Let The Jingle Bells Rock</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Otis Redding - Merry Christmas Baby</TrackDescription>
+        <FadeLength>9.5314965986394551</FadeLength>
+        <FadeEnd>61003936</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2232222</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Derek B - Chillin' With Santa</TrackDescription>
+        <FadeLength>18.452947845804989</FadeLength>
+        <FadeEnd>64289120</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2467083</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -30029,6 +30308,42 @@
         <Description>Horns</Description>
       </TrackSample>
     </TrackSamples>
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Tennessee Brown &amp; The Silvertones - Jingle Bells</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Unknown Artist - Hark The Herald Angels Sing</TrackDescription>
+        <FadeLength>11.034920634920635</FadeLength>
+        <FadeEnd>58353152</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.151573</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Tennessee Brown &amp; The Silvertones - Little Drummer Boy</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Al &amp; The Vibrators - Merry Christmas</TrackDescription>
+        <FadeLength>12.358730158730159</FadeLength>
+        <FadeEnd>55938032</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1276832</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Tenor Saw - Ring The Alarm</Track>
@@ -31533,6 +31848,24 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>The Ethiopians - Ding Dong Bell</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Tennessee Brown &amp; The Silvertones - Jingle Bells</TrackDescription>
+        <FadeLength>13.913786848072562</FadeLength>
+        <FadeEnd>51036256</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1755217</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>The Funk Brothers - Winter Wonderland</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -31543,6 +31876,16 @@
         <FadeEnd>39823136</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.1673538</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Short Stuff - Merry Christmas Baby</TrackDescription>
+        <FadeLength>7.9335374149659863</FadeLength>
+        <FadeEnd>39700616</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2948616</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -33812,6 +34155,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Roman Stewart - Christmas Affair</TrackDescription>
+        <FadeLength>12.667845804988662</FadeLength>
+        <FadeEnd>49462512</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.07979167</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -34036,6 +34389,24 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>The Soul Saints Orchestra - Santas Got a Bag of Soul</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Run D.M.C. - Christmas In Hollis</TrackDescription>
+        <FadeLength>10.236167800453515</FadeLength>
+        <FadeEnd>55503552</FadeEnd>
+        <FadeEndLoop>4</FadeEndLoop>
+        <FadeEndVolume>0.4865122</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>The Specials - A Message To You Rudy</Track>
     <TrackFXTriggers>
       <TrackFXTrigger>
@@ -34213,6 +34584,24 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.07975308</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>The Toasters - We Three Kings</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>J.D. McDonald - Boogaloo Santa Claus</TrackDescription>
+        <FadeLength>7.3971655328798187</FadeLength>
+        <FadeEnd>52903608</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.8</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -35190,6 +35579,34 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Granville Williams Orchestra - Santa Claus is Ska-Ing To Town</TrackDescription>
+        <FadeLength>8.1913605442176873</FadeLength>
+        <FadeEnd>50679872</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.223082</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Toots &amp; The Maytals - Happy Christmas (The Christmas Song)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Norman T Washington - It's Christmas Time Again</TrackDescription>
+        <FadeLength>4.5670000000000126</FadeLength>
+        <FadeEnd>68622416</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -35853,6 +36270,34 @@
         <FadeLength>7.4227891156462587</FadeLength>
         <FadeEnd>71507368</FadeEnd>
         <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.056</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Unknown Artist - Hark The Herald Angels Sing</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Half Pint - Christmas Vibes</TrackDescription>
+        <FadeLength>10.952290249433107</FadeLength>
+        <FadeEnd>58428768</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.104</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Alton Ellis - Merry Merry Christmas</TrackDescription>
+        <FadeLength>15.18968253968254</FadeLength>
+        <FadeEnd>60224448</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.056</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>

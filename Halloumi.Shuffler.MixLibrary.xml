@@ -2196,12 +2196,14 @@
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 4</string>
       <string>Shawn Lee's Ping Pong Orchestra - O Come All Ye Faithful, 4</string>
       <string>Derek B - Chillin' With Santa, 4</string>
+      <string>Sweet Tee - Let The Jingle Bells Rock, 4</string>
       <string>Vernon Garrett - Merry Christmas, Baby, 3</string>
       <string>Clarence Carter - Back Door Santa, 3</string>
       <string>Shawn Lee's Ping Pong Orchestra - Do You Hear What I Hear, 3</string>
       <string>Meditation Singers - What The World Needs For Christmas, 3</string>
       <string>Otis Redding - Merry Christmas Baby, 3</string>
       <string>Shawn Lee's Ping Pong Orchestra - Jingle Bells, 3</string>
+      <string>Run D.M.C. - Christmas Is, 3</string>
       <string>Vernon Garrett - Christmas Groove, 2</string>
       <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 2</string>
       <string>Milly &amp; Silly - Getting Down for Christmas, 2</string>
@@ -2497,9 +2499,11 @@
       <string>The Ramsey Lewis Trio - Winter Wonderland, 4</string>
       <string>The Soul Saints Orchestra - Santas Got a Bag of Soul, 4</string>
       <string>Harvey Averne Band - Lets Get it Together This Christmas, 4</string>
+      <string>Milly &amp; Silly - Getting Down for Christmas, 4</string>
       <string>Barrington Levy &amp; Trinity - Flash Your Dread, 3</string>
       <string>The Toasters - God Rock You Steady Gentleman, 3</string>
       <string>The Cimarons - Silent Night; White Christmas, 3</string>
+      <string>Rufus Thomas - I'll Be Your Santa Baby, 3</string>
       <string>King Stitt - Christmas Tree, 2</string>
       <string>The Sivertones - Merry Merry Christmas, 2</string>
       <string>Hopeton &amp; Primo - Peace on Earth, 2</string>
@@ -2521,6 +2525,7 @@
       <string>Tennessee Brown &amp; The Silvertones - Jingle Bells, 2</string>
       <string>Unknown Artist - Hark The Herald Angels Sing, 2</string>
       <string>The Ramsey Lewis Trio - Here Comes Santa Claus, 2</string>
+      <string>The Cimarons - Silent Night; White Christmas, 2</string>
       <string>Carlene Davis - Santa Claus (Do You Ever Come To The Ghetto), 0</string>
       <string>Half Pint - Christmas Vibes, 0</string>
       <string>Kojak - Christmas Style, 0</string>
@@ -3933,10 +3938,6 @@
       <string>Al Green - Let's Stay Together, 0</string>
       <string>King Jammy - Dub It in the Dancehall Dub, 0</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>B.B. King - Christmas Celebration</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Baby Huey &amp; The Baby Sitters - Hard Times</Track>
@@ -6181,6 +6182,7 @@
       <string>The Ronettes - Sleigh Ride, 2</string>
       <string>The Cimarons - Holy Christmas, 2</string>
       <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 2</string>
+      <string>The Toasters - God Rock You Steady Gentleman, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -8143,7 +8145,8 @@
   <TrackMix>
     <Track>Breakestra - Let The Bells Ring</Track>
     <MixRankings>
-      <string>Marvin Gaye - Purple Snowflakes, 5</string>
+      <string>Marvin Gaye - Purple Snowflakes, 4</string>
+      <string>Sweet Tee - Let The Jingle Bells Rock, 4</string>
       <string>Vernon Garrett - Christmas Groove, 3</string>
       <string>Al Green - Feels Like Christmas, 3</string>
       <string>Clarence Carter - Back Door Santa, 3</string>
@@ -8152,12 +8155,14 @@
       <string>Otis Redding - Merry Christmas Baby, 3</string>
       <string>The Jackson 5 - Up on the House Top, 3</string>
       <string>Shawn Lee's Ping Pong Orchestra - Jingle Bells, 3</string>
+      <string>Derek B - Chillin' With Santa, 3</string>
       <string>Vernon Garrett - Merry Christmas, Baby, 2</string>
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 2</string>
       <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 2</string>
       <string>Meditation Singers - What The World Needs For Christmas, 2</string>
       <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 2</string>
       <string>Royce Campbell - Santa Claus is Coming to Town, 2</string>
+      <string>Run D.M.C. - Christmas Is, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -8829,6 +8834,7 @@
       <string>Meditation Singers - What The World Needs For Christmas, 3</string>
       <string>Ray Harris &amp; The Fusion Experience - Soulful Christmas, 3</string>
       <string>The Granville Williams Orchestra - Santa Claus is Ska-Ing To Town, 3</string>
+      <string>Kurtis Blow - Christmas Rappin', 3</string>
       <string>La Sonora Matancera - Bachata en Navidad, 2</string>
       <string>Bobby Holloway - Funky Little Drummer Boy, 2</string>
       <string>Short Stuff - Merry Christmas Baby, 0</string>
@@ -8862,10 +8868,6 @@
       <string>The Aggrovators - Santa Claus Dub, 2</string>
       <string>Horace Andy - Christmas Time, 2</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>Carlene Davis &amp; Trinity - Santa Claus (Do You Ever Come To The Ghetto)</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Carolyn Franklin - Deal With It</Track>
@@ -8940,14 +8942,6 @@
       <string>Joe And Everyday People - Sleep Walk (Part 2), 0</string>
       <string>The Skatalites - Chinatown, 0</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>Charles Bradley - Every Day Is Christmas (When I'm Lovin' You)</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
-    <Track>Charles Bradley - Mary's Baby</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Charles Bradley - No Time For Dreaming</Track>
@@ -9974,7 +9968,9 @@
   </TrackMix>
   <TrackMix>
     <Track>Count Sidney &amp; His Dukes - Soul Christmas (Vocal)</Track>
-    <MixRankings />
+    <MixRankings>
+      <string>The Beginning of the End - Gee Whiz, It's Christmas, 4</string>
+    </MixRankings>
   </TrackMix>
   <TrackMix>
     <Track>Cuba L.A. - Ya Llegó la Navidad</Track>
@@ -11886,7 +11882,17 @@
     <Track>Derek B - Chillin' With Santa</Track>
     <MixRankings>
       <string>Kurtis Blow - Christmas Rappin', 4</string>
+      <string>Breakestra - Let The Bells Ring, 4</string>
+      <string>Jimmy Reed - Christmas Present Blues, 4</string>
+      <string>Sweet Tee - Let The Jingle Bells Rock, 4</string>
       <string>Marvin Gaye - Purple Snowflakes, 3</string>
+      <string>Otis Redding - Merry Christmas Baby, 3</string>
+      <string>Meditation Singers - What The World Needs For Christmas, 3</string>
+      <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 3</string>
+      <string>Albert King - Santa Claus Wants Some Lovin', 2</string>
+      <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 2</string>
+      <string>Royce Campbell - Santa Claus is Coming to Town, 2</string>
+      <string>Vernon Garrett - Merry Christmas, Baby, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -13272,7 +13278,7 @@
     <MixRankings>
       <string>Home T &amp; Trinty - Dub it for Christmas, 4</string>
       <string>Sonny Bradshaw - Peace And Love (Little Drummer Boy), 4</string>
-      <string>The Silvertones - Bling Bling Christmas, 4</string>
+      <string>The Silvertones - Bling Bling Christmas, 3</string>
       <string>Johnny Osbourne - Christmas Stylee, 3</string>
       <string>The Aggrovators - Santa Claus Dub, 3</string>
       <string>Home T &amp; Trinity - All I Want For Christmas, 3</string>
@@ -15810,10 +15816,6 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>Funk MaHine - Soul Santa</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
     <Track>Gal Costa &amp; Caetano Veloso - Maria Joana</Track>
     <MixRankings>
       <string>Jimmy Smith &amp; Wes Mongomery - OGD (Road Song), 4</string>
@@ -17478,11 +17480,12 @@
       <string>Rose Graham - Black Christmas, 4</string>
       <string>Alton Ellis - Merry Merry Christmas, 4</string>
       <string>Unknown Artist - Hark The Herald Angels Sing, 4</string>
-      <string>The Cimarons - Silent Night; White Christmas, 3</string>
+      <string>The Cimarons - Silent Night; White Christmas, 2</string>
       <string>Reindeer Runners - Pull My Sled, 2</string>
       <string>The Ronettes - Sleigh Ride, 2</string>
       <string>The Ramsey Lewis Trio - Winter Wonderland, 2</string>
       <string>Binky Griptite - Stone Soul Christmas, 2</string>
+      <string>Roy Richards - Jingle Bells, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -17674,6 +17677,7 @@
       <string>The Sivertones - Merry Merry Christmas, 2</string>
       <string>Alton Ellis - Merry Merry Christmas, 2</string>
       <string>The Toasters - God Rock You Steady Gentleman, 0</string>
+      <string>The Ronettes - Sleigh Ride, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -18701,10 +18705,6 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>J Lara - Hands of the Lord</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
     <Track>J.D. McDonald - Boogaloo Santa Claus</Track>
     <MixRankings>
       <string>Martin Mull with The Sondra Baskin Glee Club - Santafly, 4</string>
@@ -19173,10 +19173,6 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>Jacob Miller - The Twelve Days of Ismas</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
     <Track>Jacob Miller &amp; Ray I - All I Want for Ismas</Track>
     <MixRankings>
       <string>Barrington Levy &amp; Trinity - Flash Your Dread, 5</string>
@@ -19228,10 +19224,6 @@
       <string>Frank Cosmo - Merry Christmas, 2</string>
       <string>Jacob Miller &amp; Ray I - Silver Bells, 0</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>Jah Irie Chorus - Sensimilla (feat Dean Fraser)</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>James Brown - Blind Man Can See It</Track>
@@ -19409,10 +19401,6 @@
       <string>Al Green - Tire Of Being Alone, 0</string>
       <string>Bomb The Bass - Bug Powder Dust (K&amp;D Session), 0</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>James Brown - Christmas in Heaven</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>James Brown - Christmas Is Love</Track>
@@ -20098,10 +20086,6 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>James Brown - Santa Claus Is Definitely Here to Stay</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
     <Track>James Brown - Say It Loud I'm Black And I'm Proud</Track>
     <MixRankings>
       <string>James Brown - I Can't Stand Myself (When You Touch Me) (Part 1), 4</string>
@@ -20236,7 +20220,13 @@
   </TrackMix>
   <TrackMix>
     <Track>James Brown - Soulful Christmas</Track>
-    <MixRankings />
+    <MixRankings>
+      <string>Short Stuff - Merry Christmas Baby, 3</string>
+      <string>Marvin Gaye - Purple Snowflakes, 3</string>
+      <string>Kurtis Blow - Christmas Rappin', 3</string>
+      <string>Meditation Singers - What The World Needs For Christmas, 2</string>
+      <string>Ray Harris &amp; The Fusion Experience - Soulful Christmas, 0</string>
+    </MixRankings>
   </TrackMix>
   <TrackMix>
     <Track>James Brown - Super Bad (Parts 1 &amp; 2)</Track>
@@ -20920,6 +20910,8 @@
       <string>Albert King - Santa Claus Wants Some Lovin', 4</string>
       <string>The Jackson 5 - Up on the House Top, 4</string>
       <string>Shawn Lee's Ping Pong Orchestra - Jingle Bells, 4</string>
+      <string>Derek B - Chillin' With Santa, 4</string>
+      <string>Sweet Tee - Let The Jingle Bells Rock, 4</string>
       <string>Al Green - Feels Like Christmas, 3</string>
       <string>Clarence Carter - Back Door Santa, 3</string>
       <string>Shawn Lee's Ping Pong Orchestra - Do You Hear What I Hear, 3</string>
@@ -20977,9 +20969,11 @@
     <MixRankings>
       <string>Ray Harris &amp; The Fusion Experience - Soulful Christmas, 4</string>
       <string>Toots &amp; The Maytals - Christmas Feeling Ska, 4</string>
+      <string>Count Sidney &amp; His Dukes - Soul Christmas (Vocal), 4</string>
       <string>Short Stuff - Merry Christmas Baby, 3</string>
       <string>Clarence Carter - Back Door Santa, 3</string>
       <string>Ike &amp; Tina Turner - Merry Christmas Baby, 3</string>
+      <string>Kurtis Blow - Christmas Rappin', 3</string>
       <string>James Brown - Christmas Is Love, 2</string>
       <string>Carla Thomas - Gee Whiz its Christmas, 2</string>
       <string>Al Green - Feels Like Christmas, 2</string>
@@ -21618,13 +21612,13 @@
     <Track>Johnny Osbourne - Christmas Stylee</Track>
     <MixRankings>
       <string>Half Pint - Christmas Vibes, 4</string>
-      <string>Doreen Schaffer - Wishing You a Merry Christmas, 4</string>
       <string>Dillinger &amp; The Brentford Harmonics - Hi Fashion Christmas, 4</string>
       <string>The Heptones - Christmas Time Is Here, 4</string>
       <string>Johnny Clarke - I Saw Mommy Kissing Santa Claus, 4</string>
       <string>The Kinstonians - Merry Christmas, 4</string>
       <string>Barrington Levy &amp; Trinity - I Saw Mommy Kiss A Dreadlocks, 4</string>
       <string>Jacob Miller &amp; Ray I - All I Want for Ismas, 4</string>
+      <string>Doreen Schaffer - Wishing You a Merry Christmas, 3</string>
       <string>Roman Stewart - Christmas Affair, 3</string>
       <string>Tennessee Brown &amp; The Silvertones - Jingle Bells, 3</string>
       <string>The Aggrovators - Santa Claus Dub, 3</string>
@@ -24782,10 +24776,6 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>King Sun-D Moet - Christmas In The City</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
     <Track>King Tubby - A Truthful Dub</Track>
     <MixRankings>
       <string>Betty Harris - Break In The Road (feat. The Meters), 4</string>
@@ -25615,7 +25605,12 @@
   <TrackMix>
     <Track>Kurtis Blow - Christmas Rappin'</Track>
     <MixRankings>
+      <string>Derek B - Chillin' With Santa, 4</string>
       <string>Carla Thomas - Gee Whiz its Christmas, 3</string>
+      <string>James Brown - Soulful Christmas, 3</string>
+      <string>The Funk Brothers - Winter Wonderland, 3</string>
+      <string>Marvin Gaye - Purple Snowflakes, 3</string>
+      <string>Jimmy Reed - Christmas Present Blues, 3</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -26219,10 +26214,6 @@
       <string>Aloe Blacc - I Need A Dollar, 0</string>
       <string>Mos Def - Mr. Universe, 0</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>Little Jimmy Thomas - Deck The Halls</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Little Roy - Lithium</Track>
@@ -26948,13 +26939,16 @@
       <string>Jimmy Reed - Christmas Present Blues, 5</string>
       <string>Carla Thomas - Gee Whiz its Christmas, 4</string>
       <string>Al Green - Feels Like Christmas, 4</string>
+      <string>James Brown - Soulful Christmas, 4</string>
       <string>The Funk Brothers - Winter Wonderland, 3</string>
       <string>Meditation Singers - What The World Needs For Christmas, 3</string>
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 3</string>
       <string>Ray Harris &amp; The Fusion Experience - Soulful Christmas, 3</string>
+      <string>Derek B - Chillin' With Santa, 3</string>
       <string>Donny Hathaway - This Christmas, 2</string>
       <string>Breakestra - Let The Bells Ring, 2</string>
       <string>The Jackson 5 - Up on the House Top, 2</string>
+      <string>Kurtis Blow - Christmas Rappin', 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -27019,12 +27013,15 @@
       <string>Albert King - Santa Claus Wants Some Lovin', 4</string>
       <string>Marvin Gaye - Purple Snowflakes, 4</string>
       <string>Otis Redding - Merry Christmas Baby, 4</string>
+      <string>James Brown - Soulful Christmas, 4</string>
+      <string>Derek B - Chillin' With Santa, 4</string>
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 3</string>
       <string>Clarence Carter - Back Door Santa, 3</string>
       <string>Carla Thomas - Gee Whiz its Christmas, 3</string>
       <string>Vernon Garrett - Christmas Groove, 3</string>
       <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 3</string>
       <string>The Jackson 5 - Up on the House Top, 3</string>
+      <string>Run D.M.C. - Christmas Is, 3</string>
       <string>Vernon Garrett - Merry Christmas, Baby, 2</string>
       <string>Royce Campbell - Santa Claus is Coming to Town, 2</string>
       <string>Jimmy Reed - Christmas Present Blues, 0</string>
@@ -27135,6 +27132,7 @@
   <TrackMix>
     <Track>Milly &amp; Silly - Getting Down for Christmas</Track>
     <MixRankings>
+      <string>Run D.M.C. - Christmas In Hollis, 5</string>
       <string>Shawn Lee's Ping Pong Orchestra - O Come All Ye Faithful, 4</string>
       <string>The Chambers Brothers - Merry Christmas, Happy New Year, 4</string>
       <string>Black On White Affair - Auld Lang Syne, 4</string>
@@ -27145,9 +27143,12 @@
       <string>Shawn Lee's Ping Pong Orchestra - Jingle Bells, 3</string>
       <string>The Soul Saints Orchestra - Santas Got a Bag of Soul, 3</string>
       <string>The Temptations - Rudolph The Red-Nosed Reindeer, 3</string>
+      <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 3</string>
+      <string>The Cimarons - Holy Christmas, 3</string>
       <string>Don Smith - Black Christmas, 2</string>
       <string>The Ronettes - Sleigh Ride, 2</string>
       <string>Shawn Lee's Ping Pong Orchestra - Do You Hear What I Hear, 2</string>
+      <string>Norman T Washington - It's Christmas Time Again, 2</string>
       <string>Albert King - Santa Claus Wants Some Lovin', 0</string>
     </MixRankings>
   </TrackMix>
@@ -29310,14 +29311,18 @@
     <Track>Norman T Washington - It's Christmas Time Again</Track>
     <MixRankings>
       <string>Shawn Lee's Ping Pong Orchestra - Jingle Bells, 5</string>
+      <string>The Cimarons - Holy Christmas, 5</string>
       <string>The Toasters - God Rock You Steady Gentleman, 4</string>
-      <string>The Cimarons - Holy Christmas, 4</string>
       <string>Black On White Affair - Auld Lang Syne, 4</string>
+      <string>Run D.M.C. - Christmas In Hollis, 4</string>
+      <string>Otis Redding - Merry Christmas Baby, 4</string>
+      <string>Milly &amp; Silly - Getting Down for Christmas, 4</string>
       <string>Alton Ellis - Christmas Coming, 3</string>
       <string>Joe Gibbs - Let Christmas Catch You On A Good Mood, 3</string>
       <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 3</string>
       <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 3</string>
       <string>Shawn Lee's Ping Pong Orchestra - Do You Hear What I Hear, 3</string>
+      <string>Albert King - Santa Claus Wants Some Lovin', 3</string>
       <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 2</string>
     </MixRankings>
   </TrackMix>
@@ -29858,10 +29863,14 @@
       <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 4</string>
       <string>Shawn Lee's Ping Pong Orchestra - Do You Hear What I Hear, 4</string>
       <string>Shawn Lee's Ping Pong Orchestra - Jingle Bells, 4</string>
+      <string>Run D.M.C. - Christmas Is, 4</string>
+      <string>Sweet Tee - Let The Jingle Bells Rock, 4</string>
       <string>Albert King - Santa Claus Wants Some Lovin', 3</string>
       <string>The Jive Turkeys - Get Down Santa, 3</string>
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 3</string>
       <string>Royce Campbell - Santa Claus is Coming to Town, 3</string>
+      <string>Derek B - Chillin' With Santa, 3</string>
+      <string>Norman T Washington - It's Christmas Time Again, 3</string>
       <string>Vernon Garrett - Merry Christmas, Baby, 2</string>
       <string>Vernon Garrett - Christmas Groove, 2</string>
     </MixRankings>
@@ -32504,6 +32513,7 @@
     <MixRankings>
       <string>Barrington Levy &amp; Trinity - Flash Your Dread, 4</string>
       <string>Alton Ellis - Merry Merry Christmas, 4</string>
+      <string>The Soul Saints Orchestra - Santas Got a Bag of Soul, 4</string>
       <string>Wain Nelson - Santa Claus, 3</string>
       <string>The Sivertones - Merry Merry Christmas, 3</string>
       <string>The Ethiopians - Ding Dong Bell, 3</string>
@@ -32512,6 +32522,7 @@
       <string>Joe Gibbs - We Three Kings, 2</string>
       <string>Unknown Artist - Hark The Herald Angels Sing, 2</string>
       <string>Harvey Averne Band - Lets Get it Together This Christmas, 2</string>
+      <string>The Ronettes - Sleigh Ride, 2</string>
       <string>The Cimarons - Silent Night; White Christmas, 0</string>
       <string>Hopeton &amp; Primo - Peace on Earth, 0</string>
     </MixRankings>
@@ -32551,10 +32562,14 @@
       <string>Vernon Garrett - Merry Christmas, Baby, 3</string>
       <string>Albert King - Santa Claus Wants Some Lovin', 3</string>
       <string>Shawn Lee's Ping Pong Orchestra - Jingle Bells, 3</string>
+      <string>Sweet Tee - Let The Jingle Bells Rock, 3</string>
+      <string>Derek B - Chillin' With Santa, 3</string>
       <string>Roy Hargrove - Frosty The Snowman, 2</string>
       <string>Otis Redding - Merry Christmas Baby, 2</string>
       <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 2</string>
+      <string>Run D.M.C. - Christmas Is, 2</string>
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 0</string>
+      <string>Black On White Affair - Auld Lang Syne, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -32659,17 +32674,34 @@
       <string>Hopeton &amp; Primo - Peace on Earth, 2</string>
       <string>Wain Nelson - Santa Claus, 2</string>
       <string>The Cimarons - Silent Night; White Christmas, 2</string>
+      <string>Roy Richards - Jingle Bells, 2</string>
+      <string>The Toasters - God Rock You Steady Gentleman, 2</string>
+      <string>Unknown Artist - Hark The Herald Angels Sing, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
     <Track>Run D.M.C. - Christmas In Hollis</Track>
     <MixRankings>
+      <string>Albert King - Santa Claus Wants Some Lovin', 4</string>
       <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 3</string>
+      <string>The Cimarons - Holy Christmas, 3</string>
+      <string>The Ronettes - Sleigh Ride, 2</string>
+      <string>Norman T Washington - It's Christmas Time Again, 2</string>
+      <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 2</string>
+      <string>The Soul Saints Orchestra - Santas Got a Bag of Soul, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
     <Track>Run D.M.C. - Christmas Is</Track>
-    <MixRankings />
+    <MixRankings>
+      <string>Meditation Singers - What The World Needs For Christmas, 4</string>
+      <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 4</string>
+      <string>Derek B - Chillin' With Santa, 4</string>
+      <string>Breakestra - Let The Bells Ring, 4</string>
+      <string>Otis Redding - Merry Christmas Baby, 4</string>
+      <string>Marvin Gaye - Purple Snowflakes, 3</string>
+      <string>Vernon Garrett - Merry Christmas, Baby, 2</string>
+    </MixRankings>
   </TrackMix>
   <TrackMix>
     <Track>Rusty Bryant - Fire Eater</Track>
@@ -33362,6 +33394,7 @@
       <string>Shawn Lee's Ping Pong Orchestra - Jingle Bells, 3</string>
       <string>Black On White Affair - Auld Lang Syne, 3</string>
       <string>Royce Campbell - Santa Claus is Coming to Town, 3</string>
+      <string>Sweet Tee - Let The Jingle Bells Rock, 3</string>
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 2</string>
       <string>Clarence Carter - Back Door Santa, 2</string>
       <string>Vernon Garrett - Christmas Groove, 2</string>
@@ -33369,6 +33402,8 @@
       <string>Albert King - Santa Claus Wants Some Lovin', 2</string>
       <string>The Jive Turkeys - Get Down Santa, 2</string>
       <string>The Cimarons - Holy Christmas, 2</string>
+      <string>Run D.M.C. - Christmas In Hollis, 2</string>
+      <string>Norman T Washington - It's Christmas Time Again, 2</string>
       <string>Rose Graham - Black Christmas, 0</string>
       <string>Donald Byrd - Think Twice, 0</string>
     </MixRankings>
@@ -34561,6 +34596,7 @@
     <MixRankings>
       <string>Bobby Holloway - Funky Little Drummer Boy, 4</string>
       <string>Ike &amp; Tina Turner - Merry Christmas Baby, 3</string>
+      <string>James Brown - Soulful Christmas, 3</string>
       <string>Ray Harris &amp; The Fusion Experience - Soulful Christmas, 2</string>
       <string>James Brown - Christmas Is Love, 2</string>
       <string>The Beginning of the End - Gee Whiz, It's Christmas, 2</string>
@@ -34875,10 +34911,6 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>Smokey Robinson &amp; The Miracles - Deck The Halls</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
     <Track>Smokey Robinson &amp; The Miracles - Jingle Bells</Track>
     <MixRankings>
       <string>The Jackson 5 - Up on the House Top, 4</string>
@@ -34891,6 +34923,7 @@
       <string>Breakestra - Let The Bells Ring, 3</string>
       <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 3</string>
       <string>Royce Campbell - Santa Claus is Coming to Town, 3</string>
+      <string>Sweet Tee - Let The Jingle Bells Rock, 3</string>
       <string>Al Green - Feels Like Christmas, 2</string>
       <string>Shawn Lee's Ping Pong Orchestra - Do You Hear What I Hear, 2</string>
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 2</string>
@@ -36464,7 +36497,16 @@
   <TrackMix>
     <Track>Sweet Tee - Let The Jingle Bells Rock</Track>
     <MixRankings>
+      <string>Otis Redding - Merry Christmas Baby, 4</string>
+      <string>Breakestra - Let The Bells Ring, 4</string>
+      <string>Derek B - Chillin' With Santa, 4</string>
       <string>Albert King - Santa Claus Wants Some Lovin', 3</string>
+      <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 3</string>
+      <string>Royce Campbell - Santa Claus is Coming to Town, 3</string>
+      <string>Run D.M.C. - Christmas Is, 3</string>
+      <string>Vernon Garrett - Merry Christmas, Baby, 2</string>
+      <string>Meditation Singers - What The World Needs For Christmas, 2</string>
+      <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -37221,10 +37263,6 @@
       <string>Brother Jack McDuff - Oblighetto, 0</string>
       <string>Breakestra - Gettin' To It, 0</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>The Aggrovators - Christmas Medley</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>The Aggrovators - Santa Claus Dub</Track>
@@ -38305,6 +38343,7 @@
       <string>The Funk Brothers - Winter Wonderland, 2</string>
       <string>Ike &amp; Tina Turner - Merry Christmas Baby, 2</string>
       <string>Don Cornell &amp; The Eternals - Christmas Joy, 2</string>
+      <string>The Granville Williams Orchestra - Santa Claus is Ska-Ing To Town, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -38629,7 +38668,9 @@
       <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 3</string>
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 3</string>
       <string>Royce Campbell - Santa Claus is Coming to Town, 3</string>
+      <string>Derek B - Chillin' With Santa, 3</string>
       <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 2</string>
+      <string>Albert King - Santa Claus Wants Some Lovin', 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -38642,6 +38683,8 @@
       <string>The Heptones - Christmas Time Is Here, 4</string>
       <string>Alton Ellis - Merry Merry Christmas, 4</string>
       <string>The Soul Saints Orchestra - Santas Got a Bag of Soul, 4</string>
+      <string>Harvey Averne Band - Lets Get it Together This Christmas, 4</string>
+      <string>Milly &amp; Silly - Getting Down for Christmas, 4</string>
       <string>Half Pint - Christmas Vibes, 3</string>
       <string>Jacob Miller &amp; Ray I - All I Want for Ismas, 3</string>
       <string>Hopeton &amp; Primo - Peace on Earth, 3</string>
@@ -38650,6 +38693,7 @@
       <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 3</string>
       <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 2</string>
       <string>The Ronettes - Sleigh Ride, 2</string>
+      <string>Run D.M.C. - Christmas In Hollis, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -38904,6 +38948,7 @@
       <string>The Granville Williams Orchestra - Santa Claus is Ska-Ing To Town, 4</string>
       <string>The Wailers - Sound The Trumpet, 4</string>
       <string>Ike &amp; Tina Turner - Merry Christmas Baby, 3</string>
+      <string>Kurtis Blow - Christmas Rappin', 3</string>
       <string>Jimmy Reed - Christmas Present Blues, 2</string>
       <string>Toots &amp; The Maytals - Christmas Feeling Ska, 2</string>
       <string>James Brown - Christmas Is Love, 0</string>
@@ -41626,6 +41671,7 @@
       <string>Harvey Averne Band - Lets Get it Together This Christmas, 3</string>
       <string>The Soul Saints Orchestra - Santas Got a Bag of Soul, 3</string>
       <string>Black On White Affair - Auld Lang Syne, 3</string>
+      <string>Run D.M.C. - Christmas In Hollis, 3</string>
       <string>Sharon Jones &amp; The Dap-Kings - Ain't No Chimneys In The Projects, 2</string>
       <string>Don Smith - Black Christmas, 2</string>
       <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 2</string>
@@ -41970,6 +42016,7 @@
       <string>Alton Ellis - Merry Merry Christmas, 2</string>
       <string>The Ronettes - Sleigh Ride, 0</string>
       <string>The Toasters - God Rock You Steady Gentleman, 0</string>
+      <string>Black On White Affair - Auld Lang Syne, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -42377,6 +42424,8 @@
       <string>The Sivertones - Merry Merry Christmas, 5</string>
       <string>Milly &amp; Silly - Getting Down for Christmas, 5</string>
       <string>Alton Ellis - Merry Merry Christmas, 4</string>
+      <string>Harvey Averne Band - Lets Get it Together This Christmas, 4</string>
+      <string>The Soul Saints Orchestra - Santas Got a Bag of Soul, 4</string>
       <string>Wain Nelson - Santa Claus, 3</string>
       <string>Unknown Artist - Hark The Herald Angels Sing, 3</string>
       <string>King Stitt - Christmas Tree, 2</string>
@@ -43609,6 +43658,9 @@
       <string>Meditation Singers - What The World Needs For Christmas, 3</string>
       <string>The Cimarons - Holy Christmas, 2</string>
       <string>Marvin Gaye - Purple Snowflakes, 2</string>
+      <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 2</string>
+      <string>Royce Campbell - Santa Claus is Coming to Town, 2</string>
+      <string>Vernon Garrett - Merry Christmas, Baby, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -44593,6 +44645,7 @@
       <string>Joe Gibbs - We Three Kings, 2</string>
       <string>Hopeton &amp; Primo - Peace on Earth, 2</string>
       <string>Roy Richards - Jingle Bells, 2</string>
+      <string>Rufus Thomas - I'll Be Your Santa Baby, 2</string>
       <string>Dillinger &amp; The Brentford Harmonics - Hi Fashion Christmas, 0</string>
     </MixRankings>
   </TrackMix>
@@ -44960,7 +45013,10 @@
       <string>Otis Redding - Merry Christmas Baby, 2</string>
       <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 2</string>
       <string>Royce Campbell - Santa Claus is Coming to Town, 2</string>
+      <string>Derek B - Chillin' With Santa, 2</string>
       <string>Al Green - Feels Like Christmas, 0</string>
+      <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 0</string>
+      <string>Sweet Tee - Let The Jingle Bells Rock, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
