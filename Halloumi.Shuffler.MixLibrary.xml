@@ -1574,9 +1574,12 @@
       <string>The Kinstonians - Merry Christmas, 3</string>
       <string>Charley Fresh - Happy Christmas Rude Boy, 3</string>
       <string>The Silvertones - Bling Bling Christmas, 3</string>
+      <string>The Ramsey Lewis Trio - Christmas Blues, 3</string>
       <string>Tennessee Brown &amp; The Silvertones - Real Christmas Rock, 2</string>
       <string>Doreen Schaffer - Wishing You a Merry Christmas, 2</string>
       <string>Tennessee Brown &amp; The Silvertones - Little Drummer Boy, 2</string>
+      <string>Gary Walker - Santa's Got a Brand New Bag, 2</string>
+      <string>James Brown - Go Power at Christmas Time, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -2191,8 +2194,9 @@
     <MixRankings>
       <string>Breakestra - Let The Bells Ring, 4</string>
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 4</string>
+      <string>Shawn Lee's Ping Pong Orchestra - O Come All Ye Faithful, 4</string>
+      <string>Derek B - Chillin' With Santa, 4</string>
       <string>Vernon Garrett - Merry Christmas, Baby, 3</string>
-      <string>Shawn Lee's Ping Pong Orchestra - O Come All Ye Faithful, 3</string>
       <string>Clarence Carter - Back Door Santa, 3</string>
       <string>Shawn Lee's Ping Pong Orchestra - Do You Hear What I Hear, 3</string>
       <string>Meditation Singers - What The World Needs For Christmas, 3</string>
@@ -2203,6 +2207,7 @@
       <string>Milly &amp; Silly - Getting Down for Christmas, 2</string>
       <string>The Chambers Brothers - Merry Christmas, Happy New Year, 2</string>
       <string>The Jive Turkeys - Get Down Santa, 2</string>
+      <string>Royce Campbell - Santa Claus is Coming to Town, 2</string>
       <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 0</string>
     </MixRankings>
   </TrackMix>
@@ -2489,6 +2494,9 @@
     <MixRankings>
       <string>Unknown Artist - Hark The Herald Angels Sing, 4</string>
       <string>Lloyd Seivright - Mary's Boy Child, 4</string>
+      <string>The Ramsey Lewis Trio - Winter Wonderland, 4</string>
+      <string>The Soul Saints Orchestra - Santas Got a Bag of Soul, 4</string>
+      <string>Harvey Averne Band - Lets Get it Together This Christmas, 4</string>
       <string>Barrington Levy &amp; Trinity - Flash Your Dread, 3</string>
       <string>The Toasters - God Rock You Steady Gentleman, 3</string>
       <string>The Cimarons - Silent Night; White Christmas, 3</string>
@@ -2512,6 +2520,7 @@
       <string>Joe Gibbs - Oh Little Town Of Betlehem (feat. Horace Andy), 2</string>
       <string>Tennessee Brown &amp; The Silvertones - Jingle Bells, 2</string>
       <string>Unknown Artist - Hark The Herald Angels Sing, 2</string>
+      <string>The Ramsey Lewis Trio - Here Comes Santa Claus, 2</string>
       <string>Carlene Davis - Santa Claus (Do You Ever Come To The Ghetto), 0</string>
       <string>Half Pint - Christmas Vibes, 0</string>
       <string>Kojak - Christmas Style, 0</string>
@@ -2519,6 +2528,7 @@
       <string>Roy Richards - Jingle Bells, 0</string>
       <string>The Ethiopians - Ding Dong Bell, 0</string>
       <string>Hopeton &amp; Primo - Peace on Earth, 0</string>
+      <string>Binky Griptite - Stone Soul Christmas, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -3925,6 +3935,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>B.B. King - Christmas Celebration</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Baby Huey &amp; The Baby Sitters - Hard Times</Track>
     <MixRankings>
       <string>Nightmares On Wax - Ethnic Majority, 4</string>
@@ -3974,6 +3988,7 @@
       <string>Black Sun Empire - Tripel (feat. State Of Mind), 4</string>
       <string>Concord Dawn - Cloud City, 4</string>
       <string>Bad Company - The Fear, 4</string>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 4</string>
       <string>Black Sun Empire - Delorean, 3</string>
       <string>Black Sun Empire - Descent, 3</string>
       <string>Black Sun Empire - Battalion, 3</string>
@@ -3981,6 +3996,7 @@
       <string>Cybernetika - Stinger, 3</string>
       <string>Bad Company - Hysteria, 3</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 3</string>
+      <string>Concord Dawn - Styx (feat. Geist), 3</string>
       <string>Bad Company - Night Train, 2</string>
       <string>Concord Dawn - Shinkansen, 2</string>
       <string>Cybernetika - Monolithic, 2</string>
@@ -4009,6 +4025,9 @@
       <string>Cybernetika - Towards The End Of Time, 4</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 4</string>
       <string>Bad Company - The Fear, 4</string>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 4</string>
+      <string>Concord Dawn - Styx (feat. Geist), 4</string>
+      <string>Cybernetika - Vaporized, 4</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 3</string>
       <string>Cybernetika - Monolithic, 3</string>
       <string>Bad Company - 4 Days, 3</string>
@@ -4043,11 +4062,14 @@
       <string>Bad Company - Night Train, 3</string>
       <string>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix), 3</string>
       <string>Concord Dawn - The Fallen, 3</string>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 3</string>
+      <string>Cybernetika - Vaporized, 3</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 2</string>
       <string>Black Sun Empire - Breach (The Upbeats Remix), 2</string>
       <string>Cybernetika - Monolithic, 2</string>
       <string>Cybernetika - Distress Beacon, 2</string>
       <string>Cybernetika - Stinger, 0</string>
+      <string>Concord Dawn - Styx (feat. Geist), 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -4060,6 +4082,7 @@
       <string>Bad Company - Sentient, 3</string>
       <string>Cybernetika - Constellations, 3</string>
       <string>Bad Company - Thin Air, 3</string>
+      <string>Cybernetika - Vaporized, 3</string>
       <string>Bad Company - Night Train, 2</string>
       <string>Bad Company - Rage, 2</string>
     </MixRankings>
@@ -4072,6 +4095,7 @@
       <string>Cybernetika - Constellations, 4</string>
       <string>Black Sun Empire - Arrakis, 3</string>
       <string>Bad Company - Rage, 3</string>
+      <string>Cybernetika - Vaporized, 3</string>
       <string>Bad Company - Thin Air, 2</string>
     </MixRankings>
   </TrackMix>
@@ -4088,7 +4112,6 @@
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 3</string>
       <string>Cybernetika - Monolithic, 3</string>
       <string>Bad Company - Sentient, 3</string>
-      <string>Cybernetika - Stinger, 3</string>
       <string>Bad Company - Night Train, 3</string>
       <string>Black Sun Empire - Battalion, 3</string>
       <string>Bad Company - Breathe, 3</string>
@@ -4097,6 +4120,7 @@
       <string>Black Sun Empire - Delorean, 3</string>
       <string>Cybernetika - Constellations, 3</string>
       <string>Bad Company - Thin Air, 3</string>
+      <string>Cybernetika - Stinger, 2</string>
       <string>Concord Dawn - The Fallen, 2</string>
       <string>Black Sun Empire - Breach (The Upbeats Remix), 2</string>
       <string>Bad Company - Rage, 0</string>
@@ -4121,6 +4145,7 @@
       <string>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix), 3</string>
       <string>Cybernetika - Neuronal Interface, 3</string>
       <string>Bad Company - Rage, 3</string>
+      <string>Cybernetika - Vaporized, 3</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 2</string>
       <string>Concord Dawn - Shinkansen, 2</string>
       <string>Black Sun Empire - Descent, 2</string>
@@ -4139,6 +4164,7 @@
       <string>Bad Company - Night Train, 4</string>
       <string>Cybernetika - Stinger, 3</string>
       <string>Bad Company - Thin Air, 3</string>
+      <string>Cybernetika - Vaporized, 3</string>
       <string>Bad Company - Sentient, 2</string>
       <string>Cybernetika - Monolithic, 2</string>
       <string>Cybernetika - Electron Tracker, 2</string>
@@ -4179,6 +4205,7 @@
       <string>Bad Company - Hysteria, 2</string>
       <string>Cybernetika - Towards The End Of Time, 2</string>
       <string>Cybernetika - Stinger, 2</string>
+      <string>Cybernetika - Vaporized, 2</string>
       <string>Cybernetika - Neuronal Interface, 0</string>
       <string>Cybernetika - Monolithic, 0</string>
       <string>Cybernetika - Distress Beacon, 0</string>
@@ -4213,6 +4240,7 @@
       <string>Concord Dawn - Shinkansen, 0</string>
       <string>Bad Company - 4 Days, 0</string>
       <string>Cybernetika - Constellations, 0</string>
+      <string>Cybernetika - Vaporized, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -4228,6 +4256,8 @@
       <string>Black Sun Empire - Tripel (feat. State Of Mind), 4</string>
       <string>Bad Company - Brain Scan, 4</string>
       <string>Cybernetika - Neuronal Interface, 4</string>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 4</string>
+      <string>Concord Dawn - Styx (feat. Geist), 4</string>
       <string>Black Sun Empire - Breach (The Upbeats Remix), 3</string>
       <string>Black Sun Empire - Hideous (feat. Noisia) (VIP Remix), 3</string>
       <string>Black Sun Empire - Delorean, 3</string>
@@ -4251,6 +4281,8 @@
       <string>Bad Company - The Fear, 4</string>
       <string>Bad Company - 4 Days, 3</string>
       <string>Bad Company - Thin Air, 3</string>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 3</string>
+      <string>Concord Dawn - Styx (feat. Geist), 2</string>
       <string>Cybernetika - Stinger, 0</string>
     </MixRankings>
   </TrackMix>
@@ -6032,8 +6064,15 @@
   <TrackMix>
     <Track>Binky Griptite - Stone Soul Christmas</Track>
     <MixRankings>
+      <string>Unknown Artist - Hark The Herald Angels Sing, 4</string>
+      <string>Rufus Thomas - I'll Be Your Santa Baby, 4</string>
+      <string>Tennessee Brown &amp; The Silvertones - Jingle Bells, 4</string>
+      <string>Roy Richards - Jingle Bells, 3</string>
+      <string>Alton Ellis - Praise Jah It's Christmas, 3</string>
+      <string>Dillinger &amp; The Brentford Harmonics - Hi Fashion Christmas, 3</string>
       <string>Stevie Wonder - What Christmas Means To Me, 2</string>
       <string>Thomas East - Santa Claus Go Straight To The Ghetto, 2</string>
+      <string>Johnny Osbourne - Christmas Stylee, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -6131,6 +6170,20 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Black On White Affair - Auld Lang Syne</Track>
+    <MixRankings>
+      <string>Shawn Lee's Ping Pong Orchestra - O Come All Ye Faithful, 4</string>
+      <string>Norman T Washington - It's Christmas Time Again, 3</string>
+      <string>Shawn Lee's Ping Pong Orchestra - Do You Hear What I Hear, 3</string>
+      <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 3</string>
+      <string>The Soul Saints Orchestra - Santas Got a Bag of Soul, 3</string>
+      <string>Shawn Lee's Ping Pong Orchestra - Jingle Bells, 2</string>
+      <string>The Ronettes - Sleigh Ride, 2</string>
+      <string>The Cimarons - Holy Christmas, 2</string>
+      <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>Black Sabbath - Children of the Grave (Instrumental)</Track>
     <MixRankings>
       <string>Black Sabbath - Sweet Leaf (Instrumental), 2</string>
@@ -6215,6 +6268,7 @@
       <string>Cybernetika - Stinger, 3</string>
       <string>Bad Company - Hysteria, 3</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 3</string>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 3</string>
       <string>Cybernetika - Monolithic, 2</string>
       <string>Concord Dawn - Chloroform, 2</string>
     </MixRankings>
@@ -6224,6 +6278,7 @@
     <MixRankings>
       <string>Cybernetika - Neuronal Interface, 4</string>
       <string>Bad Company - Thin Air, 4</string>
+      <string>Cybernetika - Vaporized, 4</string>
       <string>Bad Company - Nitrous, 3</string>
       <string>Bad Company - Night Train, 2</string>
       <string>Bad Company - Rage, 2</string>
@@ -6242,6 +6297,8 @@
       <string>Concord Dawn - Cloud City, 4</string>
       <string>Bad Company - The Nine, 4</string>
       <string>Bad Company - The Fear, 4</string>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 4</string>
+      <string>Concord Dawn - Styx (feat. Geist), 4</string>
       <string>Black Sun Empire - Descent, 3</string>
       <string>Concord Dawn - Shinkansen, 3</string>
       <string>Bad Company - 4 Days, 3</string>
@@ -6270,6 +6327,7 @@
       <string>Black Sun Empire - Hideous (feat. Noisia) (VIP Remix), 4</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 4</string>
       <string>Bad Company - The Fear, 4</string>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 4</string>
       <string>Concord Dawn - Shinkansen, 3</string>
       <string>Bad Company - Brain Scan, 3</string>
       <string>Black Sun Empire - Descent, 3</string>
@@ -6299,6 +6357,8 @@
       <string>Black Sun Empire - Delorean, 4</string>
       <string>Bad Company - Sentient, 4</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 4</string>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 4</string>
+      <string>Concord Dawn - Styx (feat. Geist), 4</string>
       <string>Bad Company - 4 Days, 3</string>
       <string>Black Sun Empire - Battalion, 3</string>
       <string>Cybernetika - Anomaly, 3</string>
@@ -6323,6 +6383,7 @@
       <string>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix), 4</string>
       <string>Bad Company - Sentient, 4</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 4</string>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 4</string>
       <string>Concord Dawn - Shinkansen, 3</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 3</string>
       <string>Black Sun Empire - 1800 Contact, 3</string>
@@ -6336,6 +6397,7 @@
       <string>Bad Company - Breathe, 2</string>
       <string>Cybernetika - Monolithic, 2</string>
       <string>Bad Company - Hysteria, 2</string>
+      <string>Concord Dawn - Styx (feat. Geist), 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -6357,6 +6419,7 @@
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 3</string>
       <string>Cybernetika - Stinger, 3</string>
       <string>Bad Company - The Fear, 3</string>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 3</string>
       <string>Cybernetika - Anomaly, 2</string>
       <string>Concord Dawn - Shinkansen, 2</string>
       <string>Bad Company - Night Train, 2</string>
@@ -6376,6 +6439,8 @@
       <string>Concord Dawn - Cloud City, 4</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 4</string>
       <string>Bad Company - The Fear, 4</string>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 4</string>
+      <string>Concord Dawn - Styx (feat. Geist), 4</string>
       <string>Black Sun Empire - Breach (The Upbeats Remix), 3</string>
       <string>Cybernetika - Anomaly, 3</string>
       <string>Concord Dawn - Shinkansen, 3</string>
@@ -6421,12 +6486,14 @@
       <string>Black Sun Empire - Tripel (feat. State Of Mind), 4</string>
       <string>Black Sun Empire - Descent, 4</string>
       <string>Bad Company - Brain Scan, 4</string>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 4</string>
       <string>Black Sun Empire - Breach (The Upbeats Remix), 3</string>
       <string>Concord Dawn - Shinkansen, 3</string>
       <string>Concord Dawn - Cloud City, 3</string>
       <string>Bad Company - The Nine, 3</string>
       <string>Cybernetika - Neuronal Interface, 3</string>
       <string>Concord Dawn - Killsaw, 3</string>
+      <string>Concord Dawn - Styx (feat. Geist), 3</string>
       <string>Cybernetika - Close Your Eyes, 2</string>
       <string>Concord Dawn - Guardian Angel, 2</string>
     </MixRankings>
@@ -6438,6 +6505,8 @@
       <string>Cybernetika - Anomaly, 4</string>
       <string>Bad Company - 4 Days, 4</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 4</string>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 4</string>
+      <string>Concord Dawn - Styx (feat. Geist), 4</string>
       <string>Black Sun Empire - Battalion, 3</string>
       <string>Black Sun Empire - Delorean, 3</string>
       <string>Bad Company - The Fear, 3</string>
@@ -6445,15 +6514,47 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix)</Track>
+    <MixRankings>
+      <string>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix), 4</string>
+      <string>Bad Company - The Fear, 4</string>
+      <string>Black Sun Empire - Hideous (feat. Noisia) (VIP Remix), 4</string>
+      <string>Black Sun Empire - Delorean, 4</string>
+      <string>Cybernetika - Anomaly, 4</string>
+      <string>Black Sun Empire - Battlefish (feat. Nymfo), 4</string>
+      <string>Black Sun Empire - Fever (Chris SU Remix), 4</string>
+      <string>Concord Dawn - Shinkansen, 4</string>
+      <string>Bad Company - Breathe, 4</string>
+      <string>Cybernetika - Towards The End Of Time, 4</string>
+      <string>Concord Dawn - Cloud City, 4</string>
+      <string>Concord Dawn - Guardian Angel, 4</string>
+      <string>Black Sun Empire - Tripel (feat. State Of Mind), 4</string>
+      <string>Black Sun Empire - Descent, 4</string>
+      <string>Bad Company - Brain Scan, 4</string>
+      <string>Bad Company - The Nine, 4</string>
+      <string>Black Sun Empire - 1800 Contact, 3</string>
+      <string>Black Sun Empire - Breach (The Upbeats Remix), 3</string>
+      <string>Black Sun Empire - Battalion, 3</string>
+      <string>Bad Company - 4 Days, 3</string>
+      <string>Cybernetika - Neuronal Interface, 3</string>
+      <string>Concord Dawn - Styx (feat. Geist), 3</string>
+      <string>Cybernetika - Close Your Eyes, 2</string>
+      <string>Concord Dawn - Chloroform, 0</string>
+      <string>Concord Dawn - Killsaw, 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>Black Sun Empire - Tripel (feat. State Of Mind)</Track>
     <MixRankings>
       <string>Bad Company - The Nine, 5</string>
+      <string>Concord Dawn - Styx (feat. Geist), 5</string>
       <string>Black Sun Empire - Battalion, 4</string>
       <string>Black Sun Empire - 1800 Contact, 4</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 4</string>
       <string>Bad Company - The Fear, 4</string>
       <string>Bad Company - 4 Days, 3</string>
       <string>Cybernetika - Constellations, 3</string>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 3</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -7091,6 +7192,8 @@
     <MixRankings>
       <string>Short Stuff - Merry Christmas Baby, 4</string>
       <string>The Diplomats Of Solid Sound - Let It Snow, 4</string>
+      <string>Toots &amp; The Maytals - Christmas Feeling Ska, 4</string>
+      <string>The Toasters - We Three Kings, 4</string>
       <string>James Brown - Christmas Is Love, 3</string>
       <string>Martin Mull with The Sondra Baskin Glee Club - Santafly, 3</string>
       <string>The Beginning of the End - Gee Whiz, It's Christmas, 3</string>
@@ -8054,6 +8157,7 @@
       <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 2</string>
       <string>Meditation Singers - What The World Needs For Christmas, 2</string>
       <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 2</string>
+      <string>Royce Campbell - Santa Claus is Coming to Town, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -8318,6 +8422,14 @@
       <string>Spanky Wilson - Sunshine Of Your Love, 0</string>
       <string>Dizzy Gillespie - Ding-A-Ling, 0</string>
       <string>Nina Simone - Ain't Got No; I Got Life (Alternate), 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Bunny &amp; Skully - White Christmas</Track>
+    <MixRankings>
+      <string>James Brown - Go Power at Christmas Time, 4</string>
+      <string>Shawn Lee's Ping Pong Orchestra - Deck The Halls, 4</string>
+      <string>J.D. McDonald - Boogaloo Santa Claus, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -8709,12 +8821,14 @@
     <MixRankings>
       <string>The Funk Brothers - Winter Wonderland, 5</string>
       <string>The Jackson 5 - Up on the House Top, 5</string>
+      <string>The Wailers - Sound The Trumpet, 4</string>
       <string>Marvin Gaye - Purple Snowflakes, 3</string>
       <string>Al Green - Feels Like Christmas, 3</string>
       <string>Carla Thomas - Gee Whiz its Christmas, 3</string>
       <string>Jimmy Reed - Christmas Present Blues, 3</string>
       <string>Meditation Singers - What The World Needs For Christmas, 3</string>
       <string>Ray Harris &amp; The Fusion Experience - Soulful Christmas, 3</string>
+      <string>The Granville Williams Orchestra - Santa Claus is Ska-Ing To Town, 3</string>
       <string>La Sonora Matancera - Bachata en Navidad, 2</string>
       <string>Bobby Holloway - Funky Little Drummer Boy, 2</string>
       <string>Short Stuff - Merry Christmas Baby, 0</string>
@@ -8748,6 +8862,10 @@
       <string>The Aggrovators - Santa Claus Dub, 2</string>
       <string>Horace Andy - Christmas Time, 2</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Carlene Davis &amp; Trinity - Santa Claus (Do You Ever Come To The Ghetto)</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Carolyn Franklin - Deal With It</Track>
@@ -8822,6 +8940,14 @@
       <string>Joe And Everyday People - Sleep Walk (Part 2), 0</string>
       <string>The Skatalites - Chinatown, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Charles Bradley - Every Day Is Christmas (When I'm Lovin' You)</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
+    <Track>Charles Bradley - Mary's Baby</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Charles Bradley - No Time For Dreaming</Track>
@@ -9465,20 +9591,24 @@
       <string>Black Sun Empire - Battalion, 4</string>
       <string>Bad Company - Breathe, 4</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 4</string>
+      <string>Concord Dawn - Styx (feat. Geist), 4</string>
       <string>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix), 3</string>
       <string>Concord Dawn - Shinkansen, 3</string>
       <string>Bad Company - The Fear, 3</string>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 3</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
     <Track>Concord Dawn - Cloud City</Track>
     <MixRankings>
       <string>Concord Dawn - Shinkansen, 4</string>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 4</string>
       <string>Bad Company - 4 Days, 3</string>
       <string>Black Sun Empire - Battalion, 3</string>
       <string>Cybernetika - Anomaly, 3</string>
       <string>Black Sun Empire - Tripel (feat. State Of Mind), 3</string>
       <string>Bad Company - The Fear, 3</string>
+      <string>Concord Dawn - Styx (feat. Geist), 3</string>
       <string>Black Sun Empire - 1800 Contact, 2</string>
       <string>Cybernetika - Constellations, 2</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 2</string>
@@ -9492,10 +9622,13 @@
       <string>Black Sun Empire - Battalion, 3</string>
       <string>Bad Company - Rage, 3</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 3</string>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 3</string>
       <string>Bad Company - Breathe, 2</string>
       <string>Concord Dawn - Chloroform, 2</string>
       <string>Concord Dawn - Shinkansen, 2</string>
       <string>Bad Company - The Fear, 2</string>
+      <string>Concord Dawn - Styx (feat. Geist), 2</string>
+      <string>Cybernetika - Vaporized, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -9507,6 +9640,8 @@
       <string>Bad Company - The Fear, 3</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 0</string>
       <string>Bad Company - Thin Air, 0</string>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 0</string>
+      <string>Cybernetika - Vaporized, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -9532,11 +9667,39 @@
       <string>Bad Company - Breathe, 3</string>
       <string>Cybernetika - Stinger, 3</string>
       <string>Concord Dawn - Cloud City, 3</string>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 3</string>
+      <string>Concord Dawn - Styx (feat. Geist), 3</string>
       <string>Cybernetika - Monolithic, 2</string>
       <string>Black Sun Empire - Battalion, 2</string>
       <string>Black Sun Empire - Breach (The Upbeats Remix), 2</string>
       <string>Concord Dawn - Chloroform, 2</string>
       <string>Cybernetika - Close Your Eyes, 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Concord Dawn - Styx (feat. Geist)</Track>
+    <MixRankings>
+      <string>Concord Dawn - Cloud City, 5</string>
+      <string>Bad Company - 4 Days, 4</string>
+      <string>Black Sun Empire - Hideous (feat. Noisia) (VIP Remix), 4</string>
+      <string>Concord Dawn - Chloroform, 3</string>
+      <string>Black Sun Empire - Battalion, 3</string>
+      <string>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix), 3</string>
+      <string>Black Sun Empire - Breach (The Upbeats Remix), 2</string>
+      <string>Bad Company - The Fear, 2</string>
+      <string>Black Sun Empire - Tripel (feat. State Of Mind), 2</string>
+      <string>Black Sun Empire - Delorean, 2</string>
+      <string>Cybernetika - Close Your Eyes, 2</string>
+      <string>Cybernetika - Anomaly, 2</string>
+      <string>Concord Dawn - Shinkansen, 2</string>
+      <string>Bad Company - The Nine, 2</string>
+      <string>Black Sun Empire - Fever (Chris SU Remix), 0</string>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 0</string>
+      <string>Bad Company - Breathe, 0</string>
+      <string>Cybernetika - Towards The End Of Time, 0</string>
+      <string>Concord Dawn - Guardian Angel, 0</string>
+      <string>Cybernetika - Constellations, 0</string>
+      <string>Bad Company - Brain Scan, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -9810,6 +9973,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Count Sidney &amp; His Dukes - Soul Christmas (Vocal)</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Cuba L.A. - Ya Llegó la Navidad</Track>
     <MixRankings>
       <string>La Sonora Matancera - Aguinaldo Antillano, 3</string>
@@ -9918,6 +10085,8 @@
       <string>Bad Company - 4 Days, 4</string>
       <string>Concord Dawn - Guardian Angel, 4</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 4</string>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 4</string>
+      <string>Concord Dawn - Styx (feat. Geist), 4</string>
       <string>Concord Dawn - Shinkansen, 3</string>
       <string>Cybernetika - Monolithic, 3</string>
       <string>Black Sun Empire - Descent, 3</string>
@@ -9941,11 +10110,13 @@
   <TrackMix>
     <Track>Cybernetika - Close Your Eyes</Track>
     <MixRankings>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 5</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 4</string>
       <string>Bad Company - 4 Days, 4</string>
       <string>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix), 4</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 4</string>
       <string>Bad Company - The Fear, 4</string>
+      <string>Concord Dawn - Styx (feat. Geist), 4</string>
       <string>Concord Dawn - Shinkansen, 3</string>
       <string>Cybernetika - Anomaly, 3</string>
     </MixRankings>
@@ -9966,6 +10137,7 @@
       <string>Cybernetika - Monolithic, 3</string>
       <string>Bad Company - 4 Days, 3</string>
       <string>Bad Company - Thin Air, 3</string>
+      <string>Concord Dawn - Styx (feat. Geist), 3</string>
       <string>Bad Company - Hysteria, 2</string>
       <string>Concord Dawn - The Fallen, 2</string>
       <string>Concord Dawn - Cloud City, 2</string>
@@ -10009,6 +10181,7 @@
       <string>Cybernetika - Constellations, 4</string>
       <string>Bad Company - Rage, 4</string>
       <string>Bad Company - Thin Air, 4</string>
+      <string>Cybernetika - Vaporized, 4</string>
       <string>Bad Company - Night Train, 3</string>
       <string>Bad Company - Nitrous, 2</string>
     </MixRankings>
@@ -10040,11 +10213,13 @@
       <string>Black Sun Empire - Delorean, 0</string>
       <string>Black Sun Empire - Breach (The Upbeats Remix), 0</string>
       <string>Bad Company - Thin Air, 0</string>
+      <string>Cybernetika - Vaporized, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
     <Track>Cybernetika - Neuronal Interface</Track>
     <MixRankings>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 5</string>
       <string>Cybernetika - Monolithic, 4</string>
       <string>Bad Company - Night Train, 4</string>
       <string>Bad Company - Brain Scan, 4</string>
@@ -10054,6 +10229,7 @@
       <string>Bad Company - Rage, 4</string>
       <string>Bad Company - Thin Air, 4</string>
       <string>Bad Company - The Fear, 4</string>
+      <string>Cybernetika - Vaporized, 4</string>
       <string>Bad Company - Breathe, 3</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 3</string>
     </MixRankings>
@@ -10093,8 +10269,32 @@
       <string>Bad Company - Brain Scan, 4</string>
       <string>Black Sun Empire - Descent, 4</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 4</string>
+      <string>Concord Dawn - Styx (feat. Geist), 4</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 3</string>
       <string>Bad Company - Rage, 3</string>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 3</string>
+      <string>Cybernetika - Vaporized, 3</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Cybernetika - Vaporized</Track>
+    <MixRankings>
+      <string>Concord Dawn - Killsaw, 5</string>
+      <string>Black Sun Empire - Arrakis, 4</string>
+      <string>Cybernetika - Neuronal Interface, 4</string>
+      <string>Bad Company - Brain Scan, 4</string>
+      <string>Bad Company - Night Train, 4</string>
+      <string>Bad Company - Bullet Time (Spor Remix), 3</string>
+      <string>Cybernetika - Towards The End Of Time, 3</string>
+      <string>Bad Company - Sentient, 3</string>
+      <string>Bad Company - Rage, 2</string>
+      <string>Bad Company - Nitrous, 2</string>
+      <string>Bad Company - Bullet Time, 2</string>
+      <string>Cybernetika - Electron Tracker, 2</string>
+      <string>Cybernetika - Monolithic, 2</string>
+      <string>Concord Dawn - Guardian Angel, 2</string>
+      <string>Bad Company - Breathe, 0</string>
+      <string>Black Sun Empire - 1800 Contact, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -11683,6 +11883,13 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Derek B - Chillin' With Santa</Track>
+    <MixRankings>
+      <string>Kurtis Blow - Christmas Rappin', 4</string>
+      <string>Marvin Gaye - Purple Snowflakes, 3</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>Diana Ross &amp; The Supremes - I'm Livin' in Shame</Track>
     <MixRankings>
       <string>Chic - Good Times, 0</string>
@@ -11820,6 +12027,7 @@
       <string>Half Pint - Christmas Vibes, 4</string>
       <string>The Heptones - Christmas Time Is Here, 4</string>
       <string>Roy Richards - Jingle Bells, 4</string>
+      <string>Binky Griptite - Stone Soul Christmas, 4</string>
       <string>Alton Ellis - Praise Jah It's Christmas, 3</string>
       <string>Carlene Davis - Santa Claus (Do You Ever Come To The Ghetto), 3</string>
       <string>The Cimarons - Silent Night; White Christmas, 3</string>
@@ -13075,6 +13283,7 @@
       <string>Carlene Davis - Santa Claus (Do You Ever Come To The Ghetto), 2</string>
       <string>Charley Fresh - Happy Christmas Rude Boy, 2</string>
       <string>Horace Andy - Christmas Time, 2</string>
+      <string>James Brown - Go Power at Christmas Time, 2</string>
       <string>Al &amp; The Vibrators - Merry Christmas, 0</string>
       <string>Joe Gibbs - Oh Little Town Of Betlehem (feat. Horace Andy), 0</string>
       <string>Tennessee Brown &amp; The Silvertones - Little Drummer Boy, 0</string>
@@ -15353,8 +15562,10 @@
       <string>Iron Phoenix - Natty Dread Christmas, 4</string>
       <string>The Wailers - Sound The Trumpet, 4</string>
       <string>Toots &amp; The Maytals - Christmas Feeling Ska, 4</string>
+      <string>Mr President - It's Christmas Time, 4</string>
       <string>Don Cornell &amp; The Eternals - Christmas Joy, 3</string>
       <string>The Granville Williams Orchestra - Santa Claus is Ska-Ing To Town, 3</string>
+      <string>Bobby Holloway - Funky Little Drummer Boy, 3</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -15599,6 +15810,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Funk MaHine - Soul Santa</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Gal Costa &amp; Caetano Veloso - Maria Joana</Track>
     <MixRankings>
       <string>Jimmy Smith &amp; Wes Mongomery - OGD (Road Song), 4</string>
@@ -15819,7 +16034,9 @@
       <string>James Brown - Go Power at Christmas Time, 3</string>
       <string>Thomas East - Santa Claus Go Straight To The Ghetto, 3</string>
       <string>Shawn Lee's Ping Pong Orchestra - Carol of The Bells, 3</string>
+      <string>Tennessee Brown &amp; The Silvertones - Little Drummer Boy, 3</string>
       <string>The Jackson 5 - Santa Claus Is Coming to Town, 2</string>
+      <string>The Ramsey Lewis Trio - Christmas Blues, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -17099,6 +17316,7 @@
       <string>The Sivertones - Merry Merry Christmas, 2</string>
       <string>Tennessee Brown &amp; The Silvertones - Jingle Bells, 2</string>
       <string>Roy Richards - Jingle Bells, 2</string>
+      <string>The Ramsey Lewis Trio - Here Comes Santa Claus, 2</string>
       <string>Wain Nelson - Santa Claus, 0</string>
     </MixRankings>
   </TrackMix>
@@ -17258,8 +17476,13 @@
       <string>Rufus Thomas - I'll Be Your Santa Baby, 4</string>
       <string>The Soul Saints Orchestra - Santas Got a Bag of Soul, 4</string>
       <string>Rose Graham - Black Christmas, 4</string>
+      <string>Alton Ellis - Merry Merry Christmas, 4</string>
+      <string>Unknown Artist - Hark The Herald Angels Sing, 4</string>
+      <string>The Cimarons - Silent Night; White Christmas, 3</string>
       <string>Reindeer Runners - Pull My Sled, 2</string>
       <string>The Ronettes - Sleigh Ride, 2</string>
+      <string>The Ramsey Lewis Trio - Winter Wonderland, 2</string>
+      <string>Binky Griptite - Stone Soul Christmas, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -17445,6 +17668,7 @@
       <string>Tennessee Brown &amp; The Silvertones - Jingle Bells, 3</string>
       <string>Barrington Levy &amp; Trinity - Flash Your Dread, 3</string>
       <string>The Cimarons - Silent Night; White Christmas, 3</string>
+      <string>Rufus Thomas - I'll Be Your Santa Baby, 3</string>
       <string>Half Pint - Christmas Vibes, 2</string>
       <string>Wain Nelson - Santa Claus, 2</string>
       <string>The Sivertones - Merry Merry Christmas, 2</string>
@@ -18198,6 +18422,9 @@
       <string>The Diplomats Of Solid Sound - Let It Snow, 3</string>
       <string>James Brown - Christmas Is Love, 3</string>
       <string>Mr President - It's Christmas Time, 3</string>
+      <string>The Wailers - Sound The Trumpet, 3</string>
+      <string>The Granville Williams Orchestra - Santa Claus is Ska-Ing To Town, 3</string>
+      <string>Toots &amp; The Maytals - Christmas Feeling Ska, 3</string>
       <string>Caribbean Jazz Project - Noche de Paz, 2</string>
       <string>Bobby Holloway - Funky Little Drummer Boy, 2</string>
       <string>The Beginning of the End - Gee Whiz, It's Christmas, 2</string>
@@ -18474,14 +18701,20 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>J Lara - Hands of the Lord</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>J.D. McDonald - Boogaloo Santa Claus</Track>
     <MixRankings>
       <string>Martin Mull with The Sondra Baskin Glee Club - Santafly, 4</string>
       <string>Mr President - It's Christmas Time, 4</string>
       <string>Shawn Lee's Ping Pong Orchestra - Deck The Halls, 4</string>
       <string>Gary Walker - Santa's Got a Brand New Bag, 4</string>
+      <string>The Toasters - We Three Kings, 4</string>
       <string>Captain Elmo McKenzie - Home on Christmas Day, 3</string>
       <string>Shawn Lee's Ping Pong Orchestra - Carol of The Bells, 3</string>
+      <string>The Ramsey Lewis Trio - Christmas Blues, 3</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -18940,6 +19173,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Jacob Miller - The Twelve Days of Ismas</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Jacob Miller &amp; Ray I - All I Want for Ismas</Track>
     <MixRankings>
       <string>Barrington Levy &amp; Trinity - Flash Your Dread, 5</string>
@@ -18991,6 +19228,10 @@
       <string>Frank Cosmo - Merry Christmas, 2</string>
       <string>Jacob Miller &amp; Ray I - Silver Bells, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Jah Irie Chorus - Sensimilla (feat Dean Fraser)</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>James Brown - Blind Man Can See It</Track>
@@ -19170,9 +19411,15 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>James Brown - Christmas in Heaven</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>James Brown - Christmas Is Love</Track>
     <MixRankings>
       <string>Mr President - It's Christmas Time, 3</string>
+      <string>The Toasters - We Three Kings, 3</string>
+      <string>The Wailers - Sound The Trumpet, 3</string>
       <string>Bobby Holloway - Funky Little Drummer Boy, 2</string>
       <string>Martin Mull with The Sondra Baskin Glee Club - Santafly, 2</string>
       <string>Ray Harris &amp; The Fusion Experience - Soulful Christmas, 2</string>
@@ -19483,8 +19730,12 @@
   <TrackMix>
     <Track>James Brown - Go Power at Christmas Time</Track>
     <MixRankings>
+      <string>The Silvertones - Bling Bling Christmas, 4</string>
       <string>Royce Campbell - Silent Night, 3</string>
       <string>Shawn Lee's Ping Pong Orchestra - Little Drummer Boy, 3</string>
+      <string>Doreen Schaffer - Wishing You a Merry Christmas, 3</string>
+      <string>Johnny Clarke - I Saw Mommy Kissing Santa Claus, 3</string>
+      <string>Unknown Artist - Merry Christmas, 3</string>
       <string>The Jackson 5 - Santa Claus Is Coming to Town, 2</string>
     </MixRankings>
   </TrackMix>
@@ -19847,6 +20098,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>James Brown - Santa Claus Is Definitely Here to Stay</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>James Brown - Say It Loud I'm Black And I'm Proud</Track>
     <MixRankings>
       <string>James Brown - I Can't Stand Myself (When You Touch Me) (Part 1), 4</string>
@@ -19867,6 +20122,10 @@
       <string>Thievery Corporation - Shadows Of Ourselves, 0</string>
       <string>Milt Jackson - I'm Not so Sure, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>James Brown - Signs of Christmas</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>James Brown - Slaughter Theme</Track>
@@ -19974,6 +20233,10 @@
       <string>Dandy Livingstone - Rudy, A Message To You, 0</string>
       <string>Mario Castro Neves &amp; Samba S.A. - Candomblé, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>James Brown - Soulful Christmas</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>James Brown - Super Bad (Parts 1 &amp; 2)</Track>
@@ -20670,6 +20933,7 @@
       <string>Vernon Garrett - Merry Christmas, Baby, 2</string>
       <string>La Sonora Matancera - Cascabel, 2</string>
       <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 2</string>
+      <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -20712,6 +20976,7 @@
     <Track>Jimmy Reed - Christmas Present Blues</Track>
     <MixRankings>
       <string>Ray Harris &amp; The Fusion Experience - Soulful Christmas, 4</string>
+      <string>Toots &amp; The Maytals - Christmas Feeling Ska, 4</string>
       <string>Short Stuff - Merry Christmas Baby, 3</string>
       <string>Clarence Carter - Back Door Santa, 3</string>
       <string>Ike &amp; Tina Turner - Merry Christmas Baby, 3</string>
@@ -20722,6 +20987,7 @@
       <string>The Beginning of the End - Gee Whiz, It's Christmas, 2</string>
       <string>Marvin Gaye - Purple Snowflakes, 2</string>
       <string>The Funk Brothers - Winter Wonderland, 2</string>
+      <string>The Granville Williams Orchestra - Santa Claus is Ska-Ing To Town, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -21337,9 +21603,11 @@
       <string>Jacob Miller &amp; Ray I - All I Want for Ismas, 3</string>
       <string>Horace Andy - Christmas Time, 3</string>
       <string>Alton Ellis - Praise Jah It's Christmas, 3</string>
+      <string>Binky Griptite - Stone Soul Christmas, 3</string>
       <string>Doreen Schaffer - Wishing You a Merry Christmas, 2</string>
       <string>Home T &amp; Trinity - All I Want For Christmas, 2</string>
       <string>Kojak - Christmas Style, 2</string>
+      <string>The Ramsey Lewis Trio - Here Comes Santa Claus, 2</string>
       <string>Carlene Davis - Santa Claus (Do You Ever Come To The Ghetto), 0</string>
       <string>Joe Gibbs - Oh Little Town Of Betlehem (feat. Horace Andy), 0</string>
       <string>Tennessee Brown &amp; The Silvertones - Little Drummer Boy, 0</string>
@@ -24514,6 +24782,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>King Sun-D Moet - Christmas In The City</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>King Tubby - A Truthful Dub</Track>
     <MixRankings>
       <string>Betty Harris - Break In The Road (feat. The Meters), 4</string>
@@ -25341,6 +25613,12 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Kurtis Blow - Christmas Rappin'</Track>
+    <MixRankings>
+      <string>Carla Thomas - Gee Whiz its Christmas, 3</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>La Sonora Matancera - Aguinaldo Antillano</Track>
     <MixRankings>
       <string>La Sonora Matancera - En la Nochebuena, 3</string>
@@ -25943,6 +26221,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Little Jimmy Thomas - Deck The Halls</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Little Roy - Lithium</Track>
     <MixRankings>
       <string>Rockers Hi Fi - Transmission Central, 5</string>
@@ -26523,6 +26805,9 @@
       <string>La Sonora Matancera - Pachanga en Navidad, 2</string>
       <string>Shawn Lee's Ping Pong Orchestra - Carol of The Bells, 2</string>
       <string>J.D. McDonald - Boogaloo Santa Claus, 2</string>
+      <string>Frank Cosmo - Greetings from Beverley's, 0</string>
+      <string>Toots &amp; The Maytals - Christmas Feeling Ska, 0</string>
+      <string>The Toasters - We Three Kings, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -26666,6 +26951,7 @@
       <string>The Funk Brothers - Winter Wonderland, 3</string>
       <string>Meditation Singers - What The World Needs For Christmas, 3</string>
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 3</string>
+      <string>Ray Harris &amp; The Fusion Experience - Soulful Christmas, 3</string>
       <string>Donny Hathaway - This Christmas, 2</string>
       <string>Breakestra - Let The Bells Ring, 2</string>
       <string>The Jackson 5 - Up on the House Top, 2</string>
@@ -26740,6 +27026,7 @@
       <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 3</string>
       <string>The Jackson 5 - Up on the House Top, 3</string>
       <string>Vernon Garrett - Merry Christmas, Baby, 2</string>
+      <string>Royce Campbell - Santa Claus is Coming to Town, 2</string>
       <string>Jimmy Reed - Christmas Present Blues, 0</string>
     </MixRankings>
   </TrackMix>
@@ -26850,6 +27137,7 @@
     <MixRankings>
       <string>Shawn Lee's Ping Pong Orchestra - O Come All Ye Faithful, 4</string>
       <string>The Chambers Brothers - Merry Christmas, Happy New Year, 4</string>
+      <string>Black On White Affair - Auld Lang Syne, 4</string>
       <string>Sharon Jones &amp; The Dap-Kings - Ain't No Chimneys In The Projects, 3</string>
       <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 3</string>
       <string>The Jive Turkeys - Get Down Santa, 3</string>
@@ -27315,6 +27603,7 @@
   <TrackMix>
     <Track>Mr President - It's Christmas Time</Track>
     <MixRankings>
+      <string>The Toasters - We Three Kings, 4</string>
       <string>The Beginning of the End - Gee Whiz, It's Christmas, 3</string>
       <string>James Brown - Christmas Is Love, 3</string>
       <string>J.D. McDonald - Boogaloo Santa Claus, 3</string>
@@ -27323,6 +27612,7 @@
       <string>The Diplomats Of Solid Sound - Let It Snow, 2</string>
       <string>Ray Harris &amp; The Fusion Experience - Soulful Christmas, 2</string>
       <string>Ike &amp; Tina Turner - Merry Christmas Baby, 2</string>
+      <string>Frank Cosmo - Greetings from Beverley's, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -29019,10 +29309,15 @@
   <TrackMix>
     <Track>Norman T Washington - It's Christmas Time Again</Track>
     <MixRankings>
+      <string>Shawn Lee's Ping Pong Orchestra - Jingle Bells, 5</string>
       <string>The Toasters - God Rock You Steady Gentleman, 4</string>
       <string>The Cimarons - Holy Christmas, 4</string>
+      <string>Black On White Affair - Auld Lang Syne, 4</string>
       <string>Alton Ellis - Christmas Coming, 3</string>
       <string>Joe Gibbs - Let Christmas Catch You On A Good Mood, 3</string>
+      <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 3</string>
+      <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 3</string>
+      <string>Shawn Lee's Ping Pong Orchestra - Do You Hear What I Hear, 3</string>
       <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 2</string>
     </MixRankings>
   </TrackMix>
@@ -29562,9 +29857,11 @@
       <string>Meditation Singers - What The World Needs For Christmas, 4</string>
       <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 4</string>
       <string>Shawn Lee's Ping Pong Orchestra - Do You Hear What I Hear, 4</string>
+      <string>Shawn Lee's Ping Pong Orchestra - Jingle Bells, 4</string>
       <string>Albert King - Santa Claus Wants Some Lovin', 3</string>
       <string>The Jive Turkeys - Get Down Santa, 3</string>
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 3</string>
+      <string>Royce Campbell - Santa Claus is Coming to Town, 3</string>
       <string>Vernon Garrett - Merry Christmas, Baby, 2</string>
       <string>Vernon Garrett - Christmas Groove, 2</string>
     </MixRankings>
@@ -31050,10 +31347,12 @@
     <MixRankings>
       <string>Short Stuff - Merry Christmas Baby, 4</string>
       <string>Carla Thomas - Gee Whiz its Christmas, 3</string>
+      <string>The Wailers - Sound The Trumpet, 3</string>
       <string>James Brown - Christmas Is Love, 2</string>
       <string>Jimmy Reed - Christmas Present Blues, 2</string>
       <string>Al Green - Feels Like Christmas, 2</string>
       <string>The Beginning of the End - Gee Whiz, It's Christmas, 2</string>
+      <string>The Granville Williams Orchestra - Santa Claus is Ska-Ing To Town, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -32212,6 +32511,7 @@
       <string>Jacob Miller &amp; Ray I - All I Want for Ismas, 2</string>
       <string>Joe Gibbs - We Three Kings, 2</string>
       <string>Unknown Artist - Hark The Herald Angels Sing, 2</string>
+      <string>Harvey Averne Band - Lets Get it Together This Christmas, 2</string>
       <string>The Cimarons - Silent Night; White Christmas, 0</string>
       <string>Hopeton &amp; Primo - Peace on Earth, 0</string>
     </MixRankings>
@@ -32247,7 +32547,14 @@
   <TrackMix>
     <Track>Royce Campbell - Santa Claus is Coming to Town</Track>
     <MixRankings>
+      <string>Breakestra - Let The Bells Ring, 3</string>
+      <string>Vernon Garrett - Merry Christmas, Baby, 3</string>
+      <string>Albert King - Santa Claus Wants Some Lovin', 3</string>
+      <string>Shawn Lee's Ping Pong Orchestra - Jingle Bells, 3</string>
       <string>Roy Hargrove - Frosty The Snowman, 2</string>
+      <string>Otis Redding - Merry Christmas Baby, 2</string>
+      <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 2</string>
+      <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -32349,7 +32656,20 @@
       <string>The Jive Turkeys - Get Down Santa, 2</string>
       <string>Don Smith - Black Christmas, 2</string>
       <string>The Ronettes - Sleigh Ride, 2</string>
+      <string>Hopeton &amp; Primo - Peace on Earth, 2</string>
+      <string>Wain Nelson - Santa Claus, 2</string>
+      <string>The Cimarons - Silent Night; White Christmas, 2</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Run D.M.C. - Christmas In Hollis</Track>
+    <MixRankings>
+      <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 3</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Run D.M.C. - Christmas Is</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Rusty Bryant - Fire Eater</Track>
@@ -33040,12 +33360,15 @@
       <string>The Soul Saints Orchestra - Santas Got a Bag of Soul, 3</string>
       <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 3</string>
       <string>Shawn Lee's Ping Pong Orchestra - Jingle Bells, 3</string>
+      <string>Black On White Affair - Auld Lang Syne, 3</string>
+      <string>Royce Campbell - Santa Claus is Coming to Town, 3</string>
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 2</string>
       <string>Clarence Carter - Back Door Santa, 2</string>
       <string>Vernon Garrett - Christmas Groove, 2</string>
       <string>Vernon Garrett - Merry Christmas, Baby, 2</string>
       <string>Albert King - Santa Claus Wants Some Lovin', 2</string>
       <string>The Jive Turkeys - Get Down Santa, 2</string>
+      <string>The Cimarons - Holy Christmas, 2</string>
       <string>Rose Graham - Black Christmas, 0</string>
       <string>Donald Byrd - Think Twice, 0</string>
     </MixRankings>
@@ -34126,11 +34449,13 @@
     <Track>Shawn Lee's Ping Pong Orchestra - Deck The Halls</Track>
     <MixRankings>
       <string>Captain Elmo McKenzie - Home on Christmas Day, 4</string>
+      <string>The Ramsey Lewis Trio - Christmas Blues, 4</string>
       <string>La Sonora Matancera - Pachanga en Navidad, 3</string>
       <string>James Brown - Go Power at Christmas Time, 3</string>
       <string>Shawn Lee's Ping Pong Orchestra - Carol of The Bells, 2</string>
       <string>Gary Walker - Santa's Got a Brand New Bag, 2</string>
       <string>J.D. McDonald - Boogaloo Santa Claus, 2</string>
+      <string>Bunny &amp; Skully - White Christmas, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -34152,9 +34477,11 @@
       <string>The Chambers Brothers - Merry Christmas, Happy New Year, 3</string>
       <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 3</string>
       <string>Milly &amp; Silly - Getting Down for Christmas, 3</string>
+      <string>Black On White Affair - Auld Lang Syne, 3</string>
       <string>Vernon Garrett - Merry Christmas, Baby, 2</string>
       <string>Albert King - Santa Claus Wants Some Lovin', 2</string>
       <string>The Temptations - Rudolph The Red-Nosed Reindeer, 2</string>
+      <string>Norman T Washington - It's Christmas Time Again, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -34169,6 +34496,7 @@
       <string>The Jive Turkeys - Get Down Santa, 3</string>
       <string>Otis Redding - Merry Christmas Baby, 3</string>
       <string>Meditation Singers - What The World Needs For Christmas, 3</string>
+      <string>Black On White Affair - Auld Lang Syne, 3</string>
       <string>Shawn Lee's Ping Pong Orchestra - Do You Hear What I Hear, 2</string>
       <string>Clarence Carter - Back Door Santa, 2</string>
       <string>Vernon Garrett - Christmas Groove, 2</string>
@@ -34176,6 +34504,8 @@
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 2</string>
       <string>Vernon Garrett - Merry Christmas, Baby, 2</string>
       <string>Albert King - Santa Claus Wants Some Lovin', 2</string>
+      <string>Royce Campbell - Santa Claus is Coming to Town, 2</string>
+      <string>Norman T Washington - It's Christmas Time Again, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -34193,6 +34523,8 @@
       <string>The Chambers Brothers - Merry Christmas, Happy New Year, 4</string>
       <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 4</string>
       <string>Vernon Garrett - Christmas Groove, 4</string>
+      <string>Black On White Affair - Auld Lang Syne, 4</string>
+      <string>Run D.M.C. - Christmas In Hollis, 4</string>
       <string>Shawn Lee's Ping Pong Orchestra - Do You Hear What I Hear, 3</string>
       <string>Don Smith - Black Christmas, 3</string>
       <string>Sharon Jones &amp; The Dap-Kings - Ain't No Chimneys In The Projects, 3</string>
@@ -34203,6 +34535,8 @@
       <string>Rufus Thomas - I'll Be Your Santa Baby, 2</string>
       <string>Otis Redding - Merry Christmas Baby, 2</string>
       <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 2</string>
+      <string>The Toasters - God Rock You Steady Gentleman, 2</string>
+      <string>The Cimarons - Holy Christmas, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -34232,6 +34566,8 @@
       <string>The Beginning of the End - Gee Whiz, It's Christmas, 2</string>
       <string>Mr President - It's Christmas Time, 2</string>
       <string>Chet Baker - Winter Wonderland, 2</string>
+      <string>Toots &amp; The Maytals - Christmas Feeling Ska, 2</string>
+      <string>The Wailers - Sound The Trumpet, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -34539,6 +34875,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Smokey Robinson &amp; The Miracles - Deck The Halls</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Smokey Robinson &amp; The Miracles - Jingle Bells</Track>
     <MixRankings>
       <string>The Jackson 5 - Up on the House Top, 4</string>
@@ -34549,6 +34889,8 @@
       <string>Clarence Carter - Back Door Santa, 3</string>
       <string>Otis Redding - Merry Christmas Baby, 3</string>
       <string>Breakestra - Let The Bells Ring, 3</string>
+      <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 3</string>
+      <string>Royce Campbell - Santa Claus is Coming to Town, 3</string>
       <string>Al Green - Feels Like Christmas, 2</string>
       <string>Shawn Lee's Ping Pong Orchestra - Do You Hear What I Hear, 2</string>
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 2</string>
@@ -36120,6 +36462,12 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Sweet Tee - Let The Jingle Bells Rock</Track>
+    <MixRankings>
+      <string>Albert King - Santa Claus Wants Some Lovin', 3</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>Syl Johnson - I Only Have Love</Track>
     <MixRankings>
       <string>Al Green - Standing In The Rain, 4</string>
@@ -36579,6 +36927,7 @@
       <string>Joe Gibbs - We Three Kings, 3</string>
       <string>Roy Richards - Jingle Bells, 3</string>
       <string>Wain Nelson - Santa Claus, 3</string>
+      <string>Johnny Clarke - I Saw Mommy Kissing Santa Claus, 3</string>
       <string>The Sivertones - Merry Merry Christmas, 2</string>
       <string>Roman Stewart - Christmas Affair, 2</string>
       <string>Carlene Davis - Santa Claus (Do You Ever Come To The Ghetto), 2</string>
@@ -36604,6 +36953,7 @@
       <string>Home T &amp; Trinity - All I Want For Christmas, 3</string>
       <string>Jacob Miller &amp; Ray I - Silver Bells, 3</string>
       <string>The Aggrovators - Santa Claus Dub, 3</string>
+      <string>Gary Walker - Santa's Got a Brand New Bag, 3</string>
       <string>Doreen Schaffer - Wishing You a Merry Christmas, 2</string>
     </MixRankings>
   </TrackMix>
@@ -36871,6 +37221,10 @@
       <string>Brother Jack McDuff - Oblighetto, 0</string>
       <string>Breakestra - Gettin' To It, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>The Aggrovators - Christmas Medley</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>The Aggrovators - Santa Claus Dub</Track>
@@ -37943,12 +38297,14 @@
       <string>The Diplomats Of Solid Sound - Let It Snow, 3</string>
       <string>James Brown - Christmas Is Love, 3</string>
       <string>Mr President - It's Christmas Time, 3</string>
+      <string>Toots &amp; The Maytals - Christmas Feeling Ska, 3</string>
       <string>Carla Thomas - Gee Whiz its Christmas, 2</string>
       <string>Ray Harris &amp; The Fusion Experience - Soulful Christmas, 2</string>
       <string>Al Green - Feels Like Christmas, 2</string>
       <string>Trio West - Silent Night Samba, 2</string>
       <string>The Funk Brothers - Winter Wonderland, 2</string>
       <string>Ike &amp; Tina Turner - Merry Christmas Baby, 2</string>
+      <string>Don Cornell &amp; The Eternals - Christmas Joy, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -38265,9 +38621,15 @@
     <Track>The Cimarons - Holy Christmas</Track>
     <MixRankings>
       <string>Norman T Washington - It's Christmas Time Again, 4</string>
+      <string>Black On White Affair - Auld Lang Syne, 4</string>
+      <string>Shawn Lee's Ping Pong Orchestra - Do You Hear What I Hear, 4</string>
+      <string>Otis Redding - Merry Christmas Baby, 4</string>
       <string>Joe Gibbs - Let Christmas Catch You On A Good Mood, 3</string>
       <string>Alton Ellis - Christmas Coming, 3</string>
       <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 3</string>
+      <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 3</string>
+      <string>Royce Campbell - Santa Claus is Coming to Town, 3</string>
+      <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -38279,11 +38641,15 @@
       <string>Dillinger &amp; The Brentford Harmonics - Hi Fashion Christmas, 4</string>
       <string>The Heptones - Christmas Time Is Here, 4</string>
       <string>Alton Ellis - Merry Merry Christmas, 4</string>
+      <string>The Soul Saints Orchestra - Santas Got a Bag of Soul, 4</string>
       <string>Half Pint - Christmas Vibes, 3</string>
       <string>Jacob Miller &amp; Ray I - All I Want for Ismas, 3</string>
       <string>Hopeton &amp; Primo - Peace on Earth, 3</string>
       <string>The Sivertones - Merry Merry Christmas, 3</string>
+      <string>Rufus Thomas - I'll Be Your Santa Baby, 3</string>
+      <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 3</string>
       <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 2</string>
+      <string>The Ronettes - Sleigh Ride, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -38535,8 +38901,11 @@
       <string>Carla Thomas - Gee Whiz its Christmas, 5</string>
       <string>Short Stuff - Merry Christmas Baby, 4</string>
       <string>The Beginning of the End - Gee Whiz, It's Christmas, 4</string>
+      <string>The Granville Williams Orchestra - Santa Claus is Ska-Ing To Town, 4</string>
+      <string>The Wailers - Sound The Trumpet, 4</string>
       <string>Ike &amp; Tina Turner - Merry Christmas Baby, 3</string>
       <string>Jimmy Reed - Christmas Present Blues, 2</string>
+      <string>Toots &amp; The Maytals - Christmas Feeling Ska, 2</string>
       <string>James Brown - Christmas Is Love, 0</string>
     </MixRankings>
   </TrackMix>
@@ -38792,9 +39161,14 @@
       <string>Toots &amp; The Maytals - Christmas Feeling Ska, 4</string>
       <string>The Wailers - Sound The Trumpet, 3</string>
       <string>Don Cornell &amp; The Eternals - Christmas Joy, 3</string>
+      <string>Ike &amp; Tina Turner - Merry Christmas Baby, 3</string>
+      <string>Short Stuff - Merry Christmas Baby, 3</string>
+      <string>Mr President - It's Christmas Time, 3</string>
       <string>Iron Phoenix - Natty Dread Christmas, 2</string>
       <string>Frank Cosmo - Greetings from Beverley's, 2</string>
       <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 2</string>
+      <string>The Beginning of the End - Gee Whiz, It's Christmas, 0</string>
+      <string>James Brown - Christmas Is Love, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -40079,6 +40453,8 @@
       <string>Doreen Schaffer - Wishing You a Merry Christmas, 3</string>
       <string>Johnny Osbourne - Christmas Stylee, 3</string>
       <string>The Aggrovators - Santa Claus Dub, 3</string>
+      <string>The Ramsey Lewis Trio - Here Comes Santa Claus, 3</string>
+      <string>Unknown Artist - Merry Christmas, 3</string>
       <string>Charley Fresh - Happy Christmas Rude Boy, 2</string>
     </MixRankings>
   </TrackMix>
@@ -41139,7 +41515,10 @@
   <TrackMix>
     <Track>The Ramsey Lewis Trio - Christmas Blues</Track>
     <MixRankings>
+      <string>Shawn Lee's Ping Pong Orchestra - Deck The Halls, 4</string>
+      <string>James Brown - Go Power at Christmas Time, 4</string>
       <string>Royce Campbell - Good King Wenceslas, 3</string>
+      <string>Gary Walker - Santa's Got a Brand New Bag, 3</string>
       <string>Jimmy Smith &amp; Wes Montgomery - Baby It's Cold Outside, 2</string>
     </MixRankings>
   </TrackMix>
@@ -41148,9 +41527,14 @@
     <MixRankings>
       <string>Royce Campbell - White Christmas, 3</string>
       <string>Royce Campbell - Winter Wonderland, 3</string>
+      <string>Al &amp; The Vibrators - Merry Christmas, 3</string>
       <string>Royce Campbell - Jingle Bells, 2</string>
       <string>Mark Whitfield - Those Soulful Jingle Bells, 2</string>
       <string>Nicholas Payton - Santa Claus Is Coming To Town, 2</string>
+      <string>Dillinger &amp; The Brentford Harmonics - Hi Fashion Christmas, 2</string>
+      <string>Alton Ellis - Praise Jah It's Christmas, 2</string>
+      <string>Half Pint - Christmas Vibes, 2</string>
+      <string>Doreen Schaffer - Wishing You a Merry Christmas, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -41172,10 +41556,14 @@
   <TrackMix>
     <Track>The Ramsey Lewis Trio - Winter Wonderland</Track>
     <MixRankings>
+      <string>The Soul Saints Orchestra - Santas Got a Bag of Soul, 4</string>
       <string>Royce Campbell - Santa Claus is Coming to Town, 3</string>
+      <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 3</string>
+      <string>Shawn Lee's Ping Pong Orchestra - O Come All Ye Faithful, 3</string>
       <string>Bill Evans - Santa Claus Is Comin' To Town, 2</string>
       <string>Jimmy Smith - Jingle Bells, 2</string>
       <string>Vince Guaraldi Trio - Christmas Is Coming, 2</string>
+      <string>The Ronettes - Sleigh Ride, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -41231,16 +41619,21 @@
   <TrackMix>
     <Track>The Ronettes - Sleigh Ride</Track>
     <MixRankings>
+      <string>The Cimarons - Holy Christmas, 4</string>
+      <string>Alton Ellis - Merry Merry Christmas, 4</string>
       <string>Milly &amp; Silly - Getting Down for Christmas, 3</string>
       <string>Rufus Thomas - I'll Be Your Santa Baby, 3</string>
       <string>Harvey Averne Band - Lets Get it Together This Christmas, 3</string>
       <string>The Soul Saints Orchestra - Santas Got a Bag of Soul, 3</string>
+      <string>Black On White Affair - Auld Lang Syne, 3</string>
       <string>Sharon Jones &amp; The Dap-Kings - Ain't No Chimneys In The Projects, 2</string>
       <string>Don Smith - Black Christmas, 2</string>
       <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 2</string>
       <string>The Jive Turkeys - Get Down Santa, 2</string>
       <string>The Temptations - Rudolph The Red-Nosed Reindeer, 2</string>
+      <string>The Cimarons - Silent Night; White Christmas, 2</string>
       <string>Rose Graham - Black Christmas, 0</string>
+      <string>The Toasters - God Rock You Steady Gentleman, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -41255,6 +41648,7 @@
       <string>Tennessee Brown &amp; The Silvertones - Jingle Bells, 3</string>
       <string>Joe Gibbs - Oh Little Town Of Betlehem (feat. Horace Andy), 3</string>
       <string>Sonny Bradshaw - Peace And Love (Little Drummer Boy), 3</string>
+      <string>Binky Griptite - Stone Soul Christmas, 3</string>
       <string>Dillinger &amp; The Brentford Harmonics - Hi Fashion Christmas, 2</string>
       <string>The Heptones - Christmas Time Is Here, 2</string>
       <string>Al &amp; The Vibrators - Merry Christmas, 2</string>
@@ -41566,11 +41960,16 @@
     <MixRankings>
       <string>The Temptations - Rudolph The Red-Nosed Reindeer, 3</string>
       <string>Rose Graham - Black Christmas, 3</string>
+      <string>The Ramsey Lewis Trio - Winter Wonderland, 3</string>
+      <string>Run D.M.C. - Christmas In Hollis, 3</string>
       <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 2</string>
       <string>Milly &amp; Silly - Getting Down for Christmas, 2</string>
       <string>Harvey Averne Band - Lets Get it Together This Christmas, 2</string>
       <string>Rufus Thomas - I'll Be Your Santa Baby, 2</string>
+      <string>The Cimarons - Holy Christmas, 2</string>
+      <string>Alton Ellis - Merry Merry Christmas, 2</string>
       <string>The Ronettes - Sleigh Ride, 0</string>
+      <string>The Toasters - God Rock You Steady Gentleman, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -41976,12 +42375,14 @@
     <Track>The Toasters - God Rock You Steady Gentleman</Track>
     <MixRankings>
       <string>The Sivertones - Merry Merry Christmas, 5</string>
+      <string>Milly &amp; Silly - Getting Down for Christmas, 5</string>
       <string>Alton Ellis - Merry Merry Christmas, 4</string>
       <string>Wain Nelson - Santa Claus, 3</string>
       <string>Unknown Artist - Hark The Herald Angels Sing, 3</string>
       <string>King Stitt - Christmas Tree, 2</string>
       <string>Hopeton &amp; Primo - Peace on Earth, 2</string>
       <string>The Cimarons - Silent Night; White Christmas, 2</string>
+      <string>The Ronettes - Sleigh Ride, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -42000,6 +42401,11 @@
     <MixRankings>
       <string>Frank Cosmo - Greetings from Beverley's, 4</string>
       <string>Frank Cosmo - Merry Christmas, 3</string>
+      <string>Bunny &amp; Skully - White Christmas, 3</string>
+      <string>Bobby Holloway - Funky Little Drummer Boy, 3</string>
+      <string>James Brown - Christmas Is Love, 3</string>
+      <string>Martin Mull with The Sondra Baskin Glee Club - Santafly, 3</string>
+      <string>J.D. McDonald - Boogaloo Santa Claus, 3</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -42148,10 +42554,16 @@
     <Track>The Wailers - Sound The Trumpet</Track>
     <MixRankings>
       <string>Toots &amp; The Maytals - Christmas Feeling Ska, 4</string>
+      <string>Bobby Holloway - Funky Little Drummer Boy, 4</string>
       <string>Frank Cosmo - Merry Christmas, 3</string>
       <string>The Toasters - We Three Kings, 3</string>
       <string>Frank Cosmo - Greetings from Beverley's, 3</string>
+      <string>James Brown - Christmas Is Love, 3</string>
+      <string>Short Stuff - Merry Christmas Baby, 3</string>
+      <string>Carla Thomas - Gee Whiz its Christmas, 3</string>
+      <string>Ike &amp; Tina Turner - Merry Christmas Baby, 2</string>
       <string>Jacob Miller and Ray I - Deck the Halls, 0</string>
+      <string>Martin Mull with The Sondra Baskin Glee Club - Santafly, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -43175,9 +43587,14 @@
     <Track>Toots &amp; The Maytals - Christmas Feeling Ska</Track>
     <MixRankings>
       <string>Frank Cosmo - Greetings from Beverley's, 4</string>
+      <string>Martin Mull with The Sondra Baskin Glee Club - Santafly, 4</string>
+      <string>Mr President - It's Christmas Time, 4</string>
       <string>The Granville Williams Orchestra - Santa Claus is Ska-Ing To Town, 3</string>
       <string>The Wailers - Sound The Trumpet, 3</string>
+      <string>Ike &amp; Tina Turner - Merry Christmas Baby, 3</string>
       <string>Ramon Fabian Veloz - Cascabel, 2</string>
+      <string>The Beginning of the End - Gee Whiz, It's Christmas, 2</string>
+      <string>Bobby Holloway - Funky Little Drummer Boy, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -43185,8 +43602,13 @@
     <MixRankings>
       <string>Joe Gibbs - Let Christmas Catch You On A Good Mood, 4</string>
       <string>Norman T Washington - It's Christmas Time Again, 4</string>
+      <string>Shawn Lee's Ping Pong Orchestra - Do You Hear What I Hear, 4</string>
       <string>Alton Ellis - Christmas Coming, 3</string>
+      <string>Otis Redding - Merry Christmas Baby, 3</string>
+      <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 3</string>
+      <string>Meditation Singers - What The World Needs For Christmas, 3</string>
       <string>The Cimarons - Holy Christmas, 2</string>
+      <string>Marvin Gaye - Purple Snowflakes, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -44161,6 +44583,7 @@
     <MixRankings>
       <string>Wain Nelson - Santa Claus, 4</string>
       <string>Alton Ellis - Merry Merry Christmas, 4</string>
+      <string>Harvey Averne Band - Lets Get it Together This Christmas, 4</string>
       <string>The Sivertones - Merry Merry Christmas, 3</string>
       <string>Half Pint - Christmas Vibes, 3</string>
       <string>The Heptones - Christmas Time Is Here, 3</string>
@@ -44291,9 +44714,13 @@
   <TrackMix>
     <Track>Unknown Artist - Merry Christmas</Track>
     <MixRankings>
+      <string>Johnny Clarke - I Saw Mommy Kissing Santa Claus, 4</string>
       <string>Charley Fresh - Happy Christmas Rude Boy, 3</string>
       <string>Doreen Schaffer - Wishing You a Merry Christmas, 3</string>
       <string>The Silvertones - Bling Bling Christmas, 3</string>
+      <string>The Kinstonians - Merry Christmas, 3</string>
+      <string>Al &amp; The Vibrators - Merry Christmas, 2</string>
+      <string>Tennessee Brown &amp; The Silvertones - Little Drummer Boy, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -44532,6 +44959,7 @@
       <string>The Jive Turkeys - Get Down Santa, 2</string>
       <string>Otis Redding - Merry Christmas Baby, 2</string>
       <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 2</string>
+      <string>Royce Campbell - Santa Claus is Coming to Town, 2</string>
       <string>Al Green - Feels Like Christmas, 0</string>
     </MixRankings>
   </TrackMix>
@@ -44681,6 +45109,7 @@
       <string>Barrington Levy &amp; Trinity - Flash Your Dread, 3</string>
       <string>The Sivertones - Merry Merry Christmas, 3</string>
       <string>Hopeton &amp; Primo - Peace on Earth, 3</string>
+      <string>Binky Griptite - Stone Soul Christmas, 3</string>
       <string>Barrington Levy &amp; Trinity - I Saw Mommy Kiss A Dreadlocks, 2</string>
       <string>The Cimarons - Silent Night; White Christmas, 2</string>
       <string>Joe Gibbs - We Three Kings, 2</string>

@@ -569,6 +569,10 @@
     <Attributes>Duration=158.027;EndBPM=116.363636363636;FadeIn=9.307;FadeInLengthInSeconds=16.452;FadeOut=116.111;FadeOutLengthInSeconds=8.250;Key=Dm;PreFadeInPosition=7.767;PreFadeInStartVolume=00;Rank=3;StartBPM=116.7031363967906;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Black On White Affair - Auld Lang Syne</Track>
+    <Attributes>Duration=242.027;EndBPM=96.328;FadeIn=125.791;FadeInLengthInSeconds=4.983;FadeOut=214.379;FadeOutLengthInSeconds=4.983;PowerDown=True;Rank=3;StartBPM=96.328;StartLoopCount=2;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Black Sun Empire - 1800 Contact</Track>
     <Attributes>Duration=323.736;EndBPM=86.014;FadeIn=52.745;FadeInLengthInSeconds=22.324;FadeOut=276.002;FadeOutLengthInSeconds=22.322;Rank=3;StartBPM=86.007;</Attributes>
   </ExtenedAttributes>
@@ -611,6 +615,10 @@
   <ExtenedAttributes>
     <Track>Black Sun Empire - Hideous (feat. Noisia) (VIP Remix)</Track>
     <Attributes>Duration=397.241;EndBPM=86.721;FadeIn=110.335;FadeInLengthInSeconds=22.080;FadeOut=314.472;FadeOutLengthInSeconds=22.140;PreFadeInPosition=109.641;PreFadeInStartVolume=00;Rank=3;StartBPM=86.956;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix)</Track>
+    <Attributes>Duration=417.541;EndBPM=86.870;FadeIn=165.196;FadeInLengthInSeconds=11.041;FadeOut=374.852;FadeOutLengthInSeconds=11.051;Rank=4;StartBPM=86.946;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Black Sun Empire - Tripel (feat. State Of Mind)</Track>
@@ -961,6 +969,10 @@
     <Attributes>Duration=451.500;EndBPM=90.132;FadeIn=170.573;FadeInLengthInSeconds=21.276;FadeOut=404.696;FadeOutLengthInSeconds=21.302;Rank=4;StartBPM=90.243;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Concord Dawn - Styx (feat. Geist)</Track>
+    <Attributes>Duration=326.243;EndBPM=90.243;FadeIn=64.261;FadeInLengthInSeconds=10.638;FadeOut=255.855;FadeOutLengthInSeconds=10.638;Rank=3;StartBPM=90.243;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Concord Dawn - The Fallen</Track>
     <Attributes>Duration=1190.008;EndBPM=90.190;FadeIn=160.219;FadeInLengthInSeconds=21.276;FadeOut=394.393;FadeOutLengthInSeconds=21.288;Rank=3;StartBPM=90.243;</Attributes>
   </ExtenedAttributes>
@@ -983,6 +995,10 @@
   <ExtenedAttributes>
     <Track>Cortex - Troupeau Bleu</Track>
     <Attributes>Duration=303.773333333333;EndBPM=85.0988387554295;FadeIn=6.186;FadeInLengthInSeconds=5.957;FadeOut=153.086;FadeOutLengthInSeconds=11.281;Key=Dm;Rank=2;StartBPM=80.5774718818195;StartLoopCount=2;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Count Sidney &amp; His Dukes - Soul Christmas (Vocal)</Track>
+    <Attributes>Duration=123.480;EndBPM=122.682;FadeIn=4.363;FadeInLengthInSeconds=4.082;FadeOut=99.908;FadeOutLengthInSeconds=7.825;PreFadeInPosition=2.280;PreFadeInStartVolume=75;Rank=3;StartBPM=117.579;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Cuba L.A. - Ya Llegó la Navidad</Track>
@@ -1039,6 +1055,10 @@
   <ExtenedAttributes>
     <Track>Cybernetika - Towards The End Of Time</Track>
     <Attributes>Duration=564.473;EndBPM=89.531;FadeIn=32.175;FadeInLengthInSeconds=10.734;FadeOut=311.070;FadeOutLengthInSeconds=21.445;PreFadeInPosition=31.165;PreFadeInStartVolume=25;Rank=3;StartBPM=89.435;StartLoopCount=2;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Cybernetika - Vaporized</Track>
+    <Attributes>Duration=425.146;EndBPM=87.343;FadeIn=32.912;FadeInLengthInSeconds=10.968;FadeOut=187.914;FadeOutLengthInSeconds=10.991;Rank=3;StartBPM=87.526;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Cymande - Brothers On The Slide</Track>
@@ -1159,6 +1179,10 @@
   <ExtenedAttributes>
     <Track>Depeche Mode - Useless (K&amp;D Session)</Track>
     <Attributes>Duration=373.499;EndBPM=94.7867298578199;FadeIn=0.263;FadeInLengthInSeconds=20.174;FadeOut=151.549;FadeOutLengthInSeconds=10.128;Key=Gb;Rank=3;StartBPM=95.1720035689502;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Derek B - Chillin' With Santa</Track>
+    <Attributes>Duration=296.067;EndBPM=105.978;FadeIn=44.126;FadeInLengthInSeconds=18.249;FadeOut=207.775;FadeOutLengthInSeconds=18.117;PreFadeInPosition=43.208;PreFadeInStartVolume=75;Rank=3;StartBPM=105.209;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Diana Ross &amp; The Supremes - I'm Livin' in Shame</Track>
@@ -2033,12 +2057,20 @@
     <Attributes>Duration=168.620408163265;EndBPM=115.495668912416;EndLoopCount=2;FadeIn=0.222;FadeInLengthInSeconds=4.317;FadeOut=104.813;FadeOutLengthInSeconds=8.312;Key=Bbm;Rank=2;StartBPM=111.1883252258515;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>James Brown - Signs of Christmas</Track>
+    <Attributes>Duration=279.200;EndBPM=115.513;FadeIn=8.428;FadeInLengthInSeconds=8.324;FadeOut=129.421;FadeOutLengthInSeconds=8.311;PreFadeInPosition=7.412;PreFadeInStartVolume=75;Rank=3;StartBPM=115.327;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>James Brown - Slaughter Theme</Track>
     <Attributes>Duration=238.576326530612;EndBPM=93.5754205379216;FadeIn=41.129;FadeInLengthInSeconds=10.117;FadeOut=177.321;FadeOutLengthInSeconds=10.259;Key=Dm;PreFadeInPosition=40.789;PreFadeInStartVolume=75;Rank=3;StartBPM=94.8937933561905;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>James Brown - Soul Power</Track>
     <Attributes>Duration=728.137142857143;EndBPM=104.540999673309;EndLoopCount=2;FadeIn=0.298;FadeInLengthInSeconds=4.502;FadeOut=205.901;FadeOutLengthInSeconds=9.183;Key=Dm;PowerDown=True;Rank=3;SkipLengthInSeconds=106.491;SkipStart=95.997;StartBPM=106.619280319858;StartLoopCount=4;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>James Brown - Soulful Christmas</Track>
+    <Attributes>Duration=189.133;EndBPM=111.337;FadeIn=1.403;FadeInLengthInSeconds=4.246;FadeOut=144.987;FadeOutLengthInSeconds=8.622;PreFadeInPosition=0.262;PreFadeInStartVolume=75;Rank=5;StartBPM=113.048;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>James Brown - Super Bad (Parts 1 &amp; 2)</Track>
@@ -2597,6 +2629,10 @@
     <Attributes>Duration=151.69306122449;EndBPM=94.0623162845385;EndLoopCount=2;FadeIn=0.027;FadeInLengthInSeconds=5.082;FadeOut=122.211;FadeOutLengthInSeconds=10.206;Key=Abm;Rank=3;StartBPM=94.4510035419125;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Kurtis Blow - Christmas Rappin'</Track>
+    <Attributes>Duration=238.524;EndBPM=110.640;FadeIn=11.654;FadeInLengthInSeconds=17.410;FadeOut=217.077;FadeOutLengthInSeconds=8.677;Rank=5;StartBPM=110.280;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>La Sonora Matancera - Aguinaldo Antillano</Track>
     <Attributes>Duration=186.906;EndBPM=99.66777408637875;FadeIn=0.848;FadeInLengthInSeconds=4.817;FadeOut=182.881;FadeOutLengthInSeconds=1.204;Key=G;Rank=3;StartBPM=99.647083246834;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
@@ -3030,7 +3066,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Norman T Washington - It's Christmas Time Again</Track>
-    <Attributes>Duration=146.114761904762;EndBPM=97.8393803505911;FadeIn=0.013;FadeInLengthInSeconds=19.580;FadeOut=136.238;FadeOutLengthInSeconds=9.812;Key=Bm;Rank=3;StartBPM=98.0592441266598;</Attributes>
+    <Attributes>Duration=146.114761904762;EndBPM=97.8393803505911;FadeIn=0.013;FadeInLengthInSeconds=19.580;FadeOut=136.238;FadeOutLengthInSeconds=9.812;Key=Bm;Rank=4;StartBPM=98.0592441266598;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>O.D. Williams - I'm Moving On Out Of Your Life</Track>
@@ -3407,6 +3443,14 @@
   <ExtenedAttributes>
     <Track>Rufus Thomas - I'll Be Your Santa Baby</Track>
     <Attributes>Duration=214.595918367347;EndBPM=89.3272541174282;FadeIn=1.756;FadeInLengthInSeconds=10.751;FadeOut=130.614;FadeOutLengthInSeconds=21.494;Key=Ebm;PreFadeInPosition=0.938;PreFadeInStartVolume=75;Rank=4;StartBPM=89.2940191610083;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Run D.M.C. - Christmas In Hollis</Track>
+    <Attributes>Duration=180.400;EndBPM=94.862;FadeIn=11.726;FadeInLengthInSeconds=10.098;FadeOut=147.907;FadeOutLengthInSeconds=10.120;PreFadeInPosition=10.433;PreFadeInStartVolume=75;Rank=4;StartBPM=95.073;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Run D.M.C. - Christmas Is</Track>
+    <Attributes>Duration=199.445;EndBPM=105.374;EndLoopCount=8;FadeIn=9.270;FadeInLengthInSeconds=9.094;FadeOut=129.690;FadeOutLengthInSeconds=2.278;PreFadeInPosition=8.644;PreFadeInStartVolume=10;Rank=4;StartBPM=105.563;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Rusty Bryant - Fire Eater</Track>
@@ -3885,6 +3929,10 @@
     <Attributes>Duration=173.533;EndBPM=109.990834097159;EndLoopCount=2;FadeIn=7.873;FadeInLengthInSeconds=9.325;FadeOut=113.134;FadeOutLengthInSeconds=8.728;Key=Gm;PreFadeInPosition=6.529;PreFadeInStartVolume=50;Rank=3;StartBPM=102.949061662198;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Sweet Tee - Let The Jingle Bells Rock</Track>
+    <Attributes>Duration=241.093;EndBPM=103.358;FadeIn=5.216;FadeInLengthInSeconds=18.605;FadeOut=163.460;FadeOutLengthInSeconds=18.576;PreFadeInPosition=4.184;PreFadeInStartVolume=75;Rank=4;StartBPM=103.200;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Syl Johnson - I Only Have Love</Track>
     <Attributes>Duration=185.078;EndBPM=111.8099231306778;FadeIn=0.316;FadeInLengthInSeconds=8.695;FadeOut=130.631;FadeOutLengthInSeconds=17.172;Key=Bm;Rank=3;StartBPM=110.408280621047;</Attributes>
   </ExtenedAttributes>
@@ -3930,7 +3978,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Tennessee Brown &amp; The Silvertones - Jingle Bells</Track>
-    <Attributes>Duration=215.562448979592;EndBPM=85.0234700203702;FadeIn=1.050;FadeInLengthInSeconds=11.657;FadeOut=154.225;FadeOutLengthInSeconds=11.291;Key=Ab;Rank=3;StartBPM=82.353950416059;</Attributes>
+    <Attributes>Duration=215.562448979592;EndBPM=85.0234700203702;FadeIn=1.050;FadeInLengthInSeconds=11.657;FadeOut=154.225;FadeOutLengthInSeconds=11.291;Key=Ab;Rank=4;StartBPM=82.353950416059;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Tennessee Brown &amp; The Silvertones - Little Drummer Boy</Track>
