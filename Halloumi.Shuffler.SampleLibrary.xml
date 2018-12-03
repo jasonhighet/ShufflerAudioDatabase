@@ -58360,4 +58360,184 @@
     </Tags>
     <Gain>1.20281184</Gain>
   </Sample>
+  <Sample>
+    <Start>2.9620153061224488</Start>
+    <Length>7.4833900226757368</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>Willie Bobo</TrackArtist>
+    <TrackTitle>Spanish Grease</TrackTitle>
+    <TrackLength>169.877</TrackLength>
+    <Description>Loop1</Description>
+    <Bpm>128.284106145886</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>10.444866780045352</Start>
+    <Length>7.5217545351473909</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>Willie Bobo</TrackArtist>
+    <TrackTitle>Spanish Grease</TrackTitle>
+    <TrackLength>169.877</TrackLength>
+    <Description>Loop2</Description>
+    <Bpm>127.629796414406</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>17.965768140589571</Start>
+    <Length>7.4439399092970522</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>Willie Bobo</TrackArtist>
+    <TrackTitle>Spanish Grease</TrackTitle>
+    <TrackLength>169.877</TrackLength>
+    <Description>Loop3</Description>
+    <Bpm>128.963964204092</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>25.4096910430839</Start>
+    <Length>7.5138407029478458</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>Willie Bobo</TrackArtist>
+    <TrackTitle>Spanish Grease</TrackTitle>
+    <TrackLength>169.877</TrackLength>
+    <Description>Loop4</Description>
+    <Bpm>127.764220450318</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>48.048548752834471</Start>
+    <Length>7.5422874149659833</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>Willie Bobo</TrackArtist>
+    <TrackTitle>Spanish Grease</TrackTitle>
+    <TrackLength>169.877</TrackLength>
+    <Description>Loop5</Description>
+    <Bpm>127.837039178704</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>55.592151360544214</Start>
+    <Length>7.5064965986394583</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>Willie Bobo</TrackArtist>
+    <TrackTitle>Spanish Grease</TrackTitle>
+    <TrackLength>169.877</TrackLength>
+    <Description>Loop6</Description>
+    <Bpm>127.889220675061</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>63.096632653061228</Start>
+    <Length>15.121255668934241</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>Willie Bobo</TrackArtist>
+    <TrackTitle>Spanish Grease</TrackTitle>
+    <TrackLength>169.877</TrackLength>
+    <Description>Loop7</Description>
+    <Bpm>126.9735822233686</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>78.213979591836733</Start>
+    <Length>7.51406179138322</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>Willie Bobo</TrackArtist>
+    <TrackTitle>Spanish Grease</TrackTitle>
+    <TrackLength>169.877</TrackLength>
+    <Description>Loop8</Description>
+    <Bpm>127.760461206332</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>123.61950396825397</Start>
+    <Length>15.158585600907045</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>Willie Bobo</TrackArtist>
+    <TrackTitle>Spanish Grease</TrackTitle>
+    <TrackLength>169.877</TrackLength>
+    <Description>Loop9</Description>
+    <Bpm>126.6608937370194</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
+  <Sample>
+    <Start>138.77808956916098</Start>
+    <Length>15.158568594104308</Length>
+    <Offset>0</Offset>
+    <LoopMode>FullLoop</LoopMode>
+    <IsAtonal>false</IsAtonal>
+    <IsPrimaryLoop>false</IsPrimaryLoop>
+    <Key />
+    <TrackArtist>Willie Bobo</TrackArtist>
+    <TrackTitle>Spanish Grease</TrackTitle>
+    <TrackLength>169.877</TrackLength>
+    <Description>Loop10</Description>
+    <Bpm>126.6610358412572</Bpm>
+    <Tags>
+      <string>latin</string>
+    </Tags>
+    <Gain>1</Gain>
+  </Sample>
 </ArrayOfSample>
