@@ -349,6 +349,10 @@
     <Attributes>Duration=351.160;EndBPM=86.099;FadeIn=89.300;FadeInLengthInSeconds=11.152;FadeOut=312.562;FadeOutLengthInSeconds=11.150;PreFadeInPosition=86.915;PreFadeInStartVolume=25;Rank=3;StartBPM=86.083;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Bad Company - Four Days</Track>
+    <Attributes>Duration=424.960;EndBPM=86.541;FadeIn=55.275;FadeInLengthInSeconds=11.093;FadeOut=243.102;FadeOutLengthInSeconds=11.093;Rank=3;StartBPM=86.541;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Bad Company - Hysteria</Track>
     <Attributes>Duration=413.231;EndBPM=88.831;FadeIn=76.101;FadeInLengthInSeconds=10.877;FadeOut=259.601;FadeOutLengthInSeconds=21.614;Rank=3;StartBPM=88.259;</Attributes>
   </ExtenedAttributes>
@@ -362,7 +366,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Bad Company - Oxygen (The Drilla Killa)</Track>
-    <Attributes>Duration=452.258;EndBPM=87.408;FadeIn=269.771;FadeInLengthInSeconds=10.987;FadeOut=418.716;FadeOutLengthInSeconds=10.983;StartBPM=87.376;</Attributes>
+    <Attributes>Duration=452.258;EndBPM=87.408;FadeIn=269.771;FadeInLengthInSeconds=10.987;FadeOut=418.716;FadeOutLengthInSeconds=10.983;Rank=3;StartBPM=87.376;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Bad Company - Pulse</Track>
