@@ -154,7 +154,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Albert King - Santa Claus Wants Some Lovin'</Track>
-    <Attributes>Duration=181.13306122449;EndBPM=101.512107433647;FadeIn=11.224;FadeInLengthInSeconds=4.728;FadeOut=153.616;FadeOutLengthInSeconds=9.457;Key=Gm;PreFadeInPosition=10.509;PreFadeInStartVolume=75;Rank=4;StartBPM=101.522842639594;StartLoopCount=3;</Attributes>
+    <Attributes>Duration=181.133;EndBPM=101.512;FadeIn=11.224;FadeInLengthInSeconds=4.728;FadeOut=153.616;FadeOutLengthInSeconds=9.457;Key=Gm;PreFadeInPosition=10.509;PreFadeInStartVolume=75;Rank=4;StartBPM=101.523;StartLoopCount=4;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>All The People - Cramp Your Style</Track>
@@ -3558,7 +3558,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects</Track>
-    <Attributes>Duration=141.244081632653;EndBPM=99.4818652849741;FadeIn=11.064;FadeInLengthInSeconds=10.086;FadeOut=115.847;FadeOutLengthInSeconds=9.650;Key=Dm;Rank=4;StartBPM=95.1814396192742;StartLoopCount=2;</Attributes>
+    <Attributes>Duration=141.244;EndBPM=99.482;FadeIn=11.057;FadeInLengthInSeconds=5.059;FadeOut=115.847;FadeOutLengthInSeconds=9.650;Key=Dm;PreFadeInPosition=10.760;PreFadeInStartVolume=75;Rank=4;StartBPM=94.872;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Sharon Jones &amp; The Dap Kings - Be Easy</Track>
