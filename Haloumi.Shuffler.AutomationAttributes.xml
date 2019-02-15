@@ -3756,7 +3756,18 @@
     <Track>Bad Company - Nitrous</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix)</TrackDescription>
+        <FadeLength>13.121678004535147</FadeLength>
+        <FadeEnd>152650864</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.68</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -5150,6 +5161,13 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -7485,6 +7503,24 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Concord Dawn - 6.13</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix)</TrackDescription>
+        <FadeLength>22.302040816326532</FadeLength>
+        <FadeEnd>131577192</FadeEnd>
+        <FadeEndLoop>7</FadeEndLoop>
+        <FadeEndVolume>0.2476353</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Concord Dawn - Black Friday</Track>
     <TrackFXTriggers />
     <SampleTriggers />
     <ExtendedMixes />
