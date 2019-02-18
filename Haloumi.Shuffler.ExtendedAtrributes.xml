@@ -1057,6 +1057,10 @@
     <Attributes>Duration=607.636;EndBPM=89.577;FadeIn=69.732;FadeInLengthInSeconds=10.718;FadeOut=225.237;FadeOutLengthInSeconds=10.717;PreFadeInPosition=67.053;PreFadeInStartVolume=25;Rank=3;StartBPM=89.569;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Cybernetika - Devoid Of Gravity</Track>
+    <Attributes>Duration=733.861;EndBPM=87.751;FadeIn=116.441;FadeInLengthInSeconds=10.959;FadeOut=292.014;FadeOutLengthInSeconds=21.880;Rank=3;StartBPM=87.601;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Cybernetika - Distress Beacon</Track>
     <Attributes>Duration=505.773;EndBPM=88.455;FadeIn=43.357;FadeInLengthInSeconds=21.706;FadeOut=195.224;FadeOutLengthInSeconds=21.706;Rank=3;StartBPM=88.455;</Attributes>
   </ExtenedAttributes>
