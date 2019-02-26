@@ -1077,6 +1077,10 @@
     <Attributes>Duration=574.389;EndBPM=89.027;FadeIn=43.099;FadeInLengthInSeconds=21.580;FadeOut=248.036;FadeOutLengthInSeconds=21.566;PreFadeInPosition=37.799;PreFadeInStartVolume=75;Rank=3;StartBPM=88.971;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Cybernetika - Starchild</Track>
+    <Attributes>Duration=648.003;EndBPM=89.959;FadeIn=234.651;FadeInLengthInSeconds=21.323;FadeOut=469.314;FadeOutLengthInSeconds=10.671;Rank=3;StartBPM=90.044;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Cybernetika - Stinger</Track>
     <Attributes>Duration=687.647;EndBPM=89.203;FadeIn=183.372;FadeInLengthInSeconds=10.760;FadeOut=334.373;FadeOutLengthInSeconds=21.524;PreFadeInPosition=182.035;PreFadeInStartVolume=75;Rank=4;StartBPM=89.219;</Attributes>
   </ExtenedAttributes>
