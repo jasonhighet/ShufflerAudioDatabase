@@ -597,6 +597,10 @@
     <Attributes>Duration=323.895;EndBPM=85.998;FadeIn=44.650;FadeInLengthInSeconds=22.326;FadeOut=248.371;FadeOutLengthInSeconds=22.326;Rank=4;StartBPM=85.998;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix)</Track>
+    <Attributes>Duration=279.618;EndBPM=84.982;EndLoopCount=16;FadeIn=45.163;FadeInLengthInSeconds=22.593;FadeOut=225.849;FadeOutLengthInSeconds=2.824;Rank=3;StartBPM=84.982;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Black Sun Empire - Breach (The Upbeats Remix)</Track>
     <Attributes>Duration=296.552;EndBPM=87.142;FadeIn=45.453;FadeInLengthInSeconds=22.133;FadeOut=244.142;FadeOutLengthInSeconds=22.033;Rank=3;StartBPM=86.749;</Attributes>
   </ExtenedAttributes>
@@ -965,6 +969,10 @@
     <Attributes>Duration=379.559;EndBPM=88.154;EndLoopCount=8;FadeIn=141.935;FadeInLengthInSeconds=10.891;FadeOut=370.503;FadeOutLengthInSeconds=2.723;Rank=3;StartBPM=88.145;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Concord Dawn - Black Friday</Track>
+    <Attributes>Duration=442.984;EndBPM=87.186;FadeIn=88.343;FadeInLengthInSeconds=22.024;FadeOut=308.612;FadeOutLengthInSeconds=22.022;Rank=3;StartBPM=87.178;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Concord Dawn - Chloroform</Track>
     <Attributes>Duration=379.324;EndBPM=87.067;FadeIn=77.546;FadeInLengthInSeconds=11.054;FadeOut=220.964;FadeOutLengthInSeconds=11.026;Rank=3;StartBPM=86.848;</Attributes>
   </ExtenedAttributes>
@@ -1047,6 +1055,10 @@
   <ExtenedAttributes>
     <Track>Cybernetika - Constellations</Track>
     <Attributes>Duration=607.636;EndBPM=89.577;FadeIn=69.732;FadeInLengthInSeconds=10.718;FadeOut=225.237;FadeOutLengthInSeconds=10.717;PreFadeInPosition=67.053;PreFadeInStartVolume=25;Rank=3;StartBPM=89.569;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Cybernetika - Devoid Of Gravity</Track>
+    <Attributes>Duration=733.861;EndBPM=87.751;FadeIn=116.441;FadeInLengthInSeconds=10.959;FadeOut=292.014;FadeOutLengthInSeconds=21.880;Rank=3;StartBPM=87.601;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Cybernetika - Distress Beacon</Track>
