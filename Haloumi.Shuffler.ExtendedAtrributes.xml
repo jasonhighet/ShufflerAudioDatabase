@@ -973,6 +973,10 @@
     <Attributes>Duration=379.559;EndBPM=88.154;EndLoopCount=8;FadeIn=141.935;FadeInLengthInSeconds=10.891;FadeOut=370.503;FadeOutLengthInSeconds=2.723;Rank=3;StartBPM=88.145;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Concord Dawn - Aces High (feat. State of Mind)</Track>
+    <Attributes>Duration=337.789;EndBPM=87.019;FadeIn=44.365;FadeInLengthInSeconds=11.030;FadeOut=176.771;FadeOutLengthInSeconds=22.064;PreFadeInPosition=43.656;PreFadeInStartVolume=75;Rank=3;StartBPM=87.035;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Concord Dawn - Black Friday</Track>
     <Attributes>Duration=442.984;EndBPM=87.186;FadeIn=88.343;FadeInLengthInSeconds=22.024;FadeOut=308.612;FadeOutLengthInSeconds=22.022;Rank=3;StartBPM=87.178;</Attributes>
   </ExtenedAttributes>
