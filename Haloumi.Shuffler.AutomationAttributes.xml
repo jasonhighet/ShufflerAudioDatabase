@@ -4183,6 +4183,13 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Bad Company - Toxin</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Banda Black Rio - Mr. Funky Samba</Track>
     <TrackFXTriggers />
     <SampleTriggers />

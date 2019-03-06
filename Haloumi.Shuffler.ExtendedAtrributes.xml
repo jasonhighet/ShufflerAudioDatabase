@@ -393,6 +393,10 @@
     <Attributes>Duration=358.740;EndBPM=87.727;FadeIn=89.272;FadeInLengthInSeconds=10.933;FadeOut=265.742;FadeOutLengthInSeconds=21.886;Rank=3;StartBPM=87.811;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Bad Company - Toxin</Track>
+    <Attributes>Duration=349.127;EndBPM=86.945;FadeIn=66.753;FadeInLengthInSeconds=22.083;FadeOut=265.384;FadeOutLengthInSeconds=11.041;PreFadeInPosition=65.602;PreFadeInStartVolume=75;Rank=3;StartBPM=86.945;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Banda Black Rio - Mr. Funky Samba</Track>
     <Attributes>Duration=219.22;EndBPM=101.512107433647;EndLoopCount=2;FadeIn=8.147;FadeInLengthInSeconds=9.631;FadeOut=121.074;FadeOutLengthInSeconds=9.457;Key=G;PreFadeInPosition=7.797;PreFadeInStartVolume=75;Rank=3;StartBPM=99.6781227286886;</Attributes>
   </ExtenedAttributes>
