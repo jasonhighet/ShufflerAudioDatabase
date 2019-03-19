@@ -1617,6 +1617,10 @@
     <Attributes>Duration=356.891;EndBPM=86.784;FadeIn=66.318;FadeInLengthInSeconds=11.061;FadeOut=287.363;FadeOutLengthInSeconds=11.062;PreFadeInPosition=63.541;PreFadeInStartVolume=00;Rank=3;StartBPM=86.791;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Future Prophecies - Jack The Groove</Track>
+    <Attributes>Duration=360.880;EndBPM=86.933;FadeIn=66.470;FadeInLengthInSeconds=11.042;FadeOut=287.167;FadeOutLengthInSeconds=11.043;PreFadeInPosition=63.702;PreFadeInStartVolume=75;Rank=4;StartBPM=86.941;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Gal Costa &amp; Caetano Veloso - Maria Joana</Track>
     <Attributes>Duration=104.945;EndBPM=77.652;FadeIn=25.107;FadeInLengthInSeconds=6.352;FadeOut=93.223;FadeOutLengthInSeconds=6.181;Key=G;PreFadeInPosition=21.703;PreFadeInStartVolume=50;Rank=3;StartBPM=75.567;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
