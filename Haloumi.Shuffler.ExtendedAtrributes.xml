@@ -1621,6 +1621,10 @@
     <Attributes>Duration=254;EndBPM=90.9952606635071;EndLoopCount=2;FadeIn=0.345;FadeInLengthInSeconds=11.201;FadeOut=93.287;FadeOutLengthInSeconds=10.550;Key=Am;Rank=3;SkipLengthInSeconds=49.246;SkipStart=33.447;StartBPM=85.7066333363092;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Future Prophecies - Acid City</Track>
+    <Attributes>Duration=404.654;EndBPM=86.807;FadeIn=88.942;FadeInLengthInSeconds=11.059;FadeOut=354.213;FadeOutLengthInSeconds=11.059;PreFadeInPosition=86.341;PreFadeInStartVolume=75;Rank=3;StartBPM=86.807;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Future Prophecies - Aftermath</Track>
     <Attributes>Duration=356.891;EndBPM=86.784;FadeIn=66.318;FadeInLengthInSeconds=11.061;FadeOut=287.363;FadeOutLengthInSeconds=11.062;PreFadeInPosition=63.541;PreFadeInStartVolume=00;Rank=4;StartBPM=86.791;</Attributes>
   </ExtenedAttributes>

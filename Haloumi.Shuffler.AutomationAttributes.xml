@@ -13887,6 +13887,13 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Future Prophecies - Acid City</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Future Prophecies - Aftermath</Track>
     <TrackFXTriggers />
     <SampleTriggers />
