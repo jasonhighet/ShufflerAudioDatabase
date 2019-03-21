@@ -857,6 +857,10 @@
     <Attributes>Duration=330.919183673469;EndBPM=112.444908508699;EndLoopCount=2;FadeIn=4.673;FadeInLengthInSeconds=4.225;FadeOut=172.704;FadeOutLengthInSeconds=8.538;Key=Gm;Rank=3;StartBPM=113.6094674556215;StartLoopCount=4;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Camo &amp; Krooked - Terra</Track>
+    <Attributes>Duration=295.706;EndBPM=87.233;FadeIn=66.086;FadeInLengthInSeconds=11.005;FadeOut=263.722;FadeOutLengthInSeconds=11.005;PreFadeInPosition=60.405;PreFadeInStartVolume=00;Rank=4;StartBPM=87.233;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Cannonball Adderley - Groovy Sambas</Track>
     <Attributes>Duration=299.49387755102;EndBPM=96.5989132622258;EndLoopCount=1;FadeIn=1.170;FadeInLengthInSeconds=9.912;FadeOut=87.562;FadeOutLengthInSeconds=9.938;Key=Gm;PreFadeInPosition=0.433;PreFadeInStartVolume=50;Rank=3;StartBPM=96.8523002421308;StartLoopCount=1;</Attributes>
   </ExtenedAttributes>
@@ -889,8 +893,12 @@
     <Attributes>Duration=196.414693877551;EndBPM=106.8447412353924;FadeIn=9.268;FadeInLengthInSeconds=9.145;FadeOut=154.233;FadeOutLengthInSeconds=17.970;Key=Am;PreFadeInPosition=0.000;PreFadeInStartVolume=50;Rank=3;StartBPM=104.975396391471;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Cause4Concern - Dropout</Track>
+    <Attributes>Duration=383.269;EndBPM=87.436;FadeIn=87.797;FadeInLengthInSeconds=10.967;FadeOut=285.269;FadeOutLengthInSeconds=10.979;Rank=4;StartBPM=87.535;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Cause4Concern - Never Acid Again</Track>
-    <Attributes>Duration=334.054;EndBPM=87.479;FadeIn=87.796;FadeInLengthInSeconds=10.973;FadeOut=285.273;FadeOutLengthInSeconds=10.974;PreFadeInPosition=86.741;PreFadeInStartVolume=75;Rank=3;StartBPM=87.487;</Attributes>
+    <Attributes>Duration=334.054;EndBPM=87.479;FadeIn=87.796;FadeInLengthInSeconds=10.973;FadeOut=285.273;FadeOutLengthInSeconds=10.974;PreFadeInPosition=86.741;PreFadeInStartVolume=75;Rank=4;StartBPM=87.487;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Chamber of Commerce - The Commerce Thang</Track>
@@ -1614,7 +1622,11 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Future Prophecies - Aftermath</Track>
-    <Attributes>Duration=356.891;EndBPM=86.784;FadeIn=66.318;FadeInLengthInSeconds=11.061;FadeOut=287.363;FadeOutLengthInSeconds=11.062;PreFadeInPosition=63.541;PreFadeInStartVolume=00;Rank=3;StartBPM=86.791;</Attributes>
+    <Attributes>Duration=356.891;EndBPM=86.784;FadeIn=66.318;FadeInLengthInSeconds=11.061;FadeOut=287.363;FadeOutLengthInSeconds=11.062;PreFadeInPosition=63.541;PreFadeInStartVolume=00;Rank=4;StartBPM=86.791;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Future Prophecies - Black Dragon</Track>
+    <Attributes>Duration=379.160;EndBPM=87.184;FadeIn=88.536;FadeInLengthInSeconds=11.011;FadeOut=331.264;FadeOutLengthInSeconds=11.011;PreFadeInPosition=84.702;PreFadeInStartVolume=00;Rank=3;StartBPM=87.186;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Future Prophecies - Jack The Groove</Track>
