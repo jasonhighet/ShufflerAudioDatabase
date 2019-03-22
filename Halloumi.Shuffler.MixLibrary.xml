@@ -4039,10 +4039,10 @@
       <string>Cybernetika - Towards The End Of Time, 4</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 4</string>
       <string>Bad Company - The Fear, 4</string>
-      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 4</string>
       <string>Concord Dawn - Styx (feat. Geist), 4</string>
       <string>Cybernetika - Vaporized, 4</string>
       <string>Bad Company - Toxin, 4</string>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 3</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 3</string>
       <string>Cybernetika - Monolithic, 3</string>
       <string>Bad Company - 4 Days, 3</string>
@@ -6418,7 +6418,6 @@
     <Track>Black Sun Empire - 1800 Contact</Track>
     <MixRankings>
       <string>Bad Company - Toxin, 5</string>
-      <string>Future Prophecies - Black Dragon, 5</string>
       <string>Bad Company - 4 Days, 4</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 4</string>
       <string>Cybernetika - Anomaly, 4</string>
@@ -6448,6 +6447,7 @@
       <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 3</string>
       <string>Black Sun Empire - Eraser (Neonlight Remix), 3</string>
       <string>Future Prophecies - Jack The Groove, 3</string>
+      <string>Future Prophecies - Black Dragon, 2</string>
       <string>Cybernetika - Monolithic, 2</string>
       <string>Concord Dawn - Chloroform, 2</string>
       <string>Camo &amp; Krooked - Terra, 2</string>
@@ -9331,7 +9331,7 @@
   <TrackMix>
     <Track>Cause4Concern - Never Acid Again</Track>
     <MixRankings>
-      <string>Bad Company - Pulse, 4</string>
+      <string>Bad Company - Pulse, 5</string>
       <string>Bad Company - Hysteria, 4</string>
       <string>Concord Dawn - The Fallen, 4</string>
       <string>Black Sun Empire - Feed The Machine (feat. Noisia), 4</string>
@@ -10034,12 +10034,12 @@
     <Track>Concord Dawn - Aces High (feat. State of Mind)</Track>
     <MixRankings>
       <string>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix), 5</string>
+      <string>Concord Dawn - The Fallen, 5</string>
       <string>Cybernetika - Close Your Eyes, 4</string>
       <string>Bad Company - The Nine, 4</string>
       <string>Black Sun Empire - Tripel (feat. State Of Mind), 4</string>
       <string>Cybernetika - Devoid Of Gravity, 4</string>
       <string>Bad Company - Pulse, 4</string>
-      <string>Concord Dawn - The Fallen, 4</string>
       <string>Black Sun Empire - Feed The Machine (feat. Noisia), 4</string>
       <string>Future Prophecies - Aftermath, 4</string>
       <string>Future Prophecies - Jack The Groove, 4</string>
@@ -10233,9 +10233,9 @@
   <TrackMix>
     <Track>Concord Dawn - Styx (feat. Geist)</Track>
     <MixRankings>
-      <string>Bad Company - 4 Days, 4</string>
       <string>Black Sun Empire - Hideous (feat. Noisia) (VIP Remix), 4</string>
       <string>Future Prophecies - Aftermath, 4</string>
+      <string>Bad Company - 4 Days, 3</string>
       <string>Concord Dawn - Cloud City, 3</string>
       <string>Concord Dawn - Chloroform, 3</string>
       <string>Black Sun Empire - Battalion, 3</string>
@@ -10278,7 +10278,7 @@
       <string>Bad Company - The Nine, 4</string>
       <string>Black Sun Empire - Feed The Machine (feat. Noisia), 4</string>
       <string>Concord Dawn - 6.13, 4</string>
-      <string>Cause4Concern - Never Acid Again, 4</string>
+      <string>Cause4Concern - Never Acid Again, 3</string>
       <string>Concord Dawn - Shinkansen, 3</string>
       <string>Black Sun Empire - Battalion, 3</string>
       <string>Bad Company - Rage, 3</string>
@@ -10892,6 +10892,7 @@
   <TrackMix>
     <Track>Cybernetika - Starchild</Track>
     <MixRankings>
+      <string>Concord Dawn - Aces High (feat. State of Mind), 5</string>
       <string>Cybernetika - Devoid Of Gravity, 4</string>
       <string>Bad Company - 4 Days, 4</string>
       <string>Black Sun Empire - Hideous (feat. Noisia) (VIP Remix), 4</string>
@@ -10902,7 +10903,6 @@
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 4</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 4</string>
       <string>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix), 4</string>
-      <string>Concord Dawn - Aces High (feat. State of Mind), 4</string>
       <string>Future Prophecies - Aftermath, 4</string>
       <string>Future Prophecies - Jack The Groove, 4</string>
       <string>Future Prophecies - Acid City, 4</string>
