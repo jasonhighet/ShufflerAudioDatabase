@@ -1665,6 +1665,10 @@
     <Attributes>Duration=311.133;EndBPM=132.560066280033;EndLoopCount=4;FadeIn=0.237;FadeInLengthInSeconds=7.329;FadeOut=163.949;FadeOutLengthInSeconds=3.621;Key=Ebm;Rank=3;SkipLengthInSeconds=25.238;SkipStart=127.906;StartBPM=130.986492018011;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Genetix - Structures (Future Prophecies Remix)</Track>
+    <Attributes>Duration=349.545;EndBPM=88.373;FadeIn=86.983;FadeInLengthInSeconds=10.868;FadeOut=260.848;FadeOutLengthInSeconds=10.863;Rank=4;StartBPM=88.333;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Gian Franco Pienzio - Grigio Perla</Track>
     <Attributes>Duration=189.204897959184;EndBPM=90.978013646702;EndLoopCount=4;FadeIn=3.547;FadeInLengthInSeconds=10.614;FadeOut=150.916;FadeOutLengthInSeconds=5.276;Key=A;PreFadeInPosition=0.812;PreFadeInStartVolume=75;Rank=3;StartBPM=90.4465799886942;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
@@ -4043,6 +4047,10 @@
   <ExtenedAttributes>
     <Track>Tapper Zukie - Dub Mpla</Track>
     <Attributes>Duration=186.36;EndBPM=71.8294051627385;FadeIn=25.363;FadeInLengthInSeconds=3.341;FadeOut=108.813;FadeOutLengthInSeconds=13.365;Key=A;Rank=3;SkipLengthInSeconds=13.347;SkipStart=48.284;StartBPM=71.83478000598625;StartLoopCount=4;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Teebee &amp; Future Prophecies - Let the Bass Kick</Track>
+    <Attributes>Duration=353.895;EndBPM=86.854;FadeIn=66.273;FadeInLengthInSeconds=11.050;FadeOut=309.292;FadeOutLengthInSeconds=22.106;Rank=4;StartBPM=86.878;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Tennessee Brown &amp; The Silvertones - Jingle Bells</Track>
