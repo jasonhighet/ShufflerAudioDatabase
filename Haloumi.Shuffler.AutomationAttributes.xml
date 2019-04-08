@@ -10011,6 +10011,13 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Cybernetika - Hayashis Journey</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Cybernetika - Monolithic</Track>
     <TrackFXTriggers>
       <TrackFXTrigger>

@@ -4112,6 +4112,7 @@
       <string>Concord Dawn - 6.13, 4</string>
       <string>Vortech - Humanity: Static (Cybernetika Remix), 4</string>
       <string>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix), 4</string>
+      <string>Cybernetika - Hayashis Journey, 4</string>
       <string>Bad Company - Sentient, 3</string>
       <string>Cybernetika - Constellations, 3</string>
       <string>Bad Company - Thin Air, 3</string>
@@ -4135,6 +4136,7 @@
       <string>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix), 4</string>
       <string>Cause4Concern - Never Acid Again, 4</string>
       <string>Genetix - Structures (Future Prophecies Remix), 4</string>
+      <string>Cybernetika - Hayashis Journey, 4</string>
       <string>Black Sun Empire - Arrakis, 3</string>
       <string>Bad Company - Rage, 3</string>
       <string>Cybernetika - Vaporized, 3</string>
@@ -4190,6 +4192,7 @@
       <string>Concord Dawn - Killsaw, 4</string>
       <string>Bad Company - Bullet Time (Spor Remix), 4</string>
       <string>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix), 4</string>
+      <string>Cybernetika - Hayashis Journey, 4</string>
       <string>Bad Company - 4 Days, 3</string>
       <string>Bad Company - Brain Scan, 3</string>
       <string>Cybernetika - Anomaly, 3</string>
@@ -4226,6 +4229,7 @@
       <string>Vortech - Humanity: Static (Cybernetika Remix), 4</string>
       <string>Bad Company - Oxygen (The Drilla Killa), 4</string>
       <string>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix), 4</string>
+      <string>Cybernetika - Hayashis Journey, 4</string>
       <string>Cybernetika - Stinger, 3</string>
       <string>Bad Company - Thin Air, 3</string>
       <string>Cybernetika - Vaporized, 3</string>
@@ -4256,6 +4260,7 @@
       <string>Concord Dawn - 6.13, 4</string>
       <string>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix), 4</string>
       <string>Genetix - Structures (Future Prophecies Remix), 4</string>
+      <string>Cybernetika - Hayashis Journey, 4</string>
       <string>Bad Company - Bullet Time (Spor Remix), 3</string>
       <string>Bad Company - Nitrous, 3</string>
       <string>Bad Company - Night Train, 3</string>
@@ -4305,6 +4310,7 @@
       <string>Black Sun Empire - Feed The Machine (feat. Noisia), 3</string>
       <string>Bad Company - Thin Air, 3</string>
       <string>Genetix - Structures (Future Prophecies Remix), 3</string>
+      <string>Cybernetika - Hayashis Journey, 3</string>
       <string>Bad Company - Night Train, 2</string>
       <string>Cybernetika - Electron Tracker, 2</string>
       <string>Bad Company - Sentient, 2</string>
@@ -4330,6 +4336,7 @@
       <string>Bad Company - Rage, 4</string>
       <string>Bad Company - Oxygen (The Drilla Killa), 4</string>
       <string>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix), 4</string>
+      <string>Cybernetika - Hayashis Journey, 4</string>
       <string>Cybernetika - Monolithic, 3</string>
       <string>Bad Company - Brain Scan, 3</string>
       <string>Black Sun Empire - Battalion, 3</string>
@@ -6476,6 +6483,7 @@
       <string>Vortech - Humanity: Static (Cybernetika Remix), 4</string>
       <string>Bad Company - Oxygen (The Drilla Killa), 4</string>
       <string>Genetix - Structures (Future Prophecies Remix), 4</string>
+      <string>Cybernetika - Hayashis Journey, 4</string>
       <string>Bad Company - Nitrous, 3</string>
       <string>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix), 3</string>
       <string>Bad Company - Toxin, 3</string>
@@ -10210,6 +10218,7 @@
       <string>Bad Company - Toxin, 4</string>
       <string>Bad Company - Rage, 3</string>
       <string>Bad Company - The Fear, 3</string>
+      <string>Cybernetika - Hayashis Journey, 3</string>
       <string>Vortech - Humanity: Static (Cybernetika Remix), 2</string>
       <string>Genetix - Structures (Future Prophecies Remix), 2</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 0</string>
@@ -10866,9 +10875,29 @@
       <string>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix), 4</string>
       <string>Cause4Concern - Never Acid Again, 4</string>
       <string>Genetix - Structures (Future Prophecies Remix), 4</string>
+      <string>Cybernetika - Hayashis Journey, 4</string>
       <string>Bad Company - Night Train, 3</string>
       <string>Concord Dawn - 6.13, 3</string>
       <string>Bad Company - Nitrous, 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Cybernetika - Hayashis Journey</Track>
+    <MixRankings>
+      <string>Black Sun Empire - Arrakis, 4</string>
+      <string>Bad Company - Rage, 4</string>
+      <string>Bad Company - Night Train, 4</string>
+      <string>Bad Company - Bullet Time, 4</string>
+      <string>Bad Company - Oxygen (The Drilla Killa), 4</string>
+      <string>Cybernetika - Vaporized, 4</string>
+      <string>Cybernetika - Electron Tracker, 4</string>
+      <string>Concord Dawn - Killsaw, 4</string>
+      <string>Bad Company - Sentient, 4</string>
+      <string>Genetix - Structures (Future Prophecies Remix), 4</string>
+      <string>Bad Company - Bullet Time (Spor Remix), 3</string>
+      <string>Bad Company - Nitrous, 3</string>
+      <string>Cybernetika - Neuronal Interface, 3</string>
+      <string>Cybernetika - Monolithic, 3</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -10876,6 +10905,7 @@
     <MixRankings>
       <string>Bad Company - Brain Scan, 4</string>
       <string>Cybernetika - Constellations, 4</string>
+      <string>Cybernetika - Hayashis Journey, 4</string>
       <string>Bad Company - Night Train, 3</string>
       <string>Bad Company - 4 Days, 3</string>
       <string>Bad Company - Sentient, 3</string>
@@ -10924,6 +10954,7 @@
       <string>Bad Company - Oxygen (The Drilla Killa), 4</string>
       <string>Camo &amp; Krooked - Terra, 4</string>
       <string>Genetix - Structures (Future Prophecies Remix), 4</string>
+      <string>Cybernetika - Hayashis Journey, 4</string>
       <string>Bad Company - Breathe, 3</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 3</string>
       <string>Bad Company - Toxin, 3</string>
@@ -11034,6 +11065,7 @@
       <string>Bad Company - Toxin, 4</string>
       <string>Camo &amp; Krooked - Terra, 4</string>
       <string>Genetix - Structures (Future Prophecies Remix), 4</string>
+      <string>Cybernetika - Hayashis Journey, 4</string>
       <string>Bad Company - Bullet Time (Spor Remix), 3</string>
       <string>Cybernetika - Towards The End Of Time, 3</string>
       <string>Bad Company - Sentient, 3</string>
@@ -16957,6 +16989,7 @@
       <string>Cybernetika - Electron Tracker, 4</string>
       <string>Cybernetika - Towards The End Of Time, 4</string>
       <string>Bad Company - Sentient, 4</string>
+      <string>Cybernetika - Hayashis Journey, 4</string>
       <string>Bad Company - Toxin, 3</string>
       <string>Bad Company - Rage, 3</string>
       <string>Bad Company - Night Train, 3</string>

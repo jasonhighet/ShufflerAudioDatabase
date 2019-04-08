@@ -1089,6 +1089,10 @@
     <Attributes>Duration=807.414;EndBPM=88.626;FadeIn=108.027;FadeInLengthInSeconds=10.830;FadeOut=303.278;FadeOutLengthInSeconds=21.664;PreFadeInPosition=105.303;PreFadeInStartVolume=00;Rank=3;StartBPM=88.643;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Cybernetika - Hayashis Journey</Track>
+    <Attributes>Duration=434.161;EndBPM=89.124;FadeIn=64.634;FadeInLengthInSeconds=21.548;FadeOut=172.626;FadeOutLengthInSeconds=21.543;Rank=3;StartBPM=89.103;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Cybernetika - Monolithic</Track>
     <Attributes>Duration=509.511;EndBPM=89.502;FadeIn=75.082;FadeInLengthInSeconds=21.437;FadeOut=337.869;FadeOutLengthInSeconds=21.452;Rank=3;SkipLengthInSeconds=42.905;SkipStart=235.936;StartBPM=89.565;</Attributes>
   </ExtenedAttributes>
@@ -1666,7 +1670,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Genetix - Structures (Future Prophecies Remix)</Track>
-    <Attributes>Duration=349.545;EndBPM=88.373;FadeIn=86.983;FadeInLengthInSeconds=10.868;FadeOut=260.848;FadeOutLengthInSeconds=10.863;Rank=4;StartBPM=88.333;</Attributes>
+    <Attributes>Duration=349.545;EndBPM=88.373;FadeIn=86.983;FadeInLengthInSeconds=10.868;FadeOut=260.848;FadeOutLengthInSeconds=10.863;Rank=5;StartBPM=88.333;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Gian Franco Pienzio - Grigio Perla</Track>
