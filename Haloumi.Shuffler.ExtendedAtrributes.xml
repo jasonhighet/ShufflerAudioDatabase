@@ -625,6 +625,10 @@
     <Attributes>Duration=304.793;EndBPM=87.059;FadeIn=78.588;FadeInLengthInSeconds=11.023;FadeOut=266.177;FadeOutLengthInSeconds=11.027;Rank=3;StartBPM=87.091;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Black Sun Empire - Extraction</Track>
+    <Attributes>Duration=336.260;EndBPM=87.099;FadeIn=90.289;FadeInLengthInSeconds=11.022;FadeOut=244.759;FadeOutLengthInSeconds=11.022;Rank=3;StartBPM=87.099;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Black Sun Empire - Feed The Machine (feat. Noisia)</Track>
     <Attributes>Duration=320.292;EndBPM=86.692;FadeIn=79.139;FadeInLengthInSeconds=11.165;FadeOut=268.928;FadeOutLengthInSeconds=11.074;Rank=4;StartBPM=85.983;</Attributes>
   </ExtenedAttributes>
