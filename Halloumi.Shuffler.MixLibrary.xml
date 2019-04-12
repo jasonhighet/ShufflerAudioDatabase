@@ -3982,6 +3982,7 @@
   <TrackMix>
     <Track>Bad Company - 4 Days</Track>
     <MixRankings>
+      <string>Bad Company - The Fear, 5</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 4</string>
       <string>Black Sun Empire - 1800 Contact, 4</string>
       <string>Cybernetika - Anomaly, 4</string>
@@ -3991,7 +3992,6 @@
       <string>Black Sun Empire - Hideous (feat. Noisia) (VIP Remix), 4</string>
       <string>Black Sun Empire - Tripel (feat. State Of Mind), 4</string>
       <string>Concord Dawn - Cloud City, 4</string>
-      <string>Bad Company - The Fear, 4</string>
       <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 4</string>
       <string>Cybernetika - Devoid Of Gravity, 4</string>
       <string>Cybernetika - Starchild, 4</string>
@@ -6901,7 +6901,6 @@
     <Track>Black Sun Empire - Hideous (feat. Noisia) (VIP Remix)</Track>
     <MixRankings>
       <string>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix), 4</string>
-      <string>Cybernetika - Anomaly, 4</string>
       <string>Bad Company - 4 Days, 4</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 4</string>
       <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 4</string>
@@ -6914,6 +6913,7 @@
       <string>Future Prophecies - Black Dragon, 4</string>
       <string>Teebee &amp; Future Prophecies - Let the Bass Kick, 4</string>
       <string>Black Sun Empire - Extraction, 4</string>
+      <string>Cybernetika - Anomaly, 3</string>
       <string>Black Sun Empire - Battalion, 3</string>
       <string>Black Sun Empire - Delorean, 3</string>
       <string>Bad Company - The Fear, 3</string>
@@ -9383,6 +9383,7 @@
     <Track>Cause4Concern - Dropout</Track>
     <MixRankings>
       <string>Future Prophecies - Jack The Groove, 5</string>
+      <string>Teebee &amp; Future Prophecies - Let the Bass Kick, 5</string>
       <string>Black Sun Empire - 1800 Contact, 4</string>
       <string>Black Sun Empire - Hideous (feat. Noisia) (VIP Remix), 4</string>
       <string>Black Sun Empire - Eraser (Neonlight Remix), 4</string>
@@ -9390,7 +9391,6 @@
       <string>Black Sun Empire - Fever (Chris SU Remix), 4</string>
       <string>Cybernetika - Towards The End Of Time, 4</string>
       <string>Future Prophecies - Black Dragon, 4</string>
-      <string>Teebee &amp; Future Prophecies - Let the Bass Kick, 4</string>
       <string>Black Sun Empire - Extraction, 4</string>
       <string>Concord Dawn - Chloroform, 3</string>
       <string>Bad Company - The Fear, 3</string>
