@@ -15523,6 +15523,13 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Future Prophecies - Fire</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Future Prophecies - Jack The Groove</Track>
     <TrackFXTriggers />
     <SampleTriggers />
