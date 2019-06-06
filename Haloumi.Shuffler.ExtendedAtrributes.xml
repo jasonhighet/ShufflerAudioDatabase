@@ -1642,7 +1642,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Future Prophecies - Fire</Track>
-    <Attributes>Duration=396.278;EndBPM=87.344;FadeIn=76.952;FadeInLengthInSeconds=10.991;FadeOut=217.057;FadeOutLengthInSeconds=10.991;Rank=3;StartBPM=87.344;</Attributes>
+    <Attributes>Duration=396.278;EndBPM=87.336;FadeIn=87.943;FadeInLengthInSeconds=10.991;FadeOut=208.812;FadeOutLengthInSeconds=10.992;Rank=3;StartBPM=87.344;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Future Prophecies - Jack The Groove</Track>
