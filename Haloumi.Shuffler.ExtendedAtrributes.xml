@@ -905,6 +905,10 @@
     <Attributes>Duration=334.054;EndBPM=87.479;FadeIn=87.796;FadeInLengthInSeconds=10.973;FadeOut=285.273;FadeOutLengthInSeconds=10.974;PreFadeInPosition=86.741;PreFadeInStartVolume=75;Rank=4;StartBPM=87.487;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Cause4Concern - Reality Check</Track>
+    <Attributes>Duration=355.736;EndBPM=87.539;FadeIn=65.846;FadeInLengthInSeconds=21.932;FadeOut=186.522;FadeOutLengthInSeconds=10.966;Rank=3;StartBPM=87.543;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Chamber of Commerce - The Commerce Thang</Track>
     <Attributes>Duration=143.830204081633;EndBPM=125.7532093266965;EndLoopCount=4;FadeIn=27.392;FadeInLengthInSeconds=8.021;FadeOut=100.376;FadeOutLengthInSeconds=3.817;Key=Bbm;PreFadeInPosition=25.930;PreFadeInStartVolume=75;Rank=2;StartBPM=119.685824710136;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
