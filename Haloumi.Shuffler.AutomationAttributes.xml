@@ -8987,6 +8987,13 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Cause4Concern - Dream Killer</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Cause4Concern - Dropout</Track>
     <TrackFXTriggers />
     <SampleTriggers />

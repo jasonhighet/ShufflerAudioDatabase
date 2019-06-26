@@ -4168,6 +4168,7 @@
       <string>Black Sun Empire - 1800 Contact, 4</string>
       <string>Bad Company - Pulse, 4</string>
       <string>Cause4Concern - Never Acid Again, 4</string>
+      <string>Cause4Concern - Dream Killer, 4</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 3</string>
       <string>Cybernetika - Monolithic, 3</string>
       <string>Bad Company - Sentient, 3</string>
@@ -4292,6 +4293,7 @@
       <string>Black Sun Empire - Feed The Machine (feat. Noisia), 5</string>
       <string>Bad Company - Oxygen (The Drilla Killa), 5</string>
       <string>Cause4Concern - Never Acid Again, 5</string>
+      <string>Cause4Concern - Dream Killer, 5</string>
       <string>Cybernetika - Distress Beacon, 4</string>
       <string>Cybernetika - Constellations, 4</string>
       <string>Bad Company - Thin Air, 4</string>
@@ -4433,6 +4435,7 @@
       <string>Future Prophecies - Jack The Groove, 4</string>
       <string>Future Prophecies - Acid City, 4</string>
       <string>Cause4Concern - Reality Check, 4</string>
+      <string>Cause4Concern - Dream Killer, 4</string>
       <string>Bad Company - 4 Days, 3</string>
       <string>Bad Company - Thin Air, 3</string>
       <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 3</string>
@@ -6612,6 +6615,7 @@
       <string>Bad Company - The Nine, 3</string>
       <string>Bad Company - Bullet Time, 3</string>
       <string>Bad Company - Sentient, 3</string>
+      <string>Cause4Concern - Dream Killer, 3</string>
       <string>Bad Company - Rage, 2</string>
       <string>Bad Company - Hysteria, 2</string>
       <string>Cybernetika - Stinger, 2</string>
@@ -6859,6 +6863,7 @@
       <string>Cybernetika - Distress Beacon, 4</string>
       <string>Bad Company - Pulse, 4</string>
       <string>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix), 4</string>
+      <string>Cause4Concern - Dream Killer, 4</string>
       <string>Vortech - Humanity: Static (Cybernetika Remix), 3</string>
       <string>Cybernetika - Stinger, 3</string>
       <string>Bad Company - Sentient, 3</string>
@@ -9396,6 +9401,22 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Cause4Concern - Dream Killer</Track>
+    <MixRankings>
+      <string>Concord Dawn - 6.13, 5</string>
+      <string>Bad Company - Pulse, 5</string>
+      <string>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix), 4</string>
+      <string>Concord Dawn - Aces High (feat. State of Mind), 4</string>
+      <string>Bad Company - Hysteria, 4</string>
+      <string>Concord Dawn - The Fallen, 4</string>
+      <string>Black Sun Empire - Feed The Machine (feat. Noisia), 4</string>
+      <string>Cause4Concern - Never Acid Again, 4</string>
+      <string>Bad Company - The Nine, 3</string>
+      <string>Cybernetika - Stinger, 3</string>
+      <string>Cybernetika - Constellations, 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>Cause4Concern - Dropout</Track>
     <MixRankings>
       <string>Future Prophecies - Jack The Groove, 5</string>
@@ -9439,6 +9460,7 @@
       <string>Cybernetika - Distress Beacon, 4</string>
       <string>Cybernetika - Electron Tracker, 4</string>
       <string>Bad Company - Sentient, 4</string>
+      <string>Cause4Concern - Dream Killer, 4</string>
       <string>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix), 3</string>
       <string>Bad Company - Thin Air, 3</string>
       <string>Bad Company - Bullet Time (Spor Remix), 3</string>
@@ -10134,6 +10156,7 @@
       <string>Bad Company - Bullet Time (Spor Remix), 4</string>
       <string>Cybernetika - Electron Tracker, 4</string>
       <string>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix), 4</string>
+      <string>Cause4Concern - Dream Killer, 4</string>
       <string>Cybernetika - Stinger, 3</string>
       <string>Bad Company - Nitrous, 3</string>
       <string>Bad Company - The Nine, 3</string>
@@ -10159,6 +10182,7 @@
       <string>Future Prophecies - Aftermath, 4</string>
       <string>Future Prophecies - Jack The Groove, 4</string>
       <string>Future Prophecies - Acid City, 4</string>
+      <string>Cause4Concern - Dream Killer, 4</string>
       <string>Cybernetika - Constellations, 3</string>
       <string>Cybernetika - Starchild, 3</string>
       <string>Bad Company - 4 Days, 3</string>
@@ -10429,6 +10453,7 @@
       <string>Bad Company - Breathe, 2</string>
       <string>Cybernetika - Stinger, 2</string>
       <string>Bad Company - Thin Air, 2</string>
+      <string>Cause4Concern - Dream Killer, 2</string>
       <string>Cybernetika - Distress Beacon, 0</string>
       <string>Cybernetika - Monolithic, 0</string>
       <string>Bad Company - 4 Days, 0</string>
@@ -10871,6 +10896,7 @@
       <string>Cybernetika - Devoid Of Gravity, 4</string>
       <string>Future Prophecies - Aftermath, 4</string>
       <string>Cause4Concern - Never Acid Again, 4</string>
+      <string>Cause4Concern - Dream Killer, 4</string>
       <string>Black Sun Empire - Feed The Machine (feat. Noisia), 3</string>
       <string>Cybernetika - Distress Beacon, 3</string>
       <string>Bad Company - Nitrous, 3</string>
@@ -11117,6 +11143,7 @@
       <string>Bad Company - Rage, 4</string>
       <string>Concord Dawn - 6.13, 4</string>
       <string>Cause4Concern - Never Acid Again, 4</string>
+      <string>Cause4Concern - Dream Killer, 4</string>
       <string>Bad Company - Breathe, 3</string>
       <string>Cybernetika - Anomaly, 3</string>
       <string>Black Sun Empire - Battalion, 3</string>
@@ -16798,10 +16825,6 @@
       <string>Concord Dawn - Shinkansen, 0</string>
       <string>Concord Dawn - Guardian Angel, 0</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>Future Prophecies - Chrome</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Future Prophecies - Fire</Track>

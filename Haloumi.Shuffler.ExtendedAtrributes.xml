@@ -897,6 +897,10 @@
     <Attributes>Duration=196.414693877551;EndBPM=106.8447412353924;FadeIn=9.268;FadeInLengthInSeconds=9.145;FadeOut=154.233;FadeOutLengthInSeconds=17.970;Key=Am;PreFadeInPosition=0.000;PreFadeInStartVolume=50;Rank=3;StartBPM=104.975396391471;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Cause4Concern - Dream Killer</Track>
+    <Attributes>Duration=334.707;EndBPM=87.336;FadeIn=55.205;FadeInLengthInSeconds=10.991;FadeOut=304.462;FadeOutLengthInSeconds=10.992;Rank=3;StartBPM=87.344;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Cause4Concern - Dropout</Track>
     <Attributes>Duration=383.269;EndBPM=87.436;FadeIn=87.797;FadeInLengthInSeconds=10.967;FadeOut=285.269;FadeOutLengthInSeconds=10.979;Rank=4;StartBPM=87.535;</Attributes>
   </ExtenedAttributes>
