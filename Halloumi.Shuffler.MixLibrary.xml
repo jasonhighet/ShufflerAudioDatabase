@@ -6927,10 +6927,6 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>Black Sun Empire - Gunseller (Counterstrike Remix)</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
     <Track>Black Sun Empire - Hideous (feat. Noisia) (VIP Remix)</Track>
     <MixRankings>
       <string>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix), 4</string>
@@ -9033,10 +9029,12 @@
   <TrackMix>
     <Track>Cal Tjader - Pantano</Track>
     <MixRankings>
+      <string>Eddie Henderson - Inside You, 5</string>
       <string>Ernest Ranglin - Satta Massagana, 4</string>
       <string>Howard Roberts - Dirty Old Bossa Nova, 4</string>
       <string>Jimmy Smith &amp; Wes Mongomery - OGD (Road Song), 4</string>
       <string>Tamba Trio - Mas Que Nada, 4</string>
+      <string>Donald Byrd - Weasil, 4</string>
       <string>Cortex - Troupeau Bleu, 3</string>
       <string>Greyboy - Parkside Bounce, 3</string>
       <string>Stan Getz &amp; Astrud Gilberto - One Note Samba (Live), 3</string>
@@ -9188,10 +9186,6 @@
       <string>Concord Dawn - Guardian Angel, 2</string>
       <string>Concord Dawn - Chloroform, 2</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>Camo &amp; Krooked - Tonight</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Cannonball Adderley - Groovy Sambas</Track>
@@ -9494,10 +9488,6 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>Cause4Concern - Luca (Silent Witness Remix)</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
     <Track>Cause4Concern - Never Acid Again</Track>
     <MixRankings>
       <string>Bad Company - Pulse, 5</string>
@@ -9537,10 +9527,6 @@
       <string>Concord Dawn - Cloud City, 3</string>
       <string>Future Prophecies - Jack The Groove, 2</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>Cause4Concern - Soul (Mob Tactics Remix)</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Chamber of Commerce - The Commerce Thang</Track>
@@ -10516,10 +10502,6 @@
       <string>Bad Company - 4 Days, 0</string>
       <string>Cybernetika - Constellations, 0</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>Concord Dawn - Vengeance</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>ConFunkShun - Clique</Track>
@@ -14026,6 +14008,7 @@
       <string>King Tubby - Rock With I Dub, 2</string>
       <string>Vanessa da Mata - Não Me Deixe Só, 2</string>
       <string>Jorge Ben - Morre o Burro Fica o Homem, 2</string>
+      <string>Elza Soares - Mas Que Nada, 2</string>
       <string>Greyboy - The Real, 0</string>
       <string>Placebo - Only Nineteen, 0</string>
       <string>The J.B.'s - Pass The Peas, 0</string>
@@ -14239,6 +14222,8 @@
       <string>Greyboy - Ruffneck Jazz, 3</string>
       <string>Jurassic 5 - Concrete Schoolyard, 3</string>
       <string>Greyboy - Grey Royale, 3</string>
+      <string>Cal Tjader - Pantano, 3</string>
+      <string>Wes Montgomery - Summertime, 3</string>
       <string>Astrud Gilberto - Gentle Rain (RJD2 Remix), 2</string>
       <string>Lou Donaldson - Ode To Billy Joe, 2</string>
       <string>Jorge Ben - Mas Que Nada, 2</string>
@@ -14842,6 +14827,7 @@
       <string>Dub Specialist - Dub It Easy, 3</string>
       <string>Donald Byrd - Weasil, 3</string>
       <string>Damu the Fudgemunk - Tea Thyme, 3</string>
+      <string>Cal Tjader - Pantano, 3</string>
       <string>Beastie Boys - Groove Holmes, 2</string>
       <string>Dizzy Gillespie - In A Shanty In Old Shanty Town, 2</string>
       <string>Ernest Ranglin - 54-46 (Was My Number), 2</string>
@@ -15601,6 +15587,7 @@
       <string>James Brown - The Boss, 3</string>
       <string>Sharon Jones &amp; The Dap Kings - Trimmed, 3</string>
       <string>The Herbaliser - Take 'em On, 3</string>
+      <string>Donald Byrd - (Fallin' Like) Dominoes, 3</string>
       <string>Banda Black Rio - Mr. Funky Samba, 2</string>
       <string>Jorge Ben - Pulo Pulo, 2</string>
       <string>Mandrake Som - Berimbau, 2</string>
@@ -17695,6 +17682,7 @@
   <TrackMix>
     <Track>Grant Green - Sookie, Sookie</Track>
     <MixRankings>
+      <string>Richard "Groove" Holmes - Grooving With Mr. G, 5</string>
       <string>Stan Getz &amp; Astrud Gilberto - Corcovado (Quiet Nights Of Quiet Stars) (Live), 3</string>
       <string>Howard Roberts - Rough Ridin', 3</string>
       <string>Lou Donaldson - Turtle Walk, 3</string>
@@ -32645,6 +32633,7 @@
       <string>The Quantic Soul Orchestra - That Goose On My Grave, 4</string>
       <string>Marva Whitney - Things Have Got To Get Better, 4</string>
       <string>Herbie Hancock - Bring Down The Birds, 4</string>
+      <string>Grant Green - Sookie, Sookie, 4</string>
       <string>Donald Byrd - Love's so Far Away, 3</string>
       <string>Lou Donaldson - Turtle Walk, 3</string>
       <string>Os Cobras - Nana, 3</string>
@@ -46705,6 +46694,7 @@
       <string>Kool &amp; The Gang - Summer Madness, 3</string>
       <string>The 3 Sounds - Repeat After Me, 3</string>
       <string>The Gaylettes - Son Of A Preacher Man, 3</string>
+      <string>Donald Byrd - Weasil, 3</string>
       <string>Cortex - Troupeau Bleu, 2</string>
       <string>Dom Salvador E Abolicao - Hei Voce, 2</string>
       <string>Howard Roberts - Dirty Old Bossa Nova, 2</string>
