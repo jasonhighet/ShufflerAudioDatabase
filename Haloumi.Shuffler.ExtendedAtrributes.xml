@@ -2021,6 +2021,10 @@
     <Attributes>Duration=144;EndBPM=127.506973037588;FadeIn=0.427;FadeInLengthInSeconds=7.168;FadeOut=116.667;FadeOutLengthInSeconds=7.529;Key=D;PreFadeInPosition=0.382;PreFadeInStartVolume=75;Rank=3;StartBPM=133.928571428571;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Jack Costanzo and His Afro Cuban Band - El Resbaloso</Track>
+    <Attributes>Duration=244.062;EndBPM=70.896;EndLoopCount=2;FadeIn=1.373;FadeInLengthInSeconds=6.737;FadeOut=142.883;FadeOutLengthInSeconds=13.541;PreFadeInPosition=0.268;PreFadeInStartVolume=75;Rank=3;StartBPM=71.248;StartLoopCount=2;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Jack Costanzo and His Afro Cuban Band - Goza Negra</Track>
     <Attributes>Duration=181.681632653061;EndBPM=118.0231128596015;EndLoopCount=2;FadeIn=0.315;FadeInLengthInSeconds=4.035;FadeOut=137.011;FadeOutLengthInSeconds=4.067;Key=A;Rank=2;SkipLengthInSeconds=15.619;SkipStart=96.878;StartBPM=118.9591078066915;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
@@ -3331,6 +3335,10 @@
   <ExtenedAttributes>
     <Track>Prince Fatty - Switch Blade</Track>
     <Attributes>Duration=190.171428571429;EndBPM=74.7488904461574;FadeIn=2.069;FadeInLengthInSeconds=6.453;FadeOut=130.444;FadeOutLengthInSeconds=12.843;Key=Eb;PreFadeInPosition=1.223;PreFadeInStartVolume=40;Rank=5;StartBPM=74.384007438401;StartLoopCount=2;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Pucho &amp; His Latin Soul Brothers - Swamp People</Track>
+    <Attributes>Duration=150.282;EndBPM=79.194;EndLoopCount=2;FadeIn=0.226;FadeInLengthInSeconds=6.035;FadeOut=135.118;FadeOutLengthInSeconds=6.061;Rank=3;StartBPM=79.531;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Quannum Projects - I Changed My Mind (Instrumental)</Track>
@@ -5054,7 +5062,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Willie Bobo - Lisa</Track>
-    <Attributes>Duration=371.357;EndBPM=73.8688827331485;FadeIn=0.782;FadeInLengthInSeconds=3.170;FadeOut=175.549;FadeOutLengthInSeconds=6.498;Key=Gm;PreFadeInPosition=0.367;PreFadeInStartVolume=75;Rank=3;StartBPM=75.70977917981075;StartLoopCount=3;</Attributes>
+    <Attributes>Duration=374.491;EndBPM=74.189;FadeIn=2.338;FadeInLengthInSeconds=3.188;FadeOut=241.582;FadeOutLengthInSeconds=12.940;Key=Gm;PreFadeInPosition=1.930;PreFadeInStartVolume=75;Rank=3;SkipLengthInSeconds=103.711;SkipStart=73.351;StartBPM=75.282;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Willie Bobo &amp; The Bo Gents - Broasted Or Fried</Track>

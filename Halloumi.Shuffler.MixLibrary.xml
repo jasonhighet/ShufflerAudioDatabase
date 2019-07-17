@@ -10555,6 +10555,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Conjunto Roberto Faz y Ovidio Guerra - Con La Mayor Elegancia</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Cookin' On 3 Burners - This Girl (feat. Kylie Auldist)</Track>
     <MixRankings>
       <string>Del The Funky Homosapien - Thank Youse, 5</string>
@@ -19907,6 +19911,12 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Jack Costanzo and His Afro Cuban Band - El Resbaloso</Track>
+    <MixRankings>
+      <string>Willie Bobo - Lisa, 4</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>Jack Costanzo and His Afro Cuban Band - Goza Negra</Track>
     <MixRankings>
       <string>Tito Puente - Jugando Mama, Jugando, 4</string>
@@ -19928,6 +19938,10 @@
       <string>Tito Puente - Pa Los Rumberos, 2</string>
       <string>King Tubby - Watch This Version, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Jack Costanzo and His Afro Cuban Band - La La La</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Jack McDuff - Hunk O'funk</Track>
@@ -32253,6 +32267,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Pucho &amp; His Latin Soul Brothers - Swamp People</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Quannum Projects - I Changed My Mind (Instrumental)</Track>
     <MixRankings>
       <string>A Tribe Called Quest - Can I Kick It, 5</string>
@@ -34410,6 +34428,10 @@
       <string>El Michels Affair - Uzi (Pinky Ring), 0</string>
       <string>Dandy Livingstone - Rudy, A Message To You, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Sergio Mendes &amp; Brasil'66 - Mas Que Nada</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Seu Jorge - Burguesinha</Track>
@@ -37596,6 +37618,10 @@
       <string>The Gaylettes - Son Of A Preacher Man, 0</string>
       <string>Fela Soul - Oooh (Instrumental), 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Stan Getz e Laurindo Almeida - Menina Moça</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Stevie Wonder - Uptight (Grant Phabao Remix)</Track>
@@ -46916,6 +46942,7 @@
       <string>Tapper Zukie - Beautiful Dub, 4</string>
       <string>Prince Fatty - Switch Blade, 4</string>
       <string>The 3 Sounds - Sittin' Duck, 4</string>
+      <string>Jack Costanzo and His Afro Cuban Band - El Resbaloso, 4</string>
       <string>Elis Regina - Acuas de Marco, 3</string>
       <string>Astrud Gilberto &amp; Antonio Carlos Jobim - Agua de Beber, 3</string>
       <string>El Michels Affair - Walk On By, 3</string>
