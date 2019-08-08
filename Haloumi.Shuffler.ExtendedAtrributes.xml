@@ -609,6 +609,10 @@
     <Attributes>Duration=296.552;EndBPM=87.142;FadeIn=45.453;FadeInLengthInSeconds=22.133;FadeOut=244.142;FadeOutLengthInSeconds=22.033;Rank=3;StartBPM=86.749;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Black Sun Empire - Chaingang (Jade Remix)</Track>
+    <Attributes>Duration=299.931;EndBPM=87.016;FadeIn=133.406;FadeInLengthInSeconds=22.065;FadeOut=232.855;FadeOutLengthInSeconds=11.032;Rank=3;StartBPM=87.016;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Black Sun Empire - Delorean</Track>
     <Attributes>Duration=340.567;EndBPM=87.301;FadeIn=23.440;FadeInLengthInSeconds=21.992;FadeOut=222.067;FadeOutLengthInSeconds=21.993;Rank=3;StartBPM=87.304;</Attributes>
   </ExtenedAttributes>
