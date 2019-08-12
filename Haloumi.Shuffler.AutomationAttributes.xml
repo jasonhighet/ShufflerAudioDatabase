@@ -9520,6 +9520,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Future Prophecies - Miniamba (feat. Mari Boine)</TrackDescription>
+        <FadeLength>30.541541950113377</FadeLength>
+        <FadeEnd>130795792</FadeEnd>
+        <FadeEndLoop>11</FadeEndLoop>
+        <FadeEndVolume>0.1036941</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -15830,6 +15840,34 @@
         <FadeEnd>105161440</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.5823023</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Future Prophecies - Miniamba (feat. Mari Boine)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Concord Dawn - The Fallen</TrackDescription>
+        <FadeLength>21.521541950113377</FadeLength>
+        <FadeEnd>124745960</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.5105116</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Black Sun Empire - Arrakis</TrackDescription>
+        <FadeLength>22.191541950113379</FadeLength>
+        <FadeEnd>124696600</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.654093</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
