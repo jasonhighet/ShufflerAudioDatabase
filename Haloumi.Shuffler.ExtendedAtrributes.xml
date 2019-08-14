@@ -905,6 +905,10 @@
     <Attributes>Duration=196.414693877551;EndBPM=106.8447412353924;FadeIn=9.268;FadeInLengthInSeconds=9.145;FadeOut=154.233;FadeOutLengthInSeconds=17.970;Key=Am;PreFadeInPosition=0.000;PreFadeInStartVolume=50;Rank=3;StartBPM=104.975396391471;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Cause4Concern - Crash Test</Track>
+    <Attributes>Duration=309.838;EndBPM=87.503;FadeIn=65.855;FadeInLengthInSeconds=21.943;FadeOut=285.279;FadeOutLengthInSeconds=21.942;Rank=3;StartBPM=87.499;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Cause4Concern - Dream Killer</Track>
     <Attributes>Duration=334.707;EndBPM=87.336;FadeIn=55.205;FadeInLengthInSeconds=10.991;FadeOut=304.462;FadeOutLengthInSeconds=10.992;Rank=3;StartBPM=87.344;</Attributes>
   </ExtenedAttributes>
