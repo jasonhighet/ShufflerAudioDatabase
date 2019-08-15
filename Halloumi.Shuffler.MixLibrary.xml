@@ -4014,6 +4014,7 @@
       <string>Cause4Concern - Dropout, 3</string>
       <string>Future Prophecies - Acid City, 3</string>
       <string>Cause4Concern - Crash Test, 3</string>
+      <string>Cybernetika - Ghost Of Midas, 3</string>
       <string>Bad Company - Night Train, 2</string>
       <string>Concord Dawn - Shinkansen, 2</string>
       <string>Cybernetika - Monolithic, 2</string>
@@ -4105,6 +4106,7 @@
       <string>Cybernetika - Distress Beacon, 2</string>
       <string>Black Sun Empire - Eraser (Neonlight Remix), 2</string>
       <string>Future Prophecies - Black Dragon, 2</string>
+      <string>Cybernetika - Ghost Of Midas, 2</string>
       <string>Cybernetika - Stinger, 0</string>
       <string>Concord Dawn - Styx (feat. Geist), 0</string>
     </MixRankings>
@@ -4417,6 +4419,7 @@
       <string>Future Prophecies - Black Dragon, 4</string>
       <string>Black Sun Empire - Extraction, 4</string>
       <string>Camo &amp; Krooked - Strength Is Irrelevant, 4</string>
+      <string>Cybernetika - Ghost Of Midas, 4</string>
       <string>Black Sun Empire - Breach (The Upbeats Remix), 3</string>
       <string>Black Sun Empire - Hideous (feat. Noisia) (VIP Remix), 3</string>
       <string>Black Sun Empire - Delorean, 3</string>
@@ -6496,6 +6499,7 @@
       <string>Teebee &amp; Future Prophecies - Let the Bass Kick, 4</string>
       <string>Camo &amp; Krooked - Strength Is Irrelevant, 4</string>
       <string>Black Sun Empire - Chaingang (Jade Remix), 4</string>
+      <string>Cybernetika - Ghost Of Midas, 4</string>
       <string>Concord Dawn - Shinkansen, 3</string>
       <string>Black Sun Empire - Delorean, 3</string>
       <string>Bad Company - Night Train, 3</string>
@@ -6569,6 +6573,7 @@
       <string>Cybernetika - Devoid Of Gravity, 3</string>
       <string>Cybernetika - Starchild, 3</string>
       <string>Camo &amp; Krooked - Strength Is Irrelevant, 3</string>
+      <string>Cybernetika - Ghost Of Midas, 3</string>
       <string>Black Sun Empire - Delorean, 2</string>
       <string>Cybernetika - Anomaly, 2</string>
       <string>Bad Company - Night Train, 2</string>
@@ -6598,6 +6603,7 @@
       <string>Teebee &amp; Future Prophecies - Let the Bass Kick, 4</string>
       <string>Black Sun Empire - Extraction, 4</string>
       <string>Cybernetika - Towards The End Of Time, 4</string>
+      <string>Cybernetika - Ghost Of Midas, 4</string>
       <string>Concord Dawn - Shinkansen, 3</string>
       <string>Bad Company - Brain Scan, 3</string>
       <string>Black Sun Empire - Descent, 3</string>
@@ -6651,8 +6657,13 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Black Sun Empire - Boris The Blade</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Black Sun Empire - Breach (The Upbeats Remix)</Track>
     <MixRankings>
+      <string>Cybernetika - Ghost Of Midas, 5</string>
       <string>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix), 4</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 4</string>
       <string>Concord Dawn - Shinkansen, 4</string>
@@ -6744,6 +6755,7 @@
       <string>Black Sun Empire - Extraction, 4</string>
       <string>Camo &amp; Krooked - Strength Is Irrelevant, 4</string>
       <string>Black Sun Empire - Hideous (feat. Noisia) (VIP Remix), 4</string>
+      <string>Cybernetika - Ghost Of Midas, 4</string>
       <string>Concord Dawn - Shinkansen, 3</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 3</string>
       <string>Black Sun Empire - 1800 Contact, 3</string>
@@ -6824,6 +6836,7 @@
       <string>Teebee &amp; Future Prophecies - Let the Bass Kick, 3</string>
       <string>Black Sun Empire - Extraction, 3</string>
       <string>Camo &amp; Krooked - Strength Is Irrelevant, 3</string>
+      <string>Cybernetika - Ghost Of Midas, 3</string>
       <string>Black Sun Empire - Battalion, 2</string>
       <string>Bad Company - Night Train, 2</string>
       <string>Cybernetika - Stinger, 2</string>
@@ -6839,6 +6852,7 @@
     <Track>Black Sun Empire - Eraser (Neonlight Remix)</Track>
     <MixRankings>
       <string>Teebee &amp; Future Prophecies - Let the Bass Kick, 5</string>
+      <string>Cybernetika - Ghost Of Midas, 5</string>
       <string>Black Sun Empire - 1800 Contact, 4</string>
       <string>Black Sun Empire - Breach (The Upbeats Remix), 4</string>
       <string>Bad Company - The Fear, 4</string>
@@ -6896,6 +6910,7 @@
       <string>Future Prophecies - Jack The Groove, 4</string>
       <string>Bad Company - 4 Days, 4</string>
       <string>Future Prophecies - Acid City, 4</string>
+      <string>Cybernetika - Ghost Of Midas, 4</string>
       <string>Bad Company - The Fear, 3</string>
       <string>Concord Dawn - Black Friday, 3</string>
       <string>Cybernetika - Anomaly, 3</string>
@@ -6961,6 +6976,7 @@
       <string>Future Prophecies - Jack The Groove, 4</string>
       <string>Future Prophecies - Black Dragon, 4</string>
       <string>Black Sun Empire - Extraction, 4</string>
+      <string>Cybernetika - Ghost Of Midas, 4</string>
       <string>Black Sun Empire - Breach (The Upbeats Remix), 3</string>
       <string>Concord Dawn - Shinkansen, 3</string>
       <string>Concord Dawn - Cloud City, 3</string>
@@ -6991,6 +7007,7 @@
       <string>Future Prophecies - Black Dragon, 4</string>
       <string>Teebee &amp; Future Prophecies - Let the Bass Kick, 4</string>
       <string>Black Sun Empire - Extraction, 4</string>
+      <string>Cybernetika - Ghost Of Midas, 4</string>
       <string>Cybernetika - Anomaly, 3</string>
       <string>Black Sun Empire - Battalion, 3</string>
       <string>Black Sun Empire - Delorean, 3</string>
@@ -7041,6 +7058,7 @@
       <string>Teebee &amp; Future Prophecies - Let the Bass Kick, 3</string>
       <string>Black Sun Empire - Extraction, 3</string>
       <string>Camo &amp; Krooked - Strength Is Irrelevant, 3</string>
+      <string>Cybernetika - Ghost Of Midas, 3</string>
       <string>Cybernetika - Close Your Eyes, 2</string>
       <string>Cybernetika - Starchild, 2</string>
       <string>Bad Company - Toxin, 2</string>
@@ -9206,6 +9224,7 @@
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 4</string>
       <string>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix), 4</string>
       <string>Cause4Concern - Dropout, 4</string>
+      <string>Cybernetika - Ghost Of Midas, 4</string>
       <string>Concord Dawn - Chloroform, 3</string>
       <string>Black Sun Empire - Hideous (feat. Noisia) (VIP Remix), 3</string>
       <string>Black Sun Empire - Eraser (Neonlight Remix), 3</string>
@@ -9557,6 +9576,7 @@
       <string>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix), 3</string>
       <string>Concord Dawn - Styx (feat. Geist), 3</string>
       <string>Bad Company - 4 Days, 3</string>
+      <string>Cybernetika - Ghost Of Midas, 3</string>
       <string>Black Sun Empire - Breach (The Upbeats Remix), 2</string>
       <string>Concord Dawn - Shinkansen, 2</string>
       <string>Concord Dawn - Cloud City, 2</string>
@@ -10325,6 +10345,7 @@
       <string>Black Sun Empire - 1800 Contact, 5</string>
       <string>Future Prophecies - Jack The Groove, 5</string>
       <string>Cybernetika - Towards The End Of Time, 5</string>
+      <string>Cybernetika - Ghost Of Midas, 5</string>
       <string>Black Sun Empire - Breach (The Upbeats Remix), 4</string>
       <string>Concord Dawn - Chloroform, 4</string>
       <string>Black Sun Empire - Hideous (feat. Noisia) (VIP Remix), 4</string>
@@ -10388,6 +10409,7 @@
       <string>Black Sun Empire - Extraction, 3</string>
       <string>Camo &amp; Krooked - Strength Is Irrelevant, 3</string>
       <string>Black Sun Empire - Delorean, 3</string>
+      <string>Cybernetika - Ghost Of Midas, 3</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -10418,6 +10440,7 @@
       <string>Black Sun Empire - Extraction, 2</string>
       <string>Black Sun Empire - Chaingang (Jade Remix), 2</string>
       <string>Cause4Concern - Crash Test, 2</string>
+      <string>Cybernetika - Ghost Of Midas, 2</string>
       <string>Bad Company - Four Days, 0</string>
       <string>Teebee &amp; Future Prophecies - Let the Bass Kick, 0</string>
       <string>Cause4Concern - Reality Check, 0</string>
@@ -10451,6 +10474,7 @@
       <string>Cybernetika - Vaporized, 0</string>
       <string>Black Sun Empire - Eraser (Neonlight Remix), 0</string>
       <string>Camo &amp; Krooked - Terra, 0</string>
+      <string>Cybernetika - Ghost Of Midas, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -10516,6 +10540,7 @@
       <string>Future Prophecies - Aftermath, 2</string>
       <string>Future Prophecies - Jack The Groove, 2</string>
       <string>Camo &amp; Krooked - Strength Is Irrelevant, 2</string>
+      <string>Cybernetika - Ghost Of Midas, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -10559,6 +10584,7 @@
       <string>Concord Dawn - Aces High (feat. State of Mind), 0</string>
       <string>Teebee &amp; Future Prophecies - Let the Bass Kick, 0</string>
       <string>Cause4Concern - Reality Check, 0</string>
+      <string>Cybernetika - Ghost Of Midas, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -10969,6 +10995,7 @@
       <string>Cause4Concern - Dropout, 4</string>
       <string>Black Sun Empire - Extraction, 4</string>
       <string>Camo &amp; Krooked - Strength Is Irrelevant, 4</string>
+      <string>Cybernetika - Ghost Of Midas, 4</string>
       <string>Concord Dawn - Shinkansen, 3</string>
       <string>Cybernetika - Monolithic, 3</string>
       <string>Black Sun Empire - Descent, 3</string>
@@ -11011,6 +11038,7 @@
       <string>Future Prophecies - Black Dragon, 4</string>
       <string>Black Sun Empire - Extraction, 4</string>
       <string>Black Sun Empire - Battalion, 4</string>
+      <string>Cybernetika - Ghost Of Midas, 4</string>
       <string>Concord Dawn - Shinkansen, 3</string>
       <string>Cybernetika - Anomaly, 3</string>
       <string>Concord Dawn - Black Friday, 3</string>
@@ -11147,6 +11175,39 @@
       <string>Concord Dawn - 6.13, 3</string>
       <string>Future Prophecies - Miniamba (feat. Mari Boine), 3</string>
       <string>Bad Company - Nitrous, 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Cybernetika - Ghost Of Midas</Track>
+    <MixRankings>
+      <string>Black Sun Empire - 1800 Contact, 4</string>
+      <string>Black Sun Empire - Breach (The Upbeats Remix), 4</string>
+      <string>Black Sun Empire - Hideous (feat. Noisia) (VIP Remix), 4</string>
+      <string>Black Sun Empire - Eraser (Neonlight Remix), 4</string>
+      <string>Future Prophecies - Black Dragon, 4</string>
+      <string>Black Sun Empire - Delorean, 4</string>
+      <string>Cybernetika - Close Your Eyes, 4</string>
+      <string>Camo &amp; Krooked - Strength Is Irrelevant, 4</string>
+      <string>Concord Dawn - Black Friday, 3</string>
+      <string>Cybernetika - Anomaly, 3</string>
+      <string>Black Sun Empire - Battlefish (feat. Nymfo), 3</string>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 3</string>
+      <string>Black Sun Empire - Battalion, 3</string>
+      <string>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix), 3</string>
+      <string>Cause4Concern - Dropout, 3</string>
+      <string>Cybernetika - Towards The End Of Time, 3</string>
+      <string>Concord Dawn - Chloroform, 2</string>
+      <string>Bad Company - The Fear, 2</string>
+      <string>Black Sun Empire - Fever (Chris SU Remix), 2</string>
+      <string>Teebee &amp; Future Prophecies - Let the Bass Kick, 2</string>
+      <string>Bad Company - Breathe, 2</string>
+      <string>Concord Dawn - Cloud City, 2</string>
+      <string>Concord Dawn - Styx (feat. Geist), 2</string>
+      <string>Future Prophecies - Jack The Groove, 2</string>
+      <string>Black Sun Empire - Extraction, 0</string>
+      <string>Concord Dawn - Shinkansen, 0</string>
+      <string>Concord Dawn - Guardian Angel, 0</string>
+      <string>Bad Company - 4 Days, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -11329,15 +11390,12 @@
       <string>Genetix - Structures (Future Prophecies Remix), 3</string>
       <string>Bad Company - Oxygen (The Drilla Killa), 3</string>
       <string>Concord Dawn - Guardian Angel, 3</string>
+      <string>Cybernetika - Ghost Of Midas, 3</string>
       <string>Black Sun Empire - Eraser (Neonlight Remix), 2</string>
       <string>Black Sun Empire - Breach (The Upbeats Remix), 2</string>
       <string>Future Prophecies - Black Dragon, 2</string>
       <string>Teebee &amp; Future Prophecies - Let the Bass Kick, 2</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>Cybernetika - Unleash</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Cybernetika - Vaporized</Track>
@@ -16966,6 +17024,7 @@
     <Track>Future Prophecies - Black Dragon</Track>
     <MixRankings>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 5</string>
+      <string>Cybernetika - Ghost Of Midas, 5</string>
       <string>Black Sun Empire - 1800 Contact, 4</string>
       <string>Black Sun Empire - Breach (The Upbeats Remix), 4</string>
       <string>Bad Company - The Fear, 4</string>
@@ -17058,6 +17117,7 @@
       <string>Black Sun Empire - 1800 Contact, 2</string>
       <string>Cybernetika - Close Your Eyes, 2</string>
       <string>Cause4Concern - Reality Check, 2</string>
+      <string>Cybernetika - Ghost Of Midas, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -17087,6 +17147,14 @@
       <string>Cause4Concern - Never Acid Again, 2</string>
       <string>Bad Company - Night Train, 2</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Future Prophecies - Plastic Dreams</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
+    <Track>Future Prophecies - Rock Steady</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Gal Costa &amp; Caetano Veloso - Maria Joana</Track>
@@ -28946,6 +29014,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Motion Theory - Into The Night (Future Prophecies Remix)</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Mr President - It's Christmas Time</Track>
     <MixRankings>
       <string>The Toasters - We Three Kings, 4</string>
@@ -38353,6 +38425,7 @@
       <string>Future Prophecies - Jack The Groove, 4</string>
       <string>Black Sun Empire - Extraction, 4</string>
       <string>Camo &amp; Krooked - Strength Is Irrelevant, 4</string>
+      <string>Cybernetika - Ghost Of Midas, 4</string>
       <string>Black Sun Empire - Breach (The Upbeats Remix), 3</string>
       <string>Concord Dawn - Black Friday, 3</string>
       <string>Black Sun Empire - Delorean, 3</string>

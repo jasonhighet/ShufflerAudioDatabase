@@ -1113,6 +1113,10 @@
     <Attributes>Duration=807.414;EndBPM=88.626;FadeIn=108.027;FadeInLengthInSeconds=10.830;FadeOut=303.278;FadeOutLengthInSeconds=21.664;PreFadeInPosition=105.303;PreFadeInStartVolume=00;Rank=3;StartBPM=88.643;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Cybernetika - Ghost Of Midas</Track>
+    <Attributes>Duration=536.288;EndBPM=87.154;FadeIn=110.325;FadeInLengthInSeconds=22.033;FadeOut=397.193;FadeOutLengthInSeconds=22.030;PreFadeInPosition=107.714;PreFadeInStartVolume=75;Rank=3;SkipLengthInSeconds=44.087;SkipStart=242.748;StartBPM=87.142;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Cybernetika - Hayashis Journey</Track>
     <Attributes>Duration=434.161;EndBPM=89.124;FadeIn=64.634;FadeInLengthInSeconds=21.548;FadeOut=172.626;FadeOutLengthInSeconds=21.543;Rank=3;StartBPM=89.103;</Attributes>
   </ExtenedAttributes>

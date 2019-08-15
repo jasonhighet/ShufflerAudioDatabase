@@ -10676,6 +10676,13 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Cybernetika - Ghost Of Midas</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Cybernetika - Hayashis Journey</Track>
     <TrackFXTriggers />
     <SampleTriggers />
