@@ -1669,6 +1669,10 @@
     <Attributes>Duration=396.278;EndBPM=87.336;FadeIn=87.943;FadeInLengthInSeconds=10.991;FadeOut=208.812;FadeOutLengthInSeconds=10.992;Rank=3;StartBPM=87.344;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Future Prophecies - Insomniac</Track>
+    <Attributes>Duration=382.093;EndBPM=87.077;FadeIn=88.337;FadeInLengthInSeconds=11.027;FadeOut=206.888;FadeOutLengthInSeconds=11.025;Rank=3;StartBPM=87.057;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Future Prophecies - Jack The Groove</Track>
     <Attributes>Duration=360.880;EndBPM=86.933;FadeIn=66.470;FadeInLengthInSeconds=11.042;FadeOut=287.167;FadeOutLengthInSeconds=11.043;PreFadeInPosition=63.702;PreFadeInStartVolume=75;Rank=4;StartBPM=86.941;</Attributes>
   </ExtenedAttributes>
