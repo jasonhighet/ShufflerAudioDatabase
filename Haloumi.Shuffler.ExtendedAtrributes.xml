@@ -673,6 +673,10 @@
     <Attributes>Duration=339.957551020408;EndBPM=112.4516809183554;EndLoopCount=2;FadeIn=0.969;FadeInLengthInSeconds=4.186;FadeOut=152.025;FadeOutLengthInSeconds=17.074;Key=Gm;Rank=3;StartBPM=114.6679407548975;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Blues Busters - I Saw Mommy Kissing Santa Claus (RB Edit)</Track>
+    <Attributes>Duration=159.216;EndBPM=95.182;FadeIn=0.067;FadeInLengthInSeconds=5.041;FadeOut=144.045;FadeOutLengthInSeconds=10.086;Rank=4;StartBPM=95.219;StartLoopCount=3;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Bob James - Nautilus</Track>
     <Attributes>Duration=305.998367346939;EndBPM=99.009900990099;EndLoopCount=4;FadeIn=1.504;FadeInLengthInSeconds=2.601;FadeOut=228.966;FadeOutLengthInSeconds=4.848;Key=Am;Rank=3;SkipLengthInSeconds=81.910;SkipStart=115.728;StartBPM=92.2722029988465;StartLoopCount=4;</Attributes>
   </ExtenedAttributes>
@@ -1898,7 +1902,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Hopeton &amp; Primo - Peace on Earth</Track>
-    <Attributes>Duration=122.488163265306;EndBPM=88.6754110474785;FadeIn=1.018;FadeInLengthInSeconds=11.117;FadeOut=110.447;FadeOutLengthInSeconds=5.413;Key=Bbm;Rank=3;StartBPM=86.3542322569038;</Attributes>
+    <Attributes>Duration=122.488163265306;EndBPM=88.6754110474785;FadeIn=1.018;FadeInLengthInSeconds=11.117;FadeOut=110.447;FadeOutLengthInSeconds=5.413;Key=Bbm;Rank=2;StartBPM=86.3542322569038;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Hopeton Lewis - Take it Easy</Track>
@@ -2319,6 +2323,10 @@
   <ExtenedAttributes>
     <Track>Joe Gibbs - We Three Kings</Track>
     <Attributes>Duration=241.533333333333;EndBPM=82.2199383350462;FadeIn=1.829;FadeInLengthInSeconds=11.519;FadeOut=132.811;FadeOutLengthInSeconds=11.676;Key=Em;Rank=4;StartBPM=83.3405677576178;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Joe Gibbs Family Of Artists - We Three Kings (RB Edit)</Track>
+    <Attributes>Duration=209.032;EndBPM=90.019;FadeIn=0.123;FadeInLengthInSeconds=10.690;FadeOut=173.495;FadeOutLengthInSeconds=21.329;Rank=4;StartBPM=89.805;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Joe Quarterman &amp; Free Soul - (I Got) So Much Trouble in My Life</Track>
@@ -5203,5 +5211,9 @@
   <ExtenedAttributes>
     <Track>Young MC - Principal's Office (Instrumental)</Track>
     <Attributes>Duration=243.382857142857;EndBPM=95.5128842901204;EndLoopCount=2;FadeIn=80.480;FadeInLengthInSeconds=5.025;FadeOut=160.900;FadeOutLengthInSeconds=10.051;Key=Abm;Rank=3;StartBPM=95.5223880597015;StartLoopCount=4;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Zebra - Christmas Morning</Track>
+    <Attributes>Duration=278.253;EndBPM=117.044;FadeIn=117.479;FadeInLengthInSeconds=4.359;FadeOut=217.654;FadeOutLengthInSeconds=4.101;Rank=3;StartBPM=110.127;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
 </ArrayOfExtenedAttributes>
