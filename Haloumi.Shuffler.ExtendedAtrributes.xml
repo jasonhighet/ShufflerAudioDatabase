@@ -1298,7 +1298,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Dillinger &amp; The Brentford Harmonics - Hi Fashion Christmas</Track>
-    <Attributes>Duration=146.076734693878;EndBPM=81.5286624203822;FadeIn=1.028;FadeInLengthInSeconds=11.629;FadeOut=117.977;FadeOutLengthInSeconds=11.775;Key=G;Rank=4;StartBPM=82.5522400894316;</Attributes>
+    <Attributes>Duration=146.076734693878;EndBPM=81.5286624203822;FadeIn=1.028;FadeInLengthInSeconds=11.629;FadeOut=117.977;FadeOutLengthInSeconds=11.775;Key=G;Rank=2;StartBPM=82.5522400894316;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Dionne Warwick - Do You Know The Way To San Jose</Track>
@@ -1414,7 +1414,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Doreen Schaffer - Wishing You a Merry Christmas</Track>
-    <Attributes>Duration=153.965714285714;EndBPM=75.7814966845595;FadeIn=1.138;FadeInLengthInSeconds=12.642;FadeOut=126.922;FadeOutLengthInSeconds=12.668;Key=Gm;Rank=4;StartBPM=75.93735168486;</Attributes>
+    <Attributes>Duration=153.965714285714;EndBPM=75.7814966845595;FadeIn=1.138;FadeInLengthInSeconds=12.642;FadeOut=126.922;FadeOutLengthInSeconds=12.668;Key=Gm;Rank=5;StartBPM=75.93735168486;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Doris Monteiro - Maita</Track>
@@ -2758,7 +2758,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Kurtis Blow - Christmas Rappin'</Track>
-    <Attributes>Duration=238.524;EndBPM=110.640;FadeIn=11.654;FadeInLengthInSeconds=17.410;FadeOut=217.077;FadeOutLengthInSeconds=8.677;Rank=5;StartBPM=110.280;</Attributes>
+    <Attributes>Duration=238.524;EndBPM=110.637;FadeIn=11.654;FadeInLengthInSeconds=8.766;FadeOut=217.077;FadeOutLengthInSeconds=8.677;Rank=5;StartBPM=109.512;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>La Sonora Matancera - Aguinaldo Antillano</Track>
@@ -2770,7 +2770,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>La Sonora Matancera - Cascabel</Track>
-    <Attributes>Duration=142.759;EndBPM=107.2386058981235;EndLoopCount=4;FadeIn=1.732;FadeInLengthInSeconds=4.480;FadeOut=131.770;FadeOutLengthInSeconds=4.476;Key=Am;PreFadeInPosition=0.839;PreFadeInStartVolume=75;Rank=3;StartBPM=107.142857142857;StartLoopCount=2;</Attributes>
+    <Attributes>Duration=142.759;EndBPM=107.2386058981235;EndLoopCount=4;FadeIn=1.732;FadeInLengthInSeconds=4.480;FadeOut=131.770;FadeOutLengthInSeconds=4.476;Key=Am;PreFadeInPosition=0.839;PreFadeInStartVolume=75;Rank=4;StartBPM=107.142857142857;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>La Sonora Matancera - En la Nochebuena</Track>
@@ -3669,12 +3669,16 @@
     <Attributes>Duration=342.786666666667;EndBPM=90.009844826778;FadeIn=0.048;FadeInLengthInSeconds=10.664;FadeOut=202.710;FadeOutLengthInSeconds=21.331;Key=Ebm;Rank=3;StartBPM=90.0225056264066;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Sharon Jones &amp; The Dap Kings - 8 Days (of Hanukkah)</Track>
+    <Attributes>Duration=222.533;EndBPM=98.372;FadeIn=8.345;FadeInLengthInSeconds=9.994;FadeOut=151.330;FadeOutLengthInSeconds=9.759;Rank=3;StartBPM=96.056;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Sharon Jones &amp; The Dap Kings - Ain't It Hard</Track>
     <Attributes>Duration=270.236734693878;EndBPM=113.6363636363635;EndLoopCount=4;FadeIn=0.359;FadeInLengthInSeconds=4.299;FadeOut=92.237;FadeOutLengthInSeconds=4.224;Key=Am;Rank=2;StartBPM=111.6538729937195;StartLoopCount=4;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects</Track>
-    <Attributes>Duration=141.244;EndBPM=99.482;FadeIn=11.057;FadeInLengthInSeconds=5.059;FadeOut=115.847;FadeOutLengthInSeconds=9.650;Key=Dm;PreFadeInPosition=10.760;PreFadeInStartVolume=75;Rank=4;StartBPM=94.872;StartLoopCount=3;</Attributes>
+    <Attributes>Duration=142.987;EndBPM=99.451;FadeIn=10.862;FadeInLengthInSeconds=5.047;FadeOut=115.638;FadeOutLengthInSeconds=9.653;Key=Dm;PreFadeInPosition=10.261;PreFadeInStartVolume=75;Rank=5;StartBPM=95.101;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Sharon Jones &amp; The Dap Kings - Be Easy</Track>
@@ -3689,8 +3693,16 @@
     <Attributes>Duration=219.69;EndBPM=97.2742932414632;FadeIn=5.160;FadeInLengthInSeconds=9.921;FadeOut=165.888;FadeOutLengthInSeconds=9.869;Key=F#;PreFadeInPosition=4.232;PreFadeInStartVolume=50;Rank=3;StartBPM=96.7644390686423;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Sharon Jones &amp; The Dap Kings - Funky Little Drummer Boy</Track>
+    <Attributes>Duration=198.800;EndBPM=104.775;FadeIn=5.195;FadeInLengthInSeconds=4.569;FadeOut=167.296;FadeOutLengthInSeconds=9.162;PreFadeInPosition=4.580;PreFadeInStartVolume=75;Rank=4;StartBPM=105.064;StartLoopCount=3;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Sharon Jones &amp; The Dap Kings - Give Me A Chance</Track>
     <Attributes>Duration=190.824489795918;EndBPM=126.5906243818818;FadeIn=14.019;FadeInLengthInSeconds=3.841;FadeOut=132.684;FadeOutLengthInSeconds=15.167;Key=Gm;Rank=2;StartBPM=124.9674563915645;StartLoopCount=3;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Sharon Jones &amp; The Dap Kings - God Rest Ye Merry Gents</Track>
+    <Attributes>Duration=137.307;EndBPM=78.399;FadeIn=1.180;FadeInLengthInSeconds=6.238;FadeOut=91.132;FadeOutLengthInSeconds=12.245;Rank=4;StartBPM=76.948;StartLoopCount=4;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Sharon Jones &amp; The Dap Kings - Got A Thing On My Mind</Track>
@@ -3727,6 +3739,10 @@
   <ExtenedAttributes>
     <Track>Sharon Jones &amp; The Dap Kings - I'm Not Gonna Cry</Track>
     <Attributes>Duration=203.624489795918;EndBPM=93.9851793967865;EndLoopCount=4;FadeIn=29.040;FadeInLengthInSeconds=10.243;FadeOut=176.302;FadeOutLengthInSeconds=5.107;Key=Gbm;Rank=3;StartBPM=93.7202962961323;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Sharon Jones &amp; The Dap Kings - Just Another Christmas Song</Track>
+    <Attributes>Duration=188.613;EndBPM=85.864;FadeIn=5.818;FadeInLengthInSeconds=5.554;FadeOut=134.237;FadeOutLengthInSeconds=11.180;Rank=5;StartBPM=86.424;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Sharon Jones &amp; The Dap Kings - Keep On Looking</Track>
@@ -3783,6 +3799,10 @@
   <ExtenedAttributes>
     <Track>Sharon Jones &amp; The Dap Kings - When I Come Home</Track>
     <Attributes>Duration=172.199;EndBPM=71.0795202132385;EndLoopCount=2;FadeIn=1.830;FadeInLengthInSeconds=3.416;FadeOut=117.690;FadeOutLengthInSeconds=6.753;Key=Ebm;PreFadeInPosition=0.489;PreFadeInStartVolume=50;Rank=3;StartBPM=70.25761124121775;StartLoopCount=4;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Sharon Jones &amp; The Dap Kings - White Christmas</Track>
+    <Attributes>Duration=137.720;EndBPM=90.102;FadeIn=0.752;FadeInLengthInSeconds=5.540;FadeOut=92.857;FadeOutLengthInSeconds=5.327;Rank=3;StartBPM=86.640;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Sharon Jones &amp; The Dap Kings - Without A Heart (Instrumental)</Track>
@@ -4046,7 +4066,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Stevie Wonder - What Christmas Means To Me</Track>
-    <Attributes>Duration=147.826666666667;EndBPM=84.1437037559681;FadeIn=0.361;FadeInLengthInSeconds=11.934;FadeOut=127.465;FadeOutLengthInSeconds=11.409;Key=Am;Rank=4;StartBPM=80.4432014535868;</Attributes>
+    <Attributes>Duration=147.827;EndBPM=84.565;FadeIn=0.361;FadeInLengthInSeconds=11.934;FadeOut=127.465;FadeOutLengthInSeconds=11.352;Key=Am;Rank=4;StartBPM=80.442;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Sublime - Badfish</Track>
@@ -4154,7 +4174,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Aggrovators - Santa Claus Dub</Track>
-    <Attributes>Duration=167.05306122449;EndBPM=77.3507372492144;FadeIn=1.741;FadeInLengthInSeconds=12.634;FadeOut=138.629;FadeOutLengthInSeconds=12.411;Key=Gm;Rank=3;StartBPM=75.9854361247428;</Attributes>
+    <Attributes>Duration=167.053;EndBPM=78.023;EndLoopCount=2;FadeIn=14.375;FadeInLengthInSeconds=12.634;FadeOut=138.629;FadeOutLengthInSeconds=12.304;Key=Gm;PreFadeInPosition=13.383;PreFadeInStartVolume=75;Rank=3;StartBPM=75.985;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Bamboos - Black Foot</Track>
@@ -4598,7 +4618,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Ramsey Lewis Trio - Christmas Blues</Track>
-    <Attributes>Duration=167.367;EndBPM=68.48337851334;FadeIn=0.255;FadeInLengthInSeconds=13.673;FadeOut=143.839;FadeOutLengthInSeconds=14.018;Key=Em;Rank=2;StartBPM=70.2113654647846;</Attributes>
+    <Attributes>Duration=167.367;EndBPM=68.483;FadeIn=3.590;FadeInLengthInSeconds=3.468;FadeOut=143.839;FadeOutLengthInSeconds=14.018;Key=Em;Rank=2;StartBPM=69.211;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Ramsey Lewis Trio - Here Comes Santa Claus</Track>
