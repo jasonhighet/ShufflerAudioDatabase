@@ -189,8 +189,16 @@
     <Attributes>Duration=129.506666666667;EndBPM=82.6730967964175;FadeIn=1.919;FadeInLengthInSeconds=11.737;FadeOut=101.985;FadeOutLengthInSeconds=11.612;Key=D;Rank=4;StartBPM=81.7926216239244;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Amerigo Gazaway - Christmas Time in Crooklyn</Track>
+    <Attributes>Duration=150.610;EndBPM=91.030;EndLoopCount=2;FadeIn=2.133;FadeInLengthInSeconds=5.278;FadeOut=118.172;FadeOutLengthInSeconds=10.546;PreFadeInPosition=0.141;PreFadeInStartVolume=75;Rank=4;StartBPM=90.944;StartLoopCount=2;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Amerigo Gazaway - Get Up And Get Down</Track>
     <Attributes>Duration=343.192;EndBPM=94.984;FadeIn=34.556;FadeInLengthInSeconds=10.107;FadeOut=176.029;FadeOutLengthInSeconds=10.107;PreFadeInPosition=34.270;PreFadeInStartVolume=75;Rank=4;StartBPM=94.984;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Amerigo Gazaway - Santa's Workshop</Track>
+    <Attributes>Duration=172.396;EndBPM=89.989;EndLoopCount=4;FadeIn=14.129;FadeInLengthInSeconds=10.664;FadeOut=131.461;FadeOutLengthInSeconds=5.334;PreFadeInPosition=13.426;PreFadeInStartVolume=75;Rank=4;StartBPM=90.023;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Ana Rosely - Skim Dum Dum Dum</Track>
