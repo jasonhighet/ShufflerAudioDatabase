@@ -198,7 +198,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Amerigo Gazaway - Santa's Workshop</Track>
-    <Attributes>Duration=172.396;EndBPM=89.989;EndLoopCount=4;FadeIn=14.129;FadeInLengthInSeconds=10.664;FadeOut=131.461;FadeOutLengthInSeconds=5.334;PreFadeInPosition=13.426;PreFadeInStartVolume=75;Rank=4;StartBPM=90.023;</Attributes>
+    <Attributes>Duration=172.396;EndBPM=89.989;EndLoopCount=4;FadeIn=14.129;FadeInLengthInSeconds=10.664;FadeOut=131.461;FadeOutLengthInSeconds=5.334;PreFadeInPosition=13.426;PreFadeInStartVolume=75;Rank=5;StartBPM=90.023;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Ana Rosely - Skim Dum Dum Dum</Track>
@@ -1315,6 +1315,10 @@
   <ExtenedAttributes>
     <Track>Dionne Warwick - I Say A Little Prayer</Track>
     <Attributes>BPMAdjust=0.5;Duration=187.167;EndBPM=72.7824109173615;FadeIn=0.325;FadeInLengthInSeconds=13.164;FadeOut=135.069;FadeOutLengthInSeconds=6.595;Key=Bm;Rank=3;StartBPM=72.926162260711;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Disco 4 - He's Santa Claus</Track>
+    <Attributes>Duration=209.067;EndBPM=108.035;FadeIn=7.046;FadeInLengthInSeconds=8.887;FadeOut=149.156;FadeOutLengthInSeconds=8.886;Rank=3;StartBPM=108.023;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Dizzy Gillespie - Alligator</Track>
@@ -4474,7 +4478,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Jackson 5 - Up on the House Top</Track>
-    <Attributes>Duration=68262.912;EndBPM=104.563773009476;FadeIn=0.847;FadeInLengthInSeconds=8.874;FadeOut=156.469;FadeOutLengthInSeconds=9.181;Key=Bm;PreFadeInPosition=0.440;PreFadeInStartVolume=75;Rank=4;StartBPM=108.181203515889;</Attributes>
+    <Attributes>Duration=193.489;EndBPM=104.564;FadeIn=0.847;FadeInLengthInSeconds=4.437;FadeOut=156.469;FadeOutLengthInSeconds=9.181;Key=Bm;PreFadeInPosition=0.440;PreFadeInStartVolume=75;Rank=4;StartBPM=108.181;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Jimmy Castor Bunch - It's Just Begun</Track>
