@@ -189,8 +189,32 @@
     <Attributes>Duration=129.506666666667;EndBPM=82.6730967964175;FadeIn=1.919;FadeInLengthInSeconds=11.737;FadeOut=101.985;FadeOutLengthInSeconds=11.612;Key=D;Rank=4;StartBPM=81.7926216239244;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Amerigo Gazaway - Christmas Day</Track>
+    <Attributes>Duration=186.186;EndBPM=92.007;FadeIn=10.464;FadeInLengthInSeconds=10.434;FadeOut=146.097;FadeOutLengthInSeconds=10.434;PreFadeInPosition=9.128;PreFadeInStartVolume=50;Rank=4;StartBPM=92.007;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Amerigo Gazaway - Christmas Time in Crooklyn</Track>
+    <Attributes>Duration=150.610;EndBPM=91.030;EndLoopCount=2;FadeIn=2.133;FadeInLengthInSeconds=5.278;FadeOut=118.172;FadeOutLengthInSeconds=10.546;PreFadeInPosition=0.141;PreFadeInStartVolume=75;Rank=4;StartBPM=90.944;StartLoopCount=2;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Amerigo Gazaway - Cold Chillin'</Track>
+    <Attributes>Duration=162.703;EndBPM=83.624;FadeIn=23.154;FadeInLengthInSeconds=11.482;FadeOut=126.020;FadeOutLengthInSeconds=11.480;Rank=4;StartBPM=83.608;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Amerigo Gazaway - Get Up And Get Down</Track>
     <Attributes>Duration=343.192;EndBPM=94.984;FadeIn=34.556;FadeInLengthInSeconds=10.107;FadeOut=176.029;FadeOutLengthInSeconds=10.107;PreFadeInPosition=34.270;PreFadeInStartVolume=75;Rank=4;StartBPM=94.984;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Amerigo Gazaway - Lil' Funky Drummer Boy</Track>
+    <Attributes>Duration=129.308;EndBPM=100.083;FadeIn=12.277;FadeInLengthInSeconds=9.596;FadeOut=122.678;FadeOutLengthInSeconds=1.199;PreFadeInPosition=7.726;PreFadeInStartVolume=05;Rank=4;StartBPM=100.042;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Amerigo Gazaway - Santa's Workshop</Track>
+    <Attributes>Duration=172.396;EndBPM=89.989;EndLoopCount=4;FadeIn=14.129;FadeInLengthInSeconds=10.664;FadeOut=131.461;FadeOutLengthInSeconds=5.334;PreFadeInPosition=13.426;PreFadeInStartVolume=75;Rank=5;StartBPM=90.023;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Amerigo Gazaway - Wintertime Dub</Track>
+    <Attributes>Duration=173.213;EndBPM=77.932;EndLoopCount=3;FadeIn=1.134;FadeInLengthInSeconds=3.094;FadeOut=154.955;FadeOutLengthInSeconds=6.159;Rank=5;StartBPM=77.576;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Ana Rosely - Skim Dum Dum Dum</Track>
@@ -570,7 +594,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Binky Griptite - Stone Soul Christmas</Track>
-    <Attributes>Duration=201.24;EndBPM=82.0793433652531;FadeIn=31.087;FadeInLengthInSeconds=11.730;FadeOut=159.208;FadeOutLengthInSeconds=11.696;Key=D;PreFadeInPosition=30.361;PreFadeInStartVolume=75;Rank=3;StartBPM=81.8414322250639;</Attributes>
+    <Attributes>Duration=201.24;EndBPM=82.0793433652531;FadeIn=31.087;FadeInLengthInSeconds=11.730;FadeOut=159.208;FadeOutLengthInSeconds=11.696;Key=D;PreFadeInPosition=30.361;PreFadeInStartVolume=75;Rank=5;StartBPM=81.8414322250639;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Binky Griptite And The Mellomatics - The Stroll (Part 2)</Track>
@@ -1309,6 +1333,10 @@
     <Attributes>BPMAdjust=0.5;Duration=187.167;EndBPM=72.7824109173615;FadeIn=0.325;FadeInLengthInSeconds=13.164;FadeOut=135.069;FadeOutLengthInSeconds=6.595;Key=Bm;Rank=3;StartBPM=72.926162260711;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Disco 4 - He's Santa Claus</Track>
+    <Attributes>Duration=209.067;EndBPM=108.035;FadeIn=7.046;FadeInLengthInSeconds=8.887;FadeOut=149.156;FadeOutLengthInSeconds=8.886;Rank=3;StartBPM=108.023;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Dizzy Gillespie - Alligator</Track>
     <Attributes>Duration=306.181224489796;EndBPM=116.632243955777;EndLoopCount=2;FadeIn=1.282;FadeInLengthInSeconds=8.233;FadeOut=110.299;FadeOutLengthInSeconds=8.231;Key=Gm;Rank=3;StartBPM=116.603911089518;</Attributes>
   </ExtenedAttributes>
@@ -1507,6 +1535,10 @@
   <ExtenedAttributes>
     <Track>El Michels Affair - Walk On By</Track>
     <Attributes>Duration=374.537868480726;EndBPM=75.187969924812;EndLoopCount=4;FadeIn=128.079;FadeInLengthInSeconds=12.789;FadeOut=324.305;FadeOutLengthInSeconds=1.596;Key=Bbm;Rank=3;StartBPM=75.0645085620455;StartLoopCount=2;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Electric Jungle - Funky Funky Christmas</Track>
+    <Attributes>Duration=187.053;EndBPM=111.137;FadeIn=2.504;FadeInLengthInSeconds=4.437;FadeOut=150.250;FadeOutLengthInSeconds=8.638;PowerDown=True;PreFadeInPosition=2.213;PreFadeInStartVolume=75;Rank=3;StartBPM=108.181;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Elis Regina - Acuas de Marco</Track>
@@ -2182,7 +2214,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>James Brown - Signs of Christmas</Track>
-    <Attributes>Duration=279.200;EndBPM=115.513;FadeIn=8.428;FadeInLengthInSeconds=8.324;FadeOut=129.421;FadeOutLengthInSeconds=8.311;PreFadeInPosition=7.412;PreFadeInStartVolume=75;Rank=3;StartBPM=115.327;</Attributes>
+    <Attributes>Duration=279.200;EndBPM=115.513;FadeIn=8.428;FadeInLengthInSeconds=8.324;FadeOut=129.421;FadeOutLengthInSeconds=8.311;PreFadeInPosition=7.412;PreFadeInStartVolume=75;Rank=5;StartBPM=115.327;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>James Brown - Slaughter Theme</Track>
@@ -4466,7 +4498,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Jackson 5 - Up on the House Top</Track>
-    <Attributes>Duration=68262.912;EndBPM=104.563773009476;FadeIn=0.847;FadeInLengthInSeconds=8.874;FadeOut=156.469;FadeOutLengthInSeconds=9.181;Key=Bm;PreFadeInPosition=0.440;PreFadeInStartVolume=75;Rank=4;StartBPM=108.181203515889;</Attributes>
+    <Attributes>Duration=193.489;EndBPM=104.564;FadeIn=0.847;FadeInLengthInSeconds=4.437;FadeOut=156.469;FadeOutLengthInSeconds=9.181;Key=Bm;PreFadeInPosition=0.440;PreFadeInStartVolume=75;Rank=4;StartBPM=108.181;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Jimmy Castor Bunch - It's Just Begun</Track>

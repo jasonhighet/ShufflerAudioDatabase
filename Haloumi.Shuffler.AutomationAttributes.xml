@@ -2327,6 +2327,38 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Amerigo Gazaway - Christmas Day</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Amerigo Gazaway - Christmas Time in Crooklyn</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Amerigo Gazaway - Cold Chillin'</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Binky Griptite - Stone Soul Christmas</TrackDescription>
+        <FadeLength>11.990861678004535</FadeLength>
+        <FadeEnd>48593296</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.176</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Amerigo Gazaway - Get Up And Get Down</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -2349,6 +2381,59 @@
         <FadeEndVolume>0.1036667</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Amerigo Gazaway - Lil' Funky Drummer Boy</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Amerigo Gazaway - Santa's Workshop</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Toasters - God Rock You Steady Gentleman</TrackDescription>
+        <FadeLength>10.341541950113379</FadeLength>
+        <FadeEnd>46398000</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.4865301</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Amerigo Gazaway - Wintertime Dub</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>James Brown - Go Power at Christmas Time</TrackDescription>
+        <FadeLength>6.3915419501133783</FadeLength>
+        <FadeEnd>56719128</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.176</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Carlene Davis - Santa Claus (Do You Ever Come To The Ghetto)</TrackDescription>
+        <FadeLength>6.159</FadeLength>
+        <FadeEnd>56841008</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -5729,6 +5814,24 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Binky Griptite - Stone Soul Christmas</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Carlene Davis - Santa Claus (Do You Ever Come To The Ghetto)</TrackDescription>
+        <FadeLength>6.31079365079365</FadeLength>
+        <FadeEnd>58302472</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.16</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Black On White Affair - Auld Lang Syne</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -7518,6 +7621,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Ronettes - Sleigh Ride</TrackDescription>
+        <FadeLength>10.041541950113379</FadeLength>
+        <FadeEnd>54252608</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -9079,6 +9192,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Disco 4 - He's Santa Claus</TrackDescription>
+        <FadeLength>17.861541950113377</FadeLength>
+        <FadeEnd>49533200</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.1036061</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -10370,7 +10493,18 @@
     <Track>Count Sidney &amp; His Dukes - Soul Christmas (Vocal)</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Wailers - Sound The Trumpet</TrackDescription>
+        <FadeLength>8.12265306122449</FadeLength>
+        <FadeEnd>37980760</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1991936</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -12771,6 +12905,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Clarence Carter - Back Door Santa</TrackDescription>
+        <FadeLength>9.4653968253968248</FadeLength>
+        <FadeEnd>76549296</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.518169</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -12779,6 +12923,24 @@
     <TrackFXTriggers />
     <SampleTriggers />
     <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Dillinger &amp; The Brentford Harmonics - Hi Fashion Christmas</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Amerigo Gazaway - Cold Chillin'</TrackDescription>
+        <FadeLength>22.621541950113379</FadeLength>
+        <FadeEnd>49804000</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1037143</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -12810,6 +12972,34 @@
         <FadeEndVolume>1</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>PowerDown</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Disco 4 - He's Santa Claus</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Sharon Jones &amp; The Dap Kings - Funky Little Drummer Boy</TrackDescription>
+        <FadeLength>18.394625850340137</FadeLength>
+        <FadeEnd>58930936</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2949275</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Zebra - Christmas Morning</TrackDescription>
+        <FadeLength>8.8230612244897966</FadeLength>
+        <FadeEnd>55782656</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.272</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -14718,6 +14908,24 @@
         <FadeEnd>114467736</FadeEnd>
         <FadeEndLoop>8</FadeEndLoop>
         <FadeEndVolume>0.224</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Electric Jungle - Funky Funky Christmas</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Jackson 5 - Up on the House Top</TrackDescription>
+        <FadeLength>9.0716326530612239</FadeLength>
+        <FadeEnd>56119584</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2231765</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -19953,6 +20161,16 @@
         <ExtendedFadeType>QuickFade</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Amerigo Gazaway - Lil' Funky Drummer Boy</TrackDescription>
+        <FadeLength>0.54149659863945576</FadeLength>
+        <FadeEnd>51342448</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Cut</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -20867,7 +21085,18 @@
     <Track>Joe Gibbs Family Of Artists - We Three Kings (RB Edit)</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Amerigo Gazaway - Santa's Workshop</TrackDescription>
+        <FadeLength>21.410770975056689</FadeLength>
+        <FadeEnd>68719152</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2143524</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -25055,6 +25284,24 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>La Sonora Matancera - Cascabel</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Disco 4 - He's Santa Claus</TrackDescription>
+        <FadeLength>17.861541950113377</FadeLength>
+        <FadeEnd>46516152</FadeEnd>
+        <FadeEndLoop>4</FadeEndLoop>
+        <FadeEndVolume>0.1275362</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>La Sonora Matancera - Llegaron las Navidades</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -26059,6 +26306,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Disco 4 - He's Santa Claus</TrackDescription>
+        <FadeLength>26.701541950113377</FadeLength>
+        <FadeEnd>46722352</FadeEnd>
+        <FadeEndLoop>3</FadeEndLoop>
+        <FadeEndVolume>0.2152059</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -26094,6 +26351,16 @@
         <FadeEnd>55963736</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.07985714</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Disco 4 - He's Santa Claus</TrackDescription>
+        <FadeLength>17.870929705215421</FadeLength>
+        <FadeEnd>55980056</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1989286</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -31065,6 +31332,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Jackson 5 - Up on the House Top</TrackDescription>
+        <FadeLength>8.907528344671201</FadeLength>
+        <FadeEnd>45766992</FadeEnd>
+        <FadeEndLoop>4</FadeEndLoop>
+        <FadeEndVolume>0.2710423</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -31608,7 +31885,18 @@
     <Track>Sharon Jones &amp; The Dap Kings - Funky Little Drummer Boy</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Disco 4 - He's Santa Claus</TrackDescription>
+        <FadeLength>16.490770975056691</FadeLength>
+        <FadeEnd>65012168</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.104</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -33942,6 +34230,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Clarence Carter - Back Door Santa</TrackDescription>
+        <FadeLength>11.586507936507937</FadeLength>
+        <FadeEnd>61749456</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3194444</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -35899,6 +36197,26 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Blues Busters - I Saw Mommy Kissing Santa Claus (RB Edit)</TrackDescription>
+        <FadeLength>10.118390022675737</FadeLength>
+        <FadeEnd>51443048</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3025</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Amerigo Gazaway - Lil' Funky Drummer Boy</TrackDescription>
+        <FadeLength>12.841541950113379</FadeLength>
+        <FadeEnd>52567664</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2711053</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -36081,6 +36399,16 @@
         <FadeEnd>51036256</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.1755217</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Amerigo Gazaway - Cold Chillin'</TrackDescription>
+        <FadeLength>18.149637188208615</FadeLength>
+        <FadeEnd>52641544</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.08776087</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -37738,6 +38066,13 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>The Jackson 5 - Up on the House Top</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>The Marvels - Rock Steady</Track>
     <TrackFXTriggers>
       <TrackFXTrigger>
@@ -38636,6 +38971,16 @@
         <ExtendedFadeType>QuickFade</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Amerigo Gazaway - Santa's Workshop</TrackDescription>
+        <FadeLength>8.2116780045351465</FadeLength>
+        <FadeEnd>58347400</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.104</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -38816,6 +39161,16 @@
         <FadeEnd>64126448</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.07975308</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Blues Busters - I Saw Mommy Kissing Santa Claus (RB Edit)</TrackDescription>
+        <FadeLength>15.247165532879819</FadeLength>
+        <FadeEnd>62465136</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3668642</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -39018,6 +39373,16 @@
         <FadeEnd>52150816</FadeEnd>
         <FadeEndLoop>3</FadeEndLoop>
         <FadeEndVolume>0.248</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>James Brown - Soulful Christmas</TrackDescription>
+        <FadeLength>8.6279138321995461</FadeLength>
+        <FadeEnd>52703296</FadeEnd>
+        <FadeEndLoop>3</FadeEndLoop>
+        <FadeEndVolume>0.2</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
