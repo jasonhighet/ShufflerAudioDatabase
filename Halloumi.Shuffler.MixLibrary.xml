@@ -2206,6 +2206,7 @@
       <string>Otis Redding - Merry Christmas Baby, 3</string>
       <string>Shawn Lee's Ping Pong Orchestra - Jingle Bells, 3</string>
       <string>Run D.M.C. - Christmas Is, 3</string>
+      <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 3</string>
       <string>Vernon Garrett - Christmas Groove, 2</string>
       <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 2</string>
       <string>Milly &amp; Silly - Getting Down for Christmas, 2</string>
@@ -2509,6 +2510,7 @@
       <string>The Cimarons - Silent Night; White Christmas, 4</string>
       <string>Sharon Jones &amp; The Dap Kings - Just Another Christmas Song, 4</string>
       <string>Amerigo Gazaway - Christmas Time in Crooklyn, 4</string>
+      <string>Amerigo Gazaway - Christmas Day, 4</string>
       <string>Barrington Levy &amp; Trinity - Flash Your Dread, 3</string>
       <string>The Toasters - God Rock You Steady Gentleman, 3</string>
       <string>Rufus Thomas - I'll Be Your Santa Baby, 3</string>
@@ -2550,6 +2552,30 @@
       <string>Hopeton &amp; Primo - Peace on Earth, 0</string>
       <string>Binky Griptite - Stone Soul Christmas, 0</string>
       <string>Sharon Jones &amp; The Dap Kings - Just Another Christmas Song, 0</string>
+      <string>Amerigo Gazaway - Cold Chillin', 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Amerigo Gazaway - Christmas Day</Track>
+    <MixRankings>
+      <string>The Soul Saints Orchestra - Santas Got a Bag of Soul, 4</string>
+      <string>Rufus Thomas - I'll Be Your Santa Baby, 4</string>
+      <string>Milly &amp; Silly - Getting Down for Christmas, 4</string>
+      <string>The Ramsey Lewis Trio - Winter Wonderland, 3</string>
+      <string>Run D.M.C. - Christmas In Hollis, 3</string>
+      <string>Alton Ellis - Merry Merry Christmas, 3</string>
+      <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 3</string>
+      <string>Amerigo Gazaway - Christmas Time in Crooklyn, 3</string>
+      <string>Hopeton &amp; Primo - Peace on Earth, 3</string>
+      <string>Harvey Averne Band - Lets Get it Together This Christmas, 3</string>
+      <string>Amerigo Gazaway - Santa's Workshop, 3</string>
+      <string>The Cimarons - Holy Christmas, 2</string>
+      <string>Joe Gibbs Family Of Artists - We Three Kings (RB Edit), 2</string>
+      <string>The Toasters - God Rock You Steady Gentleman, 2</string>
+      <string>Blues Busters - I Saw Mommy Kissing Santa Claus (RB Edit), 2</string>
+      <string>Sharon Jones &amp; The Dap Kings - 8 Days (of Hanukkah), 2</string>
+      <string>The Ronettes - Sleigh Ride, 0</string>
+      <string>Black On White Affair - Auld Lang Syne, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -2562,6 +2588,7 @@
       <string>Joe Gibbs Family Of Artists - We Three Kings (RB Edit), 3</string>
       <string>Harvey Averne Band - Lets Get it Together This Christmas, 3</string>
       <string>Amerigo Gazaway - Santa's Workshop, 3</string>
+      <string>Amerigo Gazaway - Christmas Day, 3</string>
       <string>The Cimarons - Holy Christmas, 2</string>
       <string>Run D.M.C. - Christmas In Hollis, 2</string>
       <string>Alton Ellis - Merry Merry Christmas, 2</string>
@@ -2570,6 +2597,25 @@
       <string>Sharon Jones &amp; The Dap Kings - White Christmas, 0</string>
       <string>The Ramsey Lewis Trio - Winter Wonderland, 0</string>
       <string>The Toasters - God Rock You Steady Gentleman, 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Amerigo Gazaway - Cold Chillin'</Track>
+    <MixRankings>
+      <string>Half Pint - Christmas Vibes, 4</string>
+      <string>Hopeton &amp; Primo - Peace on Earth, 4</string>
+      <string>Binky Griptite - Stone Soul Christmas, 4</string>
+      <string>The Ethiopians - Ding Dong Bell, 3</string>
+      <string>Unknown Artist - Hark The Herald Angels Sing, 3</string>
+      <string>The Ramsey Lewis Trio - Here Comes Santa Claus, 3</string>
+      <string>Sharon Jones &amp; The Dap Kings - Just Another Christmas Song, 3</string>
+      <string>Dillinger &amp; The Brentford Harmonics - Hi Fashion Christmas, 2</string>
+      <string>Stevie Wonder - What Christmas Means To Me, 2</string>
+      <string>The Cimarons - Silent Night; White Christmas, 2</string>
+      <string>Wain Nelson - Santa Claus, 2</string>
+      <string>Sharon Jones &amp; The Dap Kings - White Christmas, 0</string>
+      <string>Roy Richards - Jingle Bells, 0</string>
+      <string>Alton Ellis - Praise Jah It's Christmas, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -2635,10 +2681,38 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Amerigo Gazaway - Lil' Funky Drummer Boy</Track>
+    <MixRankings>
+      <string>Breakestra - Let The Bells Ring, 4</string>
+      <string>Otis Redding - Merry Christmas Baby, 4</string>
+      <string>Sweet Tee - Let The Jingle Bells Rock, 4</string>
+      <string>Milly &amp; Silly - Getting Down for Christmas, 4</string>
+      <string>Sharon Jones &amp; The Dap Kings - 8 Days (of Hanukkah), 4</string>
+      <string>Shawn Lee's Ping Pong Orchestra - Do You Hear What I Hear, 4</string>
+      <string>Sharon Jones &amp; The Dap Kings - Funky Little Drummer Boy, 4</string>
+      <string>Black On White Affair - Auld Lang Syne, 4</string>
+      <string>Norman T Washington - It's Christmas Time Again, 4</string>
+      <string>Shawn Lee's Ping Pong Orchestra - Jingle Bells, 4</string>
+      <string>Royce Campbell - Santa Claus is Coming to Town, 3</string>
+      <string>Vernon Garrett - Merry Christmas, Baby, 3</string>
+      <string>Albert King - Santa Claus Wants Some Lovin', 3</string>
+      <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 3</string>
+      <string>Shawn Lee's Ping Pong Orchestra - O Come All Ye Faithful, 3</string>
+      <string>Clarence Carter - Back Door Santa, 3</string>
+      <string>The Cimarons - Holy Christmas, 3</string>
+      <string>The Chambers Brothers - Merry Christmas, Happy New Year, 3</string>
+      <string>Blues Busters - I Saw Mommy Kissing Santa Claus (RB Edit), 3</string>
+      <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 3</string>
+      <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 3</string>
+      <string>Run D.M.C. - Christmas In Hollis, 2</string>
+      <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>Amerigo Gazaway - Santa's Workshop</Track>
     <MixRankings>
+      <string>The Toasters - God Rock You Steady Gentleman, 5</string>
       <string>Joe Gibbs Family Of Artists - We Three Kings (RB Edit), 4</string>
-      <string>The Toasters - God Rock You Steady Gentleman, 4</string>
       <string>Milly &amp; Silly - Getting Down for Christmas, 4</string>
       <string>Amerigo Gazaway - Christmas Time in Crooklyn, 4</string>
       <string>The Ronettes - Sleigh Ride, 3</string>
@@ -2651,8 +2725,30 @@
       <string>The Cimarons - Silent Night; White Christmas, 2</string>
       <string>Sharon Jones &amp; The Dap Kings - White Christmas, 2</string>
       <string>Hopeton &amp; Primo - Peace on Earth, 2</string>
+      <string>Amerigo Gazaway - Christmas Day, 2</string>
       <string>Wain Nelson - Santa Claus, 0</string>
       <string>Unknown Artist - Hark The Herald Angels Sing, 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Amerigo Gazaway - Wintertime Dub</Track>
+    <MixRankings>
+      <string>Sharon Jones &amp; The Dap Kings - God Rest Ye Merry Gents, 5</string>
+      <string>The Silvertones - Bling Bling Christmas, 4</string>
+      <string>Unknown Artist - Merry Christmas, 4</string>
+      <string>The Kinstonians - Merry Christmas, 4</string>
+      <string>The Ethiopians - Ding Dong Bell, 4</string>
+      <string>James Brown - Go Power at Christmas Time, 4</string>
+      <string>Carlene Davis - Santa Claus (Do You Ever Come To The Ghetto), 4</string>
+      <string>Tennessee Brown &amp; The Silvertones - Little Drummer Boy, 3</string>
+      <string>Roman Stewart - Christmas Affair, 3</string>
+      <string>Al &amp; The Vibrators - Merry Christmas, 3</string>
+      <string>The Ramsey Lewis Trio - Here Comes Santa Claus, 3</string>
+      <string>Stevie Wonder - What Christmas Means To Me, 3</string>
+      <string>Alton Ellis - Praise Jah It's Christmas, 2</string>
+      <string>Johnny Osbourne - Christmas Stylee, 2</string>
+      <string>Doreen Schaffer - Wishing You a Merry Christmas, 2</string>
+      <string>Johnny Clarke - I Saw Mommy Kissing Santa Claus, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -6359,6 +6455,7 @@
       <string>The Ethiopians - Ding Dong Bell, 2</string>
       <string>Wain Nelson - Santa Claus, 2</string>
       <string>The Ramsey Lewis Trio - Here Comes Santa Claus, 2</string>
+      <string>Amerigo Gazaway - Cold Chillin', 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -6465,6 +6562,7 @@
       <string>The Soul Saints Orchestra - Santas Got a Bag of Soul, 3</string>
       <string>Milly &amp; Silly - Getting Down for Christmas, 3</string>
       <string>The Chambers Brothers - Merry Christmas, Happy New Year, 3</string>
+      <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 3</string>
       <string>Shawn Lee's Ping Pong Orchestra - Jingle Bells, 2</string>
       <string>The Ronettes - Sleigh Ride, 2</string>
       <string>The Cimarons - Holy Christmas, 2</string>
@@ -6473,6 +6571,7 @@
       <string>Run D.M.C. - Christmas In Hollis, 2</string>
       <string>Blues Busters - I Saw Mommy Kissing Santa Claus (RB Edit), 2</string>
       <string>The Ramsey Lewis Trio - Winter Wonderland, 2</string>
+      <string>Amerigo Gazaway - Christmas Day, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -7383,11 +7482,13 @@
       <string>The Cimarons - Silent Night; White Christmas, 3</string>
       <string>Amerigo Gazaway - Christmas Time in Crooklyn, 3</string>
       <string>Run D.M.C. - Christmas In Hollis, 3</string>
+      <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 3</string>
       <string>The Cimarons - Holy Christmas, 2</string>
       <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 2</string>
       <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 2</string>
       <string>The Ramsey Lewis Trio - Winter Wonderland, 2</string>
       <string>Sharon Jones &amp; The Dap Kings - 8 Days (of Hanukkah), 2</string>
+      <string>Amerigo Gazaway - Christmas Day, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -8775,6 +8876,7 @@
       <string>Shawn Lee's Ping Pong Orchestra - Jingle Bells, 3</string>
       <string>Derek B - Chillin' With Santa, 3</string>
       <string>Sharon Jones &amp; The Dap Kings - Funky Little Drummer Boy, 3</string>
+      <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 3</string>
       <string>Vernon Garrett - Merry Christmas, Baby, 2</string>
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 2</string>
       <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 2</string>
@@ -8784,6 +8886,7 @@
       <string>Run D.M.C. - Christmas Is, 2</string>
       <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 2</string>
       <string>La Sonora Matancera - Cascabel, 2</string>
+      <string>Electric Jungle - Funky Funky Christmas, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -9504,6 +9607,7 @@
       <string>James Brown - Soulful Christmas, 4</string>
       <string>La Sonora Matancera - Cascabel, 4</string>
       <string>Disco 4 - He's Santa Claus, 4</string>
+      <string>Electric Jungle - Funky Funky Christmas, 4</string>
       <string>Marvin Gaye - Purple Snowflakes, 3</string>
       <string>Al Green - Feels Like Christmas, 3</string>
       <string>Carla Thomas - Gee Whiz its Christmas, 3</string>
@@ -9537,6 +9641,8 @@
       <string>The Kinstonians - Merry Christmas, 4</string>
       <string>Jacob Miller &amp; Ray I - All I Want for Ismas, 4</string>
       <string>Binky Griptite - Stone Soul Christmas, 4</string>
+      <string>Amerigo Gazaway - Wintertime Dub, 4</string>
+      <string>Amerigo Gazaway - Cold Chillin', 4</string>
       <string>Al &amp; The Vibrators - Merry Christmas, 3</string>
       <string>Doreen Schaffer - Wishing You a Merry Christmas, 3</string>
       <string>Roman Stewart - Christmas Affair, 3</string>
@@ -10222,6 +10328,7 @@
       <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 4</string>
       <string>The Jackson 5 - Up on the House Top, 4</string>
       <string>Sharon Jones &amp; The Dap Kings - Funky Little Drummer Boy, 4</string>
+      <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 4</string>
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 3</string>
       <string>Meditation Singers - What The World Needs For Christmas, 3</string>
       <string>Sharon Jones &amp; The Dap-Kings - Ain't No Chimneys In The Projects, 3</string>
@@ -13291,6 +13398,7 @@
   <TrackMix>
     <Track>Dillinger &amp; The Brentford Harmonics - Hi Fashion Christmas</Track>
     <MixRankings>
+      <string>Amerigo Gazaway - Cold Chillin', 5</string>
       <string>Barrington Levy &amp; Trinity - Flash Your Dread, 4</string>
       <string>Barrington Levy &amp; Trinity - I Saw Mommy Kiss A Dreadlocks, 4</string>
       <string>Kojak - Christmas Style, 4</string>
@@ -14597,6 +14705,7 @@
       <string>Horace Andy - Christmas Time, 2</string>
       <string>James Brown - Go Power at Christmas Time, 2</string>
       <string>Sharon Jones &amp; The Dap Kings - God Rest Ye Merry Gents, 2</string>
+      <string>Amerigo Gazaway - Wintertime Dub, 2</string>
       <string>Al &amp; The Vibrators - Merry Christmas, 0</string>
       <string>Joe Gibbs - Oh Little Town Of Betlehem (feat. Horace Andy), 0</string>
       <string>Tennessee Brown &amp; The Silvertones - Little Drummer Boy, 0</string>
@@ -15610,6 +15719,19 @@
       <string>Gal Costa &amp; Caetano Veloso - Maria Joana, 2</string>
       <string>Jorge Ben - Menina Bonita Nao Chora, 0</string>
       <string>Bill Withers - Use Me, 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Electric Jungle - Funky Funky Christmas</Track>
+    <MixRankings>
+      <string>Jimmy Reed - Christmas Present Blues, 4</string>
+      <string>La Sonora Matancera - Cascabel, 4</string>
+      <string>Kurtis Blow - Christmas Rappin', 4</string>
+      <string>Sharon Jones &amp; The Dap Kings - Funky Little Drummer Boy, 3</string>
+      <string>Carla Thomas - Gee Whiz its Christmas, 3</string>
+      <string>The Funk Brothers - Winter Wonderland, 3</string>
+      <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 3</string>
+      <string>The Jackson 5 - Up on the House Top, 3</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -18860,6 +18982,7 @@
       <string>Unknown Artist - Hark The Herald Angels Sing, 4</string>
       <string>Johnny Osbourne - Christmas Stylee, 4</string>
       <string>Joe Gibbs - We Three Kings, 4</string>
+      <string>Amerigo Gazaway - Cold Chillin', 4</string>
       <string>Hopeton &amp; Primo - Peace on Earth, 3</string>
       <string>Carlene Davis - Santa Claus (Do You Ever Come To The Ghetto), 3</string>
       <string>Dillinger &amp; The Brentford Harmonics - Hi Fashion Christmas, 3</string>
@@ -19043,6 +19166,7 @@
       <string>Unknown Artist - Hark The Herald Angels Sing, 4</string>
       <string>Sharon Jones &amp; The Dap Kings - White Christmas, 4</string>
       <string>Sharon Jones &amp; The Dap Kings - Just Another Christmas Song, 4</string>
+      <string>Amerigo Gazaway - Christmas Day, 4</string>
       <string>Amerigo Gazaway - Santa's Workshop, 3</string>
       <string>Amerigo Gazaway - Christmas Time in Crooklyn, 3</string>
       <string>The Cimarons - Silent Night; White Christmas, 2</string>
@@ -19235,6 +19359,7 @@
     <Track>Hopeton &amp; Primo - Peace on Earth</Track>
     <MixRankings>
       <string>Unknown Artist - Hark The Herald Angels Sing, 4</string>
+      <string>Amerigo Gazaway - Christmas Day, 4</string>
       <string>Tennessee Brown &amp; The Silvertones - Jingle Bells, 3</string>
       <string>Barrington Levy &amp; Trinity - Flash Your Dread, 3</string>
       <string>The Cimarons - Silent Night; White Christmas, 3</string>
@@ -21317,6 +21442,7 @@
       <string>Al &amp; The Vibrators - Merry Christmas, 2</string>
       <string>The Kinstonians - Merry Christmas, 2</string>
       <string>The Aggrovators - Santa Claus Dub, 2</string>
+      <string>Amerigo Gazaway - Wintertime Dub, 2</string>
       <string>Tennessee Brown &amp; The Silvertones - Little Drummer Boy, 0</string>
     </MixRankings>
   </TrackMix>
@@ -21829,11 +21955,13 @@
     <Track>James Brown - Soulful Christmas</Track>
     <MixRankings>
       <string>Ray Harris &amp; The Fusion Experience - Soulful Christmas, 4</string>
+      <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 4</string>
       <string>Short Stuff - Merry Christmas Baby, 3</string>
       <string>Marvin Gaye - Purple Snowflakes, 3</string>
       <string>Kurtis Blow - Christmas Rappin', 3</string>
       <string>The Funk Brothers - Winter Wonderland, 3</string>
       <string>La Sonora Matancera - Cascabel, 3</string>
+      <string>Mr President - It's Christmas Time, 3</string>
       <string>Meditation Singers - What The World Needs For Christmas, 2</string>
       <string>Carla Thomas - Gee Whiz its Christmas, 2</string>
       <string>James Brown - Signs of Christmas, 2</string>
@@ -22527,6 +22655,7 @@
       <string>Shawn Lee's Ping Pong Orchestra - Jingle Bells, 4</string>
       <string>Derek B - Chillin' With Santa, 4</string>
       <string>Sweet Tee - Let The Jingle Bells Rock, 4</string>
+      <string>Electric Jungle - Funky Funky Christmas, 4</string>
       <string>Al Green - Feels Like Christmas, 3</string>
       <string>Clarence Carter - Back Door Santa, 3</string>
       <string>Shawn Lee's Ping Pong Orchestra - Do You Hear What I Hear, 3</string>
@@ -22545,6 +22674,7 @@
       <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 2</string>
       <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 2</string>
       <string>Run D.M.C. - Christmas Is, 2</string>
+      <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 2</string>
       <string>Royce Campbell - Santa Claus is Coming to Town, 0</string>
     </MixRankings>
   </TrackMix>
@@ -22592,6 +22722,7 @@
       <string>Count Sidney &amp; His Dukes - Soul Christmas (Vocal), 4</string>
       <string>Kurtis Blow - Christmas Rappin', 4</string>
       <string>Disco 4 - He's Santa Claus, 4</string>
+      <string>Electric Jungle - Funky Funky Christmas, 4</string>
       <string>Short Stuff - Merry Christmas Baby, 3</string>
       <string>Clarence Carter - Back Door Santa, 3</string>
       <string>Ike &amp; Tina Turner - Merry Christmas Baby, 3</string>
@@ -23002,12 +23133,12 @@
     <Track>Joe Gibbs Family Of Artists - We Three Kings (RB Edit)</Track>
     <MixRankings>
       <string>The Soul Saints Orchestra - Santas Got a Bag of Soul, 5</string>
+      <string>Amerigo Gazaway - Santa's Workshop, 5</string>
       <string>The Ronettes - Sleigh Ride, 4</string>
       <string>Harvey Averne Band - Lets Get it Together This Christmas, 4</string>
       <string>Milly &amp; Silly - Getting Down for Christmas, 4</string>
       <string>Alton Ellis - Merry Merry Christmas, 4</string>
       <string>Sharon Jones &amp; The Dap Kings - Just Another Christmas Song, 4</string>
-      <string>Amerigo Gazaway - Santa's Workshop, 4</string>
       <string>Amerigo Gazaway - Christmas Time in Crooklyn, 4</string>
       <string>The Cimarons - Silent Night; White Christmas, 3</string>
       <string>The Toasters - God Rock You Steady Gentleman, 3</string>
@@ -23017,6 +23148,7 @@
       <string>The Ramsey Lewis Trio - Winter Wonderland, 2</string>
       <string>Hopeton &amp; Primo - Peace on Earth, 2</string>
       <string>Rufus Thomas - I'll Be Your Santa Baby, 2</string>
+      <string>Amerigo Gazaway - Christmas Day, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -23256,6 +23388,7 @@
       <string>Joe Gibbs - Oh Little Town Of Betlehem (feat. Horace Andy), 0</string>
       <string>Tennessee Brown &amp; The Silvertones - Little Drummer Boy, 0</string>
       <string>Roman Stewart - Christmas Affair, 0</string>
+      <string>Amerigo Gazaway - Wintertime Dub, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -23268,6 +23401,8 @@
       <string>The Kinstonians - Merry Christmas, 4</string>
       <string>Barrington Levy &amp; Trinity - I Saw Mommy Kiss A Dreadlocks, 4</string>
       <string>Jacob Miller &amp; Ray I - All I Want for Ismas, 4</string>
+      <string>Amerigo Gazaway - Wintertime Dub, 4</string>
+      <string>Amerigo Gazaway - Cold Chillin', 4</string>
       <string>Doreen Schaffer - Wishing You a Merry Christmas, 3</string>
       <string>Roman Stewart - Christmas Affair, 3</string>
       <string>Tennessee Brown &amp; The Silvertones - Jingle Bells, 3</string>
@@ -27269,6 +27404,7 @@
       <string>Jimmy Reed - Christmas Present Blues, 3</string>
       <string>Ray Harris &amp; The Fusion Experience - Soulful Christmas, 3</string>
       <string>The Jackson 5 - Up on the House Top, 3</string>
+      <string>Electric Jungle - Funky Funky Christmas, 3</string>
       <string>Run D.M.C. - Christmas Is, 2</string>
       <string>La Sonora Matancera - Cascabel, 2</string>
     </MixRankings>
@@ -27301,6 +27437,7 @@
       <string>Sweet Tee - Let The Jingle Bells Rock, 4</string>
       <string>Clarence Carter - Back Door Santa, 4</string>
       <string>Disco 4 - He's Santa Claus, 4</string>
+      <string>Electric Jungle - Funky Funky Christmas, 4</string>
       <string>Juan Pablo Torres - Cascabel, 3</string>
       <string>Juan Pablo Torres - Ya Llegó la Navidad, 3</string>
       <string>La Sonora Matancera - Bachata en Navidad, 3</string>
@@ -28826,6 +28963,7 @@
       <string>Black On White Affair - Auld Lang Syne, 4</string>
       <string>Sharon Jones &amp; The Dap Kings - 8 Days (of Hanukkah), 4</string>
       <string>Amerigo Gazaway - Christmas Time in Crooklyn, 4</string>
+      <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 4</string>
       <string>Sharon Jones &amp; The Dap-Kings - Ain't No Chimneys In The Projects, 3</string>
       <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 3</string>
       <string>The Jive Turkeys - Get Down Santa, 3</string>
@@ -28842,6 +28980,7 @@
       <string>Norman T Washington - It's Christmas Time Again, 2</string>
       <string>Royce Campbell - Santa Claus is Coming to Town, 2</string>
       <string>Blues Busters - I Saw Mommy Kissing Santa Claus (RB Edit), 2</string>
+      <string>Amerigo Gazaway - Christmas Day, 2</string>
       <string>Albert King - Santa Claus Wants Some Lovin', 0</string>
     </MixRankings>
   </TrackMix>
@@ -31014,6 +31153,7 @@
       <string>Milly &amp; Silly - Getting Down for Christmas, 4</string>
       <string>Shawn Lee's Ping Pong Orchestra - O Come All Ye Faithful, 4</string>
       <string>Blues Busters - I Saw Mommy Kissing Santa Claus (RB Edit), 4</string>
+      <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 4</string>
       <string>Alton Ellis - Christmas Coming, 3</string>
       <string>Joe Gibbs - Let Christmas Catch You On A Good Mood, 3</string>
       <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 3</string>
@@ -31565,6 +31705,7 @@
       <string>Shawn Lee's Ping Pong Orchestra - Jingle Bells, 4</string>
       <string>Run D.M.C. - Christmas Is, 4</string>
       <string>Sweet Tee - Let The Jingle Bells Rock, 4</string>
+      <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 4</string>
       <string>Albert King - Santa Claus Wants Some Lovin', 3</string>
       <string>The Jive Turkeys - Get Down Santa, 3</string>
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 3</string>
@@ -33838,11 +33979,13 @@
       <string>The Cimarons - Silent Night; White Christmas, 3</string>
       <string>The Heptones - Christmas Time Is Here, 3</string>
       <string>Binky Griptite - Stone Soul Christmas, 3</string>
+      <string>Amerigo Gazaway - Wintertime Dub, 3</string>
       <string>Barrington Levy &amp; Trinity - Flash Your Dread, 2</string>
       <string>Home T &amp; Trinty - Dub it for Christmas, 2</string>
       <string>Doreen Schaffer - Wishing You a Merry Christmas, 2</string>
       <string>The Ethiopians - Ding Dong Bell, 2</string>
       <string>Tennessee Brown &amp; The Silvertones - Jingle Bells, 0</string>
+      <string>Amerigo Gazaway - Cold Chillin', 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -34228,6 +34371,7 @@
       <string>Alton Ellis - Merry Merry Christmas, 4</string>
       <string>The Soul Saints Orchestra - Santas Got a Bag of Soul, 4</string>
       <string>Sharon Jones &amp; The Dap Kings - Just Another Christmas Song, 4</string>
+      <string>Amerigo Gazaway - Cold Chillin', 4</string>
       <string>Wain Nelson - Santa Claus, 3</string>
       <string>The Sivertones - Merry Merry Christmas, 3</string>
       <string>The Ethiopians - Ding Dong Bell, 3</string>
@@ -34235,6 +34379,7 @@
       <string>Joe Gibbs Family Of Artists - We Three Kings (RB Edit), 3</string>
       <string>Amerigo Gazaway - Santa's Workshop, 3</string>
       <string>Amerigo Gazaway - Christmas Time in Crooklyn, 3</string>
+      <string>Amerigo Gazaway - Christmas Day, 3</string>
       <string>Alton Ellis - Praise Jah It's Christmas, 2</string>
       <string>Jacob Miller &amp; Ray I - All I Want for Ismas, 2</string>
       <string>Joe Gibbs - We Three Kings, 2</string>
@@ -34283,6 +34428,7 @@
       <string>Shawn Lee's Ping Pong Orchestra - Jingle Bells, 3</string>
       <string>Sweet Tee - Let The Jingle Bells Rock, 3</string>
       <string>Derek B - Chillin' With Santa, 3</string>
+      <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 3</string>
       <string>Roy Hargrove - Frosty The Snowman, 2</string>
       <string>Otis Redding - Merry Christmas Baby, 2</string>
       <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 2</string>
@@ -34395,6 +34541,7 @@
       <string>Rose Graham - Black Christmas, 3</string>
       <string>The Temptations - Rudolph The Red-Nosed Reindeer, 3</string>
       <string>Alton Ellis - Merry Merry Christmas, 3</string>
+      <string>Amerigo Gazaway - Christmas Day, 3</string>
       <string>The Jive Turkeys - Get Down Santa, 2</string>
       <string>Don Smith - Black Christmas, 2</string>
       <string>The Ronettes - Sleigh Ride, 2</string>
@@ -34425,6 +34572,7 @@
       <string>The Ramsey Lewis Trio - Winter Wonderland, 2</string>
       <string>The Toasters - God Rock You Steady Gentleman, 2</string>
       <string>Amerigo Gazaway - Christmas Time in Crooklyn, 2</string>
+      <string>Amerigo Gazaway - Christmas Day, 2</string>
       <string>The Soul Saints Orchestra - Santas Got a Bag of Soul, 0</string>
       <string>Black On White Affair - Auld Lang Syne, 0</string>
     </MixRankings>
@@ -35123,6 +35271,7 @@
       <string>Shawn Lee's Ping Pong Orchestra - Jingle Bells, 4</string>
       <string>Blues Busters - I Saw Mommy Kissing Santa Claus (RB Edit), 4</string>
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 4</string>
+      <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 4</string>
       <string>Norman T Washington - It's Christmas Time Again, 2</string>
       <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 2</string>
     </MixRankings>
@@ -35158,6 +35307,7 @@
       <string>Sweet Tee - Let The Jingle Bells Rock, 3</string>
       <string>Alton Ellis - Christmas Coming, 3</string>
       <string>Amerigo Gazaway - Christmas Time in Crooklyn, 3</string>
+      <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 3</string>
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 2</string>
       <string>Clarence Carter - Back Door Santa, 2</string>
       <string>Vernon Garrett - Christmas Groove, 2</string>
@@ -35331,6 +35481,8 @@
   <TrackMix>
     <Track>Sharon Jones &amp; The Dap Kings - Funky Little Drummer Boy</Track>
     <MixRankings>
+      <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 5</string>
+      <string>Electric Jungle - Funky Funky Christmas, 5</string>
       <string>The Cimarons - Holy Christmas, 4</string>
       <string>The Jackson 5 - Up on the House Top, 4</string>
       <string>Shawn Lee's Ping Pong Orchestra - Do You Hear What I Hear, 4</string>
@@ -35372,6 +35524,7 @@
       <string>Doreen Schaffer - Wishing You a Merry Christmas, 2</string>
       <string>Johnny Osbourne - Christmas Stylee, 2</string>
       <string>Stevie Wonder - What Christmas Means To Me, 2</string>
+      <string>Amerigo Gazaway - Wintertime Dub, 2</string>
       <string>The Ethiopians - Ding Dong Bell, 0</string>
     </MixRankings>
   </TrackMix>
@@ -35605,6 +35758,7 @@
       <string>Half Pint - Christmas Vibes, 2</string>
       <string>The Toasters - God Rock You Steady Gentleman, 2</string>
       <string>Amerigo Gazaway - Santa's Workshop, 2</string>
+      <string>Amerigo Gazaway - Cold Chillin', 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -36133,6 +36287,7 @@
       <string>Sharon Jones &amp; The Dap Kings - Just Another Christmas Song, 2</string>
       <string>Hopeton &amp; Primo - Peace on Earth, 2</string>
       <string>Amerigo Gazaway - Santa's Workshop, 2</string>
+      <string>Amerigo Gazaway - Christmas Day, 2</string>
       <string>Alton Ellis - Praise Jah It's Christmas, 0</string>
       <string>Wain Nelson - Santa Claus, 0</string>
       <string>The Toasters - God Rock You Steady Gentleman, 0</string>
@@ -36359,6 +36514,7 @@
       <string>Run D.M.C. - Christmas In Hollis, 3</string>
       <string>Blues Busters - I Saw Mommy Kissing Santa Claus (RB Edit), 3</string>
       <string>Sweet Tee - Let The Jingle Bells Rock, 3</string>
+      <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 3</string>
       <string>Vernon Garrett - Merry Christmas, Baby, 2</string>
       <string>Albert King - Santa Claus Wants Some Lovin', 2</string>
       <string>The Temptations - Rudolph The Red-Nosed Reindeer, 2</string>
@@ -36376,8 +36532,9 @@
       <string>Milly &amp; Silly - Getting Down for Christmas, 4</string>
       <string>The Chambers Brothers - Merry Christmas, Happy New Year, 4</string>
       <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 4</string>
+      <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 4</string>
+      <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 4</string>
       <string>Shawn Lee's Ping Pong Orchestra - O Come All Ye Faithful, 3</string>
-      <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 3</string>
       <string>The Jive Turkeys - Get Down Santa, 3</string>
       <string>Otis Redding - Merry Christmas Baby, 3</string>
       <string>Black On White Affair - Auld Lang Syne, 3</string>
@@ -36424,6 +36581,7 @@
       <string>The Jive Turkeys - Get Down Santa, 3</string>
       <string>Smokey Robinson &amp; The Miracles - Deck The Halls, 3</string>
       <string>Blues Busters - I Saw Mommy Kissing Santa Claus (RB Edit), 3</string>
+      <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 3</string>
       <string>The Staple Singers - Who Took The Merry Out Of Christmas, 2</string>
       <string>Albert King - Santa Claus Wants Some Lovin', 2</string>
       <string>Rufus Thomas - I'll Be Your Santa Baby, 2</string>
@@ -36803,6 +36961,8 @@
       <string>Sharon Jones &amp; The Dap Kings - Funky Little Drummer Boy, 2</string>
       <string>La Sonora Matancera - Cascabel, 2</string>
       <string>Disco 4 - He's Santa Claus, 2</string>
+      <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 2</string>
+      <string>Electric Jungle - Funky Funky Christmas, 2</string>
       <string>Vernon Garrett - Merry Christmas, Baby, 0</string>
       <string>Vernon Garrett - Christmas Groove, 0</string>
       <string>Albert King - Santa Claus Wants Some Lovin', 0</string>
@@ -38281,6 +38441,7 @@
       <string>The Kinstonians - Merry Christmas, 3</string>
       <string>Unknown Artist - Hark The Herald Angels Sing, 3</string>
       <string>Alton Ellis - Praise Jah It's Christmas, 3</string>
+      <string>Amerigo Gazaway - Cold Chillin', 3</string>
       <string>Rose Graham - Black Christmas, 2</string>
       <string>Binky Griptite - Stone Soul Christmas, 2</string>
       <string>The Cimarons - Silent Night; White Christmas, 2</string>
@@ -38391,6 +38552,7 @@
       <string>Sharon Jones &amp; The Dap Kings - Funky Little Drummer Boy, 4</string>
       <string>Clarence Carter - Back Door Santa, 4</string>
       <string>Disco 4 - He's Santa Claus, 4</string>
+      <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 4</string>
       <string>Albert King - Santa Claus Wants Some Lovin', 3</string>
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 3</string>
       <string>Royce Campbell - Santa Claus is Coming to Town, 3</string>
@@ -38891,6 +39053,7 @@
       <string>Alton Ellis - Merry Merry Christmas, 4</string>
       <string>Barrington Levy &amp; Trinity - Flash Your Dread, 4</string>
       <string>Alton Ellis - Praise Jah It's Christmas, 4</string>
+      <string>Amerigo Gazaway - Cold Chillin', 4</string>
       <string>Hopeton &amp; Primo - Peace on Earth, 3</string>
       <string>Half Pint - Christmas Vibes, 3</string>
       <string>Joe Gibbs - We Three Kings, 3</string>
@@ -38923,6 +39086,7 @@
       <string>Jacob Miller &amp; Ray I - Silver Bells, 3</string>
       <string>The Aggrovators - Santa Claus Dub, 3</string>
       <string>Gary Walker - Santa's Got a Brand New Bag, 3</string>
+      <string>Amerigo Gazaway - Wintertime Dub, 3</string>
       <string>Doreen Schaffer - Wishing You a Merry Christmas, 2</string>
       <string>James Brown - Go Power at Christmas Time, 2</string>
     </MixRankings>
@@ -40543,6 +40707,7 @@
       <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 2</string>
       <string>Sharon Jones &amp; The Dap Kings - 8 Days (of Hanukkah), 2</string>
       <string>Black On White Affair - Auld Lang Syne, 2</string>
+      <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 2</string>
       <string>Vernon Garrett - Merry Christmas, Baby, 0</string>
       <string>The Jive Turkeys - Get Down Santa, 0</string>
       <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 0</string>
@@ -40610,6 +40775,7 @@
       <string>Breakestra - Let The Bells Ring, 4</string>
       <string>Sharon Jones &amp; The Dap Kings - Funky Little Drummer Boy, 4</string>
       <string>Clarence Carter - Back Door Santa, 4</string>
+      <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 4</string>
       <string>Joe Gibbs - Let Christmas Catch You On A Good Mood, 3</string>
       <string>Alton Ellis - Christmas Coming, 3</string>
       <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 3</string>
@@ -40617,6 +40783,7 @@
       <string>Royce Campbell - Santa Claus is Coming to Town, 3</string>
       <string>Derek B - Chillin' With Santa, 3</string>
       <string>Amerigo Gazaway - Christmas Time in Crooklyn, 3</string>
+      <string>Amerigo Gazaway - Christmas Day, 3</string>
       <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 2</string>
       <string>Vernon Garrett - Merry Christmas, Baby, 2</string>
       <string>Run D.M.C. - Christmas Is, 2</string>
@@ -40637,6 +40804,7 @@
       <string>Milly &amp; Silly - Getting Down for Christmas, 4</string>
       <string>Blues Busters - I Saw Mommy Kissing Santa Claus (RB Edit), 4</string>
       <string>Joe Gibbs Family Of Artists - We Three Kings (RB Edit), 4</string>
+      <string>Amerigo Gazaway - Christmas Day, 4</string>
       <string>Half Pint - Christmas Vibes, 3</string>
       <string>Jacob Miller &amp; Ray I - All I Want for Ismas, 3</string>
       <string>Hopeton &amp; Primo - Peace on Earth, 3</string>
@@ -40649,6 +40817,7 @@
       <string>Sharon Jones &amp; The Dap Kings - Just Another Christmas Song, 3</string>
       <string>Amerigo Gazaway - Santa's Workshop, 3</string>
       <string>Amerigo Gazaway - Christmas Time in Crooklyn, 3</string>
+      <string>Amerigo Gazaway - Cold Chillin', 3</string>
       <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 2</string>
       <string>The Ronettes - Sleigh Ride, 2</string>
       <string>Run D.M.C. - Christmas In Hollis, 2</string>
@@ -40883,6 +41052,7 @@
       <string>Tennessee Brown &amp; The Silvertones - Jingle Bells, 4</string>
       <string>Half Pint - Christmas Vibes, 4</string>
       <string>Jacob Miller &amp; Ray I - All I Want for Ismas, 4</string>
+      <string>Amerigo Gazaway - Cold Chillin', 4</string>
       <string>Johnny Osbourne - Christmas Stylee, 3</string>
       <string>Roman Stewart - Christmas Affair, 3</string>
       <string>The Heptones - Christmas Time Is Here, 3</string>
@@ -40892,6 +41062,7 @@
       <string>Joe Gibbs - We Three Kings, 3</string>
       <string>Roy Richards - Jingle Bells, 3</string>
       <string>Binky Griptite - Stone Soul Christmas, 3</string>
+      <string>Amerigo Gazaway - Wintertime Dub, 3</string>
       <string>Short Stuff - Merry Christmas Baby, 2</string>
       <string>Frank Cosmo - Greetings from Beverley's, 2</string>
       <string>Johnny Clarke - I Saw Mommy Kissing Santa Claus, 2</string>
@@ -40910,6 +41081,7 @@
       <string>The Beginning of the End - Gee Whiz, It's Christmas, 4</string>
       <string>The Granville Williams Orchestra - Santa Claus is Ska-Ing To Town, 4</string>
       <string>The Wailers - Sound The Trumpet, 4</string>
+      <string>Electric Jungle - Funky Funky Christmas, 4</string>
       <string>Ike &amp; Tina Turner - Merry Christmas Baby, 3</string>
       <string>Kurtis Blow - Christmas Rappin', 3</string>
       <string>Jimmy Reed - Christmas Present Blues, 2</string>
@@ -42382,6 +42554,8 @@
       <string>Clarence Carter - Back Door Santa, 4</string>
       <string>Breakestra - Let The Bells Ring, 4</string>
       <string>Shawn Lee's Ping Pong Orchestra - Jingle Bells, 4</string>
+      <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 4</string>
+      <string>Electric Jungle - Funky Funky Christmas, 4</string>
       <string>Al Green - Feels Like Christmas, 3</string>
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 3</string>
       <string>Albert King - Santa Claus Wants Some Lovin', 3</string>
@@ -42477,6 +42651,7 @@
       <string>The Aggrovators - Santa Claus Dub, 3</string>
       <string>The Ramsey Lewis Trio - Here Comes Santa Claus, 3</string>
       <string>Unknown Artist - Merry Christmas, 3</string>
+      <string>Amerigo Gazaway - Wintertime Dub, 3</string>
       <string>Charley Fresh - Happy Christmas Rude Boy, 2</string>
     </MixRankings>
   </TrackMix>
@@ -43553,6 +43728,7 @@
       <string>Royce Campbell - Winter Wonderland, 3</string>
       <string>Al &amp; The Vibrators - Merry Christmas, 3</string>
       <string>Binky Griptite - Stone Soul Christmas, 3</string>
+      <string>Amerigo Gazaway - Wintertime Dub, 3</string>
       <string>Royce Campbell - Jingle Bells, 2</string>
       <string>Mark Whitfield - Those Soulful Jingle Bells, 2</string>
       <string>Nicholas Payton - Santa Claus Is Coming To Town, 2</string>
@@ -43563,6 +43739,7 @@
       <string>Sharon Jones &amp; The Dap Kings - God Rest Ye Merry Gents, 2</string>
       <string>Stevie Wonder - What Christmas Means To Me, 2</string>
       <string>Carlene Davis - Santa Claus (Do You Ever Come To The Ghetto), 2</string>
+      <string>Amerigo Gazaway - Cold Chillin', 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -43591,6 +43768,8 @@
       <string>Al Caiola, Riz Ortolani &amp; Jimmy McGriff - Sleigh Ride; Jingle Bells, 3</string>
       <string>Black On White Affair - Auld Lang Syne, 3</string>
       <string>Amerigo Gazaway - Christmas Time in Crooklyn, 3</string>
+      <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 3</string>
+      <string>Amerigo Gazaway - Christmas Day, 3</string>
       <string>Bill Evans - Santa Claus Is Comin' To Town, 2</string>
       <string>Jimmy Smith - Jingle Bells, 2</string>
       <string>Vince Guaraldi Trio - Christmas Is Coming, 2</string>
@@ -43675,6 +43854,7 @@
       <string>The Temptations - Rudolph The Red-Nosed Reindeer, 2</string>
       <string>The Cimarons - Silent Night; White Christmas, 2</string>
       <string>The Ramsey Lewis Trio - Winter Wonderland, 2</string>
+      <string>Amerigo Gazaway - Christmas Day, 2</string>
       <string>Rose Graham - Black Christmas, 0</string>
       <string>The Toasters - God Rock You Steady Gentleman, 0</string>
     </MixRankings>
@@ -43693,6 +43873,7 @@
       <string>Sonny Bradshaw - Peace And Love (Little Drummer Boy), 3</string>
       <string>Binky Griptite - Stone Soul Christmas, 3</string>
       <string>Sharon Jones &amp; The Dap Kings - God Rest Ye Merry Gents, 3</string>
+      <string>Amerigo Gazaway - Wintertime Dub, 3</string>
       <string>Dillinger &amp; The Brentford Harmonics - Hi Fashion Christmas, 2</string>
       <string>The Heptones - Christmas Time Is Here, 2</string>
       <string>Al &amp; The Vibrators - Merry Christmas, 2</string>
@@ -44004,6 +44185,7 @@
     <MixRankings>
       <string>Rufus Thomas - I'll Be Your Santa Baby, 4</string>
       <string>Amerigo Gazaway - Christmas Time in Crooklyn, 4</string>
+      <string>Amerigo Gazaway - Christmas Day, 4</string>
       <string>The Temptations - Rudolph The Red-Nosed Reindeer, 3</string>
       <string>Rose Graham - Black Christmas, 3</string>
       <string>The Ramsey Lewis Trio - Winter Wonderland, 3</string>
@@ -44443,6 +44625,7 @@
       <string>The Cimarons - Silent Night; White Christmas, 2</string>
       <string>The Ronettes - Sleigh Ride, 2</string>
       <string>Rufus Thomas - I'll Be Your Santa Baby, 2</string>
+      <string>Amerigo Gazaway - Christmas Day, 2</string>
       <string>The Ramsey Lewis Trio - Winter Wonderland, 0</string>
       <string>Sharon Jones &amp; The Dap Kings - White Christmas, 0</string>
       <string>Sharon Jones &amp; The Dap Kings - Just Another Christmas Song, 0</string>
@@ -45684,6 +45867,7 @@
       <string>Norman T Washington - It's Christmas Time Again, 4</string>
       <string>Shawn Lee's Ping Pong Orchestra - Do You Hear What I Hear, 4</string>
       <string>Breakestra - Let The Bells Ring, 4</string>
+      <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 4</string>
       <string>Alton Ellis - Christmas Coming, 3</string>
       <string>Otis Redding - Merry Christmas Baby, 3</string>
       <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 3</string>
@@ -46690,6 +46874,7 @@
       <string>Sharon Jones &amp; The Dap Kings - White Christmas, 3</string>
       <string>Sharon Jones &amp; The Dap Kings - Just Another Christmas Song, 3</string>
       <string>Amerigo Gazaway - Santa's Workshop, 3</string>
+      <string>Amerigo Gazaway - Cold Chillin', 3</string>
       <string>The Cimarons - Silent Night; White Christmas, 2</string>
       <string>Joe Gibbs - We Three Kings, 2</string>
       <string>Hopeton &amp; Primo - Peace on Earth, 2</string>
@@ -46821,6 +47006,7 @@
       <string>Doreen Schaffer - Wishing You a Merry Christmas, 3</string>
       <string>The Silvertones - Bling Bling Christmas, 3</string>
       <string>The Kinstonians - Merry Christmas, 3</string>
+      <string>Amerigo Gazaway - Wintertime Dub, 3</string>
       <string>Al &amp; The Vibrators - Merry Christmas, 2</string>
       <string>Tennessee Brown &amp; The Silvertones - Little Drummer Boy, 2</string>
       <string>Sharon Jones &amp; The Dap Kings - God Rest Ye Merry Gents, 2</string>
@@ -47053,6 +47239,7 @@
       <string>Breakestra - Let The Bells Ring, 3</string>
       <string>Shawn Lee's Ping Pong Orchestra - O Come All Ye Faithful, 3</string>
       <string>Shawn Lee's Ping Pong Orchestra - Jingle Bells, 3</string>
+      <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 3</string>
       <string>Shawn Lee's Ping Pong Orchestra - Do You Hear What I Hear, 2</string>
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 2</string>
       <string>Clarence Carter - Back Door Santa, 2</string>
@@ -47244,12 +47431,14 @@
       <string>Roy Richards - Jingle Bells, 4</string>
       <string>Unknown Artist - Hark The Herald Angels Sing, 4</string>
       <string>Joe Gibbs Family Of Artists - We Three Kings (RB Edit), 4</string>
+      <string>Amerigo Gazaway - Cold Chillin', 4</string>
       <string>Lloyd Seivright - Mary's Boy Child, 3</string>
       <string>Roman Stewart - Christmas Affair, 3</string>
       <string>Barrington Levy &amp; Trinity - Flash Your Dread, 3</string>
       <string>The Sivertones - Merry Merry Christmas, 3</string>
       <string>Hopeton &amp; Primo - Peace on Earth, 3</string>
       <string>Binky Griptite - Stone Soul Christmas, 3</string>
+      <string>Amerigo Gazaway - Christmas Day, 3</string>
       <string>Barrington Levy &amp; Trinity - I Saw Mommy Kiss A Dreadlocks, 2</string>
       <string>The Cimarons - Silent Night; White Christmas, 2</string>
       <string>Joe Gibbs - We Three Kings, 2</string>
