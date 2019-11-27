@@ -10434,6 +10434,34 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Cookin Soul - Juicy Xmas (Instrumental)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Cimarons - Holy Christmas</TrackDescription>
+        <FadeLength>10.281541950113379</FadeLength>
+        <FadeEnd>56500544</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1993507</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Norman T Washington - It's Christmas Time Again</TrackDescription>
+        <FadeLength>10.541541950113379</FadeLength>
+        <FadeEnd>56722064</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3668052</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Copa 7 - Copa 7 No Samba</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -36211,6 +36239,16 @@
         <TrackDescription>Amerigo Gazaway - Lil' Funky Drummer Boy</TrackDescription>
         <FadeLength>12.841541950113379</FadeLength>
         <FadeEnd>52567664</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2711053</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Cookin Soul - Juicy Xmas (Instrumental)</TrackDescription>
+        <FadeLength>14.971541950113378</FadeLength>
+        <FadeEnd>53101384</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.2711053</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>

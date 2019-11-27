@@ -2556,11 +2556,16 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Amerigo Gazaway - Beanie Weather (Bonus Track)</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Amerigo Gazaway - Christmas Day</Track>
     <MixRankings>
       <string>The Soul Saints Orchestra - Santas Got a Bag of Soul, 4</string>
       <string>Rufus Thomas - I'll Be Your Santa Baby, 4</string>
       <string>Milly &amp; Silly - Getting Down for Christmas, 4</string>
+      <string>Cookin Soul - Juicy Xmas (Instrumental), 4</string>
       <string>The Ramsey Lewis Trio - Winter Wonderland, 3</string>
       <string>Run D.M.C. - Christmas In Hollis, 3</string>
       <string>Alton Ellis - Merry Merry Christmas, 3</string>
@@ -2681,6 +2686,14 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Amerigo Gazaway - God Rest Ye Jazzy Gents</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
+    <Track>Amerigo Gazaway - Holiday Thots</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Amerigo Gazaway - Lil' Funky Drummer Boy</Track>
     <MixRankings>
       <string>Breakestra - Let The Bells Ring, 4</string>
@@ -2704,9 +2717,22 @@
       <string>Blues Busters - I Saw Mommy Kissing Santa Claus (RB Edit), 3</string>
       <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 3</string>
       <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 3</string>
+      <string>Cookin Soul - Juicy Xmas (Instrumental), 3</string>
       <string>Run D.M.C. - Christmas In Hollis, 2</string>
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 2</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Amerigo Gazaway - Lonely Christmas</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
+    <Track>Amerigo Gazaway - Outro</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
+    <Track>Amerigo Gazaway - Peace On Earth</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Amerigo Gazaway - Santa's Workshop</Track>
@@ -2729,6 +2755,14 @@
       <string>Wain Nelson - Santa Claus, 0</string>
       <string>Unknown Artist - Hark The Herald Angels Sing, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Amerigo Gazaway - The Fire (A Christmas Carol)</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
+    <Track>Amerigo Gazaway - The Neck-Cracker Suite</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Amerigo Gazaway - Wintertime Dub</Track>
@@ -6572,6 +6606,7 @@
       <string>Blues Busters - I Saw Mommy Kissing Santa Claus (RB Edit), 2</string>
       <string>The Ramsey Lewis Trio - Winter Wonderland, 2</string>
       <string>Amerigo Gazaway - Christmas Day, 2</string>
+      <string>Cookin Soul - Juicy Xmas (Instrumental), 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -7489,6 +7524,7 @@
       <string>The Ramsey Lewis Trio - Winter Wonderland, 2</string>
       <string>Sharon Jones &amp; The Dap Kings - 8 Days (of Hanukkah), 2</string>
       <string>Amerigo Gazaway - Christmas Day, 2</string>
+      <string>Cookin Soul - Juicy Xmas (Instrumental), 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -10946,6 +10982,30 @@
       <string>Avan Samba - Ibere, 2</string>
       <string>RJD2 - Fire, 2</string>
       <string>Copa 7 - Copa 7 No Samba, 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Cookin Soul - Juicy Xmas (Instrumental)</Track>
+    <MixRankings>
+      <string>Amerigo Gazaway - Christmas Day, 5</string>
+      <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 5</string>
+      <string>Shawn Lee's Ping Pong Orchestra - O Come All Ye Faithful, 5</string>
+      <string>Milly &amp; Silly - Getting Down for Christmas, 5</string>
+      <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 5</string>
+      <string>Shawn Lee's Ping Pong Orchestra - Jingle Bells, 5</string>
+      <string>The Soul Saints Orchestra - Santas Got a Bag of Soul, 4</string>
+      <string>The Cimarons - Holy Christmas, 4</string>
+      <string>Norman T Washington - It's Christmas Time Again, 4</string>
+      <string>Sharon Jones &amp; The Dap Kings - 8 Days (of Hanukkah), 4</string>
+      <string>The Ramsey Lewis Trio - Winter Wonderland, 3</string>
+      <string>Run D.M.C. - Christmas In Hollis, 3</string>
+      <string>The Ronettes - Sleigh Ride, 3</string>
+      <string>Shawn Lee's Ping Pong Orchestra - Do You Hear What I Hear, 3</string>
+      <string>The Chambers Brothers - Merry Christmas, Happy New Year, 3</string>
+      <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 2</string>
+      <string>Black On White Affair - Auld Lang Syne, 2</string>
+      <string>The Toasters - God Rock You Steady Gentleman, 2</string>
+      <string>Blues Busters - I Saw Mommy Kissing Santa Claus (RB Edit), 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -28974,6 +29034,7 @@
       <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 3</string>
       <string>The Cimarons - Holy Christmas, 3</string>
       <string>The Toasters - God Rock You Steady Gentleman, 3</string>
+      <string>Cookin Soul - Juicy Xmas (Instrumental), 3</string>
       <string>Don Smith - Black Christmas, 2</string>
       <string>The Ronettes - Sleigh Ride, 2</string>
       <string>Shawn Lee's Ping Pong Orchestra - Do You Hear What I Hear, 2</string>
@@ -31154,6 +31215,7 @@
       <string>Shawn Lee's Ping Pong Orchestra - O Come All Ye Faithful, 4</string>
       <string>Blues Busters - I Saw Mommy Kissing Santa Claus (RB Edit), 4</string>
       <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 4</string>
+      <string>Cookin Soul - Juicy Xmas (Instrumental), 4</string>
       <string>Alton Ellis - Christmas Coming, 3</string>
       <string>Joe Gibbs - Let Christmas Catch You On A Good Mood, 3</string>
       <string>Smokey Robinson &amp; The Miracles - Jingle Bells, 3</string>
@@ -34573,6 +34635,7 @@
       <string>The Toasters - God Rock You Steady Gentleman, 2</string>
       <string>Amerigo Gazaway - Christmas Time in Crooklyn, 2</string>
       <string>Amerigo Gazaway - Christmas Day, 2</string>
+      <string>Cookin Soul - Juicy Xmas (Instrumental), 2</string>
       <string>The Soul Saints Orchestra - Santas Got a Bag of Soul, 0</string>
       <string>Black On White Affair - Auld Lang Syne, 0</string>
     </MixRankings>
@@ -35272,6 +35335,7 @@
       <string>Blues Busters - I Saw Mommy Kissing Santa Claus (RB Edit), 4</string>
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 4</string>
       <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 4</string>
+      <string>Cookin Soul - Juicy Xmas (Instrumental), 3</string>
       <string>Norman T Washington - It's Christmas Time Again, 2</string>
       <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 2</string>
     </MixRankings>
@@ -35308,6 +35372,7 @@
       <string>Alton Ellis - Christmas Coming, 3</string>
       <string>Amerigo Gazaway - Christmas Time in Crooklyn, 3</string>
       <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 3</string>
+      <string>Cookin Soul - Juicy Xmas (Instrumental), 3</string>
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 2</string>
       <string>Clarence Carter - Back Door Santa, 2</string>
       <string>Vernon Garrett - Christmas Groove, 2</string>
@@ -36515,6 +36580,7 @@
       <string>Blues Busters - I Saw Mommy Kissing Santa Claus (RB Edit), 3</string>
       <string>Sweet Tee - Let The Jingle Bells Rock, 3</string>
       <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 3</string>
+      <string>Cookin Soul - Juicy Xmas (Instrumental), 3</string>
       <string>Vernon Garrett - Merry Christmas, Baby, 2</string>
       <string>Albert King - Santa Claus Wants Some Lovin', 2</string>
       <string>The Temptations - Rudolph The Red-Nosed Reindeer, 2</string>
@@ -36553,6 +36619,7 @@
       <string>The Cimarons - Holy Christmas, 2</string>
       <string>Blues Busters - I Saw Mommy Kissing Santa Claus (RB Edit), 2</string>
       <string>Sharon Jones &amp; The Dap Kings - 8 Days (of Hanukkah), 2</string>
+      <string>Cookin Soul - Juicy Xmas (Instrumental), 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -36574,6 +36641,7 @@
       <string>Vernon Garrett - Christmas Groove, 4</string>
       <string>Black On White Affair - Auld Lang Syne, 4</string>
       <string>Run D.M.C. - Christmas In Hollis, 4</string>
+      <string>Cookin Soul - Juicy Xmas (Instrumental), 4</string>
       <string>Shawn Lee's Ping Pong Orchestra - Do You Hear What I Hear, 3</string>
       <string>Don Smith - Black Christmas, 3</string>
       <string>Sharon Jones &amp; The Dap-Kings - Ain't No Chimneys In The Projects, 3</string>
@@ -40715,6 +40783,7 @@
       <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 0</string>
       <string>Royce Campbell - Santa Claus is Coming to Town, 0</string>
       <string>Sweet Tee - Let The Jingle Bells Rock, 0</string>
+      <string>Cookin Soul - Juicy Xmas (Instrumental), 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -40776,6 +40845,7 @@
       <string>Sharon Jones &amp; The Dap Kings - Funky Little Drummer Boy, 4</string>
       <string>Clarence Carter - Back Door Santa, 4</string>
       <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 4</string>
+      <string>Cookin Soul - Juicy Xmas (Instrumental), 4</string>
       <string>Joe Gibbs - Let Christmas Catch You On A Good Mood, 3</string>
       <string>Alton Ellis - Christmas Coming, 3</string>
       <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 3</string>
@@ -43777,6 +43847,7 @@
       <string>Joe Gibbs Family Of Artists - We Three Kings (RB Edit), 2</string>
       <string>The Cimarons - Holy Christmas, 2</string>
       <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 2</string>
+      <string>Cookin Soul - Juicy Xmas (Instrumental), 2</string>
       <string>Run D.M.C. - Christmas In Hollis, 0</string>
       <string>Blues Busters - I Saw Mommy Kissing Santa Claus (RB Edit), 0</string>
     </MixRankings>
@@ -43834,6 +43905,7 @@
   <TrackMix>
     <Track>The Ronettes - Sleigh Ride</Track>
     <MixRankings>
+      <string>Cookin Soul - Juicy Xmas (Instrumental), 5</string>
       <string>The Cimarons - Holy Christmas, 4</string>
       <string>Alton Ellis - Merry Merry Christmas, 4</string>
       <string>Joe Gibbs Family Of Artists - We Three Kings (RB Edit), 4</string>
@@ -44193,6 +44265,7 @@
       <string>Joe Gibbs Family Of Artists - We Three Kings (RB Edit), 3</string>
       <string>Sharon Jones &amp; The Dap Kings - Just Another Christmas Song, 3</string>
       <string>Amerigo Gazaway - Santa's Workshop, 3</string>
+      <string>Cookin Soul - Juicy Xmas (Instrumental), 3</string>
       <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 2</string>
       <string>Milly &amp; Silly - Getting Down for Christmas, 2</string>
       <string>Harvey Averne Band - Lets Get it Together This Christmas, 2</string>
@@ -45887,6 +45960,7 @@
       <string>Albert King - Santa Claus Wants Some Lovin', 2</string>
       <string>Blues Busters - I Saw Mommy Kissing Santa Claus (RB Edit), 2</string>
       <string>Sharon Jones &amp; The Dap Kings - 8 Days (of Hanukkah), 2</string>
+      <string>Cookin Soul - Juicy Xmas (Instrumental), 2</string>
       <string>Vernon Garrett - Merry Christmas, Baby, 0</string>
       <string>La Sonora Matancera - Cascabel, 0</string>
     </MixRankings>

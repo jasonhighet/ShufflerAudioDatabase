@@ -190,7 +190,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Amerigo Gazaway - Christmas Day</Track>
-    <Attributes>Duration=186.186;EndBPM=92.007;FadeIn=10.464;FadeInLengthInSeconds=10.434;FadeOut=146.097;FadeOutLengthInSeconds=10.434;PreFadeInPosition=9.128;PreFadeInStartVolume=50;Rank=4;StartBPM=92.007;</Attributes>
+    <Attributes>Duration=186.186;EndBPM=92.007;FadeIn=10.464;FadeInLengthInSeconds=10.434;FadeOut=146.097;FadeOutLengthInSeconds=10.434;PreFadeInPosition=9.128;PreFadeInStartVolume=50;Rank=5;StartBPM=92.007;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Amerigo Gazaway - Christmas Time in Crooklyn</Track>
@@ -1079,6 +1079,10 @@
   <ExtenedAttributes>
     <Track>Cookin' On 3 Burners - This Girl (feat. Kylie Auldist)</Track>
     <Attributes>Duration=230.360;EndBPM=103.315;FadeIn=1.462;FadeInLengthInSeconds=9.554;FadeOut=158.408;FadeOutLengthInSeconds=18.584;PreFadeInPosition=0.231;PreFadeInStartVolume=75;Rank=5;StartBPM=100.481;StartLoopCount=2;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Cookin Soul - Juicy Xmas (Instrumental)</Track>
+    <Attributes>Duration=215.110;EndBPM=96.386;EndLoopCount=2;FadeIn=20.065;FadeInLengthInSeconds=10.002;FadeOut=150.062;FadeOutLengthInSeconds=4.980;Rank=4;SkipLengthInSeconds=19.991;SkipStart=40.067;StartBPM=95.981;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Copa 7 - Copa 7 No Samba</Track>
@@ -3710,7 +3714,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects</Track>
-    <Attributes>Duration=142.987;EndBPM=99.451;FadeIn=10.862;FadeInLengthInSeconds=5.047;FadeOut=115.638;FadeOutLengthInSeconds=9.653;Key=Dm;PreFadeInPosition=10.261;PreFadeInStartVolume=75;Rank=5;StartBPM=95.101;StartLoopCount=3;</Attributes>
+    <Attributes>Duration=142.987;EndBPM=99.451;FadeIn=10.862;FadeInLengthInSeconds=5.047;FadeOut=115.638;FadeOutLengthInSeconds=9.653;Key=Dm;PreFadeInPosition=10.578;PreFadeInStartVolume=75;Rank=5;StartBPM=95.106;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Sharon Jones &amp; The Dap Kings - Be Easy</Track>
