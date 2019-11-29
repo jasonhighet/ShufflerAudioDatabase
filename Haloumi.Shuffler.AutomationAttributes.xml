@@ -1634,6 +1634,13 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Al Green - Feels Like Christmas To Me (RB Edit)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Al Green - Here I Am (Come And Take Me)</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -35995,6 +36002,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.152</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Al Green - Feels Like Christmas To Me (RB Edit)</TrackDescription>
+        <FadeLength>16.124625850340134</FadeLength>
+        <FadeEnd>52395336</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1195161</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>

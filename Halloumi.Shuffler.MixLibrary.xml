@@ -1747,6 +1747,27 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Al Green - Feels Like Christmas To Me (RB Edit)</Track>
+    <MixRankings>
+      <string>The Granville Williams Orchestra - Santa Claus is Ska-Ing To Town, 4</string>
+      <string>Toots &amp; The Maytals - Christmas Feeling Ska, 4</string>
+      <string>Count Sidney &amp; His Dukes - Soul Christmas (Vocal), 3</string>
+      <string>The Beginning of the End - Gee Whiz, It's Christmas, 3</string>
+      <string>Zebra - Christmas Morning, 3</string>
+      <string>Mr President - It's Christmas Time, 3</string>
+      <string>The Funk Brothers - Winter Wonderland, 2</string>
+      <string>Don Cornell &amp; The Eternals - Christmas Joy, 2</string>
+      <string>Short Stuff - Merry Christmas Baby, 2</string>
+      <string>James Brown - Christmas Is Love, 2</string>
+      <string>Bobby Holloway - Funky Little Drummer Boy, 2</string>
+      <string>The Wailers - Sound The Trumpet, 2</string>
+      <string>Ike &amp; Tina Turner - Merry Christmas Baby, 0</string>
+      <string>James Brown - Signs of Christmas, 0</string>
+      <string>Ray Harris &amp; The Fusion Experience - Soulful Christmas, 0</string>
+      <string>Frank Cosmo - Greetings from Beverley's, 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>Al Green - Here I Am (Come And Take Me)</Track>
     <MixRankings>
       <string>Naughty By Nature - OPP (Instrumental), 5</string>
@@ -2556,10 +2577,6 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>Amerigo Gazaway - Beanie Weather (Bonus Track)</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
     <Track>Amerigo Gazaway - Christmas Day</Track>
     <MixRankings>
       <string>The Soul Saints Orchestra - Santas Got a Bag of Soul, 4</string>
@@ -2686,14 +2703,6 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>Amerigo Gazaway - God Rest Ye Jazzy Gents</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
-    <Track>Amerigo Gazaway - Holiday Thots</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
     <Track>Amerigo Gazaway - Lil' Funky Drummer Boy</Track>
     <MixRankings>
       <string>Breakestra - Let The Bells Ring, 4</string>
@@ -2723,18 +2732,6 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>Amerigo Gazaway - Lonely Christmas</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
-    <Track>Amerigo Gazaway - Outro</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
-    <Track>Amerigo Gazaway - Peace On Earth</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
     <Track>Amerigo Gazaway - Santa's Workshop</Track>
     <MixRankings>
       <string>The Toasters - God Rock You Steady Gentleman, 5</string>
@@ -2755,14 +2752,6 @@
       <string>Wain Nelson - Santa Claus, 0</string>
       <string>Unknown Artist - Hark The Herald Angels Sing, 0</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>Amerigo Gazaway - The Fire (A Christmas Carol)</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
-    <Track>Amerigo Gazaway - The Neck-Cracker Suite</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Amerigo Gazaway - Wintertime Dub</Track>
@@ -4125,6 +4114,10 @@
       <string>Al Green - Let's Stay Together, 0</string>
       <string>King Jammy - Dub It in the Dancehall Dub, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>B.B. King - Christmas Celebration</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Baby Huey &amp; The Baby Sitters - Hard Times</Track>
@@ -7958,6 +7951,7 @@
       <string>Frank Cosmo - Greetings from Beverley's, 3</string>
       <string>Nicholas Payton - Rudolph The Red-Nosed Reindeer, 2</string>
       <string>Mr President - It's Christmas Time, 2</string>
+      <string>Al Green - Feels Like Christmas To Me (RB Edit), 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -9696,6 +9690,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Carlene Davis &amp; Trinity - Santa Claus (Do You Ever Come To The Ghetto)</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Carolyn Franklin - Deal With It</Track>
     <MixRankings>
       <string>Lyn Collins - Give It Up Or Turn It Loose, 4</string>
@@ -9897,6 +9895,10 @@
     <MixRankings>
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 2</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Charles Bradley - Mary's Baby</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Charles Bradley - No Time For Dreaming</Track>
@@ -11158,6 +11160,7 @@
       <string>Zebra - Christmas Morning, 4</string>
       <string>Short Stuff - Merry Christmas Baby, 4</string>
       <string>The Wailers - Sound The Trumpet, 4</string>
+      <string>Al Green - Feels Like Christmas To Me (RB Edit), 4</string>
       <string>Toots &amp; The Maytals - Christmas Feeling Ska, 3</string>
       <string>The Granville Williams Orchestra - Santa Claus is Ska-Ing To Town, 3</string>
       <string>Frank Cosmo - Greetings from Beverley's, 3</string>
@@ -14433,6 +14436,7 @@
       <string>Short Stuff - Merry Christmas Baby, 3</string>
       <string>Ray Harris &amp; The Fusion Experience - Soulful Christmas, 3</string>
       <string>James Brown - Soulful Christmas, 3</string>
+      <string>Al Green - Feels Like Christmas To Me (RB Edit), 3</string>
       <string>Iron Phoenix - Natty Dread Christmas, 2</string>
       <string>The Beginning of the End - Gee Whiz, It's Christmas, 2</string>
       <string>James Brown - Christmas Is Love, 2</string>
@@ -17069,6 +17073,7 @@
       <string>James Brown - Christmas Is Love, 2</string>
       <string>Count Sidney &amp; His Dukes - Soul Christmas (Vocal), 2</string>
       <string>James Brown - Signs of Christmas, 0</string>
+      <string>Al Green - Feels Like Christmas To Me (RB Edit), 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -20190,6 +20195,7 @@
       <string>Toots &amp; The Maytals - Christmas Feeling Ska, 3</string>
       <string>James Brown - Signs of Christmas, 3</string>
       <string>Don Cornell &amp; The Eternals - Christmas Joy, 3</string>
+      <string>Al Green - Feels Like Christmas To Me (RB Edit), 3</string>
       <string>Caribbean Jazz Project - Noche de Paz, 2</string>
       <string>Bobby Holloway - Funky Little Drummer Boy, 2</string>
       <string>The Beginning of the End - Gee Whiz, It's Christmas, 2</string>
@@ -20466,6 +20472,10 @@
       <string>The Granville Williams Orchestra - Santa Claus is Ska-Ing To Town, 2</string>
       <string>The Wailers - Sound The Trumpet, 2</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>J Lara - Hands of the Lord</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>J.D. McDonald - Boogaloo Santa Claus</Track>
@@ -20943,6 +20953,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Jacob Miller - The Twelve Days of Ismas</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Jacob Miller &amp; Ray I - All I Want for Ismas</Track>
     <MixRankings>
       <string>Barrington Levy &amp; Trinity - Flash Your Dread, 5</string>
@@ -20994,6 +21008,10 @@
       <string>Frank Cosmo - Merry Christmas, 2</string>
       <string>Jacob Miller &amp; Ray I - Silver Bells, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Jah Irie Chorus - Sensimilla (feat Dean Fraser)</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>James Brown - Blind Man Can See It</Track>
@@ -21179,6 +21197,7 @@
       <string>The Toasters - We Three Kings, 3</string>
       <string>The Wailers - Sound The Trumpet, 3</string>
       <string>Frank Cosmo - Greetings from Beverley's, 3</string>
+      <string>Al Green - Feels Like Christmas To Me (RB Edit), 3</string>
       <string>Bobby Holloway - Funky Little Drummer Boy, 2</string>
       <string>Martin Mull with The Sondra Baskin Glee Club - Santafly, 2</string>
       <string>Ray Harris &amp; The Fusion Experience - Soulful Christmas, 2</string>
@@ -21892,6 +21911,7 @@
       <string>James Brown - Christmas Is Love, 3</string>
       <string>James Brown - Soulful Christmas, 3</string>
       <string>Carla Thomas - Gee Whiz its Christmas, 3</string>
+      <string>Al Green - Feels Like Christmas To Me (RB Edit), 3</string>
       <string>The Funk Brothers - Winter Wonderland, 2</string>
       <string>Kurtis Blow - Christmas Rappin', 2</string>
       <string>The Wailers - Sound The Trumpet, 2</string>
@@ -22783,6 +22803,7 @@
       <string>Kurtis Blow - Christmas Rappin', 4</string>
       <string>Disco 4 - He's Santa Claus, 4</string>
       <string>Electric Jungle - Funky Funky Christmas, 4</string>
+      <string>Al Green - Feels Like Christmas To Me (RB Edit), 4</string>
       <string>Short Stuff - Merry Christmas Baby, 3</string>
       <string>Clarence Carter - Back Door Santa, 3</string>
       <string>Ike &amp; Tina Turner - Merry Christmas Baby, 3</string>
@@ -29509,6 +29530,7 @@
       <string>Ike &amp; Tina Turner - Merry Christmas Baby, 2</string>
       <string>Frank Cosmo - Greetings from Beverley's, 2</string>
       <string>The Granville Williams Orchestra - Santa Claus is Ska-Ing To Town, 2</string>
+      <string>Al Green - Feels Like Christmas To Me (RB Edit), 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -33276,6 +33298,7 @@
       <string>The Funk Brothers - Winter Wonderland, 2</string>
       <string>James Brown - Signs of Christmas, 2</string>
       <string>Zebra - Christmas Morning, 0</string>
+      <string>Al Green - Feels Like Christmas To Me (RB Edit), 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -36695,6 +36718,7 @@
       <string>The Wailers - Sound The Trumpet, 2</string>
       <string>Frank Cosmo - Greetings from Beverley's, 2</string>
       <string>Count Sidney &amp; His Dukes - Soul Christmas (Vocal), 2</string>
+      <string>Al Green - Feels Like Christmas To Me (RB Edit), 2</string>
       <string>The Granville Williams Orchestra - Santa Claus is Ska-Ing To Town, 0</string>
     </MixRankings>
   </TrackMix>
@@ -39426,6 +39450,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>The Aggrovators - Christmas Medley</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>The Aggrovators - Santa Claus Dub</Track>
     <MixRankings>
       <string>Doreen Schaffer - Wishing You a Merry Christmas, 4</string>
@@ -40496,6 +40524,7 @@
       <string>Bobby Holloway - Funky Little Drummer Boy, 4</string>
       <string>Short Stuff - Merry Christmas Baby, 4</string>
       <string>Jimmy Reed - Christmas Present Blues, 4</string>
+      <string>Al Green - Feels Like Christmas To Me (RB Edit), 4</string>
       <string>The Diplomats Of Solid Sound - Let It Snow, 3</string>
       <string>James Brown - Christmas Is Love, 3</string>
       <string>Mr President - It's Christmas Time, 3</string>
@@ -41036,6 +41065,7 @@
       <string>Caribbean Jazz Project - Noche de Paz, 2</string>
       <string>La Sonora Matancera - Pachanga en Navidad, 2</string>
       <string>Ike &amp; Tina Turner - Merry Christmas Baby, 2</string>
+      <string>Al Green - Feels Like Christmas To Me (RB Edit), 2</string>
       <string>The Beginning of the End - Gee Whiz, It's Christmas, 0</string>
     </MixRankings>
   </TrackMix>
@@ -41152,6 +41182,7 @@
       <string>The Granville Williams Orchestra - Santa Claus is Ska-Ing To Town, 4</string>
       <string>The Wailers - Sound The Trumpet, 4</string>
       <string>Electric Jungle - Funky Funky Christmas, 4</string>
+      <string>Al Green - Feels Like Christmas To Me (RB Edit), 4</string>
       <string>Ike &amp; Tina Turner - Merry Christmas Baby, 3</string>
       <string>Kurtis Blow - Christmas Rappin', 3</string>
       <string>Jimmy Reed - Christmas Present Blues, 2</string>
@@ -41411,6 +41442,7 @@
   <TrackMix>
     <Track>The Granville Williams Orchestra - Santa Claus is Ska-Ing To Town</Track>
     <MixRankings>
+      <string>Al Green - Feels Like Christmas To Me (RB Edit), 5</string>
       <string>Toots &amp; The Maytals - Christmas Feeling Ska, 4</string>
       <string>The Wailers - Sound The Trumpet, 3</string>
       <string>Don Cornell &amp; The Eternals - Christmas Joy, 3</string>
@@ -44891,6 +44923,7 @@
       <string>Short Stuff - Merry Christmas Baby, 3</string>
       <string>Carla Thomas - Gee Whiz its Christmas, 3</string>
       <string>Mr President - It's Christmas Time, 3</string>
+      <string>Al Green - Feels Like Christmas To Me (RB Edit), 3</string>
       <string>Ike &amp; Tina Turner - Merry Christmas Baby, 2</string>
       <string>J.D. McDonald - Boogaloo Santa Claus, 2</string>
       <string>The Diplomats Of Solid Sound - Let It Snow, 2</string>
@@ -45922,6 +45955,7 @@
       <string>Martin Mull with The Sondra Baskin Glee Club - Santafly, 4</string>
       <string>Mr President - It's Christmas Time, 4</string>
       <string>The Diplomats Of Solid Sound - Let It Snow, 4</string>
+      <string>Al Green - Feels Like Christmas To Me (RB Edit), 4</string>
       <string>The Granville Williams Orchestra - Santa Claus is Ska-Ing To Town, 3</string>
       <string>The Wailers - Sound The Trumpet, 3</string>
       <string>Ike &amp; Tina Turner - Merry Christmas Baby, 3</string>
@@ -48847,6 +48881,7 @@
       <string>Toots &amp; The Maytals - Christmas Feeling Ska, 0</string>
       <string>The Granville Williams Orchestra - Santa Claus is Ska-Ing To Town, 0</string>
       <string>Carla Thomas - Gee Whiz its Christmas, 0</string>
+      <string>Al Green - Feels Like Christmas To Me (RB Edit), 0</string>
     </MixRankings>
   </TrackMix>
 </ArrayOfTrackMix>

@@ -121,6 +121,10 @@
     <Attributes>Duration=194.22;EndBPM=113.354587318456;FadeIn=0.670;FadeInLengthInSeconds=4.394;FadeOut=126.761;FadeOutLengthInSeconds=8.469;Key=Bm;PreFadeInPosition=0.093;PreFadeInStartVolume=75;Rank=3;StartBPM=109.239872553482;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Al Green - Feels Like Christmas To Me (RB Edit)</Track>
+    <Attributes>Duration=182.126;EndBPM=119.910;FadeIn=0.078;FadeInLengthInSeconds=4.003;FadeOut=158.068;FadeOutLengthInSeconds=16.012;Rank=4;StartBPM=119.910;StartLoopCount=3;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Al Green - Here I Am (Come And Take Me)</Track>
     <Attributes>Duration=254.589387755102;EndBPM=94.4045628872062;FadeIn=5.463;FadeInLengthInSeconds=20.662;FadeOut=135.444;FadeOutLengthInSeconds=20.338;Key=Gbm;Rank=3;StartBPM=92.9242086922854;</Attributes>
   </ExtenedAttributes>
