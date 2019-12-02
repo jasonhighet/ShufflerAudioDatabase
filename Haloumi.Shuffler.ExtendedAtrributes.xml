@@ -1089,6 +1089,10 @@
     <Attributes>Duration=215.110;EndBPM=96.386;EndLoopCount=2;FadeIn=20.065;FadeInLengthInSeconds=10.002;FadeOut=150.062;FadeOutLengthInSeconds=4.980;Rank=4;SkipLengthInSeconds=19.991;SkipStart=40.067;StartBPM=95.981;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Cookin Soul - WHAT did I want (Instrumental)</Track>
+    <Attributes>Duration=203.320;EndBPM=85.099;FadeIn=67.776;FadeInLengthInSeconds=11.282;FadeOut=180.709;FadeOutLengthInSeconds=11.281;Rank=4;SkipLengthInSeconds=33.881;SkipStart=112.953;StartBPM=85.091;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Copa 7 - Copa 7 No Samba</Track>
     <Attributes>Duration=170.664;EndBPM=109.7268259229626;FadeIn=0.446;FadeInLengthInSeconds=4.671;FadeOut=141.732;FadeOutLengthInSeconds=17.498;Key=Fm;Rank=3;StartBPM=102.761721258831;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
@@ -2379,6 +2383,10 @@
   <ExtenedAttributes>
     <Track>John Holt - Man Next Door (Got To Get Away)</Track>
     <Attributes>Duration=140.853333333333;EndBPM=87.114337568058;EndLoopCount=4;FadeIn=7.416;FadeInLengthInSeconds=2.770;FadeOut=111.177;FadeOutLengthInSeconds=5.510;Key=Cm;PreFadeInPosition=1.557;PreFadeInStartVolume=25;Rank=4;StartBPM=86.64259927797825;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>John Holt - White Xmas (6Blocc Remix)</Track>
+    <Attributes>Duration=251.500;EndBPM=86.705;FadeIn=3.112;FadeInLengthInSeconds=11.070;FadeOut=201.720;FadeOutLengthInSeconds=11.072;Rank=3;SkipLengthInSeconds=22.075;SkipStart=135.516;StartBPM=86.721;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>John Legend &amp; The Roots - Compared to What</Track>
