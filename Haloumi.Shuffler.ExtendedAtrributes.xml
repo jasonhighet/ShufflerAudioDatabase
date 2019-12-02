@@ -190,7 +190,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Alton Ellis - Praise Jah It's Christmas</Track>
-    <Attributes>Duration=129.506666666667;EndBPM=82.6730967964175;FadeIn=1.919;FadeInLengthInSeconds=11.737;FadeOut=101.985;FadeOutLengthInSeconds=11.612;Key=D;Rank=4;StartBPM=81.7926216239244;</Attributes>
+    <Attributes>Duration=129.506666666667;EndBPM=82.6730967964175;FadeIn=1.919;FadeInLengthInSeconds=11.737;FadeOut=101.985;FadeOutLengthInSeconds=11.612;Key=D;Rank=5;StartBPM=81.7926216239244;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Amerigo Gazaway - Christmas Day</Track>
@@ -198,7 +198,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Amerigo Gazaway - Christmas Time in Crooklyn</Track>
-    <Attributes>Duration=150.610;EndBPM=91.030;EndLoopCount=2;FadeIn=2.133;FadeInLengthInSeconds=5.278;FadeOut=118.172;FadeOutLengthInSeconds=10.546;PreFadeInPosition=0.141;PreFadeInStartVolume=75;Rank=4;StartBPM=90.944;StartLoopCount=2;</Attributes>
+    <Attributes>Duration=150.610;EndBPM=91.030;EndLoopCount=2;FadeIn=2.133;FadeInLengthInSeconds=5.278;FadeOut=118.172;FadeOutLengthInSeconds=10.546;PreFadeInPosition=0.141;PreFadeInStartVolume=75;Rank=5;StartBPM=90.944;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Amerigo Gazaway - Cold Chillin'</Track>
@@ -210,7 +210,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Amerigo Gazaway - Lil' Funky Drummer Boy</Track>
-    <Attributes>Duration=129.308;EndBPM=100.083;FadeIn=12.277;FadeInLengthInSeconds=9.596;FadeOut=122.678;FadeOutLengthInSeconds=1.199;PreFadeInPosition=7.726;PreFadeInStartVolume=05;Rank=4;StartBPM=100.042;</Attributes>
+    <Attributes>Duration=129.308;EndBPM=100.083;FadeIn=12.277;FadeInLengthInSeconds=9.596;FadeOut=122.678;FadeOutLengthInSeconds=1.199;PreFadeInPosition=7.726;PreFadeInStartVolume=05;Rank=5;StartBPM=100.042;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Amerigo Gazaway - Santa's Workshop</Track>
@@ -3622,7 +3622,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Rufus Thomas - I'll Be Your Santa Baby</Track>
-    <Attributes>Duration=214.595918367347;EndBPM=89.3272541174282;FadeIn=1.756;FadeInLengthInSeconds=10.751;FadeOut=130.614;FadeOutLengthInSeconds=21.494;Key=Ebm;PreFadeInPosition=0.938;PreFadeInStartVolume=75;Rank=4;StartBPM=89.2940191610083;</Attributes>
+    <Attributes>Duration=214.595918367347;EndBPM=89.3272541174282;FadeIn=1.756;FadeInLengthInSeconds=10.751;FadeOut=130.614;FadeOutLengthInSeconds=21.494;Key=Ebm;PreFadeInPosition=0.938;PreFadeInStartVolume=75;Rank=5;StartBPM=89.2940191610083;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Run D.M.C. - Christmas In Hollis</Track>
@@ -3630,7 +3630,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Run D.M.C. - Christmas Is</Track>
-    <Attributes>Duration=199.445;EndBPM=105.374;EndLoopCount=8;FadeIn=9.270;FadeInLengthInSeconds=9.094;FadeOut=129.690;FadeOutLengthInSeconds=2.278;PreFadeInPosition=8.644;PreFadeInStartVolume=10;Rank=4;StartBPM=105.563;</Attributes>
+    <Attributes>Duration=199.445;EndBPM=105.374;EndLoopCount=8;FadeIn=9.270;FadeInLengthInSeconds=9.094;FadeOut=129.690;FadeOutLengthInSeconds=2.278;PreFadeInPosition=8.644;PreFadeInStartVolume=10;Rank=5;StartBPM=105.563;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Rusty Bryant - Fire Eater</Track>
@@ -4114,7 +4114,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Stevie Wonder - What Christmas Means To Me</Track>
-    <Attributes>Duration=147.827;EndBPM=84.565;FadeIn=0.361;FadeInLengthInSeconds=11.934;FadeOut=127.465;FadeOutLengthInSeconds=11.352;Key=Am;Rank=4;StartBPM=80.442;</Attributes>
+    <Attributes>Duration=147.827;EndBPM=84.565;FadeIn=0.361;FadeInLengthInSeconds=11.934;FadeOut=127.465;FadeOutLengthInSeconds=11.352;Key=Am;Rank=5;StartBPM=80.442;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Sublime - Badfish</Track>
@@ -4350,7 +4350,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Cimarons - Silent Night; White Christmas</Track>
-    <Attributes>Duration=210.506666666667;EndBPM=90.8918765385344;FadeIn=19.900;FadeInLengthInSeconds=11.128;FadeOut=197.130;FadeOutLengthInSeconds=10.562;Key=Am;PreFadeInPosition=18.471;PreFadeInStartVolume=75;Rank=4;StartBPM=86.2699128941028;</Attributes>
+    <Attributes>Duration=210.506666666667;EndBPM=90.8918765385344;FadeIn=19.900;FadeInLengthInSeconds=11.128;FadeOut=197.130;FadeOutLengthInSeconds=10.562;Key=Am;PreFadeInPosition=18.471;PreFadeInStartVolume=75;Rank=5;StartBPM=86.2699128941028;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Commodores - Rise Up</Track>
@@ -4786,7 +4786,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Toasters - We Three Kings</Track>
-    <Attributes>Duration=54928.608;EndBPM=129.258112292985;FadeIn=2.277;FadeInLengthInSeconds=7.427;FadeOut=142.562;FadeOutLengthInSeconds=7.427;Key=Dm;Rank=4;StartBPM=129.258112292985;</Attributes>
+    <Attributes>Duration=54928.608;EndBPM=129.258112292985;FadeIn=2.277;FadeInLengthInSeconds=7.427;FadeOut=142.562;FadeOutLengthInSeconds=7.427;Key=Dm;Rank=5;StartBPM=129.258112292985;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The U.M.Cs - One to Grow On</Track>
@@ -4910,7 +4910,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Toots &amp; The Maytals - Happy Christmas (The Christmas Song)</Track>
-    <Attributes>Duration=216.659591836735;EndBPM=105.101817385592;FadeIn=23.172;FadeInLengthInSeconds=9.651;FadeOut=189.941;FadeOutLengthInSeconds=9.134;Key=A;Rank=4;StartBPM=99.4715573515698;</Attributes>
+    <Attributes>Duration=216.659591836735;EndBPM=105.101817385592;FadeIn=23.172;FadeInLengthInSeconds=9.651;FadeOut=189.941;FadeOutLengthInSeconds=9.134;Key=A;Rank=5;StartBPM=99.4715573515698;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Tosca - Annanas (Uko Dub)</Track>
