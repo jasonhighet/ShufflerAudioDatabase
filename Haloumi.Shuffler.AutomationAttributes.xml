@@ -9223,6 +9223,24 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Carlene Davis - Santa Claus (Do You Ever Come To The Ghetto)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Sharon Jones &amp; The Dap Kings - God Rest Ye Merry Gents</TrackDescription>
+        <FadeLength>11.886349206349207</FadeLength>
+        <FadeEnd>62226992</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.4388298</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Carolyn Franklin - Deal With It</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -21266,6 +21284,24 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Johnny Clarke - I Saw Mommy Kissing Santa Claus</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Cookin Soul - WHAT did I want (Instrumental)</TrackDescription>
+        <FadeLength>11.42328798185941</FadeLength>
+        <FadeEnd>48870528</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3909792</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Johnny Osbourne - Christmas Stylee</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -31991,7 +32027,18 @@
     <Track>Sharon Jones &amp; The Dap Kings - God Rest Ye Merry Gents</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Johnny Clarke - I Saw Mommy Kissing Santa Claus</TrackDescription>
+        <FadeLength>12.728253968253968</FadeLength>
+        <FadeEnd>36530736</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.056</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -38163,6 +38210,24 @@
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>The Kinstonians - Merry Christmas</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Amerigo Gazaway - Wintertime Dub</TrackDescription>
+        <FadeLength>18.166349206349206</FadeLength>
+        <FadeEnd>56008000</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.104</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>The Marvels - Rock Steady</Track>
     <TrackFXTriggers>
       <TrackFXTrigger>
@@ -41003,6 +41068,16 @@
         <TrackDescription>Alton Ellis - Merry Merry Christmas</TrackDescription>
         <FadeLength>15.18968253968254</FadeLength>
         <FadeEnd>60224448</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.056</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Sharon Jones &amp; The Dap Kings - Just Another Christmas Song</TrackDescription>
+        <FadeLength>10.72609977324263</FadeLength>
+        <FadeEnd>58506952</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.056</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
