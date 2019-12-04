@@ -3305,6 +3305,10 @@
     <Attributes>Duration=246.987755102041;EndBPM=98.1996726677578;FadeIn=0.092;FadeInLengthInSeconds=9.776;FadeOut=97.965;FadeOutLengthInSeconds=19.552;Key=Ebm;Rank=3;StartBPM=98.1996726677578;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Patra - Christmas Time</Track>
+    <Attributes>Duration=210.293;EndBPM=91.910;EndLoopCount=2;FadeIn=13.132;FadeInLengthInSeconds=10.432;FadeOut=143.837;FadeOutLengthInSeconds=5.223;PreFadeInPosition=11.314;PreFadeInStartVolume=75;Rank=4;StartBPM=92.025;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Peggy Lee - Fever</Track>
     <Attributes>Duration=156.003;EndBPM=134.964150147617;FadeIn=0.880;FadeInLengthInSeconds=7.113;FadeOut=94.361;FadeOutLengthInSeconds=7.113;Key=Cm;PowerDown=True;Rank=3;StartBPM=134.964150147617;</Attributes>
   </ExtenedAttributes>
