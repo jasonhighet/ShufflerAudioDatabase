@@ -2540,6 +2540,7 @@
       <string>Amerigo Gazaway - Santa's Workshop, 3</string>
       <string>John Holt - White Xmas (6Blocc Remix), 3</string>
       <string>Cookin Soul - WHAT did I want (Instrumental), 3</string>
+      <string>Patra - Christmas Time, 3</string>
       <string>King Stitt - Christmas Tree, 2</string>
       <string>The Sivertones - Merry Merry Christmas, 2</string>
       <string>Hopeton &amp; Primo - Peace on Earth, 2</string>
@@ -2600,6 +2601,7 @@
       <string>The Toasters - God Rock You Steady Gentleman, 2</string>
       <string>Blues Busters - I Saw Mommy Kissing Santa Claus (RB Edit), 2</string>
       <string>Sharon Jones &amp; The Dap Kings - 8 Days (of Hanukkah), 2</string>
+      <string>Patra - Christmas Time, 2</string>
       <string>The Ronettes - Sleigh Ride, 0</string>
       <string>Black On White Affair - Auld Lang Syne, 0</string>
     </MixRankings>
@@ -2611,6 +2613,7 @@
       <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 4</string>
       <string>Blues Busters - I Saw Mommy Kissing Santa Claus (RB Edit), 4</string>
       <string>Milly &amp; Silly - Getting Down for Christmas, 4</string>
+      <string>Patra - Christmas Time, 4</string>
       <string>Joe Gibbs Family Of Artists - We Three Kings (RB Edit), 3</string>
       <string>Harvey Averne Band - Lets Get it Together This Christmas, 3</string>
       <string>Amerigo Gazaway - Santa's Workshop, 3</string>
@@ -2753,6 +2756,7 @@
       <string>Alton Ellis - Merry Merry Christmas, 3</string>
       <string>Rufus Thomas - I'll Be Your Santa Baby, 3</string>
       <string>John Holt - White Xmas (6Blocc Remix), 3</string>
+      <string>Patra - Christmas Time, 3</string>
       <string>The Cimarons - Silent Night; White Christmas, 2</string>
       <string>Sharon Jones &amp; The Dap Kings - White Christmas, 2</string>
       <string>Hopeton &amp; Primo - Peace on Earth, 2</string>
@@ -4122,6 +4126,10 @@
       <string>Al Green - Let's Stay Together, 0</string>
       <string>King Jammy - Dub It in the Dancehall Dub, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>B.B. King - Christmas Celebration</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Baby Huey &amp; The Baby Sitters - Hard Times</Track>
@@ -6589,6 +6597,7 @@
     <Track>Black On White Affair - Auld Lang Syne</Track>
     <MixRankings>
       <string>Shawn Lee's Ping Pong Orchestra - O Come All Ye Faithful, 4</string>
+      <string>Patra - Christmas Time, 4</string>
       <string>Norman T Washington - It's Christmas Time Again, 3</string>
       <string>Shawn Lee's Ping Pong Orchestra - Do You Hear What I Hear, 3</string>
       <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 3</string>
@@ -7517,6 +7526,7 @@
       <string>Amerigo Gazaway - Christmas Time in Crooklyn, 3</string>
       <string>Run D.M.C. - Christmas In Hollis, 3</string>
       <string>Amerigo Gazaway - Lil' Funky Drummer Boy, 3</string>
+      <string>Patra - Christmas Time, 3</string>
       <string>The Cimarons - Holy Christmas, 2</string>
       <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 2</string>
       <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 2</string>
@@ -9232,6 +9242,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Burning Spear - Slavery Days</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Burning Spear - The Ghost (Marcus Garvey)</Track>
     <MixRankings>
       <string>DJ Nu Mark - Comin' Thru (feat. Chali 2na) (Instrumental) (RB Edit), 4</string>
@@ -9696,6 +9710,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Carlene Davis &amp; Trinity - Santa Claus (Do You Ever Come To The Ghetto)</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Carolyn Franklin - Deal With It</Track>
     <MixRankings>
       <string>Lyn Collins - Give It Up Or Turn It Loose, 4</string>
@@ -9897,6 +9915,10 @@
     <MixRankings>
       <string>Jimmy Jules &amp; Nuclear Soul System - Xmas Done Got Funky, 2</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Charles Bradley - Mary's Baby</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Charles Bradley - No Time For Dreaming</Track>
@@ -10997,6 +11019,7 @@
       <string>The Cimarons - Holy Christmas, 4</string>
       <string>Norman T Washington - It's Christmas Time Again, 4</string>
       <string>Sharon Jones &amp; The Dap Kings - 8 Days (of Hanukkah), 4</string>
+      <string>Patra - Christmas Time, 4</string>
       <string>The Ramsey Lewis Trio - Winter Wonderland, 3</string>
       <string>Run D.M.C. - Christmas In Hollis, 3</string>
       <string>The Ronettes - Sleigh Ride, 3</string>
@@ -13944,6 +13967,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>DJ Jazzy Jeff &amp; The Fresh Prince - A Touch Of Jazz</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>DJ Jazzy Jeff And The Fresh Prince - Summertime (Instrumental)</Track>
     <MixRankings>
       <string>A Tribe Called Quest - 1nce Again (Instrumental) (RB Edit), 5</string>
@@ -14369,6 +14396,10 @@
       <string>Yo Yo Honey Singh - Gabru, 4</string>
       <string>Unknown Artist - Dhan Te Nan, 4</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>DJ Shadow - In Flux</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Djavan - Serrado</Track>
@@ -19264,6 +19295,7 @@
       <string>Hopeton &amp; Primo - Peace on Earth, 2</string>
       <string>Jimmy Smith - Jingle Bells, 2</string>
       <string>Cookin Soul - WHAT did I want (Instrumental), 2</string>
+      <string>Patra - Christmas Time, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -19463,6 +19495,7 @@
       <string>Sharon Jones &amp; The Dap Kings - White Christmas, 2</string>
       <string>The Ramsey Lewis Trio - Winter Wonderland, 2</string>
       <string>Amerigo Gazaway - Santa's Workshop, 2</string>
+      <string>Patra - Christmas Time, 2</string>
       <string>The Toasters - God Rock You Steady Gentleman, 0</string>
       <string>The Ronettes - Sleigh Ride, 0</string>
       <string>Harvey Averne Band - Lets Get it Together This Christmas, 0</string>
@@ -20498,6 +20531,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>J Lara - Hands of the Lord</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>J.D. McDonald - Boogaloo Santa Claus</Track>
     <MixRankings>
       <string>Martin Mull with The Sondra Baskin Glee Club - Santafly, 4</string>
@@ -20973,6 +21010,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Jacob Miller - The Twelve Days of Ismas</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Jacob Miller &amp; Ray I - All I Want for Ismas</Track>
     <MixRankings>
       <string>Barrington Levy &amp; Trinity - Flash Your Dread, 5</string>
@@ -21024,6 +21065,10 @@
       <string>Frank Cosmo - Merry Christmas, 2</string>
       <string>Jacob Miller &amp; Ray I - Silver Bells, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Jah Irie Chorus - Sensimilla (feat Dean Fraser)</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>James Brown - Blind Man Can See It</Track>
@@ -22882,6 +22927,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>João Gilberto - Bim Bom (Live)</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>João Gilberto - Brigas, Nunca Mais</Track>
     <MixRankings>
       <string>Nightmares On Wax - Morse, 4</string>
@@ -23241,6 +23290,7 @@
       <string>Wain Nelson - Santa Claus, 3</string>
       <string>Unknown Artist - Hark The Herald Angels Sing, 3</string>
       <string>Sharon Jones &amp; The Dap Kings - White Christmas, 3</string>
+      <string>Patra - Christmas Time, 3</string>
       <string>The Ramsey Lewis Trio - Winter Wonderland, 2</string>
       <string>Hopeton &amp; Primo - Peace on Earth, 2</string>
       <string>Rufus Thomas - I'll Be Your Santa Baby, 2</string>
@@ -29029,6 +29079,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Mika Singh &amp; Mamta Sharma - Tooh</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Mika Singh &amp; Pankaj Kapoor - Sajh Dhaj Ke</Track>
     <MixRankings>
       <string>Kishore Kumar, Sumit Kumar &amp; Vishal Dadlani - Bachna Ae Haseeno, 4</string>
@@ -29095,6 +29149,7 @@
       <string>The Cimarons - Holy Christmas, 3</string>
       <string>The Toasters - God Rock You Steady Gentleman, 3</string>
       <string>Cookin Soul - Juicy Xmas (Instrumental), 3</string>
+      <string>Patra - Christmas Time, 3</string>
       <string>Don Smith - Black Christmas, 2</string>
       <string>The Ronettes - Sleigh Ride, 2</string>
       <string>Shawn Lee's Ping Pong Orchestra - Do You Hear What I Hear, 2</string>
@@ -31910,6 +31965,32 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Patra - Christmas Time</Track>
+    <MixRankings>
+      <string>Black On White Affair - Auld Lang Syne, 5</string>
+      <string>Harvey Averne Band - Lets Get it Together This Christmas, 4</string>
+      <string>Amerigo Gazaway - Santa's Workshop, 4</string>
+      <string>The Toasters - God Rock You Steady Gentleman, 4</string>
+      <string>Blues Busters - I Saw Mommy Kissing Santa Claus (RB Edit), 4</string>
+      <string>Amerigo Gazaway - Christmas Time in Crooklyn, 4</string>
+      <string>Milly &amp; Silly - Getting Down for Christmas, 4</string>
+      <string>Sharon Jones &amp; The Dap Kings - White Christmas, 3</string>
+      <string>Joe Gibbs Family Of Artists - We Three Kings (RB Edit), 3</string>
+      <string>Wain Nelson - Santa Claus, 3</string>
+      <string>The Soul Saints Orchestra - Santas Got a Bag of Soul, 3</string>
+      <string>Cookin Soul - Juicy Xmas (Instrumental), 3</string>
+      <string>Run D.M.C. - Christmas In Hollis, 3</string>
+      <string>Rufus Thomas - I'll Be Your Santa Baby, 3</string>
+      <string>The Cimarons - Holy Christmas, 2</string>
+      <string>The Ronettes - Sleigh Ride, 2</string>
+      <string>Alton Ellis - Merry Merry Christmas, 2</string>
+      <string>Amerigo Gazaway - Christmas Day, 2</string>
+      <string>Sharon Jones &amp; The Dap Kings - Ain't No Chimneys In The Projects, 0</string>
+      <string>The Ramsey Lewis Trio - Winter Wonderland, 0</string>
+      <string>Sharon Jones &amp; The Dap Kings - 8 Days (of Hanukkah), 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>Peggy Lee - Fever</Track>
     <MixRankings>
       <string>James Last - Let The Sunshine In, 5</string>
@@ -33025,6 +33106,10 @@
       <string>Cal Tjader - Soul Sauce (Guachi Guaro), 2</string>
       <string>Jimmy Smith &amp; Wes Mongomery - OGD (Road Song), 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Pucho &amp; His Latin Soul Brothers - Swamp People</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Quannum Projects - I Changed My Mind (Instrumental)</Track>
@@ -34514,6 +34599,7 @@
       <string>The Ronettes - Sleigh Ride, 2</string>
       <string>Sharon Jones &amp; The Dap Kings - White Christmas, 2</string>
       <string>John Holt - White Xmas (6Blocc Remix), 2</string>
+      <string>Patra - Christmas Time, 2</string>
       <string>The Cimarons - Silent Night; White Christmas, 0</string>
       <string>Hopeton &amp; Primo - Peace on Earth, 0</string>
     </MixRankings>
@@ -34682,6 +34768,7 @@
       <string>Amerigo Gazaway - Santa's Workshop, 2</string>
       <string>Amerigo Gazaway - Christmas Time in Crooklyn, 2</string>
       <string>John Holt - White Xmas (6Blocc Remix), 2</string>
+      <string>Patra - Christmas Time, 2</string>
       <string>Unknown Artist - Hark The Herald Angels Sing, 0</string>
     </MixRankings>
   </TrackMix>
@@ -34705,6 +34792,7 @@
       <string>Cookin Soul - Juicy Xmas (Instrumental), 2</string>
       <string>The Soul Saints Orchestra - Santas Got a Bag of Soul, 0</string>
       <string>Black On White Affair - Auld Lang Syne, 0</string>
+      <string>Patra - Christmas Time, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -36415,6 +36503,7 @@
       <string>Joe Gibbs Family Of Artists - We Three Kings (RB Edit), 3</string>
       <string>The Soul Saints Orchestra - Santas Got a Bag of Soul, 3</string>
       <string>Amerigo Gazaway - Christmas Time in Crooklyn, 3</string>
+      <string>Patra - Christmas Time, 3</string>
       <string>The Cimarons - Silent Night; White Christmas, 2</string>
       <string>Unknown Artist - Hark The Herald Angels Sing, 2</string>
       <string>Alton Ellis - Merry Merry Christmas, 2</string>
@@ -39501,6 +39590,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>The Aggrovators - Christmas Medley</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>The Aggrovators - Santa Claus Dub</Track>
     <MixRankings>
       <string>Doreen Schaffer - Wishing You a Merry Christmas, 4</string>
@@ -40969,6 +41062,7 @@
       <string>Toots &amp; The Maytals - Happy Christmas (The Christmas Song), 2</string>
       <string>The Ronettes - Sleigh Ride, 2</string>
       <string>Run D.M.C. - Christmas In Hollis, 2</string>
+      <string>Patra - Christmas Time, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -43932,6 +44026,7 @@
       <string>Cookin Soul - Juicy Xmas (Instrumental), 2</string>
       <string>Run D.M.C. - Christmas In Hollis, 0</string>
       <string>Blues Busters - I Saw Mommy Kissing Santa Claus (RB Edit), 0</string>
+      <string>Patra - Christmas Time, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -44009,6 +44104,7 @@
       <string>The Cimarons - Silent Night; White Christmas, 2</string>
       <string>The Ramsey Lewis Trio - Winter Wonderland, 2</string>
       <string>Amerigo Gazaway - Christmas Day, 2</string>
+      <string>Patra - Christmas Time, 2</string>
       <string>Rose Graham - Black Christmas, 0</string>
       <string>The Toasters - God Rock You Steady Gentleman, 0</string>
       <string>John Holt - White Xmas (6Blocc Remix), 0</string>
@@ -44358,6 +44454,7 @@
       <string>Unknown Artist - Hark The Herald Angels Sing, 2</string>
       <string>La Sonora Matancera - Llegaron las Navidades, 2</string>
       <string>Sharon Jones &amp; The Dap Kings - White Christmas, 2</string>
+      <string>Patra - Christmas Time, 2</string>
       <string>The Ronettes - Sleigh Ride, 0</string>
       <string>The Toasters - God Rock You Steady Gentleman, 0</string>
       <string>Black On White Affair - Auld Lang Syne, 0</string>
@@ -44775,6 +44872,7 @@
       <string>Joe Gibbs Family Of Artists - We Three Kings (RB Edit), 4</string>
       <string>Amerigo Gazaway - Santa's Workshop, 4</string>
       <string>Amerigo Gazaway - Christmas Time in Crooklyn, 4</string>
+      <string>Patra - Christmas Time, 4</string>
       <string>Wain Nelson - Santa Claus, 3</string>
       <string>Unknown Artist - Hark The Herald Angels Sing, 3</string>
       <string>King Stitt - Christmas Tree, 2</string>
@@ -47021,6 +47119,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Unknown Artist - Dupatta Tera Nau Rang Da</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Unknown Artist - Hark The Herald Angels Sing</Track>
     <MixRankings>
       <string>Wain Nelson - Santa Claus, 4</string>
@@ -47604,6 +47706,7 @@
       <string>Hopeton &amp; Primo - Peace on Earth, 3</string>
       <string>Binky Griptite - Stone Soul Christmas, 3</string>
       <string>Amerigo Gazaway - Christmas Day, 3</string>
+      <string>Patra - Christmas Time, 3</string>
       <string>Barrington Levy &amp; Trinity - I Saw Mommy Kiss A Dreadlocks, 2</string>
       <string>The Cimarons - Silent Night; White Christmas, 2</string>
       <string>Joe Gibbs - We Three Kings, 2</string>
