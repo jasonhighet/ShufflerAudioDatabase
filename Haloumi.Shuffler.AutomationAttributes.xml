@@ -26641,12 +26641,12 @@
       </ExtendedMixAttributes>
       <ExtendedMixAttributes>
         <TrackDescription>Run D.M.C. - Christmas In Hollis</TrackDescription>
-        <FadeLength>10.275396825396825</FadeLength>
-        <FadeEnd>42908168</FadeEnd>
-        <FadeEndLoop>2</FadeEndLoop>
-        <FadeEndVolume>0.3668205</FadeEndVolume>
-        <PowerDownOnEnd>true</PowerDownOnEnd>
-        <ExtendedFadeType>Default</ExtendedFadeType>
+        <FadeLength>0.63874999999999993</FadeLength>
+        <FadeEnd>43069728</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Cut</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
