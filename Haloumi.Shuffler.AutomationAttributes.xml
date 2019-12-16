@@ -2479,8 +2479,57 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Amerigo Gazaway - Wintertime Dub</Track>
-    <TrackFXTriggers />
-    <SampleTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>9.9554421768707488</Start>
+        <Length>1.7599999999999998</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
+    <SampleTriggers>
+      <SampleTrigger>
+        <Start>1.1631972789115646</Start>
+        <Length>0.95755102040816342</Length>
+        <DelayNotes>0</DelayNotes>
+        <SampleID>Amerigo Gazaway - Wintertime Dub - 80 BPM\FL_Scratch_80BPM_2barkick-snaredrummin'break.wav</SampleID>
+      </SampleTrigger>
+      <SampleTrigger>
+        <Start>65.839954648526074</Start>
+        <Length>1.3408390022675718</Length>
+        <DelayNotes>0</DelayNotes>
+        <SampleID>Amerigo Gazaway - Wintertime Dub - 80 BPM\FL_Scratch_80BPM_2barkick-snaredrummin'break.wav</SampleID>
+      </SampleTrigger>
+      <SampleTrigger>
+        <Start>110.40018140589569</Start>
+        <Length>1.4409977324262968</Length>
+        <DelayNotes>0</DelayNotes>
+        <SampleID>Amerigo Gazaway - Wintertime Dub - 80 BPM\FL_Scratch_80BPM_2barkick-snaredrummin'break.wav</SampleID>
+      </SampleTrigger>
+      <SampleTrigger>
+        <Start>118.10004535147392</Start>
+        <Length>0.98002267573696145</Length>
+        <DelayNotes>0</DelayNotes>
+        <SampleID>Amerigo Gazaway - Wintertime Dub - 80 BPM\FL_Scratch_80BPM_2barkick-snaredrummin'break.wav</SampleID>
+      </SampleTrigger>
+      <SampleTrigger>
+        <Start>125.7609977324263</Start>
+        <Length>1.5198185941043079</Length>
+        <DelayNotes>0</DelayNotes>
+        <SampleID>Amerigo Gazaway - Wintertime Dub - 80 BPM\FL_Scratch_80BPM_2barkick-snaredrummin'break.wav</SampleID>
+      </SampleTrigger>
+      <SampleTrigger>
+        <Start>122.62843537414966</Start>
+        <Length>0.98106575963718967</Length>
+        <DelayNotes>0</DelayNotes>
+        <SampleID>Amerigo Gazaway - Wintertime Dub - 80 BPM\FL_Scratch_80BPM_2barkick-snaredrummin'break.wav</SampleID>
+      </SampleTrigger>
+      <SampleTrigger>
+        <Start>1.1535374149659865</Start>
+        <Length>0.09698412698412695</Length>
+        <DelayNotes>0</DelayNotes>
+        <SampleID>Amerigo Gazaway - Wintertime Dub - 80 BPM\FL_Scratch_80BPM_2barkick-snaredrummin'break.wav</SampleID>
+      </SampleTrigger>
+    </SampleTriggers>
     <ExtendedMixes>
       <ExtendedMixAttributes>
         <TrackDescription>James Brown - Go Power at Christmas Time</TrackDescription>
@@ -2500,7 +2549,14 @@
         <FadeEndVolume>1</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>QuickFade</ExtendedFadeType>
-        <SampleTriggers />
+        <SampleTriggers>
+          <SampleTrigger>
+            <Start>136.54052154195011</Start>
+            <Length>0.59945578231292984</Length>
+            <DelayNotes>0</DelayNotes>
+            <SampleID>Carlene Davis - Santa Claus (Do You Ever Come To The Ghetto) - FadeIn</SampleID>
+          </SampleTrigger>
+        </SampleTriggers>
       </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
@@ -9415,7 +9471,32 @@
   <AutomationAttributes>
     <Track>Carlene Davis - Santa Claus (Do You Ever Come To The Ghetto)</Track>
     <TrackFXTriggers />
-    <SampleTriggers />
+    <SampleTriggers>
+      <SampleTrigger>
+        <Start>60.100952380952378</Start>
+        <Length>1.4610430839002291</Length>
+        <DelayNotes>0.25</DelayNotes>
+        <SampleID>Carlene Davis - Santa Claus (Do You Ever Come To The Ghetto) - 80 BPM\FL_Scratch_80BPM_CATCH WRECK! chirp-drag.wav</SampleID>
+      </SampleTrigger>
+      <SampleTrigger>
+        <Start>66.200770975056685</Start>
+        <Length>1.4204988662131513</Length>
+        <DelayNotes>0.25</DelayNotes>
+        <SampleID>Carlene Davis - Santa Claus (Do You Ever Come To The Ghetto) - 80 BPM\FL_Scratch_80BPM_CATCH WRECK! chirp-drag.wav</SampleID>
+      </SampleTrigger>
+      <SampleTrigger>
+        <Start>85.292834467120187</Start>
+        <Length>1.380113378684797</Length>
+        <DelayNotes>0.25</DelayNotes>
+        <SampleID>Carlene Davis - Santa Claus (Do You Ever Come To The Ghetto) - 80 BPM\FL_Scratch_80BPM_CATCH WRECK! chirp-drag.wav</SampleID>
+      </SampleTrigger>
+      <SampleTrigger>
+        <Start>162.71637188208618</Start>
+        <Length>0.91997732426301582</Length>
+        <DelayNotes>0.25</DelayNotes>
+        <SampleID>Carlene Davis - Santa Claus (Do You Ever Come To The Ghetto) - 80 BPM\FL_Scratch_80BPM_CATCH WRECK! chirp-drag.wav</SampleID>
+      </SampleTrigger>
+    </SampleTriggers>
     <ExtendedMixes>
       <ExtendedMixAttributes>
         <TrackDescription>Sharon Jones &amp; The Dap Kings - God Rest Ye Merry Gents</TrackDescription>
@@ -9429,7 +9510,16 @@
       </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
-    <LoopSamples />
+    <LoopSamples>
+      <TrackSample>
+        <Start>0</Start>
+        <Length>3</Length>
+        <IsLooped>true</IsLooped>
+        <Key>80 BPM\FL_Scratch_80BPM_CATCH WRECK! chirp-drag.wav</Key>
+        <Description>FL Scratch 80BPM CATCH WRECK! chirp drag</Description>
+        <IsExternalLoop>true</IsExternalLoop>
+      </TrackSample>
+    </LoopSamples>
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Carolyn Franklin - Deal With It</Track>
@@ -27186,6 +27276,16 @@
         <ExtendedFadeType>Cut</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Amerigo Gazaway - Lil' Funky Drummer Boy</TrackDescription>
+        <FadeLength>0.309546485260771</FadeLength>
+        <FadeEnd>42953592</FadeEnd>
+        <FadeEndLoop>8</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>EchoOut</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
@@ -32104,6 +32204,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Cimarons - Holy Christmas</TrackDescription>
+        <FadeLength>5.0599999999999987</FadeLength>
+        <FadeEnd>53966752</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
@@ -32737,7 +32847,26 @@
   <AutomationAttributes>
     <Track>Sharon Jones &amp; The Dap Kings - God Rest Ye Merry Gents</Track>
     <TrackFXTriggers />
-    <SampleTriggers />
+    <SampleTriggers>
+      <SampleTrigger>
+        <Start>44.338480725623583</Start>
+        <Length>1.0401587301587298</Length>
+        <DelayNotes>0.25</DelayNotes>
+        <SampleID>Sharon Jones &amp; The Dap Kings - God Rest Ye Merry Gents - 80 BPM\FL_Scratch_80BPM_Get! stabb-chirp.wav</SampleID>
+      </SampleTrigger>
+      <SampleTrigger>
+        <Start>50.198458049886618</Start>
+        <Length>1.3000000000000043</Length>
+        <DelayNotes>0.25</DelayNotes>
+        <SampleID>Sharon Jones &amp; The Dap Kings - God Rest Ye Merry Gents - 80 BPM\FL_Scratch_80BPM_Get! stabb-chirp.wav</SampleID>
+      </SampleTrigger>
+      <SampleTrigger>
+        <Start>62.819637188208617</Start>
+        <Length>0.79904761904762012</Length>
+        <DelayNotes>0</DelayNotes>
+        <SampleID>Sharon Jones &amp; The Dap Kings - God Rest Ye Merry Gents - 80 BPM\FL_Scratch_80BPM_Get! stabb-chirp.wav</SampleID>
+      </SampleTrigger>
+    </SampleTriggers>
     <ExtendedMixes>
       <ExtendedMixAttributes>
         <TrackDescription>Johnny Clarke - I Saw Mommy Kissing Santa Claus</TrackDescription>
@@ -32751,7 +32880,16 @@
       </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
-    <LoopSamples />
+    <LoopSamples>
+      <TrackSample>
+        <Start>0</Start>
+        <Length>3</Length>
+        <IsLooped>true</IsLooped>
+        <Key>80 BPM\FL_Scratch_80BPM_Get! stabb-chirp.wav</Key>
+        <Description>FL Scratch 80BPM Get! stabb chirp</Description>
+        <IsExternalLoop>true</IsExternalLoop>
+      </TrackSample>
+    </LoopSamples>
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Sharon Jones &amp; The Dap Kings - Got A Thing On My Mind</Track>
@@ -39077,7 +39215,16 @@
       </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
-    <LoopSamples />
+    <LoopSamples>
+      <TrackSample>
+        <Start>0</Start>
+        <Length>3</Length>
+        <IsLooped>true</IsLooped>
+        <Key>80 BPM\FL_Scratch_80BPM_Run It! trans-crab.wav</Key>
+        <Description>FL Scratch 80BPM Run It! trans crab</Description>
+        <IsExternalLoop>true</IsExternalLoop>
+      </TrackSample>
+    </LoopSamples>
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>The Marvels - Rock Steady</Track>
