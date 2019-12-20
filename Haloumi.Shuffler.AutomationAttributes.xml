@@ -2292,6 +2292,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Marcia Aitken - I'm Still In Love</TrackDescription>
+        <FadeLength>12.214807256235828</FadeLength>
+        <FadeEnd>76155808</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2233978</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -3411,6 +3421,16 @@
         <ExtendedFadeType>PowerDown</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Horace Andy - Zion Gate</TrackDescription>
+        <FadeLength>6.8897732426303859</FadeLength>
+        <FadeEnd>58406160</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.032</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -3649,6 +3669,13 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
+    <TrackSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Bacao Rhythm &amp; Steel Band - P.I.M.P. (Version)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
     <TrackSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -7840,6 +7867,16 @@
         <FadeEndLoop>1</FadeEndLoop>
         <FadeEndVolume>0.3349367</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>King Tubby - King Tubby Dub</TrackDescription>
+        <FadeLength>9.8696145124716548</FadeLength>
+        <FadeEnd>61426920</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.056</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -20848,6 +20885,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Toots &amp; The Maytals - 54</TrackDescription>
+        <FadeLength>12.249251700680272</FadeLength>
+        <FadeEnd>54778744</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2233913</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -23826,16 +23873,6 @@
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
-        <TrackDescription>Sister Nancy - Bam Bam</TrackDescription>
-        <FadeLength>11.360589569160998</FadeLength>
-        <FadeEnd>61357376</FadeEnd>
-        <FadeEndLoop>0</FadeEndLoop>
-        <FadeEndVolume>0.368</FadeEndVolume>
-        <PowerDownOnEnd>false</PowerDownOnEnd>
-        <ExtendedFadeType>Default</ExtendedFadeType>
-        <SampleTriggers />
-      </ExtendedMixAttributes>
-      <ExtendedMixAttributes>
         <TrackDescription>John Holt - Man Next Door (Got To Get Away)</TrackDescription>
         <FadeLength>5.655</FadeLength>
         <FadeEnd>59443264</FadeEnd>
@@ -23843,6 +23880,16 @@
         <FadeEndVolume>1</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>QuickFade</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Sister Nancy - Bam Bam</TrackDescription>
+        <FadeLength>11.822925170068027</FadeLength>
+        <FadeEnd>53556008</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.1276364</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -24520,6 +24567,16 @@
         <FadeEndVolume>1</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>PowerDown</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Lee Perry - Jungle Lion</TrackDescription>
+        <FadeLength>12.047845804988663</FadeLength>
+        <FadeEnd>52561192</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.3189474</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -33061,6 +33118,26 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Slickers - Johnny Too Bad</TrackDescription>
+        <FadeLength>11.753197278911564</FadeLength>
+        <FadeEnd>53313192</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.3191111</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Bob Marley - Run For Cover</TrackDescription>
+        <FadeLength>8.1290249433106574</FadeLength>
+        <FadeEnd>56537928</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3191111</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
   </AutomationAttributes>
@@ -35088,6 +35165,16 @@
         <FadeEndLoop>1</FadeEndLoop>
         <FadeEndVolume>0.528</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>King Jammy - Slow Motion Dub</TrackDescription>
+        <FadeLength>11.587142857142856</FadeLength>
+        <FadeEnd>38140976</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.43875</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
