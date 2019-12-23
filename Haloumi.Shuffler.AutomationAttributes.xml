@@ -3812,6 +3812,7 @@
     <SampleTriggers />
     <ExtendedMixes />
     <TrackSamples />
+    <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Bad Company - 4 Days</Track>
@@ -31130,7 +31131,24 @@
       </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
-    <LoopSamples />
+    <LoopSamples>
+      <TrackSample>
+        <Start>0</Start>
+        <Length>2.4</Length>
+        <IsLooped>true</IsLooped>
+        <Key>100 BPM A\FL_Scratch_100BPM_A_SNARE teaser.wav</Key>
+        <Description>FL Scratch 100BPM A SNARE teaser</Description>
+        <IsExternalLoop>true</IsExternalLoop>
+      </TrackSample>
+      <TrackSample>
+        <Start>0</Start>
+        <Length>2.4</Length>
+        <IsLooped>true</IsLooped>
+        <Key>100 BPM A\FL_Scratch_100BPM_A_stabb combo.wav</Key>
+        <Description>FL Scratch 100BPM A stabb combo</Description>
+        <IsExternalLoop>true</IsExternalLoop>
+      </TrackSample>
+    </LoopSamples>
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Ramsey Lewis - Back In The U.S.S.R</Track>
