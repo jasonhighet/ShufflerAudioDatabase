@@ -10412,6 +10412,14 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Concord Dawn - Drifter</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Concord Dawn - Guardian Angel</Track>
     <TrackFXTriggers />
     <SampleTriggers />

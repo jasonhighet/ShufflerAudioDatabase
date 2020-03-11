@@ -1057,6 +1057,10 @@
     <Attributes>Duration=472.163;EndBPM=90.138;FadeIn=127.836;FadeInLengthInSeconds=21.314;FadeOut=319.477;FadeOutLengthInSeconds=21.301;Rank=3;StartBPM=90.081;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Concord Dawn - Drifter</Track>
+    <Attributes>Duration=421.303;EndBPM=87.254;FadeIn=143.419;FadeInLengthInSeconds=10.996;FadeOut=374.567;FadeOutLengthInSeconds=11.002;Rank=3;StartBPM=87.304;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Concord Dawn - Guardian Angel</Track>
     <Attributes>Duration=408.738;EndBPM=90.177;FadeIn=106.727;FadeInLengthInSeconds=10.596;FadeOut=300.992;FadeOutLengthInSeconds=10.646;PreFadeInPosition=105.622;PreFadeInStartVolume=75;Rank=3;StartBPM=90.604;</Attributes>
   </ExtenedAttributes>
