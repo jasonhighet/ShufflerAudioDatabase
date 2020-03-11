@@ -357,6 +357,10 @@
     <Attributes>Duration=196.36;EndBPM=91.289463674401;EndLoopCount=7;FadeIn=0.338;FadeInLengthInSeconds=10.441;FadeOut=120.684;FadeOutLengthInSeconds=2.629;Key=Am;Rank=3;StartBPM=91.9452159754813;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Bacao Rhythm &amp; Steel Band - P.I.M.P. (Version)</Track>
+    <Attributes>Duration=186.514;EndBPM=82.775;FadeIn=14.692;FadeInLengthInSeconds=11.599;FadeOut=131.345;FadeOutLengthInSeconds=11.598;Rank=4;StartBPM=82.766;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Bad Company - 4 Days</Track>
     <Attributes>Duration=423.262;EndBPM=86.870;FadeIn=44.270;FadeInLengthInSeconds=22.100;FadeOut=243.130;FadeOutLengthInSeconds=44.204;Rank=4;StartBPM=86.878;</Attributes>
   </ExtenedAttributes>
@@ -2706,7 +2710,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>King Jammy - Slow Motion Dub</Track>
-    <Attributes>Duration=192.104;EndBPM=84.8806366047745;FadeIn=3.747;FadeInLengthInSeconds=11.437;FadeOut=162.835;FadeOutLengthInSeconds=5.655;Key=Cm;Rank=3;SkipLengthInSeconds=73.800;SkipStart=70.572;StartBPM=83.9380956544548;</Attributes>
+    <Attributes>Duration=192.104;EndBPM=85.219;FadeIn=3.747;FadeInLengthInSeconds=11.437;FadeOut=151.574;FadeOutLengthInSeconds=11.265;Key=Cm;Rank=3;SkipLengthInSeconds=73.800;SkipStart=70.572;StartBPM=83.938;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>King Stitt - Christmas Tree</Track>
@@ -3910,7 +3914,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Sister Nancy - Bam Bam</Track>
-    <Attributes>Duration=198.04;EndBPM=83.594566353187;FadeIn=23.748;FadeInLengthInSeconds=11.581;FadeOut=151.038;FadeOutLengthInSeconds=11.484;Key=Em;PreFadeInPosition=17.762;PreFadeInStartVolume=00;Rank=3;StartBPM=82.8943959934375;</Attributes>
+    <Attributes>Duration=198.040;EndBPM=83.595;EndLoopCount=2;FadeIn=23.748;FadeInLengthInSeconds=11.581;FadeOut=151.038;FadeOutLengthInSeconds=11.484;Key=Em;Rank=3;StartBPM=82.894;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Slickers - Johnny Too Bad</Track>

@@ -1331,6 +1331,7 @@
     <MixRankings>
       <string>The  Dynamics - Whole Lotta Love, 5</string>
       <string>Various - Tenor Saw - Ring The Alarm, 4</string>
+      <string>Bacao Rhythm &amp; Steel Band - P.I.M.P. (Version), 4</string>
       <string>Jorge Ben - Take It Easy My Brother Charles, 3</string>
       <string>Charles Bradley - The World (Is Going Up In Flames), 3</string>
       <string>Charles Bradley And The Menahan Street Band - The World (Is Going Up In Flames), 3</string>
@@ -2460,10 +2461,10 @@
       <string>King Tubby - The Battle Axe Dub, 4</string>
       <string>Lennie Hibbert - Real Hot (RB Edit), 4</string>
       <string>Augustus Pablo &amp; King Tubby - King Tubby's Borderline Dub, 4</string>
+      <string>Marcia Aitken - I'm Still In Love, 4</string>
       <string>Bill Withers - Use Me, 3</string>
       <string>Gloria Jones - Tainted Love, 3</string>
       <string>Jeru The Damaja - Me Or The Papes (Instrumental), 3</string>
-      <string>Marcia Aitken - I'm Still In Love, 3</string>
       <string>Nightmares On Wax - Morse, 3</string>
       <string>Sharon Jones And The Dap Kings - Make It Good To Me, 3</string>
       <string>Slickers - Johnny Too Bad, 3</string>
@@ -3900,6 +3901,7 @@
       <string>Toots &amp; The Maytals - 54, 3</string>
       <string>The Maytals - Night and Day, 3</string>
       <string>Althea &amp; Donna - Uptown Top Ranking, 3</string>
+      <string>Horace Andy - Zion Gate, 3</string>
       <string>Glen Brown and King Tubby - Lambs Bread Dubwise, 2</string>
       <string>The Revolutionaries - Blacka Black Dub, 2</string>
       <string>Inner Circle - Massacre, 2</string>
@@ -4162,6 +4164,35 @@
       <string>Taggy Matcher - Ain't Hard To Tell, 0</string>
       <string>Young MC - Principal's Office (Instrumental), 0</string>
       <string>Jorge Ben - O Namorado Da Viúva, 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Bacao Rhythm &amp; Steel Band - P.I.M.P. (Version)</Track>
+    <MixRankings>
+      <string>Horace Andy - I Feel Good All Over, 4</string>
+      <string>Inner Circle - Bad Reputation, 4</string>
+      <string>Jeru The Damaja - Me Or The Papes (Instrumental), 4</string>
+      <string>Betty Harris - Break In The Road (feat. The Meters), 4</string>
+      <string>Greyboy - Parkside Bounce, 4</string>
+      <string>Cymande - The Message, 4</string>
+      <string>King Tubby - Dub Ites Green &amp; Gold, 4</string>
+      <string>King Jammy - Slow Motion Dub, 4</string>
+      <string>Tenor Saw - Ring The Alarm, 4</string>
+      <string>King Jammy - Jump Song Dub, 3</string>
+      <string>Horace Andy - Better Collie Version, 3</string>
+      <string>King Tubby - The Battle Axe Dub, 3</string>
+      <string>Jorge Ben - Take It Easy My Brother Charles, 3</string>
+      <string>Lee Fields And Sugarman And Co. - Stand Up, 3</string>
+      <string>King Tubby - Stealing Version, 3</string>
+      <string>Nightmares On Wax - Morse, 3</string>
+      <string>Cypress Hill - Yo Quiero Fumar, 2</string>
+      <string>King Tubby - Black Lash, 2</string>
+      <string>Howard Roberts - Dirty Old Bossa Nova, 2</string>
+      <string>Aaron Neville - Hercules, 2</string>
+      <string>Sly &amp; Robbie - Brain Dub, 2</string>
+      <string>John Holt - Man Next Door (Got To Get Away), 2</string>
+      <string>Joe Dukie &amp; DJ Fitchie - Midnight Marauders, 0</string>
+      <string>Fat Freddys Drop - Roady, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -5828,6 +5859,7 @@
       <string>Toots &amp; The Maytals - 54, 3</string>
       <string>Dorothy Ashby - Come Live with Me, 3</string>
       <string>King Tubby - Dub Ites Green &amp; Gold, 3</string>
+      <string>Bacao Rhythm &amp; Steel Band - P.I.M.P. (Version), 3</string>
       <string>Bill Withers - Use Me, 2</string>
       <string>Blackalicious - Deep In The Jungle (Instrumental), 2</string>
       <string>Booker T &amp; The MG's - Time Is Tight, 2</string>
@@ -7738,6 +7770,7 @@
       <string>Taggy Matcher - Witness, 3</string>
       <string>Sharon Jones &amp; The Dap Kings - Be Easy, 3</string>
       <string>A Tribe Called Quest - Award Tour, 3</string>
+      <string>King Tubby - King Tubby Dub, 3</string>
       <string>A Tribe Called Quest - 1nce Again (Instrumental), 2</string>
       <string>A Tribe Called Quest - Oh My God, 2</string>
       <string>Aloe Blacc - I Need A Dollar (Instrumental), 2</string>
@@ -9257,6 +9290,10 @@
       <string>King Tubby - Turntable Dub, 2</string>
       <string>Sly &amp; Robbie - Hypocrite Dub, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Burning Spear - Slavery Days</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Burning Spear - The Ghost (Marcus Garvey)</Track>
@@ -11911,6 +11948,7 @@
       <string>Jurassic 5 - Quality Control, 3</string>
       <string>Gian Franco Pienzio - Grigio Perla, 3</string>
       <string>The Three Degrees - You're The Fool, 3</string>
+      <string>Bacao Rhythm &amp; Steel Band - P.I.M.P. (Version), 3</string>
       <string>Group Home - Intro (Instrumental), 2</string>
       <string>Jeru The Damaja - Me Or The Papes (Instrumental), 2</string>
       <string>João Gilberto - Brigas, Nunca Mais, 2</string>
@@ -14031,6 +14069,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>DJ Jazzy Jeff &amp; The Fresh Prince - A Touch Of Jazz</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>DJ Jazzy Jeff And The Fresh Prince - Summertime (Instrumental)</Track>
     <MixRankings>
       <string>A Tribe Called Quest - 1nce Again (Instrumental) (RB Edit), 5</string>
@@ -14456,6 +14498,10 @@
       <string>Yo Yo Honey Singh - Gabru, 4</string>
       <string>Unknown Artist - Dhan Te Nan, 4</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>DJ Shadow - In Flux</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Djavan - Serrado</Track>
@@ -17035,6 +17081,7 @@
       <string>Byron Lee - Hot Reggae, 2</string>
       <string>Pete Rock - A Little Soul, 2</string>
       <string>Jurassic 5 - Concrete Schoolyard, 2</string>
+      <string>Bacao Rhythm &amp; Steel Band - P.I.M.P. (Version), 2</string>
       <string>Elza Soares - Chove Chuva, 0</string>
       <string>Jorge Ben - Take It Easy My Brother Charles, 0</string>
       <string>Jorge Ben - Mas Que Nada, 0</string>
@@ -18697,6 +18744,7 @@
     <Track>Greyboy - Parkside Bounce</Track>
     <MixRankings>
       <string>Grassella Oliphant Quartette - Get Out Of My Life Woman, 4</string>
+      <string>Bacao Rhythm &amp; Steel Band - P.I.M.P. (Version), 4</string>
       <string>Stan Getz &amp; Charlie Byrd - Desafinado, 3</string>
       <string>Cortex - Troupeau Bleu, 3</string>
       <string>Ernest Ranglin - Satta Massagana, 3</string>
@@ -19776,6 +19824,7 @@
       <string>John Holt - Man Next Door (Got To Get Away), 4</string>
       <string>Arrested Development - People Everyday (Instrumental) (RB Edit), 4</string>
       <string>Fat Freddys Drop - Roady, 4</string>
+      <string>Bacao Rhythm &amp; Steel Band - P.I.M.P. (Version), 4</string>
       <string>Cymande - The Message, 3</string>
       <string>Evinha - Que Bandeira, 3</string>
       <string>Al Brown - Here I Am Baby, 3</string>
@@ -19932,6 +19981,7 @@
       <string>Jeru The Damaja - Me Or The Papes (Instrumental), 4</string>
       <string>Dorothy Ashby - Come Live with Me, 4</string>
       <string>Pharrell Williams - Happy, 4</string>
+      <string>Bacao Rhythm &amp; Steel Band - P.I.M.P. (Version), 4</string>
       <string>Betty Harris - Break In The Road (feat. The Meters), 3</string>
       <string>Cymande - The Message, 3</string>
       <string>Cypress Hill - Yo Quiero Fumar, 3</string>
@@ -20749,6 +20799,7 @@
       <string>Jurassic 5 - Lausd (Instrumental) (RB Edit), 3</string>
       <string>Fela Soul - Still Ego Trippin' (Instrumental), 3</string>
       <string>DJ Muggs vs. Sick Jacken - El Barrio, 3</string>
+      <string>King Jammy - Dub It in the Dancehall Dub, 3</string>
       <string>A Tribe Called Quest - Jam, 2</string>
       <string>Aloe Blacc - I Need A Dollar, 2</string>
       <string>DJ Jazzy Jeff And The Fresh Prince - Summertime (Instrumental), 2</string>
@@ -22659,6 +22710,7 @@
       <string>Jurassic 5 - Quality Control, 4</string>
       <string>Dorothy Ashby - Come Live with Me, 4</string>
       <string>Aaron Neville - Hercules, 4</string>
+      <string>Bacao Rhythm &amp; Steel Band - P.I.M.P. (Version), 4</string>
       <string>Sharon Jones &amp; The Dap Kings - Make It Good To Me, 3</string>
       <string>Tenor Saw - Ring The Alarm, 3</string>
       <string>The Meters - Handclapping Song, 3</string>
@@ -22711,12 +22763,12 @@
       <string>King Tubby - The Battle Axe Dub, 4</string>
       <string>The  Dynamics - Whole Lotta Love, 4</string>
       <string>Marcia Aitken - I'm Still In Love, 4</string>
+      <string>Toots &amp; The Maytals - 54, 4</string>
       <string>Stan Getz &amp; Astrud Gilberto - One Note Samba (Live), 3</string>
       <string>Tamba Trio - Mas Que Nada, 3</string>
       <string>King Tubby - Black Lash, 3</string>
       <string>Nightmares On Wax - Morse, 3</string>
       <string>Betty Harris - Break In The Road (feat. The Meters), 3</string>
-      <string>Toots &amp; The Maytals - 54, 3</string>
       <string>Aaron Neville - Hercules, 3</string>
       <string>Bill Withers - Use Me, 3</string>
       <string>Slickers - Johnny Too Bad, 3</string>
@@ -22975,6 +23027,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>João Gilberto - Bim Bom (Live)</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>João Gilberto - Brigas, Nunca Mais</Track>
     <MixRankings>
       <string>Nightmares On Wax - Morse, 4</string>
@@ -23110,6 +23166,7 @@
       <string>Tenor Saw - Ring The Alarm, 3</string>
       <string>Pharrell Williams - Happy, 3</string>
       <string>King Tubby - The Battle Axe Dub, 3</string>
+      <string>Bacao Rhythm &amp; Steel Band - P.I.M.P. (Version), 3</string>
       <string>Jorge Ben - País Tropical, 2</string>
       <string>Jorge Ben - Por Causa de Voce Menina, 2</string>
       <string>Stan Getz &amp; Astrud Gilberto - One Note Samba (Live), 2</string>
@@ -24764,6 +24821,7 @@
       <string>Jeru The Damaja - Me Or The Papes (Instrumental), 4</string>
       <string>Harry J All Stars - Liquidator, 4</string>
       <string>Seu Jorge - Carolina, 4</string>
+      <string>Bacao Rhythm &amp; Steel Band - P.I.M.P. (Version), 4</string>
       <string>Betty Harris - Break In The Road (feat. The Meters), 3</string>
       <string>Tenor Saw - Ring The Alarm, 3</string>
       <string>Beastie Boys - Groove Holmes, 3</string>
@@ -26740,6 +26798,7 @@
     <Track>King Jammy - Jump Song Dub</Track>
     <MixRankings>
       <string>Horace Andy - Nice And Easy Dub, 4</string>
+      <string>Bacao Rhythm &amp; Steel Band - P.I.M.P. (Version), 4</string>
       <string>King Tubby - Black Lash, 3</string>
       <string>Sly &amp; Robbie - Asian Roots Dub, 3</string>
       <string>King Jammy - Slow Motion Dub, 3</string>
@@ -26756,9 +26815,10 @@
     <MixRankings>
       <string>Dub Specialist - Dub It Easy, 4</string>
       <string>John Holt - Man Next Door (Got To Get Away), 4</string>
-      <string>Sister Nancy - Bam Bam, 3</string>
+      <string>Sister Nancy - Bam Bam, 4</string>
       <string>The Gaylettes - Son Of A Preacher Man, 3</string>
       <string>Fat Freddys Drop - Roady, 3</string>
+      <string>Bacao Rhythm &amp; Steel Band - P.I.M.P. (Version), 3</string>
       <string>Horace Andy - Nice And Easy Dub, 2</string>
       <string>Sly &amp; Robbie - Asian Roots Dub, 2</string>
       <string>Horace Andy - Dub 68, 2</string>
@@ -26813,6 +26873,7 @@
       <string>Willie Bobo - Lisa, 3</string>
       <string>Blackalicious - Deep In The Jungle (Instrumental), 3</string>
       <string>The Diplomats Of Solid Sound - Smokey Places, 3</string>
+      <string>Bacao Rhythm &amp; Steel Band - P.I.M.P. (Version), 3</string>
       <string>Augustus Pablo &amp; King Tubby - King Tubby's Borderline Dub, 2</string>
       <string>Horace Andy - Better Collie Version, 2</string>
       <string>Glen Brown and King Tubby - Lambs Bread Dubwise, 2</string>
@@ -26880,6 +26941,7 @@
       <string>King Tubby - Stealing Version, 3</string>
       <string>Horace Andy - Dub 68, 3</string>
       <string>Sly &amp; Robbie - Brain Dub, 3</string>
+      <string>Bacao Rhythm &amp; Steel Band - P.I.M.P. (Version), 3</string>
       <string>King Tubby - The Battle Axe Dub, 2</string>
       <string>Scientist - Rasta Dub It Everywhere Dub, 2</string>
       <string>Massive Attack - Teardrop, 2</string>
@@ -26990,6 +27052,8 @@
       <string>The J.B.'s - Gimme Some More, 3</string>
       <string>Tosca - Chocolate Elvis (Boozoo Bajou Version), 3</string>
       <string>Cookin' On 3 Burners - This Girl (feat. Kylie Auldist), 3</string>
+      <string>Lee Perry - Jungle Lion, 3</string>
+      <string>The Marvels - Rock Steady, 3</string>
       <string>Burning Spear - The Ghost (Marcus Garvey), 2</string>
       <string>Jurassic 5 - Freedom (Instrumental), 2</string>
       <string>Damu the Fudgemunk - Start Here (RB Edit), 2</string>
@@ -27168,6 +27232,7 @@
       <string>Horace Andy - Better Collie Version, 4</string>
       <string>King Tubby - Tubby Get Smart, 4</string>
       <string>Cypress Hill - Yo Quiero Fumar, 4</string>
+      <string>Bacao Rhythm &amp; Steel Band - P.I.M.P. (Version), 4</string>
       <string>King Jammy - Jump Song Dub, 3</string>
       <string>The Revolutionaries - Blacka Black Dub, 3</string>
       <string>Prince Fatty - Milk and Honey In My Dub, 3</string>
@@ -27206,6 +27271,8 @@
       <string>Nightmares On Wax - Morse, 3</string>
       <string>Greyboy - Parkside Bounce, 3</string>
       <string>Aaron Neville - Hercules, 3</string>
+      <string>Toots &amp; The Maytals - 54, 3</string>
+      <string>Bacao Rhythm &amp; Steel Band - P.I.M.P. (Version), 3</string>
       <string>Augustus Pablo &amp; King Tubby - King Tubby's Borderline Dub, 2</string>
       <string>The Revolutionaries - Blacka Black Dub, 2</string>
       <string>King Tubby - A Truthful Dub, 2</string>
@@ -27887,6 +27954,7 @@
     <MixRankings>
       <string>Tenor Saw - Ring The Alarm, 4</string>
       <string>King Tubby - The Battle Axe Dub, 3</string>
+      <string>Bacao Rhythm &amp; Steel Band - P.I.M.P. (Version), 3</string>
       <string>Billy Wade &amp; The 3 Degrees - Tear It Up (Part 2), 2</string>
       <string>Cymande - The Message, 2</string>
       <string>Dusty Springfield - Willie &amp; Laura Mae Jones, 2</string>
@@ -29121,6 +29189,10 @@
       <string>Spiller - Groovejet (Radio Edit) (Instrumental), 0</string>
       <string>Thievery Corporation - Shadows Of Ourselves, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Mika Singh &amp; Mamta Sharma - Tooh</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Mika Singh &amp; Pankaj Kapoor - Sajh Dhaj Ke</Track>
@@ -30923,6 +30995,7 @@
       <string>The Gaturs - The Booger Man, 3</string>
       <string>Frank Pleyer - Sally, 3</string>
       <string>Stan Getz &amp; Astrud Gilberto - One Note Samba (Live), 3</string>
+      <string>Bacao Rhythm &amp; Steel Band - P.I.M.P. (Version), 3</string>
       <string>Aaron Neville - Hercules, 2</string>
       <string>Althea &amp; Donna - Uptown Top Ranking, 2</string>
       <string>Gal Costa &amp; Caetano Veloso - Remelexo, 2</string>
@@ -36944,6 +37017,7 @@
       <string>Cymande - The Message, 4</string>
       <string>The Meters - Handclapping Song, 4</string>
       <string>The 3 Sounds - Put on Train, 4</string>
+      <string>Bob Marley - Run For Cover, 4</string>
       <string>Betty Harris - Break In The Road (feat. The Meters), 3</string>
       <string>Cypress Hill - Yo Quiero Fumar, 3</string>
       <string>Handsome Boy Modeling School - The Truth (feat. Roisin Murphy &amp; J-Live), 3</string>
@@ -37123,6 +37197,7 @@
       <string>Inner Circle - Massacre, 4</string>
       <string>Glen Brown and King Tubby - Lambs Bread Dubwise, 4</string>
       <string>Horace Andy - Better Collie Version, 4</string>
+      <string>Bacao Rhythm &amp; Steel Band - P.I.M.P. (Version), 4</string>
       <string>Prince Fatty - Milk and Honey In My Dub, 3</string>
       <string>King Tubby - Stealing Version, 3</string>
       <string>Augustus Pablo &amp; King Tubby - King Tubby's Borderline Dub, 3</string>
@@ -39376,6 +39451,7 @@
     <MixRankings>
       <string>Cymande - The Message, 5</string>
       <string>Jurassic 5 - Quality Control, 5</string>
+      <string>King Jammy - Slow Motion Dub, 5</string>
       <string>Nas - The World Is Yours (Instrumental), 4</string>
       <string>Dub Specialist - Dub It Easy, 4</string>
       <string>Al Brown - Here I Am Baby, 4</string>
@@ -39390,6 +39466,7 @@
       <string>Sister Nancy - Bam Bam, 3</string>
       <string>Byron Lee - Hot Reggae, 3</string>
       <string>The Gaylettes - Son Of A Preacher Man, 3</string>
+      <string>Bacao Rhythm &amp; Steel Band - P.I.M.P. (Version), 3</string>
       <string>Althea &amp; Donna - Uptown Top Ranking, 2</string>
       <string>Betty Harris - Break In The Road (feat. The Meters), 2</string>
       <string>Charles Bradley And The Menahan Street Band - The World (Is Going Up In Flames), 2</string>
@@ -42974,6 +43051,7 @@
       <string>Sharon Jones &amp; The Dap Kings - How Long Do I Have To Wait, 3</string>
       <string>Breakestra - Come On Over (feat. Afrodyete), 3</string>
       <string>Sharon Jones And The Dap Kings - How Long Do I Have To Wait, 3</string>
+      <string>Jackie Mittoo - Get Up And Get It, 3</string>
       <string>A Tribe Called Quest - Jam, 2</string>
       <string>Al Green - I'm Still In Love With You, 2</string>
       <string>Al Green - Love And Happiness, 2</string>
@@ -47153,6 +47231,10 @@
       <string>Sunidhi Chauhan - Kamli, 3</string>
       <string>DJ Sanj &amp; Master Saleem - Teray Hussan De Maare, 2</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Unknown Artist - Dupatta Tera Nau Rang Da</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Unknown Artist - Hark The Herald Angels Sing</Track>
