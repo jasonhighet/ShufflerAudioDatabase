@@ -377,6 +377,10 @@
     <Attributes>Duration=351.160;EndBPM=86.099;FadeIn=89.300;FadeInLengthInSeconds=11.152;FadeOut=312.562;FadeOutLengthInSeconds=11.150;PreFadeInPosition=86.915;PreFadeInStartVolume=25;Rank=3;StartBPM=86.083;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Bad Company - China Cup</Track>
+    <Attributes>Duration=377.339;EndBPM=89.124;FadeIn=78.844;FadeInLengthInSeconds=5.383;FadeOut=323.869;FadeOutLengthInSeconds=10.771;Rank=3;StartBPM=89.169;StartLoopCount=2;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Bad Company - Four Days</Track>
     <Attributes>Duration=424.960;EndBPM=86.541;FadeIn=55.275;FadeInLengthInSeconds=11.093;FadeOut=243.102;FadeOutLengthInSeconds=11.093;Rank=3;StartBPM=86.541;</Attributes>
   </ExtenedAttributes>

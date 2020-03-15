@@ -4323,6 +4323,7 @@
       <string>Bad Company - Oxygen (The Drilla Killa), 3</string>
       <string>Cause4Concern - Never Acid Again, 3</string>
       <string>Genetix - Structures (Future Prophecies Remix), 3</string>
+      <string>Bad Company - China Cup, 3</string>
       <string>Bad Company - Night Train, 2</string>
       <string>Bad Company - Rage, 2</string>
     </MixRankings>
@@ -4341,6 +4342,7 @@
       <string>Cause4Concern - Never Acid Again, 4</string>
       <string>Genetix - Structures (Future Prophecies Remix), 4</string>
       <string>Cybernetika - Hayashis Journey, 4</string>
+      <string>Bad Company - China Cup, 4</string>
       <string>Black Sun Empire - Arrakis, 3</string>
       <string>Bad Company - Rage, 3</string>
       <string>Cybernetika - Vaporized, 3</string>
@@ -4349,8 +4351,33 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>Bad Company - Digital Nation</Track>
-    <MixRankings />
+    <Track>Bad Company - China Cup</Track>
+    <MixRankings>
+      <string>Concord Dawn - The Fallen, 5</string>
+      <string>Bad Company - Sentient, 5</string>
+      <string>Concord Dawn - 6.13, 5</string>
+      <string>Future Prophecies - Miniamba (feat. Mari Boine), 4</string>
+      <string>Vortech - Humanity: Static (Cybernetika Remix), 4</string>
+      <string>Bad Company - Oxygen (The Drilla Killa), 4</string>
+      <string>Bad Company - Pulse, 4</string>
+      <string>Cybernetika - Electron Tracker, 4</string>
+      <string>Black Sun Empire - Feed The Machine (feat. Noisia), 4</string>
+      <string>Bad Company - Thin Air, 3</string>
+      <string>Cybernetika - Distress Beacon, 3</string>
+      <string>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix), 3</string>
+      <string>Bad Company - Nitrous, 3</string>
+      <string>Bad Company - Bullet Time, 3</string>
+      <string>Bad Company - Hysteria, 3</string>
+      <string>Black Sun Empire - Arrakis, 3</string>
+      <string>Bad Company - Rage, 3</string>
+      <string>Cybernetika - Constellations, 3</string>
+      <string>Bad Company - Night Train, 3</string>
+      <string>Bad Company - Bullet Time (Spor Remix), 2</string>
+      <string>Cybernetika - Monolithic, 2</string>
+      <string>Cause4Concern - Never Acid Again, 2</string>
+      <string>Cybernetika - Stinger, 2</string>
+      <string>Cybernetika - Hayashis Journey, 2</string>
+    </MixRankings>
   </TrackMix>
   <TrackMix>
     <Track>Bad Company - Four Days</Track>
@@ -4371,6 +4398,7 @@
       <string>Bad Company - Pulse, 4</string>
       <string>Cause4Concern - Never Acid Again, 4</string>
       <string>Cause4Concern - Dream Killer, 4</string>
+      <string>Bad Company - China Cup, 4</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 3</string>
       <string>Cybernetika - Monolithic, 3</string>
       <string>Bad Company - Sentient, 3</string>
@@ -4422,6 +4450,7 @@
       <string>Bad Company - Oxygen (The Drilla Killa), 3</string>
       <string>Genetix - Structures (Future Prophecies Remix), 3</string>
       <string>Future Prophecies - Fire, 3</string>
+      <string>Bad Company - China Cup, 3</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 2</string>
       <string>Concord Dawn - Shinkansen, 2</string>
       <string>Black Sun Empire - Descent, 2</string>
@@ -4451,6 +4480,7 @@
       <string>Cybernetika - Vaporized, 3</string>
       <string>Cause4Concern - Never Acid Again, 3</string>
       <string>Genetix - Structures (Future Prophecies Remix), 3</string>
+      <string>Bad Company - China Cup, 3</string>
       <string>Bad Company - Sentient, 2</string>
       <string>Cybernetika - Monolithic, 2</string>
       <string>Cybernetika - Electron Tracker, 2</string>
@@ -4479,6 +4509,7 @@
       <string>Genetix - Structures (Future Prophecies Remix), 4</string>
       <string>Cybernetika - Hayashis Journey, 4</string>
       <string>Future Prophecies - Fire, 4</string>
+      <string>Bad Company - China Cup, 4</string>
       <string>Bad Company - Bullet Time (Spor Remix), 3</string>
       <string>Bad Company - Nitrous, 3</string>
       <string>Bad Company - Night Train, 3</string>
@@ -4509,6 +4540,7 @@
       <string>Vortech - Humanity: Static (Cybernetika Remix), 4</string>
       <string>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix), 4</string>
       <string>Future Prophecies - Miniamba (feat. Mari Boine), 4</string>
+      <string>Bad Company - China Cup, 4</string>
       <string>Bad Company - Rage, 3</string>
       <string>Concord Dawn - Aces High (feat. State of Mind), 3</string>
       <string>Bad Company - Hysteria, 2</string>
@@ -4522,6 +4554,7 @@
       <string>Bad Company - Oxygen (The Drilla Killa), 4</string>
       <string>Bad Company - Toxin, 4</string>
       <string>Future Prophecies - Miniamba (feat. Mari Boine), 4</string>
+      <string>Bad Company - China Cup, 4</string>
       <string>Concord Dawn - Killsaw, 3</string>
       <string>Black Sun Empire - Arrakis, 3</string>
       <string>Bad Company - Bullet Time (Spor Remix), 3</string>
@@ -4563,6 +4596,7 @@
       <string>Cybernetika - Hayashis Journey, 4</string>
       <string>Future Prophecies - Fire, 4</string>
       <string>Future Prophecies - Miniamba (feat. Mari Boine), 4</string>
+      <string>Bad Company - China Cup, 4</string>
       <string>Cybernetika - Monolithic, 3</string>
       <string>Bad Company - Brain Scan, 3</string>
       <string>Black Sun Empire - Battalion, 3</string>
@@ -4589,6 +4623,10 @@
       <string>Cybernetika - Vaporized, 0</string>
       <string>Genetix - Structures (Future Prophecies Remix), 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Bad Company - Son Of Nitrous</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Bad Company - The Fear</Track>
@@ -4694,6 +4732,7 @@
       <string>Cybernetika - Constellations, 0</string>
       <string>Bad Company - The Nine, 0</string>
       <string>Future Prophecies - Miniamba (feat. Mari Boine), 0</string>
+      <string>Bad Company - China Cup, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -6750,6 +6789,7 @@
       <string>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix), 3</string>
       <string>Bad Company - Toxin, 3</string>
       <string>Future Prophecies - Fire, 3</string>
+      <string>Bad Company - China Cup, 3</string>
       <string>Bad Company - Night Train, 2</string>
       <string>Bad Company - Rage, 2</string>
       <string>Camo &amp; Krooked - Terra, 2</string>
@@ -6875,11 +6915,8 @@
       <string>Bad Company - Thin Air, 2</string>
       <string>Vortech - Humanity: Static (Cybernetika Remix), 2</string>
       <string>Bad Company - Nitrous, 2</string>
+      <string>Bad Company - China Cup, 2</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>Black Sun Empire - Boris The Blade (Optiv Remix)</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Black Sun Empire - Breach (The Upbeats Remix)</Track>
@@ -7228,6 +7265,7 @@
       <string>Concord Dawn - Aces High (feat. State of Mind), 3</string>
       <string>Cause4Concern - Never Acid Again, 3</string>
       <string>Cause4Concern - Crash Test, 3</string>
+      <string>Bad Company - China Cup, 3</string>
       <string>Bad Company - Oxygen (The Drilla Killa), 2</string>
     </MixRankings>
   </TrackMix>
@@ -7308,14 +7346,6 @@
       <string>Concord Dawn - Drifter, 2</string>
       <string>Camo &amp; Krooked - Terra, 0</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>Black Sun Empire - Killing The Light</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
-    <Track>Black Sun Empire - Milkshake (feat. Eye D) (VIP Remix)</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix)</Track>
@@ -9952,6 +9982,7 @@
       <string>Cause4Concern - Dream Killer, 4</string>
       <string>Future Prophecies - Miniamba (feat. Mari Boine), 4</string>
       <string>Cause4Concern - Crash Test, 4</string>
+      <string>Bad Company - China Cup, 4</string>
       <string>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix), 3</string>
       <string>Bad Company - Thin Air, 3</string>
       <string>Bad Company - Bullet Time (Spor Remix), 3</string>
@@ -10669,6 +10700,7 @@
       <string>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix), 4</string>
       <string>Cause4Concern - Dream Killer, 4</string>
       <string>Future Prophecies - Miniamba (feat. Mari Boine), 4</string>
+      <string>Bad Company - China Cup, 4</string>
       <string>Cybernetika - Stinger, 3</string>
       <string>Bad Company - Nitrous, 3</string>
       <string>Bad Company - The Nine, 3</string>
@@ -11048,6 +11080,7 @@
       <string>Bad Company - Thin Air, 2</string>
       <string>Cause4Concern - Dream Killer, 2</string>
       <string>Cause4Concern - Crash Test, 2</string>
+      <string>Bad Company - China Cup, 2</string>
       <string>Cybernetika - Distress Beacon, 0</string>
       <string>Cybernetika - Monolithic, 0</string>
       <string>Bad Company - 4 Days, 0</string>
@@ -11555,6 +11588,7 @@
       <string>Cause4Concern - Never Acid Again, 4</string>
       <string>Cause4Concern - Dream Killer, 4</string>
       <string>Cause4Concern - Crash Test, 4</string>
+      <string>Bad Company - China Cup, 4</string>
       <string>Black Sun Empire - Feed The Machine (feat. Noisia), 3</string>
       <string>Cybernetika - Distress Beacon, 3</string>
       <string>Bad Company - Nitrous, 3</string>
@@ -11622,6 +11656,7 @@
       <string>Concord Dawn - 6.13, 4</string>
       <string>Cause4Concern - Never Acid Again, 4</string>
       <string>Future Prophecies - Miniamba (feat. Mari Boine), 4</string>
+      <string>Bad Company - China Cup, 4</string>
       <string>Cybernetika - Monolithic, 3</string>
       <string>Black Sun Empire - 1800 Contact, 3</string>
       <string>Black Sun Empire - Descent, 3</string>
@@ -11661,6 +11696,7 @@
       <string>Genetix - Structures (Future Prophecies Remix), 4</string>
       <string>Cybernetika - Hayashis Journey, 4</string>
       <string>Future Prophecies - Fire, 4</string>
+      <string>Bad Company - China Cup, 4</string>
       <string>Bad Company - Night Train, 3</string>
       <string>Concord Dawn - 6.13, 3</string>
       <string>Future Prophecies - Miniamba (feat. Mari Boine), 3</string>
@@ -11717,6 +11753,7 @@
       <string>Genetix - Structures (Future Prophecies Remix), 4</string>
       <string>Future Prophecies - Fire, 4</string>
       <string>Future Prophecies - Miniamba (feat. Mari Boine), 4</string>
+      <string>Bad Company - China Cup, 4</string>
       <string>Bad Company - Bullet Time (Spor Remix), 3</string>
       <string>Bad Company - Nitrous, 3</string>
       <string>Cybernetika - Neuronal Interface, 3</string>
@@ -11751,6 +11788,7 @@
       <string>Bad Company - Bullet Time, 2</string>
       <string>Bad Company - Rage, 2</string>
       <string>Cause4Concern - Never Acid Again, 2</string>
+      <string>Bad Company - China Cup, 2</string>
       <string>Black Sun Empire - 1800 Contact, 0</string>
       <string>Concord Dawn - Shinkansen, 0</string>
       <string>Black Sun Empire - Descent, 0</string>
@@ -11851,6 +11889,7 @@
       <string>Concord Dawn - 6.13, 4</string>
       <string>Cause4Concern - Never Acid Again, 4</string>
       <string>Cause4Concern - Dream Killer, 4</string>
+      <string>Bad Company - China Cup, 4</string>
       <string>Bad Company - Breathe, 3</string>
       <string>Cybernetika - Anomaly, 3</string>
       <string>Black Sun Empire - Battalion, 3</string>
@@ -15054,7 +15093,6 @@
       <string>Nightmares On Wax - The Sweetest, 4</string>
       <string>Beastie Boys - Some Dumb Cop Gave Me Two Tickets Already (Instrumental), 4</string>
       <string>Eddie Henderson - Inside You, 4</string>
-      <string>Lee 'Scratch' Perry and King Tubby - MFA Dub, 4</string>
       <string>Janet Jackson - Got 'Till It's Gone (feat. Q-Tip), 3</string>
       <string>Sly &amp; Robbie - Asian Roots Dub, 3</string>
       <string>Jorge Ben - Salve Se Quem Puder, 3</string>
@@ -15081,6 +15119,7 @@
       <string>Dusty Springfield - Son Of A Preacher Man, 0</string>
       <string>The Three Degrees - You're The Fool, 0</string>
       <string>Seu Jorge - Carolina, 0</string>
+      <string>Lee 'Scratch' Perry and King Tubby - MFA Dub, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -17716,6 +17755,7 @@
     <MixRankings>
       <string>Vortech - Humanity: Static (Cybernetika Remix), 5</string>
       <string>Black Sun Empire - Arrakis, 5</string>
+      <string>Bad Company - China Cup, 5</string>
       <string>Bad Company - Thin Air, 4</string>
       <string>Cybernetika - Distress Beacon, 4</string>
       <string>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix), 4</string>
@@ -47799,6 +47839,7 @@
       <string>Concord Dawn - The Fallen, 5</string>
       <string>Bad Company - Sentient, 5</string>
       <string>Future Prophecies - Miniamba (feat. Mari Boine), 5</string>
+      <string>Bad Company - China Cup, 5</string>
       <string>Bad Company - Thin Air, 4</string>
       <string>Cybernetika - Distress Beacon, 4</string>
       <string>Cybernetika - Electron Tracker, 4</string>
