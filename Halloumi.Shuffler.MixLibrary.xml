@@ -4372,12 +4372,17 @@
       <string>Bad Company - Rage, 3</string>
       <string>Cybernetika - Constellations, 3</string>
       <string>Bad Company - Night Train, 3</string>
+      <string>Black Sun Empire - Boris The Blade (Optiv Remix), 3</string>
       <string>Bad Company - Bullet Time (Spor Remix), 2</string>
       <string>Cybernetika - Monolithic, 2</string>
       <string>Cause4Concern - Never Acid Again, 2</string>
       <string>Cybernetika - Stinger, 2</string>
       <string>Cybernetika - Hayashis Journey, 2</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Bad Company - Digital Nation</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Bad Company - Four Days</Track>
@@ -4421,6 +4426,7 @@
       <string>Black Sun Empire - Breach (The Upbeats Remix), 2</string>
       <string>Concord Dawn - Aces High (feat. State of Mind), 2</string>
       <string>Cause4Concern - Reality Check, 2</string>
+      <string>Black Sun Empire - Boris The Blade (Optiv Remix), 2</string>
       <string>Bad Company - Rage, 0</string>
     </MixRankings>
   </TrackMix>
@@ -4541,6 +4547,7 @@
       <string>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix), 4</string>
       <string>Future Prophecies - Miniamba (feat. Mari Boine), 4</string>
       <string>Bad Company - China Cup, 4</string>
+      <string>Black Sun Empire - Boris The Blade (Optiv Remix), 4</string>
       <string>Bad Company - Rage, 3</string>
       <string>Concord Dawn - Aces High (feat. State of Mind), 3</string>
       <string>Bad Company - Hysteria, 2</string>
@@ -4625,10 +4632,6 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>Bad Company - Son Of Nitrous</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
     <Track>Bad Company - The Fear</Track>
     <MixRankings>
       <string>Bad Company - Breathe, 5</string>
@@ -4691,6 +4694,7 @@
       <string>Cause4Concern - Dream Killer, 4</string>
       <string>Black Sun Empire - Chaingang (Jade Remix), 4</string>
       <string>Cause4Concern - Crash Test, 4</string>
+      <string>Black Sun Empire - Boris The Blade (Optiv Remix), 4</string>
       <string>Bad Company - 4 Days, 3</string>
       <string>Bad Company - Thin Air, 3</string>
       <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 3</string>
@@ -4733,6 +4737,7 @@
       <string>Bad Company - The Nine, 0</string>
       <string>Future Prophecies - Miniamba (feat. Mari Boine), 0</string>
       <string>Bad Company - China Cup, 0</string>
+      <string>Black Sun Empire - Boris The Blade (Optiv Remix), 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -6909,6 +6914,7 @@
       <string>Cause4Concern - Dream Killer, 3</string>
       <string>Future Prophecies - Miniamba (feat. Mari Boine), 3</string>
       <string>Cause4Concern - Crash Test, 3</string>
+      <string>Black Sun Empire - Boris The Blade (Optiv Remix), 3</string>
       <string>Bad Company - Rage, 2</string>
       <string>Bad Company - Hysteria, 2</string>
       <string>Cybernetika - Stinger, 2</string>
@@ -6916,6 +6922,41 @@
       <string>Vortech - Humanity: Static (Cybernetika Remix), 2</string>
       <string>Bad Company - Nitrous, 2</string>
       <string>Bad Company - China Cup, 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Black Sun Empire - Boris The Blade</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
+    <Track>Black Sun Empire - Boris The Blade (Optiv Remix)</Track>
+    <MixRankings>
+      <string>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix), 4</string>
+      <string>Bad Company - The Nine, 4</string>
+      <string>Concord Dawn - Aces High (feat. State of Mind), 4</string>
+      <string>Cause4Concern - Crash Test, 4</string>
+      <string>Bad Company - Pulse, 4</string>
+      <string>Cause4Concern - Never Acid Again, 4</string>
+      <string>Future Prophecies - Acid City, 4</string>
+      <string>Black Sun Empire - Tripel (feat. State Of Mind), 4</string>
+      <string>Black Sun Empire - Chaingang (Jade Remix), 4</string>
+      <string>Future Prophecies - Insomniac, 4</string>
+      <string>Concord Dawn - 6.13, 4</string>
+      <string>Cybernetika - Starchild, 4</string>
+      <string>Black Sun Empire - Feed The Machine (feat. Noisia), 3</string>
+      <string>Cybernetika - Stinger, 3</string>
+      <string>Cybernetika - Devoid Of Gravity, 3</string>
+      <string>Vortech - Humanity: Static (Cybernetika Remix), 3</string>
+      <string>Bad Company - China Cup, 3</string>
+      <string>Future Prophecies - Aftermath, 3</string>
+      <string>Cybernetika - Constellations, 2</string>
+      <string>Cause4Concern - Dream Killer, 2</string>
+      <string>Bad Company - Hysteria, 2</string>
+      <string>Concord Dawn - The Fallen, 2</string>
+      <string>Future Prophecies - Miniamba (feat. Mari Boine), 2</string>
+      <string>Cause4Concern - Reality Check, 2</string>
+      <string>Cybernetika - Distress Beacon, 2</string>
+      <string>Bad Company - Thin Air, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -6979,6 +7020,7 @@
       <string>Concord Dawn - Aces High (feat. State of Mind), 4</string>
       <string>Bad Company - 4 Days, 4</string>
       <string>Cause4Concern - Crash Test, 4</string>
+      <string>Black Sun Empire - Boris The Blade (Optiv Remix), 4</string>
       <string>Future Prophecies - Acid City, 3</string>
       <string>Future Prophecies - Jack The Groove, 3</string>
       <string>Black Sun Empire - Breach (The Upbeats Remix), 3</string>
@@ -7164,6 +7206,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Black Sun Empire - Epilouge</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Black Sun Empire - Eraser (Neonlight Remix)</Track>
     <MixRankings>
       <string>Teebee &amp; Future Prophecies - Let the Bass Kick, 5</string>
@@ -7266,6 +7312,7 @@
       <string>Cause4Concern - Never Acid Again, 3</string>
       <string>Cause4Concern - Crash Test, 3</string>
       <string>Bad Company - China Cup, 3</string>
+      <string>Black Sun Empire - Boris The Blade (Optiv Remix), 3</string>
       <string>Bad Company - Oxygen (The Drilla Killa), 2</string>
     </MixRankings>
   </TrackMix>
@@ -7398,6 +7445,7 @@
       <string>Bad Company - The Nine, 5</string>
       <string>Concord Dawn - Styx (feat. Geist), 5</string>
       <string>Concord Dawn - Aces High (feat. State of Mind), 5</string>
+      <string>Black Sun Empire - Boris The Blade (Optiv Remix), 5</string>
       <string>Black Sun Empire - Battalion, 4</string>
       <string>Black Sun Empire - 1800 Contact, 4</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 4</string>
@@ -9900,6 +9948,7 @@
       <string>Future Prophecies - Aftermath, 4</string>
       <string>Cause4Concern - Dream Killer, 4</string>
       <string>Bad Company - Pulse, 4</string>
+      <string>Black Sun Empire - Boris The Blade (Optiv Remix), 4</string>
       <string>Concord Dawn - Aces High (feat. State of Mind), 3</string>
       <string>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix), 3</string>
       <string>Bad Company - Hysteria, 3</string>
@@ -9926,6 +9975,7 @@
       <string>Black Sun Empire - Feed The Machine (feat. Noisia), 4</string>
       <string>Cause4Concern - Never Acid Again, 4</string>
       <string>Cause4Concern - Crash Test, 4</string>
+      <string>Black Sun Empire - Boris The Blade (Optiv Remix), 4</string>
       <string>Bad Company - The Nine, 3</string>
       <string>Cybernetika - Stinger, 3</string>
       <string>Cybernetika - Constellations, 2</string>
@@ -9983,6 +10033,7 @@
       <string>Future Prophecies - Miniamba (feat. Mari Boine), 4</string>
       <string>Cause4Concern - Crash Test, 4</string>
       <string>Bad Company - China Cup, 4</string>
+      <string>Black Sun Empire - Boris The Blade (Optiv Remix), 4</string>
       <string>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix), 3</string>
       <string>Bad Company - Thin Air, 3</string>
       <string>Bad Company - Bullet Time (Spor Remix), 3</string>
@@ -10006,6 +10057,7 @@
       <string>Black Sun Empire - Chaingang (Jade Remix), 4</string>
       <string>Cause4Concern - Crash Test, 4</string>
       <string>Future Prophecies - Insomniac, 4</string>
+      <string>Black Sun Empire - Boris The Blade (Optiv Remix), 4</string>
       <string>Future Prophecies - Acid City, 3</string>
       <string>Black Sun Empire - Tripel (feat. State Of Mind), 3</string>
       <string>Concord Dawn - Aces High (feat. State of Mind), 3</string>
@@ -10701,6 +10753,7 @@
       <string>Cause4Concern - Dream Killer, 4</string>
       <string>Future Prophecies - Miniamba (feat. Mari Boine), 4</string>
       <string>Bad Company - China Cup, 4</string>
+      <string>Black Sun Empire - Boris The Blade (Optiv Remix), 4</string>
       <string>Cybernetika - Stinger, 3</string>
       <string>Bad Company - Nitrous, 3</string>
       <string>Bad Company - The Nine, 3</string>
@@ -10729,6 +10782,7 @@
       <string>Future Prophecies - Acid City, 4</string>
       <string>Cause4Concern - Dream Killer, 4</string>
       <string>Black Sun Empire - Chaingang (Jade Remix), 4</string>
+      <string>Black Sun Empire - Boris The Blade (Optiv Remix), 4</string>
       <string>Cybernetika - Constellations, 3</string>
       <string>Cybernetika - Starchild, 3</string>
       <string>Bad Company - 4 Days, 3</string>
@@ -11069,6 +11123,7 @@
       <string>Concord Dawn - Aces High (feat. State of Mind), 3</string>
       <string>Concord Dawn - Chloroform, 3</string>
       <string>Future Prophecies - Miniamba (feat. Mari Boine), 3</string>
+      <string>Black Sun Empire - Boris The Blade (Optiv Remix), 3</string>
       <string>Bad Company - Night Train, 2</string>
       <string>Bad Company - Hysteria, 2</string>
       <string>Black Sun Empire - Breach (The Upbeats Remix), 2</string>
@@ -11589,6 +11644,7 @@
       <string>Cause4Concern - Dream Killer, 4</string>
       <string>Cause4Concern - Crash Test, 4</string>
       <string>Bad Company - China Cup, 4</string>
+      <string>Black Sun Empire - Boris The Blade (Optiv Remix), 4</string>
       <string>Black Sun Empire - Feed The Machine (feat. Noisia), 3</string>
       <string>Cybernetika - Distress Beacon, 3</string>
       <string>Bad Company - Nitrous, 3</string>
@@ -11641,6 +11697,7 @@
       <string>Future Prophecies - Jack The Groove, 3</string>
       <string>Black Sun Empire - Chaingang (Jade Remix), 3</string>
       <string>Future Prophecies - Insomniac, 3</string>
+      <string>Black Sun Empire - Boris The Blade (Optiv Remix), 3</string>
       <string>Black Sun Empire - Battalion, 2</string>
     </MixRankings>
   </TrackMix>
@@ -11665,6 +11722,7 @@
       <string>Vortech - Humanity: Static (Cybernetika Remix), 3</string>
       <string>Bad Company - Oxygen (The Drilla Killa), 3</string>
       <string>Black Sun Empire - B'Negative (Phace &amp; Misanthrop Remix), 3</string>
+      <string>Black Sun Empire - Boris The Blade (Optiv Remix), 3</string>
       <string>Bad Company - Night Train, 2</string>
       <string>Black Sun Empire - Delorean, 2</string>
       <string>Concord Dawn - Shinkansen, 2</string>
@@ -11861,6 +11919,7 @@
       <string>Cybernetika - Constellations, 2</string>
       <string>Concord Dawn - Shinkansen, 2</string>
       <string>Black Sun Empire - Don't You (State of Mind Remix), 2</string>
+      <string>Black Sun Empire - Boris The Blade (Optiv Remix), 2</string>
       <string>Cybernetika - Close Your Eyes, 0</string>
     </MixRankings>
   </TrackMix>
@@ -11890,6 +11949,7 @@
       <string>Cause4Concern - Never Acid Again, 4</string>
       <string>Cause4Concern - Dream Killer, 4</string>
       <string>Bad Company - China Cup, 4</string>
+      <string>Black Sun Empire - Boris The Blade (Optiv Remix), 4</string>
       <string>Bad Company - Breathe, 3</string>
       <string>Cybernetika - Anomaly, 3</string>
       <string>Black Sun Empire - Battalion, 3</string>
@@ -17573,6 +17633,7 @@
       <string>Cause4Concern - Reality Check, 4</string>
       <string>Cause4Concern - Crash Test, 4</string>
       <string>Future Prophecies - Insomniac, 4</string>
+      <string>Black Sun Empire - Boris The Blade (Optiv Remix), 4</string>
       <string>Bad Company - The Nine, 3</string>
       <string>Concord Dawn - Styx (feat. Geist), 3</string>
       <string>Bad Company - 4 Days, 3</string>
@@ -17606,6 +17667,7 @@
       <string>Future Prophecies - Jack The Groove, 4</string>
       <string>Future Prophecies - Acid City, 4</string>
       <string>Cause4Concern - Crash Test, 4</string>
+      <string>Black Sun Empire - Boris The Blade (Optiv Remix), 4</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 3</string>
       <string>Bad Company - The Nine, 3</string>
       <string>Concord Dawn - Aces High (feat. State of Mind), 3</string>
@@ -17700,6 +17762,7 @@
       <string>Cause4Concern - Crash Test, 4</string>
       <string>Bad Company - 4 Days, 4</string>
       <string>Future Prophecies - Jack The Groove, 4</string>
+      <string>Black Sun Empire - Boris The Blade (Optiv Remix), 4</string>
       <string>Bad Company - The Nine, 3</string>
       <string>Concord Dawn - Styx (feat. Geist), 3</string>
       <string>Concord Dawn - Aces High (feat. State of Mind), 3</string>
@@ -17762,6 +17825,7 @@
       <string>Bad Company - Pulse, 4</string>
       <string>Concord Dawn - The Fallen, 4</string>
       <string>Bad Company - Sentient, 4</string>
+      <string>Black Sun Empire - Boris The Blade (Optiv Remix), 4</string>
       <string>Bad Company - Bullet Time (Spor Remix), 3</string>
       <string>Bad Company - Bullet Time, 3</string>
       <string>Bad Company - Oxygen (The Drilla Killa), 3</string>
@@ -47847,6 +47911,7 @@
       <string>Cybernetika - Vaporized, 4</string>
       <string>Cybernetika - Neuronal Interface, 4</string>
       <string>Cause4Concern - Never Acid Again, 4</string>
+      <string>Black Sun Empire - Boris The Blade (Optiv Remix), 4</string>
       <string>Bad Company - Bullet Time (Spor Remix), 3</string>
       <string>Bad Company - Nitrous, 3</string>
       <string>Bad Company - Bullet Time, 3</string>

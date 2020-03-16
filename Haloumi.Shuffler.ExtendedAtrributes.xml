@@ -637,6 +637,10 @@
     <Attributes>Duration=279.618;EndBPM=84.982;EndLoopCount=16;FadeIn=45.163;FadeInLengthInSeconds=22.593;FadeOut=225.849;FadeOutLengthInSeconds=2.824;Rank=3;StartBPM=84.982;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Black Sun Empire - Boris The Blade (Optiv Remix)</Track>
+    <Attributes>Duration=393.927;EndBPM=88.594;FadeIn=99.645;FadeInLengthInSeconds=10.832;FadeOut=327.188;FadeOutLengthInSeconds=10.836;Rank=3;StartBPM=88.626;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Black Sun Empire - Breach (The Upbeats Remix)</Track>
     <Attributes>Duration=296.552;EndBPM=87.142;FadeIn=45.453;FadeInLengthInSeconds=22.133;FadeOut=244.142;FadeOutLengthInSeconds=22.033;Rank=3;StartBPM=86.749;</Attributes>
   </ExtenedAttributes>
