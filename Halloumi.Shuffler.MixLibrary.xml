@@ -4237,6 +4237,7 @@
       <string>Concord Dawn - Styx (feat. Geist), 4</string>
       <string>Cybernetika - Vaporized, 4</string>
       <string>Bad Company - Toxin, 4</string>
+      <string>Future Prophecies - Total Confusion, 4</string>
       <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 3</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 3</string>
       <string>Cybernetika - Monolithic, 3</string>
@@ -4265,6 +4266,7 @@
       <string>Bad Company - The Fear, 5</string>
       <string>Genetix - Structures (Future Prophecies Remix), 5</string>
       <string>Future Prophecies - Fire, 5</string>
+      <string>Future Prophecies - Total Confusion, 5</string>
       <string>Black Sun Empire - 1800 Contact, 4</string>
       <string>Cybernetika - Anomaly, 4</string>
       <string>Black Sun Empire - Descent, 4</string>
@@ -4379,10 +4381,6 @@
       <string>Cybernetika - Stinger, 2</string>
       <string>Cybernetika - Hayashis Journey, 2</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>Bad Company - Digital Nation</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Bad Company - Four Days</Track>
@@ -4658,6 +4656,7 @@
       <string>Camo &amp; Krooked - Strength Is Irrelevant, 4</string>
       <string>Cybernetika - Ghost Of Midas, 4</string>
       <string>Concord Dawn - Drifter, 4</string>
+      <string>Future Prophecies - Total Confusion, 4</string>
       <string>Black Sun Empire - Breach (The Upbeats Remix), 3</string>
       <string>Black Sun Empire - Hideous (feat. Noisia) (VIP Remix), 3</string>
       <string>Black Sun Empire - Delorean, 3</string>
@@ -4753,6 +4752,7 @@
       <string>Concord Dawn - Black Friday, 4</string>
       <string>Genetix - Structures (Future Prophecies Remix), 4</string>
       <string>Black Sun Empire - Don't You (State of Mind Remix), 4</string>
+      <string>Future Prophecies - Total Confusion, 4</string>
       <string>Camo &amp; Krooked - Terra, 3</string>
       <string>Black Sun Empire - Delorean, 3</string>
       <string>Bad Company - Breathe, 3</string>
@@ -6761,6 +6761,7 @@
       <string>Black Sun Empire - Chaingang (Jade Remix), 4</string>
       <string>Cybernetika - Ghost Of Midas, 4</string>
       <string>Concord Dawn - Drifter, 4</string>
+      <string>Future Prophecies - Total Confusion, 4</string>
       <string>Concord Dawn - Shinkansen, 3</string>
       <string>Black Sun Empire - Delorean, 3</string>
       <string>Bad Company - Night Train, 3</string>
@@ -6845,6 +6846,7 @@
       <string>Cybernetika - Stinger, 2</string>
       <string>Concord Dawn - Guardian Angel, 2</string>
       <string>Concord Dawn - Chloroform, 2</string>
+      <string>Future Prophecies - Total Confusion, 2</string>
       <string>Cybernetika - Distress Beacon, 0</string>
     </MixRankings>
   </TrackMix>
@@ -6881,6 +6883,7 @@
       <string>Camo &amp; Krooked - Strength Is Irrelevant, 3</string>
       <string>Concord Dawn - Drifter, 3</string>
       <string>Black Sun Empire - Don't You (State of Mind Remix), 3</string>
+      <string>Future Prophecies - Total Confusion, 3</string>
       <string>Bad Company - Night Train, 2</string>
       <string>Black Sun Empire - Delorean, 2</string>
       <string>Cybernetika - Anomaly, 2</string>
@@ -6923,10 +6926,6 @@
       <string>Bad Company - Nitrous, 2</string>
       <string>Bad Company - China Cup, 2</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>Black Sun Empire - Boris The Blade</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Black Sun Empire - Boris The Blade (Optiv Remix)</Track>
@@ -6988,6 +6987,7 @@
       <string>Teebee &amp; Future Prophecies - Let the Bass Kick, 4</string>
       <string>Black Sun Empire - Extraction, 4</string>
       <string>Concord Dawn - Drifter, 4</string>
+      <string>Future Prophecies - Total Confusion, 4</string>
       <string>Bad Company - 4 Days, 3</string>
       <string>Black Sun Empire - Battalion, 3</string>
       <string>Cybernetika - Anomaly, 3</string>
@@ -7072,6 +7072,7 @@
       <string>Bad Company - The Fear, 3</string>
       <string>Cybernetika - Starchild, 3</string>
       <string>Future Prophecies - Jack The Groove, 3</string>
+      <string>Future Prophecies - Total Confusion, 3</string>
       <string>Cybernetika - Anomaly, 2</string>
       <string>Bad Company - Breathe, 2</string>
       <string>Cybernetika - Monolithic, 2</string>
@@ -7105,6 +7106,7 @@
       <string>Black Sun Empire - Eraser (Neonlight Remix), 3</string>
       <string>Bad Company - Toxin, 3</string>
       <string>Black Sun Empire - Don't You (State of Mind Remix), 3</string>
+      <string>Future Prophecies - Total Confusion, 3</string>
       <string>Cybernetika - Anomaly, 2</string>
       <string>Concord Dawn - Shinkansen, 2</string>
       <string>Bad Company - Night Train, 2</string>
@@ -7134,6 +7136,7 @@
       <string>Bad Company - Breathe, 4</string>
       <string>Concord Dawn - Drifter, 4</string>
       <string>Cybernetika - Starchild, 4</string>
+      <string>Future Prophecies - Total Confusion, 4</string>
       <string>Cybernetika - Towards The End Of Time, 3</string>
       <string>Concord Dawn - Styx (feat. Geist), 3</string>
       <string>Future Prophecies - Jack The Groove, 3</string>
@@ -7194,6 +7197,7 @@
       <string>Cybernetika - Ghost Of Midas, 3</string>
       <string>Concord Dawn - Drifter, 3</string>
       <string>Black Sun Empire - Don't You (State of Mind Remix), 3</string>
+      <string>Future Prophecies - Total Confusion, 3</string>
       <string>Black Sun Empire - Battalion, 2</string>
       <string>Bad Company - Night Train, 2</string>
       <string>Cybernetika - Stinger, 2</string>
@@ -7204,10 +7208,6 @@
       <string>Future Prophecies - Aftermath, 2</string>
       <string>Cybernetika - Close Your Eyes, 2</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>Black Sun Empire - Epilouge</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Black Sun Empire - Eraser (Neonlight Remix)</Track>
@@ -7230,6 +7230,7 @@
       <string>Black Sun Empire - Extraction, 4</string>
       <string>Camo &amp; Krooked - Strength Is Irrelevant, 4</string>
       <string>Black Sun Empire - Don't You (State of Mind Remix), 4</string>
+      <string>Future Prophecies - Total Confusion, 4</string>
       <string>Concord Dawn - Chloroform, 3</string>
       <string>Black Sun Empire - Hideous (feat. Noisia) (VIP Remix), 3</string>
       <string>Black Sun Empire - Delorean, 3</string>
@@ -7289,6 +7290,7 @@
       <string>Concord Dawn - Shinkansen, 2</string>
       <string>Bad Company - Toxin, 2</string>
       <string>Camo &amp; Krooked - Strength Is Irrelevant, 2</string>
+      <string>Future Prophecies - Total Confusion, 2</string>
       <string>Concord Dawn - Chloroform, 0</string>
       <string>Future Prophecies - Black Dragon, 0</string>
     </MixRankings>
@@ -7356,6 +7358,7 @@
       <string>Cybernetika - Devoid Of Gravity, 3</string>
       <string>Bad Company - Toxin, 3</string>
       <string>Camo &amp; Krooked - Strength Is Irrelevant, 3</string>
+      <string>Future Prophecies - Total Confusion, 3</string>
       <string>Cybernetika - Close Your Eyes, 2</string>
       <string>Concord Dawn - Guardian Angel, 2</string>
     </MixRankings>
@@ -7388,6 +7391,7 @@
       <string>Future Prophecies - Acid City, 3</string>
       <string>Camo &amp; Krooked - Strength Is Irrelevant, 3</string>
       <string>Black Sun Empire - Don't You (State of Mind Remix), 3</string>
+      <string>Future Prophecies - Total Confusion, 3</string>
       <string>Concord Dawn - Shinkansen, 2</string>
       <string>Cybernetika - Close Your Eyes, 2</string>
       <string>Concord Dawn - Drifter, 2</string>
@@ -7397,6 +7401,7 @@
   <TrackMix>
     <Track>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix)</Track>
     <MixRankings>
+      <string>Future Prophecies - Total Confusion, 5</string>
       <string>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix), 4</string>
       <string>Bad Company - The Fear, 4</string>
       <string>Black Sun Empire - Hideous (feat. Noisia) (VIP Remix), 4</string>
@@ -9637,6 +9642,7 @@
       <string>Cybernetika - Ghost Of Midas, 4</string>
       <string>Concord Dawn - Drifter, 4</string>
       <string>Black Sun Empire - Don't You (State of Mind Remix), 4</string>
+      <string>Future Prophecies - Total Confusion, 4</string>
       <string>Concord Dawn - Chloroform, 3</string>
       <string>Black Sun Empire - Hideous (feat. Noisia) (VIP Remix), 3</string>
       <string>Black Sun Empire - Eraser (Neonlight Remix), 3</string>
@@ -9666,6 +9672,7 @@
       <string>Black Sun Empire - Eraser (Neonlight Remix), 3</string>
       <string>Future Prophecies - Fire, 3</string>
       <string>Concord Dawn - Drifter, 3</string>
+      <string>Future Prophecies - Total Confusion, 3</string>
       <string>Concord Dawn - Guardian Angel, 2</string>
       <string>Concord Dawn - Chloroform, 2</string>
       <string>Black Sun Empire - Don't You (State of Mind Remix), 2</string>
@@ -10008,6 +10015,7 @@
       <string>Bad Company - 4 Days, 3</string>
       <string>Cybernetika - Ghost Of Midas, 3</string>
       <string>Concord Dawn - Drifter, 3</string>
+      <string>Future Prophecies - Total Confusion, 3</string>
       <string>Black Sun Empire - Breach (The Upbeats Remix), 2</string>
       <string>Concord Dawn - Shinkansen, 2</string>
       <string>Concord Dawn - Cloud City, 2</string>
@@ -10802,6 +10810,7 @@
       <string>Future Prophecies - Jack The Groove, 5</string>
       <string>Cybernetika - Towards The End Of Time, 5</string>
       <string>Cybernetika - Ghost Of Midas, 5</string>
+      <string>Future Prophecies - Total Confusion, 5</string>
       <string>Black Sun Empire - Breach (The Upbeats Remix), 4</string>
       <string>Concord Dawn - Chloroform, 4</string>
       <string>Black Sun Empire - Hideous (feat. Noisia) (VIP Remix), 4</string>
@@ -10869,6 +10878,7 @@
       <string>Black Sun Empire - Delorean, 3</string>
       <string>Cybernetika - Ghost Of Midas, 3</string>
       <string>Black Sun Empire - Don't You (State of Mind Remix), 3</string>
+      <string>Future Prophecies - Total Confusion, 3</string>
       <string>Concord Dawn - Drifter, 2</string>
     </MixRankings>
   </TrackMix>
@@ -10927,6 +10937,7 @@
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 4</string>
       <string>Cause4Concern - Dropout, 4</string>
       <string>Cybernetika - Vaporized, 4</string>
+      <string>Future Prophecies - Total Confusion, 4</string>
       <string>Black Sun Empire - Battalion, 3</string>
       <string>Concord Dawn - Chloroform, 3</string>
       <string>Bad Company - The Fear, 3</string>
@@ -10981,6 +10992,7 @@
       <string>Genetix - Structures (Future Prophecies Remix), 2</string>
       <string>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix), 2</string>
       <string>Cybernetika - Close Your Eyes, 2</string>
+      <string>Future Prophecies - Total Confusion, 2</string>
       <string>Cybernetika - Vaporized, 0</string>
       <string>Black Sun Empire - Eraser (Neonlight Remix), 0</string>
       <string>Camo &amp; Krooked - Terra, 0</string>
@@ -11054,6 +11066,7 @@
       <string>Camo &amp; Krooked - Strength Is Irrelevant, 2</string>
       <string>Cybernetika - Ghost Of Midas, 2</string>
       <string>Concord Dawn - Drifter, 2</string>
+      <string>Future Prophecies - Total Confusion, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -11581,6 +11594,7 @@
       <string>Future Prophecies - Black Dragon, 3</string>
       <string>Concord Dawn - Drifter, 3</string>
       <string>Black Sun Empire - Don't You (State of Mind Remix), 3</string>
+      <string>Future Prophecies - Total Confusion, 3</string>
       <string>Black Sun Empire - Delorean, 2</string>
       <string>Black Sun Empire - 1800 Contact, 2</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 2</string>
@@ -11624,6 +11638,7 @@
       <string>Future Prophecies - Jack The Groove, 3</string>
       <string>Teebee &amp; Future Prophecies - Let the Bass Kick, 3</string>
       <string>Camo &amp; Krooked - Strength Is Irrelevant, 3</string>
+      <string>Future Prophecies - Total Confusion, 3</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -11782,6 +11797,7 @@
       <string>Cause4Concern - Dropout, 3</string>
       <string>Cybernetika - Towards The End Of Time, 3</string>
       <string>Concord Dawn - Drifter, 3</string>
+      <string>Future Prophecies - Total Confusion, 3</string>
       <string>Concord Dawn - Chloroform, 2</string>
       <string>Bad Company - The Fear, 2</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 2</string>
@@ -11974,6 +11990,7 @@
       <string>Cause4Concern - Dropout, 4</string>
       <string>Black Sun Empire - Extraction, 4</string>
       <string>Future Prophecies - Fire, 4</string>
+      <string>Future Prophecies - Total Confusion, 4</string>
       <string>Black Sun Empire - Fever (Chris SU Remix), 3</string>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 3</string>
       <string>Bad Company - Rage, 3</string>
@@ -17687,6 +17704,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Future Prophecies - Basse The Bastard</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Future Prophecies - Black Dragon</Track>
     <MixRankings>
       <string>Black Sun Empire - Battlefish (feat. Nymfo), 5</string>
@@ -17711,6 +17732,7 @@
       <string>Bad Company - Breathe, 3</string>
       <string>Cybernetika - Towards The End Of Time, 3</string>
       <string>Future Prophecies - Jack The Groove, 3</string>
+      <string>Future Prophecies - Total Confusion, 3</string>
       <string>Concord Dawn - Cloud City, 2</string>
       <string>Concord Dawn - Styx (feat. Geist), 2</string>
       <string>Bad Company - 4 Days, 2</string>
@@ -17841,6 +17863,42 @@
       <string>Black Sun Empire - Feed The Machine (feat. Noisia), 2</string>
       <string>Cause4Concern - Never Acid Again, 2</string>
       <string>Bad Company - Night Train, 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Future Prophecies - Total Confusion</Track>
+    <MixRankings>
+      <string>Cybernetika - Anomaly, 5</string>
+      <string>Bad Company - Breathe, 4</string>
+      <string>Cybernetika - Towards The End Of Time, 4</string>
+      <string>Concord Dawn - Guardian Angel, 4</string>
+      <string>Black Sun Empire - Breach (The Upbeats Remix), 4</string>
+      <string>Black Sun Empire - Don't You (State of Mind Remix), 4</string>
+      <string>Bad Company - The Fear, 4</string>
+      <string>Black Sun Empire - Extraction, 4</string>
+      <string>Camo &amp; Krooked - Strength Is Irrelevant, 4</string>
+      <string>Concord Dawn - Drifter, 3</string>
+      <string>Black Sun Empire - 1800 Contact, 3</string>
+      <string>Concord Dawn - Chloroform, 3</string>
+      <string>Bad Company - Toxin, 3</string>
+      <string>Black Sun Empire - Hideous (feat. Noisia) (VIP Remix), 3</string>
+      <string>Black Sun Empire - Eraser (Neonlight Remix), 3</string>
+      <string>Cybernetika - Ghost Of Midas, 3</string>
+      <string>Concord Dawn - Black Friday, 3</string>
+      <string>Future Prophecies - Black Dragon, 3</string>
+      <string>Black Sun Empire - Delorean, 3</string>
+      <string>Black Sun Empire - Descent, 3</string>
+      <string>Black Sun Empire - Fever (Chris SU Remix), 3</string>
+      <string>Teebee &amp; Future Prophecies - Let the Bass Kick, 3</string>
+      <string>Bad Company - Brain Scan, 3</string>
+      <string>Cause4Concern - Dropout, 3</string>
+      <string>Cybernetika - Close Your Eyes, 2</string>
+      <string>Black Sun Empire - Battlefish (feat. Nymfo), 2</string>
+      <string>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix), 2</string>
+      <string>Black Sun Empire - Battalion, 2</string>
+      <string>Camo &amp; Krooked - Terra, 2</string>
+      <string>Black Sun Empire - Drizzle (feat. Audio) (VIP Remix), 2</string>
+      <string>Concord Dawn - Shinkansen, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -39516,6 +39574,7 @@
       <string>Concord Dawn - Drifter, 3</string>
       <string>Concord Dawn - Styx (feat. Geist), 2</string>
       <string>Concord Dawn - Guardian Angel, 2</string>
+      <string>Future Prophecies - Total Confusion, 2</string>
       <string>Future Prophecies - Black Dragon, 0</string>
     </MixRankings>
   </TrackMix>

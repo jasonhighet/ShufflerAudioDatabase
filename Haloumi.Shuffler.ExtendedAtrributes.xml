@@ -1745,6 +1745,10 @@
     <Attributes>Duration=359.720;EndBPM=87.130;FadeIn=66.483;FadeInLengthInSeconds=11.019;FadeOut=331.308;FadeOutLengthInSeconds=11.018;Rank=3;StartBPM=87.122;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Future Prophecies - Total Confusion</Track>
+    <Attributes>Duration=421.402;EndBPM=86.643;FadeIn=88.418;FadeInLengthInSeconds=11.084;FadeOut=375.790;FadeOutLengthInSeconds=11.080;Rank=3;StartBPM=86.611;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Gal Costa &amp; Caetano Veloso - Maria Joana</Track>
     <Attributes>Duration=104.945;EndBPM=77.652;FadeIn=25.107;FadeInLengthInSeconds=6.352;FadeOut=93.223;FadeOutLengthInSeconds=6.181;Key=G;PreFadeInPosition=21.703;PreFadeInStartVolume=50;Rank=3;StartBPM=75.567;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
