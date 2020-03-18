@@ -917,6 +917,10 @@
     <Attributes>Duration=295.706;EndBPM=87.099;FadeIn=65.891;FadeInLengthInSeconds=11.026;FadeOut=263.708;FadeOutLengthInSeconds=11.022;PreFadeInPosition=60.405;PreFadeInStartVolume=00;Rank=4;StartBPM=87.067;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Camo &amp; Krooked - Tonight</Track>
+    <Attributes>Duration=272.533;EndBPM=87.309;FadeIn=77.273;FadeInLengthInSeconds=10.970;FadeOut=242.089;FadeOutLengthInSeconds=10.995;Rank=3;SkipLengthInSeconds=22.328;SkipStart=153.836;StartBPM=87.514;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Cannonball Adderley - Groovy Sambas</Track>
     <Attributes>Duration=299.49387755102;EndBPM=96.5989132622258;EndLoopCount=1;FadeIn=1.170;FadeInLengthInSeconds=9.912;FadeOut=87.562;FadeOutLengthInSeconds=9.938;Key=Gm;PreFadeInPosition=0.433;PreFadeInStartVolume=50;Rank=3;StartBPM=96.8523002421308;StartLoopCount=1;</Attributes>
   </ExtenedAttributes>
@@ -1743,6 +1747,10 @@
   <ExtenedAttributes>
     <Track>Future Prophecies - Miniamba (feat. Mari Boine)</Track>
     <Attributes>Duration=359.720;EndBPM=87.130;FadeIn=66.483;FadeInLengthInSeconds=11.019;FadeOut=331.308;FadeOutLengthInSeconds=11.018;Rank=3;StartBPM=87.122;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Future Prophecies - Rock Steady</Track>
+    <Attributes>Duration=405.734;EndBPM=86.957;FadeIn=88.309;FadeInLengthInSeconds=11.045;FadeOut=309.041;FadeOutLengthInSeconds=11.040;Rank=3;StartBPM=86.917;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Future Prophecies - Total Confusion</Track>
