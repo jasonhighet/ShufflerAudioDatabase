@@ -74,6 +74,29 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Tosca - Suzuki</TrackDescription>
+        <FadeLength>20.235804988662132</FadeLength>
+        <FadeEnd>39078760</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.199375</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers>
+          <SampleTrigger>
+            <Start>100.52945578231292</Start>
+            <Length>0.43988662131519618</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>Tosca - Suzuki - FadeIn</SampleID>
+          </SampleTrigger>
+          <SampleTrigger>
+            <Start>105.6691156462585</Start>
+            <Length>0.1199546485260754</Length>
+            <DelayNotes>0.25</DelayNotes>
+            <SampleID>Tosca - Suzuki - FadeIn</SampleID>
+          </SampleTrigger>
+        </SampleTriggers>
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
@@ -5108,7 +5131,16 @@
       </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
-    <LoopSamples />
+    <LoopSamples>
+      <TrackSample>
+        <Start>0</Start>
+        <Length>3</Length>
+        <IsLooped>true</IsLooped>
+        <Key>80 BPM\FL_Scratch_80BPM_ambient forward trans4m.wav</Key>
+        <Description>FL Scratch 80BPM ambient forward trans4m</Description>
+        <IsExternalLoop>true</IsExternalLoop>
+      </TrackSample>
+    </LoopSamples>
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Banda Black Rio - Mr. Funky Samba</Track>
@@ -7020,6 +7052,16 @@
         <FadeEnd>106673224</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.4633333</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Teebee &amp; Future Prophecies - Let the Bass Kick</TrackDescription>
+        <FadeLength>11.134399092970522</FadeLength>
+        <FadeEnd>106708024</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2472873</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -17808,7 +17850,24 @@
       </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
-    <LoopSamples />
+    <LoopSamples>
+      <TrackSample>
+        <Start>0</Start>
+        <Length>2.823514739229025</Length>
+        <IsLooped>true</IsLooped>
+        <Key>85 BPM\FL_Scratch_85BPM_cut-scratch hit.wav</Key>
+        <Description>FL Scratch 85BPM cut scratch hit</Description>
+        <IsExternalLoop>true</IsExternalLoop>
+      </TrackSample>
+      <TrackSample>
+        <Start>0</Start>
+        <Length>2.823514739229025</Length>
+        <IsLooped>true</IsLooped>
+        <Key>85 BPM\FL_Scratch_85BPM_trans- Hit.wav</Key>
+        <Description>FL Scratch 85BPM trans  Hit</Description>
+        <IsExternalLoop>true</IsExternalLoop>
+      </TrackSample>
+    </LoopSamples>
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Gian Franco Pienzio - Grigio Perla</Track>
@@ -31950,16 +32009,6 @@
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
-        <TrackDescription>Sola Rosa - Del Ray</TrackDescription>
-        <FadeLength>19.000975056689342</FadeLength>
-        <FadeEnd>42214512</FadeEnd>
-        <FadeEndLoop>4</FadeEndLoop>
-        <FadeEndVolume>0.368</FadeEndVolume>
-        <PowerDownOnEnd>true</PowerDownOnEnd>
-        <ExtendedFadeType>Default</ExtendedFadeType>
-        <SampleTriggers />
-      </ExtendedMixAttributes>
-      <ExtendedMixAttributes>
         <TrackDescription>Jurassic 5 - Great Expectations (Instrumental)</TrackDescription>
         <FadeLength>24.16968253968254</FadeLength>
         <FadeEnd>50212840</FadeEnd>
@@ -31975,6 +32024,16 @@
         <FadeEnd>48740120</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.2236164</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Sola Rosa - Del Ray</TrackDescription>
+        <FadeLength>18.966893424036282</FadeLength>
+        <FadeEnd>42202208</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.5261918</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
