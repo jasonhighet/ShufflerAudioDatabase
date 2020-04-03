@@ -637,6 +637,10 @@
     <Attributes>Duration=279.618;EndBPM=84.982;EndLoopCount=16;FadeIn=45.163;FadeInLengthInSeconds=22.593;FadeOut=225.849;FadeOutLengthInSeconds=2.824;Rank=3;StartBPM=84.982;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Black Sun Empire - Boris The Blade</Track>
+    <Attributes>Duration=393.874;EndBPM=86.815;FadeIn=129.409;FadeInLengthInSeconds=11.059;FadeOut=372.570;FadeOutLengthInSeconds=11.058;Rank=3;StartBPM=86.807;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Black Sun Empire - Boris The Blade (Optiv Remix)</Track>
     <Attributes>Duration=393.927;EndBPM=88.594;FadeIn=99.645;FadeInLengthInSeconds=10.832;FadeOut=327.188;FadeOutLengthInSeconds=10.836;Rank=3;StartBPM=88.626;</Attributes>
   </ExtenedAttributes>
@@ -971,6 +975,10 @@
   <ExtenedAttributes>
     <Track>Cause4Concern - Reality Check</Track>
     <Attributes>Duration=355.736;EndBPM=87.539;FadeIn=65.846;FadeInLengthInSeconds=21.932;FadeOut=186.522;FadeOutLengthInSeconds=10.966;Rank=3;StartBPM=87.543;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Cause4Concern - World Unknown</Track>
+    <Attributes>Duration=382.198;EndBPM=87.559;FadeIn=43.913;FadeInLengthInSeconds=10.969;FadeOut=285.283;FadeOutLengthInSeconds=10.964;PreFadeInPosition=42.531;PreFadeInStartVolume=75;Rank=3;StartBPM=87.523;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Chamber of Commerce - The Commerce Thang</Track>

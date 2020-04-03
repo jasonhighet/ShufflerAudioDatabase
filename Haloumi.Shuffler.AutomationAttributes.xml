@@ -616,16 +616,6 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
       <ExtendedMixAttributes>
-        <TrackDescription>Astrud Gilberto - Take It Easy, My Brother Charlie</TrackDescription>
-        <FadeLength>15.141224489795919</FadeLength>
-        <FadeEnd>62267248</FadeEnd>
-        <FadeEndLoop>1</FadeEndLoop>
-        <FadeEndVolume>0.128</FadeEndVolume>
-        <PowerDownOnEnd>false</PowerDownOnEnd>
-        <ExtendedFadeType>Default</ExtendedFadeType>
-        <SampleTriggers />
-      </ExtendedMixAttributes>
-      <ExtendedMixAttributes>
         <TrackDescription>Sofa Surfers - Sofa Rockers (Richard Dorfmeister Remix)</TrackDescription>
         <FadeLength>20.182335600907031</FadeLength>
         <FadeEnd>60604864</FadeEnd>
@@ -672,6 +662,16 @@
         <FadeEndLoop>1</FadeEndLoop>
         <FadeEndVolume>0.272</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Astrud Gilberto - Take It Easy, My Brother Charlie</TrackDescription>
+        <FadeLength>19.471201814058958</FadeLength>
+        <FadeEnd>63728888</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.056</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -6811,6 +6811,14 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Black Sun Empire - Boris The Blade</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Black Sun Empire - Boris The Blade (Optiv Remix)</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -10192,6 +10200,14 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Cause4Concern - World Unknown</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Charles Bradley - No Time For Dreaming</Track>
     <TrackFXTriggers>
       <TrackFXTrigger>
@@ -12533,6 +12549,16 @@
         <TrackDescription>Prince Fatty - Insane In The Brain (feat. Horseman)</TrackDescription>
         <FadeLength>8.7040589569161</FadeLength>
         <FadeEnd>70562672</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.08</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Gaturs - Gator Bait</TrackDescription>
+        <FadeLength>13.687324263038549</FadeLength>
+        <FadeEnd>72419768</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.08</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
@@ -31804,6 +31830,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Otis Redding - (Sittin' On) The Dock of the Bay</TrackDescription>
+        <FadeLength>17.845759637188209</FadeLength>
+        <FadeEnd>41941688</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.248</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
@@ -34065,7 +34101,23 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Sharon Jones &amp; The Dap Kings - Tell Me</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>16.535941043083902</Start>
+        <Length>0.70058956916099646</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>119.69154195011338</Start>
+        <Length>1.2002494331065776</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>125.2053514739229</Start>
+        <Length>0.51934240362811579</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -34074,6 +34126,16 @@
         <FadeEnd>44974944</FadeEnd>
         <FadeEndLoop>2</FadeEndLoop>
         <FadeEndVolume>0.136</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Al Green - Standing In The Rain</TrackDescription>
+        <FadeLength>23.319863945578231</FadeLength>
+        <FadeEnd>46767288</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.152</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -38404,16 +38466,6 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
       <ExtendedMixAttributes>
-        <TrackDescription>Greyboy - Singles Party</TrackDescription>
-        <FadeLength>44.120816326530615</FadeLength>
-        <FadeEnd>52852000</FadeEnd>
-        <FadeEndLoop>10</FadeEndLoop>
-        <FadeEndVolume>0.392</FadeEndVolume>
-        <PowerDownOnEnd>true</PowerDownOnEnd>
-        <ExtendedFadeType>Default</ExtendedFadeType>
-        <SampleTriggers />
-      </ExtendedMixAttributes>
-      <ExtendedMixAttributes>
         <TrackDescription>Tim Maia - No Caminho Do Bem</TrackDescription>
         <FadeLength>13.541405895691611</FadeLength>
         <FadeEnd>52847552</FadeEnd>
@@ -38453,6 +38505,16 @@
         <FadeEndLoop>4</FadeEndLoop>
         <FadeEndVolume>0.08</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Greyboy - Singles Party</TrackDescription>
+        <FadeLength>26.464852607709751</FadeLength>
+        <FadeEnd>52816776</FadeEnd>
+        <FadeEndLoop>6</FadeEndLoop>
+        <FadeEndVolume>0.03985294</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -41212,6 +41274,16 @@
         <FadeEndVolume>1</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>EchoOut</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Sharon Jones &amp; The Dap Kings - Tell Me</TrackDescription>
+        <FadeLength>22.026530612244898</FadeLength>
+        <FadeEnd>68830104</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.4383582</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
