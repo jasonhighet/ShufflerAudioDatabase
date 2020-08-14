@@ -1665,6 +1665,10 @@
     <Attributes>Duration=356.098571428571;EndBPM=90.2213241858936;FadeIn=0.666;FadeInLengthInSeconds=21.281;FadeOut=261.117;FadeOutLengthInSeconds=21.281;Key=Dbm;Rank=3;SkipLengthInSeconds=132.864;SkipStart=110.962;StartBPM=90.2213241858936;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Evinha - Esperar Pra Ver</Track>
+    <Attributes>Duration=128.549;EndBPM=97.601;EndLoopCount=4;FadeIn=10.107;FadeInLengthInSeconds=9.726;FadeOut=103.593;FadeOutLengthInSeconds=4.918;PreFadeInPosition=9.080;PreFadeInStartVolume=50;Rank=4;StartBPM=98.705;StartLoopCount=2;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Evinha - Que Bandeira</Track>
     <Attributes>Duration=138.96;EndBPM=93.1948354528686;FadeIn=6.563;FadeInLengthInSeconds=10.592;FadeOut=127.444;FadeOutLengthInSeconds=10.301;Key=Bbm;PreFadeInPosition=4.561;PreFadeInStartVolume=00;Rank=3;StartBPM=90.6344410876133;</Attributes>
   </ExtenedAttributes>
@@ -4457,6 +4461,10 @@
     <Attributes>Duration=150.491428571429;EndBPM=119.151048777461;FadeIn=0.374;FadeInLengthInSeconds=8.135;FadeOut=128.571;FadeOutLengthInSeconds=8.057;Key=Em;Rank=4;StartBPM=118.0086047941;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>The Haggis Horns - The Traveller Part Two</Track>
+    <Attributes>Duration=507.115;EndBPM=109.827;FadeIn=9.483;FadeInLengthInSeconds=8.769;FadeOut=297.619;FadeOutLengthInSeconds=8.741;PreFadeInPosition=8.774;PreFadeInStartVolume=25;Rank=4;SkipLengthInSeconds=122.230;SkipStart=140.463;StartBPM=109.477;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>The Heptones - Christmas Time Is Here</Track>
     <Attributes>Duration=142.027755102041;EndBPM=80.9853214104944;FadeIn=1.457;FadeInLengthInSeconds=5.756;FadeOut=125.107;FadeOutLengthInSeconds=11.854;Key=Am;Rank=3;StartBPM=83.3912439193885;</Attributes>
   </ExtenedAttributes>
@@ -5295,6 +5303,10 @@
   <ExtenedAttributes>
     <Track>Young Holt Unlimited - Rubber Lips</Track>
     <Attributes>Duration=190.775782312925;EndBPM=104.98687664042;EndLoopCount=4;FadeIn=0.947;FadeInLengthInSeconds=9.144;FadeOut=153.695;FadeOutLengthInSeconds=1.143;Key=Dm;PreFadeInPosition=0.372;PreFadeInStartVolume=75;Rank=3;SkipLengthInSeconds=68.299;SkipStart=45.617;StartBPM=104.98687664042;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Young Holt Unlimited - Soulful Strut</Track>
+    <Attributes>Duration=181.067;EndBPM=90.190;FadeIn=11.626;FadeInLengthInSeconds=5.344;FadeOut=150.908;FadeOutLengthInSeconds=10.644;PreFadeInPosition=11.162;PreFadeInStartVolume=05;Rank=4;StartBPM=89.822;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Young Holt Unlimited - The Creeper</Track>

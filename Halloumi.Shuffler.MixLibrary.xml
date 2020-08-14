@@ -136,6 +136,7 @@
       <string>Cannonball Adderley - Groovy Sambas, 2</string>
       <string>Osmar Milito - Morre O Burro, Fica O Homem, 2</string>
       <string>Aloe Blacc - Good Things, 2</string>
+      <string>Young Holt Unlimited - Soulful Strut, 2</string>
       <string>Breakestra - Come On Over (feat. Afrodyete), 0</string>
       <string>A Tribe Called Quest - 1nce Again (Instrumental), 0</string>
       <string>Nas - Halftime (Instrumental), 0</string>
@@ -949,6 +950,7 @@
       <string>The Gaturs - Gator Bait, 4</string>
       <string>Tim Maia - No Caminho Do Bem, 4</string>
       <string>The Emotions - I Like It, 4</string>
+      <string>The Haggis Horns - The Traveller Part Two, 4</string>
       <string>Breakestra - Sexy Coffe Pot, 3</string>
       <string>Speedometer - Cool To Be Uncool (Live), 3</string>
       <string>Sharon Jones &amp; The Dap Kings - Tell Me, 3</string>
@@ -970,6 +972,7 @@
     <Track>A Tribe Called Quest - Luck Of Lucien (Instrumental)</Track>
     <MixRankings>
       <string>Bill Withers - The Same Love That Made Me Laugh, 5</string>
+      <string>The Haggis Horns - The Traveller Part Two, 5</string>
       <string>Carolyn Franklin - Deal With It, 4</string>
       <string>Dandy Livingstone - Rudy, A Message To You, 4</string>
       <string>Jurassic 5 - Improvise, 4</string>
@@ -1450,6 +1453,7 @@
       <string>Jorge Ben - Criola, 3</string>
       <string>Ian Pooley - Venasque, 3</string>
       <string>The Black Seeds - Cool Me Down, 3</string>
+      <string>Young Holt Unlimited - Soulful Strut, 3</string>
       <string>A Tribe Called Quest - Jam, 2</string>
       <string>A Tribe Called Quest - Push It Along (Instrumental), 2</string>
       <string>Aretha Franklin - One Step Ahead (Ms. Fat Booty Blend), 2</string>
@@ -1956,6 +1960,7 @@
       <string>Mos Def - Mr. Universe, 4</string>
       <string>Gang Starr - Full Clip (Instrumental) (RB Edit), 4</string>
       <string>Aphrodelics - Rollin' On Chrome (Wild Motherfucker Dub), 4</string>
+      <string>Evinha - Esperar Pra Ver, 4</string>
       <string>The J.B.'s - Pass The Peas, 3</string>
       <string>Bill Withers - Lovely Day, 3</string>
       <string>El Michels Affair - Criminology, 3</string>
@@ -2386,6 +2391,7 @@
       <string>Ernie Hines - Our Generation, 4</string>
       <string>DJ Muggs vs. Sick Jacken - El Barrio, 4</string>
       <string>Digable Planets - Rebirth Of Slick (Cool Like Dat), 4</string>
+      <string>Evinha - Esperar Pra Ver, 4</string>
       <string>A Tribe Called Quest - Award Tour (Instrumental), 3</string>
       <string>El Michels Affair - C.R.E.A.M., 3</string>
       <string>El Michels Affair - Red Rooster, 3</string>
@@ -4391,10 +4397,6 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>Bad Company - Digital Nation</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
     <Track>Bad Company - Four Days</Track>
     <MixRankings>
       <string>Concord Dawn - Styx (feat. Geist), 4</string>
@@ -4604,10 +4606,6 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>Bad Company - Refuge</Track>
-    <MixRankings />
-  </TrackMix>
-  <TrackMix>
     <Track>Bad Company - Sentient</Track>
     <MixRankings>
       <string>Bad Company - Night Train, 4</string>
@@ -4648,10 +4646,6 @@
       <string>Cybernetika - Vaporized, 0</string>
       <string>Genetix - Structures (Future Prophecies Remix), 0</string>
     </MixRankings>
-  </TrackMix>
-  <TrackMix>
-    <Track>Bad Company - Son Of Nitrous</Track>
-    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Bad Company - The Fear</Track>
@@ -5242,6 +5236,7 @@
       <string>Deadbeats - Pick Me Up (Nightmares On Wax Edit), 3</string>
       <string>The Beatnuts - Off The Books (Instrumental), 3</string>
       <string>Rubinho E Mauro Assumpcao - Ta Tudo Ai, 3</string>
+      <string>Evinha - Esperar Pra Ver, 3</string>
       <string>Dizzy Gillespie - Matrix, 2</string>
       <string>John Legend &amp; The Roots - Hard Times, 2</string>
       <string>Pulp Fusion - Dizzy Gillespie  Matrix, 2</string>
@@ -5578,6 +5573,7 @@
     <Track>Beastie Boys - Some Dumb Cop Gave Me Two Tickets Already (Instrumental)</Track>
     <MixRankings>
       <string>Jurassic 5 - Concrete Schoolyard, 5</string>
+      <string>Young Holt Unlimited - Soulful Strut, 5</string>
       <string>De La Soul - Fallin' (feat. Teenage Fan Club), 4</string>
       <string>People Under The Stairs - The Breakdown, 4</string>
       <string>Gian Franco Pienzio - Grigio Perla, 4</string>
@@ -6220,6 +6216,7 @@
       <string>A Tribe Called Quest - Award Tour (Instrumental), 3</string>
       <string>Nightmares On Wax - Play On, 3</string>
       <string>Eddie Bo - Funky Jam, 3</string>
+      <string>Evinha - Esperar Pra Ver, 3</string>
       <string>Beats International - Dub Be Good To Me, 2</string>
       <string>Cannonball Adderley - Groovy Sambas, 2</string>
       <string>Gilberto Gil - Mancada, 2</string>
@@ -6430,6 +6427,7 @@
       <string>Joe Quarterman &amp; Free Soul - (I Got) So Much Trouble in My Life, 3</string>
       <string>El Michels Affair - Run Fay Run, 3</string>
       <string>Young MC - Know How, 3</string>
+      <string>The Haggis Horns - The Traveller Part Two, 3</string>
       <string>Jackie Mittoo And The Soul Brothers - James Bond Theme, 2</string>
       <string>Blackbyrds - The Blackbyrds' Theme, 2</string>
       <string>James Brown - I'm A Greedy Man (Part 1), 2</string>
@@ -9389,6 +9387,7 @@
       <string>The 3 Sounds - Your Love Is Too Much, 2</string>
       <string>Cal Tjader - Tanya, 2</string>
       <string>People Under The Stairs - Anotha' (BBQ), 2</string>
+      <string>The Haggis Horns - The Traveller Part Two, 2</string>
       <string>All The People - Cramp Your Style, 0</string>
       <string>Barry White - Satin Soul, 0</string>
       <string>Billy Young - Suffering With A Hangover (Part 1), 0</string>
@@ -9534,6 +9533,7 @@
     <MixRankings>
       <string>Tommy Mccook - Green Mango, 5</string>
       <string>Fat Freddys Drop - Roady, 5</string>
+      <string>Young Holt Unlimited - Soulful Strut, 5</string>
       <string>Dub Specialist - Dub It Easy, 4</string>
       <string>Eddie Henderson - Inside You, 4</string>
       <string>The 3 Sounds - Put on Train, 4</string>
@@ -9997,6 +9997,7 @@
       <string>The Sugarhill Gang - Rapper's Delight, 4</string>
       <string>People Under The Stairs - Anotha' (BBQ), 4</string>
       <string>The Herbaliser - What You Asked For, 4</string>
+      <string>The Haggis Horns - The Traveller Part Two, 4</string>
       <string>Average White Band - Pick Up The Pieces, 3</string>
       <string>Speedometer - Accra International Airport, 3</string>
       <string>Tosca - Honey, 3</string>
@@ -12194,6 +12195,7 @@
       <string>Breakestra - Joyful Noise, 5</string>
       <string>Greyboy - Singles Party, 4</string>
       <string>The Gaturs - Gator Bait, 4</string>
+      <string>The Haggis Horns - The Traveller Part Two, 4</string>
       <string>Prince Fatty - Insane In The Brain (feat. Horseman), 3</string>
       <string>Ann Sextona - You're Losing Me, 3</string>
       <string>Binky Griptite And The Sugarman Three - A Lover Like Me, 3</string>
@@ -12632,6 +12634,7 @@
   <TrackMix>
     <Track>Damu the Fudgemunk - Judgement Day</Track>
     <MixRankings>
+      <string>Evinha - Esperar Pra Ver, 5</string>
       <string>RJD2 - 2 More Dead, 4</string>
       <string>Pete Rock - Back On The Block (Instrumental), 4</string>
       <string>Young MC - Principal's Office (Instrumental), 4</string>
@@ -12737,6 +12740,7 @@
       <string>Eddie Henderson - Inside You, 3</string>
       <string>Bas Blasta - Ain't Whatcha Do (Instrumental), 3</string>
       <string>Elzhi &amp; Will Sessions - Memory Lane (Instrumental), 3</string>
+      <string>Young Holt Unlimited - Soulful Strut, 3</string>
       <string>Cortex - La Rue, 2</string>
       <string>A Tribe Called Quest - 1nce Again (Instrumental), 2</string>
       <string>DJ Jazzy Jeff And The Fresh Prince - Summertime (Instrumental), 2</string>
@@ -13815,6 +13819,7 @@
     <Track>Digable Planets - Rebirth Of Slick (Cool Like Dat)</Track>
     <MixRankings>
       <string>El Michels Affair - C.R.E.A.M., 5</string>
+      <string>Evinha - Esperar Pra Ver, 5</string>
       <string>Pete Rock - Back On The Block (Instrumental), 4</string>
       <string>James Brown - The Payback, 4</string>
       <string>James Brown - Payback, 4</string>
@@ -14727,6 +14732,7 @@
       <string>Gang Starr - Full Clip (Instrumental) (RB Edit), 4</string>
       <string>Jurassic 5 - Lausd (Instrumental) (RB Edit), 4</string>
       <string>Digable Planets - Rebirth Of Slick (Cool Like Dat), 4</string>
+      <string>Evinha - Esperar Pra Ver, 4</string>
       <string>A Tribe Called Quest - Can I Kick It, 3</string>
       <string>Breakestra - Back At The Boathouse, 3</string>
       <string>A Tribe Called Quest - Push It Along (Instrumental), 3</string>
@@ -14968,6 +14974,7 @@
       <string>Jurassic 5 - Red Hot (Instrumental), 3</string>
       <string>Deadbeats - Pick Me Up (Nightmares On Wax Edit), 3</string>
       <string>Digable Planets - Rebirth Of Slick (Cool Like Dat), 3</string>
+      <string>Evinha - Esperar Pra Ver, 3</string>
       <string>Elis Regina - Menino Das Laranjas, 2</string>
       <string>The Budos Band - Ghostwalk, 2</string>
       <string>Wes Montgomery - Four on Six, 2</string>
@@ -15321,6 +15328,7 @@
       <string>Tommy Mccook - Green Mango, 5</string>
       <string>Jeru The Damaja - Me Or The Papes (Instrumental), 5</string>
       <string>Fat Freddys Drop - Roady, 5</string>
+      <string>Young Holt Unlimited - Soulful Strut, 5</string>
       <string>Wes Montgomery - Tequila, 4</string>
       <string>Jurassic 5 - If You Only Knew (Instrumental), 4</string>
       <string>Nightmares On Wax - The Sweetest, 4</string>
@@ -15473,6 +15481,7 @@
       <string>Spanky Wilson - Kissing My Love, 5</string>
       <string>A Tribe Called Quest - Luck Of Lucien (Instrumental), 4</string>
       <string>Tosca - Honey, 4</string>
+      <string>The Haggis Horns - The Traveller Part Two, 4</string>
       <string>Binky Griptite And The Mellomatics - The Stroll (Part 2), 3</string>
       <string>Carolyn Franklin - Deal With It, 3</string>
       <string>Chic - Good Times, 3</string>
@@ -15740,6 +15749,7 @@
       <string>Naughty By Nature - OPP (Instrumental), 2</string>
       <string>Seu Jorge - Burguesinha, 2</string>
       <string>Jorge Ben - Olha A Beleza Dela, 2</string>
+      <string>Evinha - Esperar Pra Ver, 2</string>
       <string>A Tribe Called Quest - Jam, 0</string>
       <string>ConFunkShun - Clique, 0</string>
       <string>De La Soul - Ring Ring Ring (Ha Ha Hey), 0</string>
@@ -16112,6 +16122,7 @@
       <string>Greyboy - On The Strip, 3</string>
       <string>Stan Getz &amp; Astrud Gilberto - Eu E Voce (Me And You) (Live), 3</string>
       <string>Eddie Russ - Lope Song, 3</string>
+      <string>The Haggis Horns - The Traveller Part Two, 3</string>
       <string>Astrud Gilberto - Ponteio, 2</string>
       <string>Breakestra - 40 Days, 2</string>
       <string>Howard Roberts - One Note Samba, 2</string>
@@ -16655,6 +16666,7 @@
       <string>Jurassic 5 - Concrete Schoolyard, 3</string>
       <string>Barry White - It's Only Love Doing It's Thing, 3</string>
       <string>John Holt - Man Next Door (Got To Get Away), 3</string>
+      <string>Young Holt Unlimited - Soulful Strut, 3</string>
       <string>Cal Tjader - Pantano, 2</string>
       <string>Wes Montgomery - Tequila, 2</string>
       <string>Byron Lee - Hot Reggae, 2</string>
@@ -17084,6 +17096,34 @@
       <string>Horace Andy - Nice And Easy Dub, 2</string>
       <string>Cypress Hill - Latin Thugs (Instrumental), 2</string>
       <string>Jorge Ben - Olha A Beleza Dela, 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Evinha - Esperar Pra Ver</Track>
+    <MixRankings>
+      <string>Digable Planets - Rebirth Of Slick (Cool Like Dat), 5</string>
+      <string>Pete Rock - Back On The Block (Instrumental), 5</string>
+      <string>Gang Starr - Full Clip (Instrumental) (RB Edit), 5</string>
+      <string>DJ Nu-Mark - Lay 'Em Low (Instrumental), 5</string>
+      <string>James Brown - Payback, 4</string>
+      <string>Aloe Blacc - I Need A Dollar (Instrumental), 4</string>
+      <string>Nightmares On Wax - Ease Jimi, 4</string>
+      <string>Young MC - Principal's Office (Instrumental), 4</string>
+      <string>Al Green - Love And Happiness, 4</string>
+      <string>Tosca - Worksong, 4</string>
+      <string>Jurassic 5 - Jayou, 4</string>
+      <string>Beastie Boys - Hey Ladies (Instrumental), 4</string>
+      <string>Bill Withers - Lovely Day, 4</string>
+      <string>Damu the Fudgemunk - Judgement Day, 3</string>
+      <string>Sharon Jones &amp; The Dap Kings - Better Things To Do, 3</string>
+      <string>Jurassic 5 - Break (Instrumental), 3</string>
+      <string>The Marvels - Rock Steady, 3</string>
+      <string>Nightmares On Wax - Bringin It, 3</string>
+      <string>Grandmaster Flash - The Message (Instrumental), 3</string>
+      <string>Tim Armstrong - Hold On, 3</string>
+      <string>Jurassic 5 - Unified Rebelution, 3</string>
+      <string>Eddie Bo - Funky Jam, 2</string>
+      <string>Tosca - Chocolate Elvis, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -18208,6 +18248,7 @@
       <string>Marvin Gaye - Mercy Mercy Me (The Ecology), 3</string>
       <string>DJ Muggs vs. Sick Jacken - El Barrio, 3</string>
       <string>Digable Planets - Rebirth Of Slick (Cool Like Dat), 3</string>
+      <string>Evinha - Esperar Pra Ver, 3</string>
       <string>Gang Starr - You Know My Steez (Instrumental), 2</string>
       <string>Eddie Bo - Hook &amp; Sling (Extended Mix), 2</string>
       <string>People Under The Stairs - Acid Raindrops, 2</string>
@@ -18528,6 +18569,7 @@
       <string>Edson Frederico - Bobeira, 3</string>
       <string>Jorge Ben - Rita Jeep, 3</string>
       <string>Rubinho E Mauro Assumpcao - Ta Tudo Ai, 3</string>
+      <string>The Haggis Horns - The Traveller Part Two, 3</string>
       <string>A Tribe Called Quest - Luck Of Lucien (Instrumental), 2</string>
       <string>Binky Griptite And The Mellomatics - The Stroll (Part 2), 2</string>
       <string>Greyboy - Panacea, 2</string>
@@ -18762,6 +18804,7 @@
       <string>The J.B.'s - You Can Have Watergate Just Gimme Some Bucks and I'll Be Straight, 3</string>
       <string>Tosca - Chocolate Elvis (Boozoo Bajou Version), 3</string>
       <string>Donald Byrd - (Fallin' Like) Dominoes, 3</string>
+      <string>Evinha - Esperar Pra Ver, 3</string>
       <string>A Tribe Called Quest - Luck Of Lucien (Instrumental), 2</string>
       <string>Aretha Franklin - Rock Steady, 2</string>
       <string>Breakestra - Burgundy Blues (feat. James "The Penguin" King), 2</string>
@@ -18972,6 +19015,7 @@
       <string>A Tribe Called Quest - 1nce Again (Instrumental), 4</string>
       <string>Beats International - Dub Be Good To Me, 4</string>
       <string>DJ Nu Mark - Comin' Thru (feat. Chali 2na) (Instrumental) (RB Edit), 4</string>
+      <string>Young Holt Unlimited - Soulful Strut, 4</string>
       <string>A Tribe Called Quest - Clap Your Hands (Instrumental), 3</string>
       <string>A Tribe Called Quest - Jam, 3</string>
       <string>A Tribe Called Quest - Oh My God, 3</string>
@@ -21358,6 +21402,7 @@
       <string>Ronny Jordan Meets DJ Krush - So What! (Tuff 'n' Smooth Mix), 3</string>
       <string>Young MC - Know How, 3</string>
       <string>Ronie E O Central Do Brasil - Atoa Atoa, 3</string>
+      <string>The Haggis Horns - The Traveller Part Two, 3</string>
       <string>All The People - Cramp Your Style, 2</string>
       <string>Blackbyrds - The Blackbyrds' Theme, 2</string>
       <string>Blue Mitchell - Good Humour Man, 2</string>
@@ -22075,6 +22120,7 @@
       <string>Enrique Olivarez Y Los Vampiros - Arriba Tipo, 0</string>
       <string>All The People - Cramp Your Style, 0</string>
       <string>Rodney P &amp; DJ Die - Holes In The Building (Radio Edit), 0</string>
+      <string>The Haggis Horns - The Traveller Part Two, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -22414,6 +22460,7 @@
       <string>James Brown - Blues &amp; Pants, 4</string>
       <string>James Brown - Don't Tell It, 4</string>
       <string>Digable Planets - Rebirth Of Slick (Cool Like Dat), 4</string>
+      <string>Evinha - Esperar Pra Ver, 4</string>
       <string>The Bamboos - The Ghost, 3</string>
       <string>The J.B.'s - Gimme Some More, 3</string>
       <string>James Brown - Talkin' Loud And Sayin' Nothing, 3</string>
@@ -22531,6 +22578,7 @@
       <string>The Herbaliser - Battle of Bongo Hill, 4</string>
       <string>The Bamboos - Red Triangle, 4</string>
       <string>Lauryn Hill - Doo Wop (That Thing), 4</string>
+      <string>The Haggis Horns - The Traveller Part Two, 4</string>
       <string>The J.B.'s - Pass The Peas, 3</string>
       <string>Souls Of Mischief - Let Em Know (Instrumental), 3</string>
       <string>Beastie Boys - Hey Ladies (Instrumental), 3</string>
@@ -23046,6 +23094,7 @@
       <string>Monty Alexander - Inner City Blues, 3</string>
       <string>Donald Byrd - Places and Spaces, 3</string>
       <string>Elzhi &amp; Will Sessions - Memory Lane (Instrumental), 3</string>
+      <string>Young Holt Unlimited - Soulful Strut, 3</string>
       <string>A Tribe Called Quest - Oh My God, 2</string>
       <string>Al Green - Here I Am (Come And Take Me), 2</string>
       <string>Aloe Blacc - Good Things, 2</string>
@@ -24292,6 +24341,7 @@
       <string>Super Som Lord - Br Samaba, 3</string>
       <string>Sam &amp; Dave - Soul Man, 3</string>
       <string>Family Plann - Come On Let's Do The Breakdown, 3</string>
+      <string>The Haggis Horns - The Traveller Part Two, 3</string>
       <string>Roy Ayers - Running Away (12 Mix), 2</string>
       <string>Breakestra - Remember Who You Are, 2</string>
       <string>The Gaturs - Gator Bait, 2</string>
@@ -25038,6 +25088,7 @@
     <MixRankings>
       <string>The Herbaliser - Battle of Bongo Hill, 4</string>
       <string>Tosca - Honey (Freedom Satellite Dub), 4</string>
+      <string>The Haggis Horns - The Traveller Part Two, 4</string>
       <string>Tim Maia - No Caminho Do Bem, 3</string>
       <string>Jorge Ben - Pulo Pulo, 3</string>
       <string>Astrud Gilberto - Ponteio, 3</string>
@@ -25532,6 +25583,7 @@
       <string>Blackalicious - Swan Lake (Instrumental), 3</string>
       <string>El Michels Affair - Red Rooster, 3</string>
       <string>Jurassic 5 - Jayou, 3</string>
+      <string>Evinha - Esperar Pra Ver, 3</string>
       <string>Betty Wright - Secretary, 2</string>
       <string>Blackalicious - Rock The Spot (Instrumental), 2</string>
       <string>El Michels Affair - C.R.E.A.M., 2</string>
@@ -25817,6 +25869,7 @@
       <string>El Michels Affair - Red Rooster, 4</string>
       <string>Lee 'Scratch' Perry and King Tubby - MFA Dub, 4</string>
       <string>Greyboy - Lite Bake, 4</string>
+      <string>Young Holt Unlimited - Soulful Strut, 4</string>
       <string>A Tribe Called Quest - Jam, 3</string>
       <string>Blackalicious - Swan Lake (Instrumental), 3</string>
       <string>A Tribe Called Quest - Oh My God, 3</string>
@@ -26182,6 +26235,7 @@
       <string>Eddie Henderson - Inside You, 3</string>
       <string>Jack McDuff - Hunk O'funk, 3</string>
       <string>Fat Freddys Drop - Roady, 3</string>
+      <string>Young Holt Unlimited - Soulful Strut, 3</string>
       <string>Agora Chega - Super Som T.A., 2</string>
       <string>Al Brown - Here I Am Baby, 2</string>
       <string>Baby Huey &amp; The Baby Sitters - Hard Times, 2</string>
@@ -26349,6 +26403,7 @@
       <string>Prince Fatty - Insane In The Brain (feat. Horseman), 4</string>
       <string>Gang Starr - Full Clip (Instrumental) (RB Edit), 4</string>
       <string>Digable Planets - Rebirth Of Slick (Cool Like Dat), 4</string>
+      <string>Evinha - Esperar Pra Ver, 4</string>
       <string>Digable Planets - Cool Like That, 3</string>
       <string>Jurassic 5 - Great Expectations (Instrumental), 3</string>
       <string>Young MC - Principal's Office (Instrumental), 3</string>
@@ -26633,6 +26688,7 @@
   <TrackMix>
     <Track>Jurassic 5 - Quality Control</Track>
     <MixRankings>
+      <string>Young Holt Unlimited - Soulful Strut, 5</string>
       <string>Mr. Scruff - Jusjus (feat. Roots Manuva), 4</string>
       <string>Snoop Dogg - Vapors (Instrumental), 4</string>
       <string>Jorge Ben - O Namorado Da Viúva, 4</string>
@@ -26828,6 +26884,7 @@
       <string>Naughty By Nature - OPP (Instrumental), 4</string>
       <string>The Pharcyde - Running Away (Instrumental) (RB Edit), 4</string>
       <string>Digable Planets - Rebirth Of Slick (Cool Like Dat), 4</string>
+      <string>Evinha - Esperar Pra Ver, 4</string>
       <string>A Tribe Called Quest - Can I Kick It, 3</string>
       <string>Ann Allford - Gotta Get Me A Job, 3</string>
       <string>De La Soul - Breakadawn, 3</string>
@@ -28485,6 +28542,7 @@
       <string>Sharon Jones &amp; The Dap Kings - Be Easy, 4</string>
       <string>Nightmares On Wax - Know My Name (Instrumental), 4</string>
       <string>Jurassic 5 - Concrete Schoolyard, 4</string>
+      <string>Young Holt Unlimited - Soulful Strut, 4</string>
       <string>Al Brown - Here I Am Baby, 3</string>
       <string>Aretha Franklin - One Step Ahead (Ms. Fat Booty Blend), 3</string>
       <string>De La Soul - Fallin' (feat. Teenage Fan Club), 3</string>
@@ -30998,6 +31056,7 @@
       <string>Gang Starr - Full Clip (Instrumental) (RB Edit), 4</string>
       <string>Damu the Fudgemunk - Fabrega's Discotecas, 4</string>
       <string>Digable Planets - Rebirth Of Slick (Cool Like Dat), 4</string>
+      <string>Evinha - Esperar Pra Ver, 4</string>
       <string>A Tribe Called Quest - Electric Relaxation (Instrumental), 3</string>
       <string>Bill Withers - The Same Love That Made Me Laugh, 3</string>
       <string>Breakestra - Lowdown Stank, 3</string>
@@ -31076,6 +31135,7 @@
       <string>Carolyn Franklin - Deal With It, 2</string>
       <string>Beastie Boys - Shake Your Rump (Instrumental), 2</string>
       <string>Tito Puente - Mi Trompeta Tropical, 2</string>
+      <string>The Haggis Horns - The Traveller Part Two, 2</string>
       <string>Average White Band - Pick Up The Pieces, 0</string>
       <string>Barry White - Satin Soul, 0</string>
       <string>Binky Griptite And The Mellomatics - The Stroll (Part 2), 0</string>
@@ -31123,6 +31183,7 @@
       <string>Damu the Fudgemunk - Judgement Day, 4</string>
       <string>DJ Muggs vs. Sick Jacken - El Barrio, 4</string>
       <string>Digable Planets - Rebirth Of Slick (Cool Like Dat), 4</string>
+      <string>Evinha - Esperar Pra Ver, 4</string>
       <string>A Tribe Called Quest - Ham N Eggs (Instrumental), 3</string>
       <string>A Tribe Called Quest - Jam, 3</string>
       <string>A Tribe Called Quest - Oh My God, 3</string>
@@ -32419,6 +32480,7 @@
       <string>Spanky Wilson - Kissing My Love, 4</string>
       <string>The U.M.Cs - One to Grow On, 4</string>
       <string>Otis Redding - (Sittin' On) The Dock of the Bay, 4</string>
+      <string>The Haggis Horns - The Traveller Part Two, 4</string>
       <string>Brentford Allstars - Greedy G, 3</string>
       <string>A Tribe Called Quest - Youthful Expression (Instrumental), 3</string>
       <string>A Tribe Called Quest - Luck Of Lucien (Instrumental), 3</string>
@@ -32788,6 +32850,7 @@
       <string>Roy Ayers - The Black Five, 3</string>
       <string>The Gaylettes - Son Of A Preacher Man, 3</string>
       <string>Elzhi &amp; Will Sessions - Memory Lane (Instrumental), 3</string>
+      <string>Young Holt Unlimited - Soulful Strut, 3</string>
       <string>Al Brown - Here I Am Baby, 2</string>
       <string>Betty And Angel - Honey Coated Loving, 2</string>
       <string>Betty Harris - Break In The Road (feat. The Meters), 2</string>
@@ -33115,6 +33178,7 @@
       <string>Donald Byrd - Weasil, 3</string>
       <string>DJ Jazzy Jeff And The Fresh Prince - Summertime (Instrumental), 3</string>
       <string>The Gaylettes - Son Of A Preacher Man, 3</string>
+      <string>Young Holt Unlimited - Soulful Strut, 3</string>
       <string>Dusty Springfield - Son Of A Preacher Man, 2</string>
       <string>Group Home - Intro (Instrumental), 2</string>
       <string>People Under The Stairs - Flex Off, 2</string>
@@ -33157,6 +33221,7 @@
       <string>Sharon Jones &amp; The Dap Kings - Be Easy, 4</string>
       <string>DJ Muggs vs. Sick Jacken - El Barrio, 4</string>
       <string>Digable Planets - Rebirth Of Slick (Cool Like Dat), 4</string>
+      <string>Evinha - Esperar Pra Ver, 4</string>
       <string>Nightmares On Wax - Ease Jimi, 3</string>
       <string>Taggy Matcher - My Adidas, 3</string>
       <string>The Herbaliser - Repetitive Loop (Reloop), 3</string>
@@ -34806,6 +34871,7 @@
       <string>Reuben Wilson - Inner City Blues, 3</string>
       <string>The Diplomats Of Solid Sound - Plenty Nasty, 3</string>
       <string>Average White Band - Pick Up The Pieces, 3</string>
+      <string>The Haggis Horns - The Traveller Part Two, 3</string>
       <string>Brentford Allstars - Greedy G, 2</string>
       <string>Tim Maia - No Caminho Do Bem, 2</string>
       <string>Young MC - Know How, 2</string>
@@ -36207,6 +36273,7 @@
       <string>Sharon Jones &amp; The Dap Kings - Natural Born Lover, 2</string>
       <string>Sharon Jones &amp; The Dap Kings - You Better Think Twice, 2</string>
       <string>Bill Withers - Lovely Day, 2</string>
+      <string>Evinha - Esperar Pra Ver, 2</string>
       <string>The Bamboos - Kings Cross, 0</string>
       <string>Sharon Jones &amp; The Dap Kings - Pick It Up, Lay It In The Cut, 0</string>
       <string>Sharon Jones &amp; The Dap Kings - Something's Changed, 0</string>
@@ -41373,6 +41440,7 @@
       <string>The Bamboos - Got To Get It Over, 3</string>
       <string>The J.B.'s - Hot Pants Road, 3</string>
       <string>Breakestra - Cramp Your Style, 3</string>
+      <string>The Haggis Horns - The Traveller Part Two, 3</string>
       <string>James Brown - Soul Power, 2</string>
       <string>De La Soul - Keepin' The Faith, 2</string>
       <string>Kool Blues - Can We Try Love Again, 2</string>
@@ -41806,6 +41874,7 @@
       <string>Cymande - Brothers On The Slide, 2</string>
       <string>Brentford Allstars - Greedy G, 0</string>
       <string>Vanessa da Mata - Não Me Deixe Só, 0</string>
+      <string>The Haggis Horns - The Traveller Part Two, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -41952,6 +42021,7 @@
       <string>Carolyn Franklin - Deal With It, 3</string>
       <string>Ramsey Lewis - Back In The U.S.S.R, 3</string>
       <string>Reuben Wilson - Inner City Blues, 3</string>
+      <string>The Haggis Horns - The Traveller Part Two, 3</string>
       <string>A Tribe Called Quest - Youthful Expression (Instrumental), 2</string>
       <string>Average White Band - Pick Up The Pieces, 2</string>
       <string>Breakestra - Get It Right, 2</string>
@@ -42053,6 +42123,7 @@
     <MixRankings>
       <string>Tenor Saw - Ring The Alarm, 4</string>
       <string>Jimmy Cliff - Ruby Soho, 4</string>
+      <string>Young Holt Unlimited - Soulful Strut, 4</string>
       <string>Lee 'Scratch' Perry and King Tubby - MFA Dub, 3</string>
       <string>Chino - Jade Sunrise, 3</string>
       <string>Gloria Jones - Tainted Love, 3</string>
@@ -42124,6 +42195,42 @@
       <string>The Beginning of the End - Gee Whiz, It's Christmas, 0</string>
       <string>James Brown - Christmas Is Love, 0</string>
       <string>Ray Harris &amp; The Fusion Experience - Soulful Christmas, 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>The Haggis Horns - The Traveller Part One</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
+    <Track>The Haggis Horns - The Traveller Part Two</Track>
+    <MixRankings>
+      <string>The Budos Band - Up From The South, 5</string>
+      <string>A Tribe Called Quest - Luck Of Lucien, 4</string>
+      <string>A Tribe Called Quest - Luck Of Lucien (Instrumental), 4</string>
+      <string>Carolyn Franklin - Deal With It, 4</string>
+      <string>Cymande - Brothers On The Slide, 4</string>
+      <string>Tosca - Honey (Freedom Satellite Dub), 4</string>
+      <string>Jackie Mittoo - Totally Together, 4</string>
+      <string>Young Holt Unlimited - Rubber Lips, 4</string>
+      <string>The J.B.'s - Hot Pants Road, 4</string>
+      <string>James Brown - Soul Power, 4</string>
+      <string>Trio Mocotó - Swinga Sambaby, 4</string>
+      <string>Otis Redding &amp; Carla Thomas - Tramp (Instrumental), 4</string>
+      <string>The Vibrette - Humpty Dump, 4</string>
+      <string>The Gaturs - Gator Bait, 4</string>
+      <string>El Michels Affair - Run Fay Run, 4</string>
+      <string>Jorge Ben - Comanche, 4</string>
+      <string>Gilberto Gil - Roda, 3</string>
+      <string>Thievery Corporation - Focus On Sight, 3</string>
+      <string>Dusty Springfield - Spooky, 3</string>
+      <string>The Herbaliser - What You Asked For, 3</string>
+      <string>Tim Maia - No Caminho Do Bem, 3</string>
+      <string>Nightmares On Wax - Brothers On The Slide Dub, 3</string>
+      <string>Tito Puente - Mi Trompeta Tropical, 3</string>
+      <string>Billy Brooks - Forty Days, 3</string>
+      <string>Chico Buarque - Samba de Orly, 3</string>
+      <string>Brentford Allstars - Greedy G, 3</string>
+      <string>Ronny Jordan Meets DJ Krush - So What! (Tuff 'n' Smooth Mix), 3</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -42579,6 +42686,7 @@
       <string>Chico Buarque - Samba de Orly, 3</string>
       <string>Nightmares On Wax - Brothers On The Slide Dub, 3</string>
       <string>Tosca - Honey (Freedom Satellite Dub), 3</string>
+      <string>The Haggis Horns - The Traveller Part Two, 3</string>
       <string>The Herbaliser - Take 'em On, 2</string>
       <string>Howard Roberts - One Note Samba, 2</string>
       <string>The 3 Sounds - Your Love Is Too Much, 2</string>
@@ -43048,6 +43156,7 @@
     <MixRankings>
       <string>James Brown - Soul Power, 5</string>
       <string>Sola Rosa - Del Ray, 5</string>
+      <string>The Haggis Horns - The Traveller Part Two, 5</string>
       <string>Jurassic 5 - Red Hot (Instrumental), 4</string>
       <string>Spanky Wilson - Kissing My Love, 4</string>
       <string>The J.B.'s - More Peas (Complete Version), 4</string>
@@ -43441,6 +43550,7 @@
       <string>Beastie Boys - Shake Your Rump (Instrumental), 4</string>
       <string>Gang Starr - Full Clip (Instrumental) (RB Edit), 4</string>
       <string>Digable Planets - Rebirth Of Slick (Cool Like Dat), 4</string>
+      <string>Evinha - Esperar Pra Ver, 4</string>
       <string>Jurassic 5 - How We Get Along (Instrumental), 3</string>
       <string>The Beatnuts - Fluid, 3</string>
       <string>A Tribe Called Quest - Push It Along (Instrumental), 3</string>
@@ -45566,6 +45676,7 @@
       <string>Blue Mitchell - Good Humour Man, 2</string>
       <string>Blackbyrds - The Blackbyrds' Theme, 2</string>
       <string>Elizete Cardoso - E De Lei, 2</string>
+      <string>The Haggis Horns - The Traveller Part Two, 2</string>
       <string>Ann Sextona - You're Losing Me, 0</string>
       <string>Breakestra - Humpty Dump, 0</string>
       <string>Breakestra - Joyful Noise, 0</string>
@@ -45788,6 +45899,7 @@
       <string>El Michels Affair - Uzi (Pinky Ring), 4</string>
       <string>Tosca - Honey (Freedom Satellite Dub), 4</string>
       <string>The Budos Band - Up From The South, 4</string>
+      <string>The Haggis Horns - The Traveller Part Two, 4</string>
       <string>Beastie Boys - Shadrach (Instrumental), 3</string>
       <string>Carolyn Franklin - Deal With It, 3</string>
       <string>Barry White - Satin Soul, 3</string>
@@ -46092,6 +46204,7 @@
       <string>Katchafire - Bounce, 4</string>
       <string>Young Holt Unlimited - Rubber Lips, 4</string>
       <string>The Marvels - Rock Steady, 4</string>
+      <string>Evinha - Esperar Pra Ver, 4</string>
       <string>Bill Withers - The Same Love That Made Me Laugh, 3</string>
       <string>Jurassic 5 - Red Hot (Instrumental), 3</string>
       <string>Taggy Matcher - Breathe And Stop, 3</string>
@@ -46215,6 +46328,7 @@
       <string>Speedometer - Are You My Woman? (Tell Me So) (Live), 4</string>
       <string>Barry White - It's Ecstasy When You Lay Down Next To Me, 4</string>
       <string>Vanessa da Mata - Não Me Deixe Só, 4</string>
+      <string>The Haggis Horns - The Traveller Part Two, 4</string>
       <string>Binky Griptite And The Mellomatics - The Stroll (Part 2), 3</string>
       <string>Grant Green - The Final Comedown, 3</string>
       <string>Greyboy - Panacea, 3</string>
@@ -46355,6 +46469,7 @@
       <string>Michael Vinner's Incredible Bongo Band - Apache, 3</string>
       <string>Trio Mocotó - Swinga Sambaby, 3</string>
       <string>Jorge Ben - Comanche, 3</string>
+      <string>The Haggis Horns - The Traveller Part Two, 3</string>
       <string>Speedometer - Are You My Woman? (Tell Me So) (Live), 2</string>
       <string>Nightmares On Wax - Brothers On The Slide Dub, 2</string>
       <string>The New Mastersounds - Dusty Groove, 2</string>
@@ -46862,6 +46977,7 @@
       <string>Young MC - Principal's Office (Instrumental), 0</string>
       <string>Jurassic 5 - How We Get Along (Instrumental), 0</string>
       <string>Bomb The Bass - Bug Powder Dust (K&amp;D Session), 0</string>
+      <string>Evinha - Esperar Pra Ver, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -47173,6 +47289,7 @@
       <string>Tosca - Honey, 4</string>
       <string>El Michels Affair - Run Fay Run, 4</string>
       <string>Otis Redding &amp; Carla Thomas - Tramp (Instrumental), 4</string>
+      <string>The Haggis Horns - The Traveller Part Two, 4</string>
       <string>A Tribe Called Quest - Youthful Expression (Instrumental), 3</string>
       <string>Average White Band - Pick Up The Pieces, 3</string>
       <string>Chic - Good Times, 3</string>
@@ -47302,6 +47419,7 @@
       <string>Mos Def - Mr. Universe, 3</string>
       <string>Ann Allford - Gotta Get Me A Job, 3</string>
       <string>Marvin Gaye - Mercy Mercy Me (The Ecology), 3</string>
+      <string>Evinha - Esperar Pra Ver, 3</string>
       <string>Bomb The Bass - Bug Powder Dust (K&amp;D Session), 2</string>
       <string>Damu the Fudgemunk - Fabrega's Discotecas, 2</string>
       <string>Jackie Mittoo - Get Up And Get It, 2</string>
@@ -47517,6 +47635,7 @@
       <string>Greyboy - On The Strip, 3</string>
       <string>Jorge Ben - Pulo Pulo, 3</string>
       <string>Jackie And Roy - Samba Triste, 3</string>
+      <string>The Haggis Horns - The Traveller Part Two, 3</string>
       <string>Tim Maia - No Caminho Do Bem, 2</string>
       <string>Lyn Collins - Give It Up Or Turn It Loose, 2</string>
       <string>Lou Donaldson - Who's Making Love?, 2</string>
@@ -49142,6 +49261,7 @@
       <string>Greyboy - On The Strip, 4</string>
       <string>Wes Montgomery - Four on Six, 4</string>
       <string>El Michels Affair - Run Fay Run, 4</string>
+      <string>The Haggis Horns - The Traveller Part Two, 4</string>
       <string>Wes Montgomery - Bumpin On Sunset, 3</string>
       <string>Young Holt Unlimited - The Creeper, 3</string>
       <string>The Herbaliser - Worldwide Connected, 3</string>
@@ -49174,6 +49294,29 @@
       <string>Xanadu &amp; Sweet Lady - Rapper´s Delight, 0</string>
       <string>Thievery Corporation - Focus On Sight, 0</string>
       <string>Jurassic 5 - Canto De Ossanha (Instrumental), 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Young Holt Unlimited - Soulful Strut</Track>
+    <MixRankings>
+      <string>Beastie Boys - Some Dumb Cop Gave Me Two Tickets Already (Instrumental), 5</string>
+      <string>Lee 'Scratch' Perry and King Tubby - MFA Dub, 4</string>
+      <string>Dub Specialist - Dub It Easy, 4</string>
+      <string>People Under The Stairs - The Breakdown, 4</string>
+      <string>Jurassic 5 - If You Only Knew (Instrumental), 4</string>
+      <string>Jean Knight - Mr. Big Stuff, 4</string>
+      <string>Cortex - La Rue, 4</string>
+      <string>The Gaylettes - Son Of A Preacher Man, 3</string>
+      <string>Jurassic 5 - Quality Control, 3</string>
+      <string>Agora Chega - Super Som T.A., 3</string>
+      <string>Greyboy - Lite Bake, 3</string>
+      <string>Byron Lee - Hot Reggae, 2</string>
+      <string>Elzhi &amp; Will Sessions - Memory Lane (Instrumental), 2</string>
+      <string>Pete Rock - A Little Soul, 2</string>
+      <string>Jurassic 5 - Freedom (Instrumental), 2</string>
+      <string>A Tribe Called Quest - 1nce Again (Instrumental) (RB Edit), 2</string>
+      <string>Donald Byrd - Places and Spaces, 2</string>
+      <string>Damu the Fudgemunk - Tea Thyme, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -49427,6 +49570,7 @@
       <string>Gang Starr - Full Clip (Instrumental) (RB Edit), 4</string>
       <string>Marvin Gaye - Mercy Mercy Me (The Ecology), 4</string>
       <string>Digable Planets - Rebirth Of Slick (Cool Like Dat), 4</string>
+      <string>Evinha - Esperar Pra Ver, 4</string>
       <string>A Tribe Called Quest - Can I Kick It, 3</string>
       <string>A Tribe Called Quest - Ham N Eggs (Instrumental), 3</string>
       <string>A Tribe Called Quest - Push It Along (Instrumental), 3</string>
