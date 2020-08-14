@@ -578,7 +578,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Bill Withers - Lovely Day</Track>
-    <Attributes>Duration=252;EndBPM=98.2298168423207;EndLoopCount=2;FadeIn=0.214;FadeInLengthInSeconds=9.815;FadeOut=215.979;FadeOutLengthInSeconds=9.773;Key=E;Rank=4;SkipLengthInSeconds=19.611;SkipStart=186.520;StartBPM=97.809475292919;StartLoopCount=2;</Attributes>
+    <Attributes>Duration=252;EndBPM=98.2298168423207;EndLoopCount=2;FadeIn=0.214;FadeInLengthInSeconds=9.815;FadeOut=215.979;FadeOutLengthInSeconds=9.773;Key=E;Rank=3;SkipLengthInSeconds=19.611;SkipStart=186.520;StartBPM=97.809475292919;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Bill Withers - The Same Love That Made Me Laugh</Track>
@@ -1226,7 +1226,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Cypress Hill - Loco en el Coco</Track>
-    <Attributes>Duration=71866.368;EndBPM=102.367242482406;FadeIn=0.751;FadeInLengthInSeconds=18.806;FadeOut=132.371;FadeOutLengthInSeconds=9.378;Key=D;PreFadeInPosition=0.220;PreFadeInStartVolume=75;Rank=5;StartBPM=102.0950760395618;</Attributes>
+    <Attributes>Duration=71866.368;EndBPM=102.367242482406;FadeIn=0.751;FadeInLengthInSeconds=18.806;FadeOut=132.371;FadeOutLengthInSeconds=9.378;Key=D;PreFadeInPosition=0.220;PreFadeInStartVolume=75;Rank=3;StartBPM=102.0950760395618;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Cypress Hill - Yo Quiero Fumar</Track>
@@ -1302,7 +1302,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Deadbeats - Pick Me Up (Nightmares On Wax Edit)</Track>
-    <Attributes>Duration=228;EndBPM=105.240078930059;EndLoopCount=2;FadeIn=0.026;FadeInLengthInSeconds=18.242;FadeOut=127.778;FadeOutLengthInSeconds=4.561;Key=Bbm;Rank=5;SkipLengthInSeconds=18.251;SkipStart=107.235;StartBPM=105.2516171472426;</Attributes>
+    <Attributes>Duration=228;EndBPM=105.240078930059;EndLoopCount=2;FadeIn=0.026;FadeInLengthInSeconds=18.242;FadeOut=127.778;FadeOutLengthInSeconds=4.561;Key=Bbm;Rank=3;SkipLengthInSeconds=18.251;SkipStart=107.235;StartBPM=105.2516171472426;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Dee Lite - Groove Is In The Heart</Track>
@@ -1346,7 +1346,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Digable Planets - Rebirth Of Slick (Cool Like Dat)</Track>
-    <Attributes>Duration=261.267;EndBPM=98.330;FadeIn=19.791;FadeInLengthInSeconds=9.767;FadeOut=146.753;FadeOutLengthInSeconds=9.763;Rank=4;StartBPM=98.290;StartLoopCount=2;</Attributes>
+    <Attributes>Duration=261.267;EndBPM=98.330;FadeIn=19.791;FadeInLengthInSeconds=9.767;FadeOut=146.753;FadeOutLengthInSeconds=9.763;Rank=3;StartBPM=98.290;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Diljit Dosanjh - Beautiful Billo</Track>
@@ -1422,7 +1422,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>DJ Muggs vs. Sick Jacken - El Barrio</Track>
-    <Attributes>Duration=259.604897959184;EndBPM=91.3549330984149;FadeIn=3.464;FadeInLengthInSeconds=20.894;FadeOut=149.524;FadeOutLengthInSeconds=10.508;Key=Dbm;Rank=5;SkipLengthInSeconds=62.602;SkipStart=66.071;StartBPM=91.8924093041064;StartLoopCount=2;</Attributes>
+    <Attributes>Duration=259.604897959184;EndBPM=91.3549330984149;FadeIn=3.464;FadeInLengthInSeconds=20.894;FadeOut=149.524;FadeOutLengthInSeconds=10.508;Key=Dbm;Rank=3;SkipLengthInSeconds=62.602;SkipStart=66.071;StartBPM=91.8924093041064;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>DJ Nu Mark - Comin' Thru (feat. Chali 2na) (Instrumental) (RB Edit)</Track>
@@ -1502,7 +1502,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Duke Pearson - Sandalia Dela</Track>
-    <Attributes>Duration=210.495;EndBPM=109.464082098062;EndLoopCount=2;FadeIn=20.842;FadeInLengthInSeconds=2.200;FadeOut=138.700;FadeOutLengthInSeconds=8.770;Key=E;Rank=4;StartBPM=109.090909090909;StartLoopCount=3;</Attributes>
+    <Attributes>Duration=210.495;EndBPM=109.464082098062;EndLoopCount=2;FadeIn=20.842;FadeInLengthInSeconds=2.200;FadeOut=138.700;FadeOutLengthInSeconds=8.770;Key=E;Rank=3;StartBPM=109.090909090909;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Dusty Springfield - Son Of A Preacher Man</Track>
@@ -1622,7 +1622,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Elzhi &amp; Will Sessions - The World Is Yours (Instrumental)</Track>
-    <Attributes>Duration=295.888979591837;EndBPM=87.631218621634;FadeIn=181.497;FadeInLengthInSeconds=5.469;FadeOut=258.470;FadeOutLengthInSeconds=10.955;Key=D;PreFadeInPosition=180.808;PreFadeInStartVolume=50;Rank=4;StartBPM=87.7674163466815;StartLoopCount=4;</Attributes>
+    <Attributes>Duration=295.888979591837;EndBPM=87.631218621634;FadeIn=181.497;FadeInLengthInSeconds=5.469;FadeOut=258.470;FadeOutLengthInSeconds=10.955;Key=D;PreFadeInPosition=180.808;PreFadeInStartVolume=50;Rank=3;StartBPM=87.7674163466815;StartLoopCount=4;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Enrique Olivarez Y Los Vampiros - Arriba Tipo</Track>
@@ -1690,7 +1690,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Fat Freddys Drop - Roady</Track>
-    <Attributes>Duration=430.002;EndBPM=86.557;FadeIn=116.229;FadeInLengthInSeconds=11.090;FadeOut=377.026;FadeOutLengthInSeconds=11.091;PreFadeInPosition=115.167;PreFadeInStartVolume=75;Rank=4;SkipLengthInSeconds=55.491;SkipStart=288.244;StartBPM=86.563;</Attributes>
+    <Attributes>Duration=430.002;EndBPM=86.557;FadeIn=116.229;FadeInLengthInSeconds=11.090;FadeOut=377.026;FadeOutLengthInSeconds=11.091;PreFadeInPosition=115.167;PreFadeInStartVolume=75;Rank=3;SkipLengthInSeconds=55.491;SkipStart=288.244;StartBPM=86.563;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Fela Soul - Oooh (Instrumental)</Track>
@@ -2422,7 +2422,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>John Holt - Man Next Door (Got To Get Away)</Track>
-    <Attributes>Duration=140.853333333333;EndBPM=87.114337568058;EndLoopCount=4;FadeIn=7.416;FadeInLengthInSeconds=2.770;FadeOut=111.177;FadeOutLengthInSeconds=5.510;Key=Cm;PreFadeInPosition=1.557;PreFadeInStartVolume=25;Rank=4;StartBPM=86.64259927797825;</Attributes>
+    <Attributes>Duration=140.853333333333;EndBPM=87.114337568058;EndLoopCount=4;FadeIn=7.416;FadeInLengthInSeconds=2.770;FadeOut=111.177;FadeOutLengthInSeconds=5.510;Key=Cm;PreFadeInPosition=1.557;PreFadeInStartVolume=25;Rank=3;StartBPM=86.64259927797825;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>John Holt - White Xmas (6Blocc Remix)</Track>
@@ -2606,11 +2606,11 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Jurassic 5 - Concrete Schoolyard</Track>
-    <Attributes>Duration=321.293333333333;EndBPM=90.1196902135648;FadeIn=5.019;FadeInLengthInSeconds=21.305;FadeOut=164.791;FadeOutLengthInSeconds=21.305;Key=Gm;Rank=4;StartBPM=90.1196902135648;</Attributes>
+    <Attributes>Duration=321.293333333333;EndBPM=90.1196902135648;FadeIn=5.019;FadeInLengthInSeconds=21.305;FadeOut=164.791;FadeOutLengthInSeconds=21.305;Key=Gm;Rank=3;StartBPM=90.1196902135648;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Jurassic 5 - Concrete Schoolyard (Instrumental)</Track>
-    <Attributes>Duration=323.578775510204;EndBPM=89.9355452366329;EndLoopCount=2;FadeIn=4.570;FadeInLengthInSeconds=21.257;FadeOut=164.202;FadeOutLengthInSeconds=10.674;Key=Gm;PreFadeInPosition=2.074;PreFadeInStartVolume=100;Rank=5;SkipLengthInSeconds=53.226;SkipStart=89.698;StartBPM=90.3231876558310;</Attributes>
+    <Attributes>Duration=323.578775510204;EndBPM=89.9355452366329;EndLoopCount=2;FadeIn=4.570;FadeInLengthInSeconds=21.257;FadeOut=164.202;FadeOutLengthInSeconds=10.674;Key=Gm;PreFadeInPosition=2.074;PreFadeInStartVolume=100;Rank=3;SkipLengthInSeconds=53.226;SkipStart=89.698;StartBPM=90.3231876558310;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Jurassic 5 - Freedom (Instrumental)</Track>
@@ -2694,7 +2694,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Jurassic 5 - Unified Rebelution</Track>
-    <Attributes>Duration=272.28;EndBPM=96.1249624511865;EndLoopCount=2;FadeIn=11.244;FadeInLengthInSeconds=19.994;FadeOut=131.165;FadeOutLengthInSeconds=9.987;Key=Gbm;PreFadeInPosition=8.714;PreFadeInStartVolume=50;Rank=4;StartBPM=96.0288086425928;</Attributes>
+    <Attributes>Duration=272.28;EndBPM=96.1249624511865;EndLoopCount=2;FadeIn=11.244;FadeInLengthInSeconds=19.994;FadeOut=131.165;FadeOutLengthInSeconds=9.987;Key=Gbm;PreFadeInPosition=8.714;PreFadeInStartVolume=50;Rank=3;StartBPM=96.0288086425928;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Jurassic 5 - W.O.E. Is Me (World Of Entertainment)</Track>
@@ -2898,7 +2898,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Lauryn Hill - Doo Wop (That Thing)</Track>
-    <Attributes>Duration=320.313;EndBPM=99.912;FadeIn=28.902;FadeInLengthInSeconds=19.214;FadeOut=182.668;FadeOutLengthInSeconds=19.217;Rank=4;StartBPM=99.927;</Attributes>
+    <Attributes>Duration=320.313;EndBPM=99.912;FadeIn=28.902;FadeInLengthInSeconds=19.214;FadeOut=182.668;FadeOutLengthInSeconds=19.217;Rank=3;StartBPM=99.927;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Lee Fields And Sugarman And Co. - Stand Up</Track>
@@ -2934,7 +2934,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Lennie Hibbert - Real Hot (RB Edit)</Track>
-    <Attributes>Duration=157.46612244898;EndBPM=76.7377571525318;FadeIn=1.310;FadeInLengthInSeconds=12.523;FadeOut=101.285;FadeOutLengthInSeconds=12.510;Key=F;PreFadeInPosition=0.159;PreFadeInStartVolume=40;Rank=5;StartBPM=76.6589475365328;StartLoopCount=2;</Attributes>
+    <Attributes>Duration=157.46612244898;EndBPM=76.7377571525318;FadeIn=1.310;FadeInLengthInSeconds=12.523;FadeOut=101.285;FadeOutLengthInSeconds=12.510;Key=F;PreFadeInPosition=0.159;PreFadeInStartVolume=40;Rank=3;StartBPM=76.6589475365328;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Leny Andrade - Nao Adianta</Track>
@@ -3242,7 +3242,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Nightmares On Wax - Know My Name (Instrumental)</Track>
-    <Attributes>Duration=272.927346938775;EndBPM=90.5148029417312;FadeIn=32.026;FadeInLengthInSeconds=10.606;FadeOut=180.296;FadeOutLengthInSeconds=21.212;Key=F;Rank=5;SkipLengthInSeconds=63.593;SkipStart=74.384;StartBPM=90.5148029417311;</Attributes>
+    <Attributes>Duration=272.927346938775;EndBPM=90.5148029417312;FadeIn=32.026;FadeInLengthInSeconds=10.606;FadeOut=180.296;FadeOutLengthInSeconds=21.212;Key=F;Rank=3;SkipLengthInSeconds=63.593;SkipStart=74.384;StartBPM=90.5148029417311;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Nightmares On Wax - Les Nuits</Track>
@@ -3250,7 +3250,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Nightmares On Wax - Les Nuits (DJ Spinna Mix)</Track>
-    <Attributes>Duration=332.693333333333;EndBPM=91.7694293088614;FadeIn=5.586;FadeInLengthInSeconds=20.924;FadeOut=141.550;FadeOutLengthInSeconds=20.922;Key=Bm;PreFadeInPosition=5.069;PreFadeInStartVolume=100;Rank=4;SkipLengthInSeconds=41.192;SkipStart=45.452;StartBPM=91.7606576180462;</Attributes>
+    <Attributes>Duration=332.693333333333;EndBPM=91.7694293088614;FadeIn=5.586;FadeInLengthInSeconds=20.924;FadeOut=141.550;FadeOutLengthInSeconds=20.922;Key=Bm;PreFadeInPosition=5.069;PreFadeInStartVolume=100;Rank=3;SkipLengthInSeconds=41.192;SkipStart=45.452;StartBPM=91.7606576180462;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Nightmares On Wax - Morse</Track>
@@ -3270,7 +3270,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Nina Simone - Ain't Got No; I Got Life (Alternate)</Track>
-    <Attributes>Duration=178.013;EndBPM=125.195618153365;FadeIn=6.498;FadeInLengthInSeconds=3.908;FadeOut=159.585;FadeOutLengthInSeconds=7.668;Key=G;PreFadeInPosition=6.194;PreFadeInStartVolume=100;Rank=5;StartBPM=122.8249744114635;StartLoopCount=4;</Attributes>
+    <Attributes>Duration=178.013;EndBPM=125.195618153365;FadeIn=6.498;FadeInLengthInSeconds=3.908;FadeOut=159.585;FadeOutLengthInSeconds=7.668;Key=G;PreFadeInPosition=6.194;PreFadeInStartVolume=100;Rank=3;StartBPM=122.8249744114635;StartLoopCount=4;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Nina Simone - It Be's That Way Sometimes</Track>
@@ -3290,7 +3290,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Orgone - Don't Stop</Track>
-    <Attributes>Duration=285.32;EndBPM=111.796902294166;EndLoopCount=2;FadeIn=5.043;FadeInLengthInSeconds=4.308;FadeOut=189.398;FadeOutLengthInSeconds=8.587;Key=Bm;Rank=4;StartBPM=111.4206128133705;StartLoopCount=3;</Attributes>
+    <Attributes>Duration=285.32;EndBPM=111.796902294166;EndLoopCount=2;FadeIn=5.043;FadeInLengthInSeconds=4.308;FadeOut=189.398;FadeOutLengthInSeconds=8.587;Key=Bm;Rank=3;StartBPM=111.4206128133705;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Originais do Samba - Lá Vem Salgueiro</Track>
@@ -3362,7 +3362,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>People Under The Stairs - Flex Off</Track>
-    <Attributes>Duration=326.322698412698;EndBPM=90.9090909090910;FadeIn=5.282;FadeInLengthInSeconds=10.560;FadeOut=158.389;FadeOutLengthInSeconds=21.120;Key=Am;PreFadeInPosition=2.841;PreFadeInStartVolume=90;Rank=4;SkipLengthInSeconds=63.350;SkipStart=73.906;StartBPM=90.9090909090909;StartLoopCount=2;</Attributes>
+    <Attributes>Duration=326.322698412698;EndBPM=90.9090909090910;FadeIn=5.282;FadeInLengthInSeconds=10.560;FadeOut=158.389;FadeOutLengthInSeconds=21.120;Key=Am;PreFadeInPosition=2.841;PreFadeInStartVolume=90;Rank=3;SkipLengthInSeconds=63.350;SkipStart=73.906;StartBPM=90.9090909090909;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>People Under The Stairs - The Breakdown</Track>
@@ -3454,7 +3454,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Prince Fatty - Switch Blade</Track>
-    <Attributes>Duration=190.171428571429;EndBPM=74.7488904461574;FadeIn=2.069;FadeInLengthInSeconds=6.453;FadeOut=130.444;FadeOutLengthInSeconds=12.843;Key=Eb;PreFadeInPosition=1.223;PreFadeInStartVolume=40;Rank=5;StartBPM=74.384007438401;StartLoopCount=2;</Attributes>
+    <Attributes>Duration=190.171428571429;EndBPM=74.7488904461574;FadeIn=2.069;FadeInLengthInSeconds=6.453;FadeOut=130.444;FadeOutLengthInSeconds=12.843;Key=Eb;PreFadeInPosition=1.223;PreFadeInStartVolume=40;Rank=3;StartBPM=74.384007438401;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Pucho &amp; His Latin Soul Brothers - Swamp People</Track>
@@ -3490,7 +3490,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Rancid - Time Bomb</Track>
-    <Attributes>Duration=144.405;EndBPM=82.356;EndLoopCount=2;FadeIn=6.094;FadeInLengthInSeconds=5.825;FadeOut=125.803;FadeOutLengthInSeconds=5.828;PreFadeInPosition=5.701;PreFadeInStartVolume=75;Rank=5;StartBPM=82.401;</Attributes>
+    <Attributes>Duration=144.405;EndBPM=82.356;EndLoopCount=2;FadeIn=6.094;FadeInLengthInSeconds=5.825;FadeOut=125.803;FadeOutLengthInSeconds=5.828;PreFadeInPosition=5.701;PreFadeInStartVolume=75;Rank=3;StartBPM=82.401;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Randy's Allstars - Mission Impossible</Track>
@@ -3542,7 +3542,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>RJD2 - All For U</Track>
-    <Attributes>Duration=208.160;EndBPM=102.345;FadeIn=16.441;FadeInLengthInSeconds=9.421;FadeOut=119.465;FadeOutLengthInSeconds=18.760;Key=Fm;Rank=4;StartBPM=101.904;StartLoopCount=2;</Attributes>
+    <Attributes>Duration=208.160;EndBPM=102.345;FadeIn=16.441;FadeInLengthInSeconds=9.421;FadeOut=119.465;FadeOutLengthInSeconds=18.760;Key=Fm;Rank=3;StartBPM=101.904;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>RJD2 - Fire</Track>
@@ -3602,7 +3602,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Roslyn Sweat &amp; The Paragons - Blackbird</Track>
-    <Attributes>Duration=155.427;EndBPM=73.4281780633318;EndLoopCount=2;FadeIn=1.953;FadeInLengthInSeconds=6.636;FadeOut=118.340;FadeOutLengthInSeconds=13.074;Key=G;PreFadeInPosition=0.309;PreFadeInStartVolume=75;Rank=5;StartBPM=72.3327305605785;StartLoopCount=3;</Attributes>
+    <Attributes>Duration=155.427;EndBPM=73.4281780633318;EndLoopCount=2;FadeIn=1.953;FadeInLengthInSeconds=6.636;FadeOut=118.340;FadeOutLengthInSeconds=13.074;Key=G;PreFadeInPosition=0.309;PreFadeInStartVolume=75;Rank=3;StartBPM=72.3327305605785;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Roy Ayers - Everybody Loves The Sunshine</Track>
@@ -3738,7 +3738,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Sergio Mendes &amp; Brasil 66 - Mas Que Nada</Track>
-    <Attributes>Duration=56805.504;EndBPM=88.495575221239;EndLoopCount=4;FadeIn=1.827;FadeInLengthInSeconds=2.718;FadeOut=142.514;FadeOutLengthInSeconds=2.712;Key=F;PreFadeInPosition=7.291;PreFadeInStartVolume=100;Rank=4;StartBPM=88.300220750552;StartLoopCount=3;</Attributes>
+    <Attributes>Duration=56805.504;EndBPM=88.495575221239;EndLoopCount=4;FadeIn=1.827;FadeInLengthInSeconds=2.718;FadeOut=142.514;FadeOutLengthInSeconds=2.712;Key=F;PreFadeInPosition=7.291;PreFadeInStartVolume=100;Rank=3;StartBPM=88.300220750552;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Sergio Mendes &amp; Brasil 66 - Roda</Track>
@@ -4350,7 +4350,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Black Seeds - Cool Me Down</Track>
-    <Attributes>Duration=299.833469387755;EndBPM=91.0384068278806;FadeIn=22.702;FadeInLengthInSeconds=10.545;FadeOut=233.671;FadeOutLengthInSeconds=21.090;Key=Dm;PreFadeInPosition=21.863;PreFadeInStartVolume=75;Rank=4;SkipLengthInSeconds=63.295;SkipStart=128.191;StartBPM=91.0384068278805;</Attributes>
+    <Attributes>Duration=299.833469387755;EndBPM=91.0384068278806;FadeIn=22.702;FadeInLengthInSeconds=10.545;FadeOut=233.671;FadeOutLengthInSeconds=21.090;Key=Dm;PreFadeInPosition=21.863;PreFadeInStartVolume=75;Rank=3;SkipLengthInSeconds=63.295;SkipStart=128.191;StartBPM=91.0384068278805;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Blackbyrds - Rock Creek Park</Track>
@@ -4814,7 +4814,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Sure Fire Soul Ensemble - City Heights</Track>
-    <Attributes>Duration=223.666666666667;EndBPM=96.24979112458525;EndLoopCount=8;FadeIn=0.307;FadeInLengthInSeconds=10.035;FadeOut=146.448;FadeOutLengthInSeconds=2.494;Key=Eb;Rank=4;StartBPM=95.6651718983558;</Attributes>
+    <Attributes>Duration=223.666666666667;EndBPM=96.24979112458525;EndLoopCount=8;FadeIn=0.307;FadeInLengthInSeconds=10.035;FadeOut=146.448;FadeOutLengthInSeconds=2.494;Key=Eb;Rank=3;StartBPM=95.6651718983558;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Temptations - Rudolph The Red-Nosed Reindeer</Track>
@@ -5034,7 +5034,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Ty - Don't Watch That (Grant Phabao Remix)</Track>
-    <Attributes>Duration=273.973;EndBPM=96.058;EndLoopCount=4;FadeIn=10.004;FadeInLengthInSeconds=9.996;FadeOut=199.991;FadeOutLengthInSeconds=4.997;Key=Am;Rank=4;StartBPM=96.038;</Attributes>
+    <Attributes>Duration=273.973;EndBPM=96.058;EndLoopCount=4;FadeIn=10.004;FadeInLengthInSeconds=9.996;FadeOut=199.991;FadeOutLengthInSeconds=4.997;Key=Am;Rank=3;StartBPM=96.038;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Unknown Artist - Character Dheela</Track>
