@@ -146,7 +146,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Al Green - Standing In The Rain</Track>
-    <Attributes>Duration=183.405714285714;EndBPM=114.353782013103;FadeIn=0.109;FadeInLengthInSeconds=2.154;FadeOut=170.008;FadeOutLengthInSeconds=8.395;Key=Abm;Rank=3;StartBPM=111.4206128133705;StartLoopCount=8;</Attributes>
+    <Attributes>Duration=183.405714285714;EndBPM=114.353782013103;FadeIn=0.109;FadeInLengthInSeconds=2.154;FadeOut=170.008;FadeOutLengthInSeconds=8.395;Key=Abm;Rank=5;StartBPM=111.4206128133705;StartLoopCount=8;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Al Green - Take Me To The River</Track>
@@ -274,7 +274,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Arrested Development - People Everyday (Instrumental) (RB Edit)</Track>
-    <Attributes>Duration=253.753469387755;EndBPM=91.583039312608;EndLoopCount=2;FadeIn=152.656;FadeInLengthInSeconds=5.261;FadeOut=231.609;FadeOutLengthInSeconds=5.241;Key=Abm;Rank=3;StartBPM=91.237407337008;StartLoopCount=3;</Attributes>
+    <Attributes>Duration=253.753469387755;EndBPM=91.583039312608;EndLoopCount=2;FadeIn=152.656;FadeInLengthInSeconds=5.261;FadeOut=231.609;FadeOutLengthInSeconds=5.241;Key=Abm;Rank=5;StartBPM=91.237407337008;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Arthur Verocai - Na Boca do Sol</Track>
@@ -498,7 +498,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Beastie Boys - Some Dumb Cop Gave Me Two Tickets Already (Instrumental)</Track>
-    <Attributes>Duration=306.895238095238;EndBPM=89.858192539898;FadeIn=21.428;FadeInLengthInSeconds=21.367;FadeOut=85.575;FadeOutLengthInSeconds=21.367;Key=Bb;PreFadeInPosition=20.239;PreFadeInStartVolume=50;Rank=3;StartBPM=89.858192539898;</Attributes>
+    <Attributes>Duration=306.895238095238;EndBPM=89.858192539898;FadeIn=21.428;FadeInLengthInSeconds=21.367;FadeOut=85.575;FadeOutLengthInSeconds=21.367;Key=Bb;PreFadeInPosition=20.239;PreFadeInStartVolume=50;Rank=2;StartBPM=89.858192539898;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Beastie Boys - Song For Junior</Track>
@@ -1265,6 +1265,10 @@
     <Attributes>Duration=156.554;EndBPM=107.986501687289;EndLoopCount=4;FadeIn=1.377;FadeInLengthInSeconds=9.107;FadeOut=135.032;FadeOutLengthInSeconds=4.445;Key=F;PreFadeInPosition=0.807;PreFadeInStartVolume=100;Rank=3;StartBPM=105.413418249698;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>De Frank Professionals - Afe Ato Yen Bio</Track>
+    <Attributes>Duration=283.376;EndBPM=121.543;FadeIn=5.105;FadeInLengthInSeconds=7.874;FadeOut=124.773;FadeOutLengthInSeconds=7.898;PreFadeInPosition=4.126;PreFadeInStartVolume=00;Rank=5;StartBPM=121.915;StartLoopCount=2;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>De La Soul - 4 More (feat. Zhane)</Track>
     <Attributes>Duration=258.133;EndBPM=104.1101832773018;FadeIn=18.521;FadeInLengthInSeconds=18.457;FadeOut=193.746;FadeOutLengthInSeconds=18.442;Key=Abm;Rank=3;StartBPM=104.0255729533510;</Attributes>
   </ExtenedAttributes>
@@ -1666,7 +1670,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Evinha - Esperar Pra Ver</Track>
-    <Attributes>Duration=128.549;EndBPM=97.601;EndLoopCount=4;FadeIn=10.107;FadeInLengthInSeconds=9.726;FadeOut=103.593;FadeOutLengthInSeconds=4.918;PreFadeInPosition=9.080;PreFadeInStartVolume=50;Rank=4;StartBPM=98.705;StartLoopCount=2;</Attributes>
+    <Attributes>Duration=128.549;EndBPM=97.601;EndLoopCount=4;FadeIn=10.107;FadeInLengthInSeconds=9.726;FadeOut=103.593;FadeOutLengthInSeconds=4.918;PreFadeInPosition=9.080;PreFadeInStartVolume=50;Rank=5;StartBPM=98.705;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Evinha - Que Bandeira</Track>
@@ -4462,7 +4466,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Haggis Horns - The Traveller Part Two</Track>
-    <Attributes>Duration=507.115;EndBPM=109.827;FadeIn=9.483;FadeInLengthInSeconds=8.769;FadeOut=297.619;FadeOutLengthInSeconds=8.741;PreFadeInPosition=8.774;PreFadeInStartVolume=25;Rank=4;SkipLengthInSeconds=122.230;SkipStart=140.463;StartBPM=109.477;</Attributes>
+    <Attributes>Duration=507.115;EndBPM=109.827;FadeIn=9.483;FadeInLengthInSeconds=8.769;FadeOut=297.619;FadeOutLengthInSeconds=8.741;PreFadeInPosition=8.774;PreFadeInStartVolume=25;Rank=5;SkipLengthInSeconds=122.230;SkipStart=140.463;StartBPM=109.477;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Heptones - Christmas Time Is Here</Track>

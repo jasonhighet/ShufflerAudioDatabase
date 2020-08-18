@@ -13154,6 +13154,14 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>De Frank Professionals - Afe Ato Yen Bio</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>De La Soul - 4 More (feat. Zhane)</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -14537,7 +14545,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>DJ Nu-Mark - Lay 'Em Low (Instrumental)</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>159.43458049886621</Start>
+        <Length>1.4896145124716611</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -14628,6 +14642,16 @@
         <FadeEndVolume>0.392</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Evinha - Esperar Pra Ver</TrackDescription>
+        <FadeLength>4.9714999999999971</FadeLength>
+        <FadeEnd>58761480</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -16698,7 +16722,18 @@
     <Track>Evinha - Esperar Pra Ver</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Al Green - Love And Happiness</TrackDescription>
+        <FadeLength>9.8880498866213156</FadeLength>
+        <FadeEnd>36573912</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.3269211</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
   </AutomationAttributes>
@@ -30743,6 +30778,11 @@
         <Length>1.1722902494331038</Length>
         <DelayNotes>0.5</DelayNotes>
       </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>249.63795918367347</Start>
+        <Length>1.1197959183673447</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
     </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
@@ -36299,6 +36339,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Beatnuts - Get Funky (Instrumental)</TrackDescription>
+        <FadeLength>10.269387755102041</FadeLength>
+        <FadeEnd>44996640</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.6061463</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
@@ -37644,6 +37694,16 @@
         <FadeEnd>32598584</FadeEnd>
         <FadeEndLoop>7</FadeEndLoop>
         <FadeEndVolume>0.3434557</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Damu the Fudgemunk - Start Here (RB Edit)</TrackDescription>
+        <FadeLength>20.10517006802721</FadeLength>
+        <FadeEnd>31730688</FadeEnd>
+        <FadeEndLoop>8</FadeEndLoop>
+        <FadeEndVolume>0.7256962</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
