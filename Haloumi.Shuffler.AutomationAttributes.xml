@@ -873,6 +873,14 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>A Tribe Called Quest - Jam (RB Instrumental Edit)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>A Tribe Called Quest - Luck Of Lucien</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -1700,7 +1708,18 @@
     <Track>Al Green - Feels Like Christmas To Me (RB Edit)</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Cuba L.A. - Ya Llegó la Navidad (RB Edit)</TrackDescription>
+        <FadeLength>0.5003628117913832</FadeLength>
+        <FadeEnd>55942912</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Cut</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
   </AutomationAttributes>
@@ -11523,6 +11542,14 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Cuba L.A. - Ya Llegó la Navidad (RB Edit)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Cutty Ranks - The Stopper (Richard Dorfmeister's Full Moon 6 live Dub)</Track>
     <TrackFXTriggers>
       <TrackFXTrigger>
@@ -16180,6 +16207,14 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>El Michels Affair - Shadow Boxing</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
     <TrackSamples />
     <LoopSamples />
   </AutomationAttributes>
@@ -22752,6 +22787,25 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Jobii - Jingle Bells</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Kinstonians - Merry Christmas</TrackDescription>
+        <FadeLength>6.1629931972789116</FadeLength>
+        <FadeEnd>45402528</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Joe Dukie &amp; DJ Fitchie - Midnight Marauders</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -27251,6 +27305,63 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>La Sonora Matancera - Los Reyes Magos</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Unknown Artist - Parranda de Navidades</TrackDescription>
+        <FadeLength>8.5496598639455783</FadeLength>
+        <FadeEnd>57489096</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.176</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>La Sonora Matancera - Navidad Me Hace Recordar</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>La Sonora Matancera - Los Reyes Magos</TrackDescription>
+        <FadeLength>13.992267573696145</FadeLength>
+        <FadeEnd>46359336</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.2591059</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>La Sonora Matancera - Rumba en Navidad</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>La Sonora Matancera - Navidad Me Hace Recordar</TrackDescription>
+        <FadeLength>9.6951020408163266</FadeLength>
+        <FadeEnd>39338392</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.296</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Lauryn Hill - Doo Wop (That Thing)</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -27595,6 +27706,14 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Lord Echo - Low to the Street (feat. Lisa Tomlins)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
     <TrackSamples />
     <LoopSamples />
   </AutomationAttributes>
@@ -32392,6 +32511,25 @@
         <IsExternalLoop>true</IsExternalLoop>
       </TrackSample>
     </LoopSamples>
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Ramon Fabian Veloz - Paz en la Tierra</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>La Sonora Matancera - Rumba en Navidad</TrackDescription>
+        <FadeLength>15.192811791383219</FadeLength>
+        <FadeEnd>31433712</FadeEnd>
+        <FadeEndLoop>4</FadeEndLoop>
+        <FadeEndVolume>0.1036119</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Ramsey Lewis - Back In The U.S.S.R</Track>
@@ -42136,6 +42274,14 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>The Wiseguys - Too Easy</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Thievery Corporation - All That We Perceive</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -43705,6 +43851,25 @@
         <FadeEndVolume>1</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>PowerDown</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Unknown Artist - Parranda de Navidades</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Julio Guiterrez y su Orquesta - Cha Cha Cha de Navidad</TrackDescription>
+        <FadeLength>7.4256916099773242</FadeLength>
+        <FadeEnd>25501352</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.112</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>

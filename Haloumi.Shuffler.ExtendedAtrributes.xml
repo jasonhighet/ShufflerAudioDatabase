@@ -58,7 +58,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>A Tribe Called Quest - Jam (RB Instrumental Edit)</Track>
-    <Attributes>Duration=213;EndBPM=93.0954228083786;FadeIn=0.191;FadeInLengthInSeconds=20.624;FadeOut=162.572;FadeOutLengthInSeconds=20.624;Key=Bbm;Rank=3;StartBPM=93.0954228083786;</Attributes>
+    <Attributes>Duration=213.368;EndBPM=95.100;FadeIn=0.191;FadeInLengthInSeconds=10.140;FadeOut=162.636;FadeOutLengthInSeconds=10.095;Key=Bbm;Rank=5;StartBPM=94.676;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>A Tribe Called Quest - Luck Of Lucien</Track>
@@ -1141,6 +1141,10 @@
     <Attributes>Duration=139.234;EndBPM=96.5018094089265;EndLoopCount=4;FadeIn=1.274;FadeInLengthInSeconds=8.080;FadeOut=127.941;FadeOutLengthInSeconds=4.974;PreFadeInPosition=0.253;PreFadeInStartVolume=100;Rank=3;StartBPM=118.811881188119;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Cuba L.A. - Ya Llegó la Navidad (RB Edit)</Track>
+    <Attributes>Duration=140.042;EndBPM=120.361;EndLoopCount=4;FadeIn=1.077;FadeInLengthInSeconds=15.949;FadeOut=129.040;FadeOutLengthInSeconds=3.988;Rank=5;StartBPM=120.384;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Curtis Mayfield - Pusherman</Track>
     <Attributes>Duration=300.721632653061;EndBPM=126.8967749767328;FadeIn=0.932;FadeInLengthInSeconds=15.312;FadeOut=156.860;FadeOutLengthInSeconds=15.130;Key=Fm;Rank=3;StartBPM=125.3916777626992;</Attributes>
   </ExtenedAttributes>
@@ -1441,10 +1445,6 @@
     <Attributes>Duration=234.541;EndBPM=91.9540229885058;EndLoopCount=2;FadeIn=11.474;FadeInLengthInSeconds=10.440;FadeOut=110.605;FadeOutLengthInSeconds=10.440;Key=Gm;Rank=2;StartBPM=91.9540229885058;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
-    <Track>DJ Shadow - In Flux</Track>
-    <Attributes>Rank=3;</Attributes>
-  </ExtenedAttributes>
-  <ExtenedAttributes>
     <Track>Djavan - Serrado</Track>
     <Attributes>Duration=214.253333333333;EndBPM=102.312693168496;FadeIn=11.151;FadeInLengthInSeconds=4.865;FadeOut=105.899;FadeOutLengthInSeconds=9.383;Key=Am;Rank=3;StartBPM=98.6639260020555;</Attributes>
   </ExtenedAttributes>
@@ -1571,6 +1571,10 @@
   <ExtenedAttributes>
     <Track>El Michels Affair - Run Fay Run</Track>
     <Attributes>Duration=224.119002267574;EndBPM=107.998650016875;EndLoopCount=2;FadeIn=2.040;FadeInLengthInSeconds=8.746;FadeOut=155.328;FadeOutLengthInSeconds=8.889;Key=Dm;PreFadeInPosition=0.209;PreFadeInStartVolume=75;Rank=3;StartBPM=109.764463754859;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>El Michels Affair - Shadow Boxing</Track>
+    <Attributes>Duration=168.941;EndBPM=89.084;EndLoopCount=2;FadeIn=0.609;FadeInLengthInSeconds=10.783;FadeOut=149.413;FadeOutLengthInSeconds=5.388;Rank=5;StartBPM=89.029;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>El Michels Affair - Uzi (Pinky Ring)</Track>
@@ -2385,6 +2389,10 @@
     <Attributes>Duration=113.613;EndBPM=98.7349583461894;FadeIn=0.566;FadeInLengthInSeconds=9.728;FadeOut=86.072;FadeOutLengthInSeconds=9.723;Key=Em;PreFadeInPosition=0.123;PreFadeInStartVolume=100;Rank=3;StartBPM=98.6842105263158;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Jobii - Jingle Bells</Track>
+    <Attributes>Duration=135.706;EndBPM=77.884;FadeIn=11.729;FadeInLengthInSeconds=12.326;FadeOut=122.529;FadeOutLengthInSeconds=12.326;Rank=5;StartBPM=77.883;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Joe And Everyday People - Sleep Walk (Part 2)</Track>
     <Attributes>Duration=192.773333333333;EndBPM=129.084308188786;EndLoopCount=2;FadeIn=1.087;FadeInLengthInSeconds=7.758;FadeOut=86.009;FadeOutLengthInSeconds=7.437;Key=D;PreFadeInPosition=0.167;PreFadeInStartVolume=100;Rank=2;StartBPM=123.743232791957;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
@@ -2965,6 +2973,10 @@
     <Attributes>Duration=452.1389569161;EndBPM=95.1720035689501;FadeIn=18.331;FadeInLengthInSeconds=9.483;FadeOut=137.770;FadeOutLengthInSeconds=10.087;Key=Gm;PreFadeInPosition=17.018;PreFadeInStartVolume=75;Rank=2;StartBPM=101.233786776337;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Lord Echo - Low to the Street (feat. Lisa Tomlins)</Track>
+    <Attributes>Duration=308.989;EndBPM=97.333;FadeIn=1.309;FadeInLengthInSeconds=9.862;FadeOut=173.488;FadeOutLengthInSeconds=9.863;Rank=4;StartBPM=97.343;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Los Papines - El Pequeño Tamborilero</Track>
     <Attributes>Duration=249.573;EndBPM=128.6173633440515;EndLoopCount=8;FadeIn=0.380;FadeInLengthInSeconds=3.940;FadeOut=92.499;FadeOutLengthInSeconds=1.866;Rank=3;StartBPM=121.8274111675125;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
@@ -3150,7 +3162,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Mr. Scruff - Jusjus (feat. Roots Manuva)</Track>
-    <Attributes>Duration=246.805;EndBPM=71.685;FadeIn=1.745;FadeInLengthInSeconds=10.702;FadeOut=215.763;FadeOutLengthInSeconds=26.784;Key=Fm;Rank=3;StartBPM=89.703;</Attributes>
+    <Attributes>Duration=246.805;EndBPM=89.728;FadeIn=1.731;FadeInLengthInSeconds=10.699;FadeOut=162.264;FadeOutLengthInSeconds=10.699;Key=Fm;Rank=3;StartBPM=89.728;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Mr. Scruff - Music Takes Me Up (feat. Alice Russell)</Track>
@@ -4859,6 +4871,10 @@
   <ExtenedAttributes>
     <Track>The Whatnauts - Help Is On The Way</Track>
     <Attributes>Duration=438.491428571429;EndBPM=103.806228373702;EndLoopCount=2;FadeIn=99.251;FadeInLengthInSeconds=18.417;FadeOut=274.889;FadeOutLengthInSeconds=9.248;Key=Fm;Rank=3;SkipLengthInSeconds=78.756;SkipStart=158.828;StartBPM=104.2515067600586;StartLoopCount=2;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>The Wiseguys - Too Easy</Track>
+    <Attributes>Duration=390.661;EndBPM=98.715;FadeIn=10.612;FadeInLengthInSeconds=9.708;FadeOut=175.575;FadeOutLengthInSeconds=9.725;Rank=5;StartBPM=98.890;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Zodiacs - Don't Change On Me</Track>
