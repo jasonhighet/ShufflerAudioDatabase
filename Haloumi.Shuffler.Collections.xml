@@ -1649,11 +1649,6 @@
         <Length>120.849</Length>
       </PlaylistEntry>
       <PlaylistEntry>
-        <Artist>James Brown</Artist>
-        <Title>Don't Tell It</Title>
-        <Length>125.537</Length>
-      </PlaylistEntry>
-      <PlaylistEntry>
         <Artist>Jurassic 5</Artist>
         <Title>Jayou</Title>
         <Length>169.670</Length>
@@ -2954,11 +2949,6 @@
         <Length>111.124</Length>
       </PlaylistEntry>
       <PlaylistEntry>
-        <Artist>Bob Marley</Artist>
-        <Title>Jammin'</Title>
-        <Length>181.841</Length>
-      </PlaylistEntry>
-      <PlaylistEntry>
         <Artist>Augustus Pablo</Artist>
         <Title>East Of The River Nile Version</Title>
         <Length>57.725</Length>
@@ -3112,11 +3102,6 @@
         <Artist>Bob Marley</Artist>
         <Title>Bend Down Low</Title>
         <Length>122.949</Length>
-      </PlaylistEntry>
-      <PlaylistEntry>
-        <Artist>Bob Marley</Artist>
-        <Title>Is This Love</Title>
-        <Length>168.586</Length>
       </PlaylistEntry>
       <PlaylistEntry>
         <Artist>Bob Marley</Artist>
@@ -4137,11 +4122,6 @@
         <Artist>Lyn Collins</Artist>
         <Title>Give It Up Or Turn It Loose</Title>
         <Length>158.795</Length>
-      </PlaylistEntry>
-      <PlaylistEntry>
-        <Artist>James Brown</Artist>
-        <Title>Don't Tell It</Title>
-        <Length>125.537</Length>
       </PlaylistEntry>
       <PlaylistEntry>
         <Artist>James Brown</Artist>
@@ -5234,11 +5214,6 @@
         <Length>167.815</Length>
       </PlaylistEntry>
       <PlaylistEntry>
-        <Artist>A Tribe Called Quest</Artist>
-        <Title>Jam</Title>
-        <Length>192.890</Length>
-      </PlaylistEntry>
-      <PlaylistEntry>
         <Artist>Average White Band</Artist>
         <Title>Stop The Rain</Title>
         <Length>121.880</Length>
@@ -5298,6 +5273,11 @@
         <Title>Got To Be A Love (Paul Nice Remix)</Title>
         <Length>192.066</Length>
       </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Ian Pooley</Artist>
+        <Title>Coração Tambor</Title>
+        <Length>209.978</Length>
+      </PlaylistEntry>
     </Entries>
   </Playlist>
   <Playlist>
@@ -5342,11 +5322,6 @@
         <Artist>A Tribe Called Quest</Artist>
         <Title>Ham N Eggs (Instrumental)</Title>
         <Length>269.693</Length>
-      </PlaylistEntry>
-      <PlaylistEntry>
-        <Artist>A Tribe Called Quest</Artist>
-        <Title>Jam</Title>
-        <Length>278.107</Length>
       </PlaylistEntry>
       <PlaylistEntry>
         <Artist>A Tribe Called Quest</Artist>
@@ -6227,11 +6202,6 @@
         <Artist>James Brown</Artist>
         <Title>Blues &amp; Pants</Title>
         <Length>579.318</Length>
-      </PlaylistEntry>
-      <PlaylistEntry>
-        <Artist>James Brown</Artist>
-        <Title>Don't Tell It</Title>
-        <Length>238.498</Length>
       </PlaylistEntry>
       <PlaylistEntry>
         <Artist>James Brown</Artist>
@@ -7869,11 +7839,6 @@
         <Length>84.906</Length>
       </PlaylistEntry>
       <PlaylistEntry>
-        <Artist>Bob Marley</Artist>
-        <Title>Jammin'</Title>
-        <Length>181.841</Length>
-      </PlaylistEntry>
-      <PlaylistEntry>
         <Artist>Tapper Zukie</Artist>
         <Title>Beautiful Dub</Title>
         <Length>110.875</Length>
@@ -7912,11 +7877,6 @@
         <Artist>Bob Marley</Artist>
         <Title>Bend Down Low</Title>
         <Length>122.949</Length>
-      </PlaylistEntry>
-      <PlaylistEntry>
-        <Artist>Bob Marley</Artist>
-        <Title>Is This Love</Title>
-        <Length>168.586</Length>
       </PlaylistEntry>
       <PlaylistEntry>
         <Artist>Augustus Pablo</Artist>
@@ -7962,6 +7922,11 @@
         <Artist>Greyboy</Artist>
         <Title>Got To Be A Love (Paul Nice Remix)</Title>
         <Length>192.066</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Ian Pooley</Artist>
+        <Title>Coração Tambor</Title>
+        <Length>209.978</Length>
       </PlaylistEntry>
     </Entries>
   </Playlist>

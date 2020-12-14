@@ -2069,8 +2069,12 @@
     <Attributes>Duration=411.933333333333;EndBPM=128.0341424379834;FadeIn=0.447;FadeInLengthInSeconds=14.995;FadeOut=255.442;FadeOutLengthInSeconds=14.996;Key=Abm;Rank=3;SkipLengthInSeconds=104.986;SkipStart=148.560;StartBPM=128.0401637701924;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Ian Pooley - Coração Tambor</Track>
+    <Attributes>Duration=357.067;EndBPM=127.982;FadeIn=52.928;FadeInLengthInSeconds=14.995;FadeOut=262.906;FadeOutLengthInSeconds=15.002;Rank=5;StartBPM=128.043;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Ian Pooley - Menino Brincadeira</Track>
-    <Attributes>Duration=244.107;EndBPM=122.013218098627;FadeIn=26.052;FadeInLengthInSeconds=7.868;FadeOut=207.046;FadeOutLengthInSeconds=7.868;Key=Bbm;Rank=3;StartBPM=122.013218098627;</Attributes>
+    <Attributes>Duration=244.107;EndBPM=121.951;FadeIn=18.131;FadeInLengthInSeconds=7.871;FadeOut=214.848;FadeOutLengthInSeconds=7.872;Key=Bbm;Rank=3;StartBPM=121.967;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Ian Pooley - Spicy Snapper</Track>
