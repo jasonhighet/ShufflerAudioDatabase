@@ -1869,8 +1869,8 @@
     <Attributes>BPMAdjust=0.5;Duration=329.926530612245;EndBPM=74.280408542247;FadeIn=33.517;FadeInLengthInSeconds=6.436;FadeOut=195.044;FadeOutLengthInSeconds=12.924;Key=Am;Rank=3;StartBPM=74.580484773151;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
-    <Track>Greyboy - Got To Be Love (feat. Quantic &amp; Sharon Jones)</Track>
-    <Attributes>Duration=206.4;EndBPM=95.2286479515921;EndLoopCount=2;FadeIn=20.454;FadeInLengthInSeconds=10.081;FadeOut=111.009;FadeOutLengthInSeconds=10.081;Key=Ebm;Rank=2;StartBPM=95.2286479515921;</Attributes>
+    <Track>Greyboy - Got To Be A Love (Paul Nice Remix)</Track>
+    <Attributes>Duration=275.827;EndBPM=94.871;FadeIn=1.172;FadeInLengthInSeconds=10.119;FadeOut=203.352;FadeOutLengthInSeconds=10.119;Rank=5;SkipLengthInSeconds=10.114;SkipStart=41.297;StartBPM=94.871;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Greyboy - Grey Royale</Track>
@@ -2086,7 +2086,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Ike &amp; Tine Turner - Bold Soul Sister</Track>
-    <Attributes>Duration=155.010612244898;EndBPM=95.5223880597015;EndLoopCount=4;FadeIn=5.363;FadeInLengthInSeconds=5.016;FadeOut=108.950;FadeOutLengthInSeconds=5.025;Key=Ebm;Rank=3;StartBPM=95.693779904306;StartLoopCount=4;</Attributes>
+    <Attributes>Duration=155.011;EndBPM=95.522;EndLoopCount=4;FadeIn=5.363;FadeInLengthInSeconds=5.016;FadeOut=108.950;FadeOutLengthInSeconds=5.025;Key=Ebm;Rank=3;StartBPM=95.694;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Ike Turner's Kings Of Rhythm - Funky Mule</Track>
