@@ -813,6 +813,10 @@
     <Attributes>Duration=277.054693877551;EndBPM=108.695652173913;FadeIn=20.181;FadeInLengthInSeconds=17.631;FadeOut=112.732;FadeOutLengthInSeconds=4.416;Key=Gm;PreFadeInPosition=19.649;PreFadeInStartVolume=50;Rank=2;StartBPM=108.8990981793432;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Breakestra - Family Rap</Track>
+    <Attributes>Duration=307.409;EndBPM=103.871;FadeIn=2.495;FadeInLengthInSeconds=9.263;FadeOut=150.375;FadeOutLengthInSeconds=9.242;Rank=5;SkipLengthInSeconds=9.221;SkipStart=118.057;StartBPM=103.638;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Breakestra - Get It Right</Track>
     <Attributes>Duration=192.235102040816;EndBPM=109.0289608177172;FadeIn=4.801;FadeInLengthInSeconds=17.736;FadeOut=106.681;FadeOutLengthInSeconds=17.610;Key=Bm;PreFadeInPosition=3.560;PreFadeInStartVolume=50;Rank=3;StartBPM=108.254397834912;</Attributes>
   </ExtenedAttributes>
@@ -1674,7 +1678,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Evinha - Esperar Pra Ver</Track>
-    <Attributes>Duration=128.549;EndBPM=97.601;EndLoopCount=4;FadeIn=10.107;FadeInLengthInSeconds=9.726;FadeOut=103.593;FadeOutLengthInSeconds=4.918;PreFadeInPosition=9.080;PreFadeInStartVolume=50;Rank=5;StartBPM=98.705;StartLoopCount=2;</Attributes>
+    <Attributes>Duration=128.549;EndBPM=97.601;EndLoopCount=4;FadeIn=10.107;FadeInLengthInSeconds=9.726;FadeOut=103.593;FadeOutLengthInSeconds=4.918;Rank=5;StartBPM=98.705;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Evinha - Que Bandeira</Track>
@@ -3303,6 +3307,10 @@
   <ExtenedAttributes>
     <Track>Norman T Washington - It's Christmas Time Again</Track>
     <Attributes>Duration=146.114761904762;EndBPM=97.8393803505911;FadeIn=0.013;FadeInLengthInSeconds=19.580;FadeOut=136.238;FadeOutLengthInSeconds=9.812;Key=Bm;Rank=4;StartBPM=98.0592441266598;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Nostalgia 77 - Medicine Chest Dub</Track>
+    <Attributes>Duration=251.867;EndBPM=93.095;FadeIn=3.561;FadeInLengthInSeconds=10.557;FadeOut=160.562;FadeOutLengthInSeconds=5.156;Rank=5;SkipLengthInSeconds=20.703;SkipStart=35.089;StartBPM=90.936;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>O.D. Williams - I'm Moving On Out Of Your Life</Track>
