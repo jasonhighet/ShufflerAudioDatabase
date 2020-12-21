@@ -170,7 +170,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Aloe Blacc - I Need A Dollar</Track>
-    <Attributes>Duration=243.983673469388;EndBPM=95.1531370799881;FadeIn=0.303;FadeInLengthInSeconds=10.089;FadeOut=235.979;FadeOutLengthInSeconds=10.089;Key=Abm;Rank=3;StartBPM=95.1531370799881;</Attributes>
+    <Attributes>Duration=243.984;EndBPM=97.751;FadeIn=5.391;FadeInLengthInSeconds=5.056;FadeOut=146.237;FadeOutLengthInSeconds=9.821;Key=Abm;Rank=3;StartBPM=94.937;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Aloe Blacc - I Need A Dollar (Instrumental)</Track>
@@ -349,12 +349,24 @@
     <Attributes>Duration=270.942040816327;EndBPM=94.1730429664508;EndLoopCount=2;FadeIn=10.417;FadeInLengthInSeconds=10.106;FadeOut=122.191;FadeOutLengthInSeconds=10.194;Key=Am;PreFadeInPosition=5.407;PreFadeInStartVolume=00;Rank=3;StartBPM=94.9930734217297;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Awa Band - Timba (Full Intention Club Mix)</Track>
+    <Attributes>Duration=372.611;EndBPM=124.159;FadeIn=54.276;FadeInLengthInSeconds=7.734;FadeOut=340.745;FadeOutLengthInSeconds=7.732;Rank=5;SkipLengthInSeconds=61.938;SkipStart=263.316;StartBPM=124.127;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>B.B. King - Christmas Celebration</Track>
     <Attributes>Duration=157.179;EndBPM=100.00;Rank=2;StartBPM=100.00;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Baby Huey &amp; The Baby Sitters - Hard Times</Track>
     <Attributes>Duration=196.36;EndBPM=91.289463674401;EndLoopCount=7;FadeIn=0.338;FadeInLengthInSeconds=10.441;FadeOut=120.684;FadeOutLengthInSeconds=2.629;Key=Am;Rank=3;StartBPM=91.9452159754813;StartLoopCount=2;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Bacao Rhythm &amp; Steel Band - 8th Wonder</Track>
+    <Attributes>Duration=213.394;EndBPM=105.587;FadeIn=34.645;FadeInLengthInSeconds=8.988;FadeOut=166.740;FadeOutLengthInSeconds=9.092;Rank=5;StartBPM=106.808;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Bacao Rhythm &amp; Steel Band - P.I.M.P. (Version)</Track>
+    <Attributes>Duration=186.514;EndBPM=82.773;FadeIn=14.707;FadeInLengthInSeconds=5.838;FadeOut=131.352;FadeOutLengthInSeconds=5.799;Rank=5;StartBPM=82.215;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Bad Company - 4 Days</Track>
@@ -427,6 +439,10 @@
   <ExtenedAttributes>
     <Track>Bad Company - Toxin</Track>
     <Attributes>Duration=349.127;EndBPM=86.945;FadeIn=66.753;FadeInLengthInSeconds=22.083;FadeOut=265.384;FadeOutLengthInSeconds=11.041;PreFadeInPosition=65.602;PreFadeInStartVolume=75;Rank=3;StartBPM=86.945;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Bah Samba - Reach Inside (Restless Soul Peak Time Mix)</Track>
+    <Attributes>Duration=571.141;EndBPM=124.976;FadeIn=107.588;FadeInLengthInSeconds=15.365;FadeOut=307.368;FadeOutLengthInSeconds=15.363;Rank=5;StartBPM=124.959;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Banda Black Rio - Mr. Funky Samba</Track>
@@ -1162,7 +1178,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Cutty Ranks - The Stopper (Richard Dorfmeister's Full Moon 6 live Dub)</Track>
-    <Attributes>Duration=378.776;EndBPM=91.980;FadeIn=74.632;FadeInLengthInSeconds=20.878;FadeOut=262.450;FadeOutLengthInSeconds=20.874;Rank=5;StartBPM=91.965;</Attributes>
+    <Attributes>Duration=378.776;EndBPM=91.980;FadeIn=74.632;FadeInLengthInSeconds=20.878;FadeOut=262.450;FadeOutLengthInSeconds=20.874;Rank=4;StartBPM=91.965;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Cybernetika - Anomaly</Track>
@@ -1434,7 +1450,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>DJ Muggs vs. Sick Jacken - El Barrio</Track>
-    <Attributes>Duration=259.604897959184;EndBPM=91.3549330984149;FadeIn=3.464;FadeInLengthInSeconds=20.894;FadeOut=149.524;FadeOutLengthInSeconds=10.508;Key=Dbm;Rank=3;SkipLengthInSeconds=62.602;SkipStart=66.071;StartBPM=91.8924093041064;StartLoopCount=2;</Attributes>
+    <Attributes>Duration=259.605;EndBPM=91.359;FadeIn=3.464;FadeInLengthInSeconds=20.894;FadeOut=149.524;FadeOutLengthInSeconds=10.508;Key=Dbm;Rank=3;StartBPM=91.892;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>DJ Nu Mark - Comin' Thru (feat. Chali 2na) (Instrumental) (RB Edit)</Track>
@@ -2982,7 +2998,11 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Lord Echo - Low to the Street (feat. Lisa Tomlins)</Track>
-    <Attributes>Duration=308.989;EndBPM=97.333;FadeIn=1.309;FadeInLengthInSeconds=9.862;FadeOut=173.488;FadeOutLengthInSeconds=9.863;Rank=4;StartBPM=97.343;</Attributes>
+    <Attributes>Duration=308.989;EndBPM=97.333;FadeIn=1.309;FadeInLengthInSeconds=9.862;FadeOut=173.488;FadeOutLengthInSeconds=9.863;Rank=5;StartBPM=97.343;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Lord Echo - Thinking Of You</Track>
+    <Attributes>Duration=418.560;EndBPM=96.862;FadeIn=30.385;FadeInLengthInSeconds=9.911;FadeOut=178.592;FadeOutLengthInSeconds=9.911;Rank=5;StartBPM=96.862;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Los Papines - El Pequeño Tamborilero</Track>
@@ -3175,6 +3195,10 @@
   <ExtenedAttributes>
     <Track>Mr. Scruff - Music Takes Me Up (feat. Alice Russell)</Track>
     <Attributes>Duration=328.467;EndBPM=97.049;FadeIn=0.057;FadeInLengthInSeconds=9.856;FadeOut=167.613;FadeOutLengthInSeconds=9.892;Key=Bm;Rank=3;StartBPM=97.403;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Mungo's Hi Fi - Divorce à l'italienne (feat. Marina P) (Prince Fatty Mix)</Track>
+    <Attributes>Duration=239.947;EndBPM=123.845;FadeIn=19.726;FadeInLengthInSeconds=7.764;FadeOut=221.110;FadeOutLengthInSeconds=7.752;PreFadeInPosition=18.929;PreFadeInStartVolume=00;Rank=4;SkipLengthInSeconds=15.483;SkipStart=112.660;StartBPM=123.648;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Mungo's Hi Fi - Gideon Boot feat. General Levy (Original Mix)</Track>
@@ -3485,6 +3509,10 @@
     <Attributes>Duration=190.171428571429;EndBPM=74.7488904461574;FadeIn=2.069;FadeInLengthInSeconds=6.453;FadeOut=130.444;FadeOutLengthInSeconds=12.843;Key=Eb;PreFadeInPosition=1.223;PreFadeInStartVolume=40;Rank=3;StartBPM=74.384007438401;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Prince Fatty - Take Me As I Am</Track>
+    <Attributes>Duration=211.069;EndBPM=86.679;FadeIn=3.033;FadeInLengthInSeconds=11.103;FadeOut=163.654;FadeOutLengthInSeconds=11.075;Rank=5;StartBPM=86.467;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Pucho &amp; His Latin Soul Brothers - Swamp People</Track>
     <Attributes>Duration=150.282;EndBPM=79.194;EndLoopCount=2;FadeIn=0.226;FadeInLengthInSeconds=6.035;FadeOut=135.118;FadeOutLengthInSeconds=6.061;Rank=3;StartBPM=79.531;</Attributes>
   </ExtenedAttributes>
@@ -3766,7 +3794,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Sergio Mendes &amp; Brasil 66 - Mas Que Nada</Track>
-    <Attributes>Duration=56805.504;EndBPM=88.495575221239;EndLoopCount=4;FadeIn=1.827;FadeInLengthInSeconds=2.718;FadeOut=142.514;FadeOutLengthInSeconds=2.712;Key=F;PreFadeInPosition=7.291;PreFadeInStartVolume=100;Rank=3;StartBPM=88.300220750552;StartLoopCount=3;</Attributes>
+    <Attributes>Duration=161.013;EndBPM=88.496;EndLoopCount=4;FadeIn=12.734;FadeInLengthInSeconds=10.748;FadeOut=142.514;FadeOutLengthInSeconds=2.712;Key=F;Rank=3;StartBPM=89.319;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Sergio Mendes &amp; Brasil 66 - Roda</Track>
@@ -4190,7 +4218,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Sublime - Badfish</Track>
-    <Attributes>Duration=184.97306122449;EndBPM=93.6631055173424;FadeIn=26.407;FadeInLengthInSeconds=5.353;FadeOut=161.528;FadeOutLengthInSeconds=20.499;Key=A;Rank=3;StartBPM=89.66934429292;StartLoopCount=3;</Attributes>
+    <Attributes>Duration=184.973;EndBPM=93.663;FadeIn=26.407;FadeInLengthInSeconds=5.353;FadeOut=161.528;FadeOutLengthInSeconds=20.499;Key=A;Rank=3;StartBPM=89.669;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Sunidhi Chauhan - Kamli</Track>
@@ -4298,7 +4326,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Bamboos - Black Foot</Track>
-    <Attributes>Duration=225.227755102041;EndBPM=120.481927710843;EndLoopCount=4;FadeIn=0.614;FadeInLengthInSeconds=7.758;FadeOut=110.089;FadeOutLengthInSeconds=7.968;Key=Gm;PreFadeInPosition=0.107;PreFadeInStartVolume=60;Rank=3;StartBPM=123.743232791957;StartLoopCount=2;</Attributes>
+    <Attributes>Duration=225.228;EndBPM=120.482;EndLoopCount=4;FadeIn=0.614;FadeInLengthInSeconds=7.758;FadeOut=110.089;FadeOutLengthInSeconds=7.968;Key=Gm;Rank=3;StartBPM=123.743;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Bamboos - Eel Oil</Track>

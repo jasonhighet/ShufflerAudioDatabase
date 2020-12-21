@@ -2200,6 +2200,14 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Aloe Blacc - I Need A Dollar</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Aloe Blacc - I Need A Dollar (Instrumental)</Track>
     <TrackFXTriggers>
       <TrackFXTrigger>
@@ -3106,6 +3114,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Greyboy - Got To Be A Love (Paul Nice Remix)</TrackDescription>
+        <FadeLength>10.284943310657596</FadeLength>
+        <FadeEnd>81770456</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.4386585</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
@@ -3845,6 +3863,30 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Awa Band - Timba (Full Intention Club Mix)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Bacao Rhythm &amp; Steel Band - 8th Wonder</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Bacao Rhythm &amp; Steel Band - P.I.M.P. (Version)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
     <TrackSamples />
     <LoopSamples />
   </AutomationAttributes>
@@ -5180,6 +5222,14 @@
         <IsExternalLoop>true</IsExternalLoop>
       </TrackSample>
     </LoopSamples>
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Bah Samba - Reach Inside (Restless Soul Peak Time Mix)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Banda Black Rio - Mr. Funky Samba</Track>
@@ -14236,6 +14286,16 @@
         <ExtendedFadeType>PowerDown</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Althea &amp; Donna - Uptown Top Ranking</TrackDescription>
+        <FadeLength>6.2681179138321994</FadeLength>
+        <FadeEnd>51081464</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.056</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
@@ -17042,6 +17102,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Nostalgia 77 - Medicine Chest Dub</TrackDescription>
+        <FadeLength>10.768299319727891</FadeLength>
+        <FadeEnd>95943456</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.247253</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
@@ -17329,6 +17399,16 @@
         <FadeEnd>96240856</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.0797647</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>DJ Muggs vs. Sick Jacken - El Barrio</TrackDescription>
+        <FadeLength>15.844761904761905</FadeLength>
+        <FadeEnd>90499032</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1515529</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -18745,6 +18825,16 @@
         <FadeEnd>75289424</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.3429114</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Mos Def - Mr. Universe</TrackDescription>
+        <FadeLength>12.911904761904761</FadeLength>
+        <FadeEnd>76254896</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.5103798</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -27812,6 +27902,14 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Lord Echo - Thinking Of You</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Los Tios Queridos - Si Me Ves Volar</Track>
     <TrackFXTriggers>
       <TrackFXTrigger>
@@ -29294,6 +29392,14 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Mungo's Hi Fi - Divorce à l'italienne (feat. Marina P) (Prince Fatty Mix)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Mungo's Hi Fi - Gideon Boot feat. General Levy (Original Mix)</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -29844,16 +29950,6 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
       <ExtendedMixAttributes>
-        <TrackDescription>Fela Soul - Trouble In The Water (Instrumental)</TrackDescription>
-        <FadeLength>21.845895691609979</FadeLength>
-        <FadeEnd>70166296</FadeEnd>
-        <FadeEndLoop>0</FadeEndLoop>
-        <FadeEndVolume>0.224</FadeEndVolume>
-        <PowerDownOnEnd>true</PowerDownOnEnd>
-        <ExtendedFadeType>Default</ExtendedFadeType>
-        <SampleTriggers />
-      </ExtendedMixAttributes>
-      <ExtendedMixAttributes>
         <TrackDescription>Nightmares On Wax - The Sweetest</TrackDescription>
         <FadeLength>21.382108843537416</FadeLength>
         <FadeEnd>70159728</FadeEnd>
@@ -29870,6 +29966,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.1997093</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Fela Soul - Trouble In The Water (Instrumental)</TrackDescription>
+        <FadeLength>13.942766439909297</FadeLength>
+        <FadeEnd>67336920</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.008</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -32401,6 +32507,14 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Prince Fatty - Take Me As I Am</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
     <TrackSamples />
     <LoopSamples />
   </AutomationAttributes>
