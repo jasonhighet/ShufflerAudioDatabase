@@ -365,6 +365,10 @@
     <Attributes>Duration=213.394;EndBPM=105.587;FadeIn=34.645;FadeInLengthInSeconds=8.988;FadeOut=166.740;FadeOutLengthInSeconds=9.092;Rank=5;StartBPM=106.808;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Bacao Rhythm &amp; Steel Band - Burn</Track>
+    <Attributes>Duration=142.785;EndBPM=96.659;FadeIn=5.111;FadeInLengthInSeconds=5.029;FadeOut=109.742;FadeOutLengthInSeconds=9.932;Rank=5;StartBPM=95.446;StartLoopCount=2;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Bacao Rhythm &amp; Steel Band - P.I.M.P. (Version)</Track>
     <Attributes>Duration=186.514;EndBPM=82.773;FadeIn=14.707;FadeInLengthInSeconds=5.838;FadeOut=131.352;FadeOutLengthInSeconds=5.799;Rank=5;StartBPM=82.215;</Attributes>
   </ExtenedAttributes>
@@ -1326,7 +1330,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>De La Soul - The Magic Number</Track>
-    <Attributes>Duration=196.389;EndBPM=120.260;FadeIn=0.256;FadeInLengthInSeconds=3.984;FadeOut=115.985;FadeOutLengthInSeconds=15.965;Key=Am;Rank=3;StartBPM=120.482;StartLoopCount=4;</Attributes>
+    <Attributes>Duration=196.389;EndBPM=120.263;FadeIn=0.256;FadeInLengthInSeconds=3.984;FadeOut=116.109;FadeOutLengthInSeconds=15.965;Key=Am;Rank=3;StartBPM=120.482;StartLoopCount=4;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Deadbeats - Pick Me Up (Nightmares On Wax Edit)</Track>
@@ -2929,6 +2933,10 @@
     <Attributes>Duration=174.393469387755;EndBPM=100.177397474695;EndLoopCount=2;FadeIn=0.817;FadeInLengthInSeconds=9.714;FadeOut=155.928;FadeOutLengthInSeconds=9.583;Key=Dm;Rank=3;StartBPM=98.8264360716492;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Lack of Afro - One For The Trouble</Track>
+    <Attributes>Duration=242.103;EndBPM=94.099;FadeIn=15.375;FadeInLengthInSeconds=10.207;FadeOut=229.838;FadeOutLengthInSeconds=10.202;Rank=5;SkipLengthInSeconds=132.765;SkipStart=86.867;StartBPM=94.053;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Landlord &amp; Tenants - Sagittarius</Track>
     <Attributes>Duration=170.293333333333;EndBPM=110.028653295129;EndLoopCount=2;FadeIn=3.070;FadeInLengthInSeconds=9.571;FadeOut=101.727;FadeOutLengthInSeconds=8.725;Key=Bm;PreFadeInPosition=1.085;PreFadeInStartVolume=100;Rank=2;StartBPM=100.30299864173;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
@@ -3255,6 +3263,10 @@
   <ExtenedAttributes>
     <Track>Nicholas Payton - Santa Claus Is Coming To Town</Track>
     <Attributes>Duration=280.111;EndBPM=75.6501182033095;FadeIn=13.178;FadeInLengthInSeconds=6.250;FadeOut=241.386;FadeOutLengthInSeconds=6.345;Key=C;Rank=3;SkipLengthInSeconds=102.496;SkipStart=63.715;StartBPM=76.8;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Nickodemus &amp; Quantic - Me Swing Es Tropical (feat. Tempo)</Track>
+    <Attributes>Duration=221.100;EndBPM=100.274;FadeIn=18.965;FadeInLengthInSeconds=9.560;FadeOut=182.169;FadeOutLengthInSeconds=9.574;Rank=5;StartBPM=100.421;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Nico Saquite y sus Guaracheros de Orienta - Nochebuena Guajira</Track>
@@ -3787,6 +3799,14 @@
   <ExtenedAttributes>
     <Track>Señor Coconut - Around The Wold (Intro)</Track>
     <Attributes>Duration=164.36;EndBPM=124.079100426522;EndLoopCount=2;FadeIn=0.028;FadeInLengthInSeconds=7.901;FadeOut=115.364;FadeOutLengthInSeconds=15.474;Key=Em;Rank=3;StartBPM=121.503607138337;StartLoopCount=2;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Sepultura - Inner Self (Instrumental)</Track>
+    <Attributes>Duration=312.712;EndBPM=80.930;FadeIn=1.791;FadeInLengthInSeconds=12.879;FadeOut=295.131;FadeOutLengthInSeconds=11.862;Rank=4;StartBPM=74.540;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Sepultura - Intro (Instrumental)</Track>
+    <Attributes>Duration=93.466;EndBPM=98.248;FadeIn=0.304;FadeInLengthInSeconds=4.963;FadeOut=80.467;FadeOutLengthInSeconds=9.771;Rank=4;StartBPM=96.713;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Sergio Mendes &amp; Brasil 66 - Batucada</Track>
@@ -4655,6 +4675,10 @@
   <ExtenedAttributes>
     <Track>The Mighty Hannibal - Somebody In The World For You</Track>
     <Attributes>Duration=173.867;EndBPM=109.927859841979;EndLoopCount=2;FadeIn=4.694;FadeInLengthInSeconds=17.905;FadeOut=147.394;FadeOutLengthInSeconds=8.733;Key=D;PreFadeInPosition=3.572;PreFadeInStartVolume=75;Rank=3;StartBPM=107.2326165875454;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>The Mouse Outfit - Step Steadier (feat. Fox)</Track>
+    <Attributes>Duration=172.800;EndBPM=91.582;EndLoopCount=2;FadeIn=0.079;FadeInLengthInSeconds=10.528;FadeOut=162.558;FadeOutLengthInSeconds=5.241;Rank=5;StartBPM=91.185;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The New Mastersounds - 102 Per Cent</Track>

@@ -2954,11 +2954,6 @@
         <Length>81.712</Length>
       </PlaylistEntry>
       <PlaylistEntry>
-        <Artist>Harry J All Stars</Artist>
-        <Title>Liquidator</Title>
-        <Length>139.025</Length>
-      </PlaylistEntry>
-      <PlaylistEntry>
         <Artist>Sly &amp; Robbie</Artist>
         <Title>Asian Roots Dub</Title>
         <Length>128.270</Length>
@@ -4604,11 +4599,6 @@
         <Length>127.875</Length>
       </PlaylistEntry>
       <PlaylistEntry>
-        <Artist>Harry J All Stars</Artist>
-        <Title>Liquidator</Title>
-        <Length>139.025</Length>
-      </PlaylistEntry>
-      <PlaylistEntry>
         <Artist>Sly &amp; Robbie</Artist>
         <Title>Asian Roots Dub</Title>
         <Length>128.270</Length>
@@ -5307,6 +5297,26 @@
         <Artist>Bah Samba</Artist>
         <Title>Reach Inside (Restless Soul Peak Time Mix)</Title>
         <Length>199.780</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Lack of Afro</Artist>
+        <Title>One For The Trouble</Title>
+        <Length>81.698</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Bacao Rhythm &amp; Steel Band</Artist>
+        <Title>Burn</Title>
+        <Length>109.660</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Nickodemus &amp; Quantic</Artist>
+        <Title>Me Swing Es Tropical (feat. Tempo)</Title>
+        <Length>163.204</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Mouse Outfit</Artist>
+        <Title>Step Steadier (feat. Fox)</Title>
+        <Length>172.8</Length>
       </PlaylistEntry>
     </Entries>
   </Playlist>
@@ -12182,6 +12192,91 @@
         <Artist>Willie Bobo</Artist>
         <Title>Spanish Grease</Title>
         <Length>169.952625</Length>
+      </PlaylistEntry>
+    </Entries>
+  </Playlist>
+  <Playlist>
+    <Name>SepulturaInstrumentals</Name>
+    <Entries>
+      <PlaylistEntry>
+        <Artist>Sepultura</Artist>
+        <Title>Mass Hypnosis (Instrumental)</Title>
+        <Length>264.881625</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Sepultura</Artist>
+        <Title>Infected Voice (Instrumental)</Title>
+        <Length>206.471825</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Sepultura</Artist>
+        <Title>To The Wall (Rough Mix)</Title>
+        <Length>331.49355</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Sepultura</Artist>
+        <Title>Meaningless Movements (Instrumental)</Title>
+        <Length>292.623675</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Sepultura</Artist>
+        <Title>Septic Schizo (Instrumental)</Title>
+        <Length>274.8862</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Sepultura</Artist>
+        <Title>Under Siege (from Regnum Irae) (Instrumental)</Title>
+        <Length>291.78775</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Sepultura</Artist>
+        <Title>Hungry (Instrumental)</Title>
+        <Length>272.5094</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Sepultura</Artist>
+        <Title>Altered State (Instrumental)</Title>
+        <Length>335.07265</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Sepultura</Artist>
+        <Title>Slaves Of Pain (Instrumental)</Title>
+        <Length>246.674275</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Sepultura</Artist>
+        <Title>Murder (Instrumental)</Title>
+        <Length>219.036725</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Sepultura</Artist>
+        <Title>Sarcastic Existence (Instrumental)</Title>
+        <Length>295.836725</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Sepultura</Artist>
+        <Title>Desperate Cry (Instrumental)</Title>
+        <Length>378.35755</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Sepultura</Artist>
+        <Title>Stronger Than Hate (Instrumental)</Title>
+        <Length>342.961625</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Sepultura</Artist>
+        <Title>Dead Embryonic Cells (Instrumental)</Title>
+        <Length>282.88</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Sepultura</Artist>
+        <Title>Inner Self (Instrumental)</Title>
+        <Length>312.711825</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Sepultura</Artist>
+        <Title>Intro (Instrumental)</Title>
+        <Length>93.466125</Length>
       </PlaylistEntry>
     </Entries>
   </Playlist>
