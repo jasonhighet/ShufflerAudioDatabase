@@ -709,6 +709,10 @@
     <Attributes>Duration=397.241;EndBPM=86.721;FadeIn=110.335;FadeInLengthInSeconds=22.080;FadeOut=314.472;FadeOutLengthInSeconds=22.140;PreFadeInPosition=109.641;PreFadeInStartVolume=00;Rank=3;StartBPM=86.956;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Black Sun Empire - Inpeak (Telekinesis Remix)</Track>
+    <Attributes>Duration=343.073;EndBPM=86.949;FadeIn=45.189;FadeInLengthInSeconds=22.081;FadeOut=310.023;FadeOutLengthInSeconds=22.082;Rank=4;StartBPM=86.953;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Black Sun Empire - The Sun (feat. Concord Dawn) (VIP Remix)</Track>
     <Attributes>Duration=417.541;EndBPM=86.870;FadeIn=165.196;FadeInLengthInSeconds=11.041;FadeOut=374.852;FadeOutLengthInSeconds=11.051;Rank=3;StartBPM=86.946;</Attributes>
   </ExtenedAttributes>
@@ -1437,6 +1441,10 @@
     <Attributes>Duration=226.717;EndBPM=100.4814737282815;EndLoopCount=2;FadeIn=1.274;FadeInLengthInSeconds=9.749;FadeOut=107.592;FadeOutLengthInSeconds=4.777;Key=Gm;PreFadeInPosition=0.293;PreFadeInStartVolume=75;Rank=3;StartBPM=98.4716381167299;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>DJ Fresh - Gold Dust (Shy FX Re-Edit)</Track>
+    <Attributes>Duration=182.439;EndBPM=88.393;FadeIn=2.856;FadeInLengthInSeconds=10.860;FadeOut=170.993;FadeOutLengthInSeconds=10.861;PreFadeInPosition=2.200;PreFadeInStartVolume=75;Rank=4;StartBPM=88.398;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>DJ Jazzy Jeff &amp; The Fresh Prince - A Touch Of Jazz</Track>
     <Attributes>Duration=201.117;EndBPM=103.237;EndLoopCount=2;FadeIn=2.620;FadeInLengthInSeconds=18.575;FadeOut=95.501;FadeOutLengthInSeconds=9.299;PreFadeInPosition=0.284;PreFadeInStartVolume=75;Rank=3;StartBPM=103.366;</Attributes>
   </ExtenedAttributes>
@@ -1735,6 +1743,26 @@
   <ExtenedAttributes>
     <Track>Fela Soul - Trouble In The Water (Instrumental)</Track>
     <Attributes>Duration=289.090929705215;EndBPM=87.9765395894428;FadeIn=21.817;FadeInLengthInSeconds=21.796;FadeOut=239.989;FadeOutLengthInSeconds=21.824;Key=Bm;Rank=4;SkipLengthInSeconds=87.271;SkipStart=109.082;StartBPM=88.0895577170124;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Flogging Molly - Devil's Dance Floor</Track>
+    <Attributes>Duration=239.647;EndBPM=71.126;FadeIn=6.982;FadeInLengthInSeconds=6.521;FadeOut=209.739;FadeOutLengthInSeconds=13.497;Rank=4;StartBPM=73.608;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Flogging Molly - Drunken Lullabies</Track>
+    <Attributes>Duration=230.640;EndBPM=81.328;FadeIn=0.810;FadeInLengthInSeconds=5.902;FadeOut=221.842;FadeOutLengthInSeconds=5.902;Rank=4;SkipLengthInSeconds=24.752;SkipStart=172.688;StartBPM=81.328;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Flogging Molly - Life In A Tenement Square</Track>
+    <Attributes>Duration=191.451;EndBPM=134.378;FadeIn=33.371;FadeInLengthInSeconds=7.228;FadeOut=163.467;FadeOutLengthInSeconds=3.572;Rank=4;StartBPM=132.817;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Flogging Molly - The Likes Of You Again</Track>
+    <Attributes>Duration=274.051;EndBPM=76.874;FadeIn=57.748;FadeInLengthInSeconds=5.836;FadeOut=268.672;FadeOutLengthInSeconds=1.561;PreFadeInPosition=57.358;PreFadeInStartVolume=75;Rank=4;StartBPM=82.253;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Flogging Molly - The Rare Ould Times</Track>
+    <Attributes>Duration=246.120;EndBPM=78.896;FadeIn=54.781;FadeInLengthInSeconds=3.095;FadeOut=235.295;FadeOutLengthInSeconds=6.084;PreFadeInPosition=52.091;PreFadeInStartVolume=00;Rank=4;StartBPM=77.548;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Frank Cosmo - Greetings from Beverley's</Track>
@@ -3829,6 +3857,14 @@
     <Attributes>Duration=353.293;EndBPM=90.127;FadeIn=5.689;FadeInLengthInSeconds=5.336;FadeOut=164.400;FadeOutLengthInSeconds=10.652;Key=Bm;Rank=3;StartBPM=89.953;StartLoopCount=4;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Shane McGowan &amp; The Popes - Nancy Whiskey</Track>
+    <Attributes>Duration=178.200;EndBPM=70.217;FadeIn=2.000;FadeInLengthInSeconds=6.747;FadeOut=169.446;FadeOutLengthInSeconds=3.418;PreFadeInPosition=1.581;PreFadeInStartVolume=75;Rank=4;StartBPM=71.143;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Shane McGowan &amp; The Popes - The Rising Of The Moon</Track>
+    <Attributes>Duration=148.733;EndBPM=117.052;FadeIn=0.839;FadeInLengthInSeconds=4.121;FadeOut=123.237;FadeOutLengthInSeconds=8.201;PreFadeInPosition=0.274;PreFadeInStartVolume=75;Rank=4;StartBPM=116.488;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Shankar Mahadevan &amp; Alyssa Mendonsa - Uff Teri Adaa</Track>
     <Attributes>Duration=306.08;EndBPM=132.0313574473938;FadeIn=111.111;FadeInLengthInSeconds=14.548;FadeOut=256.108;FadeOutLengthInSeconds=14.542;Key=D;Rank=2;StartBPM=131.9769040417928;</Attributes>
   </ExtenedAttributes>
@@ -4653,6 +4689,22 @@
     <Attributes>Duration=189.309387755102;EndBPM=76.548919543896;FadeIn=8.218;FadeInLengthInSeconds=6.438;FadeOut=140.357;FadeOutLengthInSeconds=12.541;Key=G;Rank=4;StartBPM=74.5573159366265;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>The Mahones - Down The Boozer</Track>
+    <Attributes>Duration=200.200;EndBPM=84.035;FadeIn=0.477;FadeInLengthInSeconds=5.928;FadeOut=194.472;FadeOutLengthInSeconds=1.428;PreFadeInPosition=0.109;PreFadeInStartVolume=75;Rank=4;StartBPM=80.975;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>The Mahones - Drunken Lazy Bastard</Track>
+    <Attributes>Duration=208.379;EndBPM=86.331;FadeIn=3.250;FadeInLengthInSeconds=6.147;FadeOut=199.738;FadeOutLengthInSeconds=2.780;Rank=4;StartBPM=78.089;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>The Mahones - Drunken Night In Dublin</Track>
+    <Attributes>Duration=211.907;EndBPM=75.686;FadeIn=34.376;FadeInLengthInSeconds=5.624;FadeOut=192.235;FadeOutLengthInSeconds=0.793;PreFadeInPosition=33.974;PreFadeInStartVolume=75;Rank=4;StartBPM=85.349;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>The Mahones - Whiskey Devils</Track>
+    <Attributes>Duration=175.595;EndBPM=76.544;FadeIn=9.366;FadeInLengthInSeconds=6.290;FadeOut=153.007;FadeOutLengthInSeconds=6.271;PreFadeInPosition=8.542;PreFadeInStartVolume=75;Rank=4;StartBPM=76.309;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>The Marvels - Forget About That Mess (Part 2)</Track>
     <Attributes>Duration=114.36;EndBPM=133.9192299644278;FadeIn=3.001;FadeInLengthInSeconds=7.160;FadeOut=74.693;FadeOutLengthInSeconds=14.337;Key=Eb;PreFadeInPosition=1.724;PreFadeInStartVolume=00;Rank=2;StartBPM=134.078212290503;</Attributes>
   </ExtenedAttributes>
@@ -4763,6 +4815,34 @@
   <ExtenedAttributes>
     <Track>The Pioneers - Papa Was A Rolling Stone</Track>
     <Attributes>Duration=290.22;EndBPM=121.9357297091324;EndLoopCount=2;FadeIn=16.128;FadeInLengthInSeconds=7.871;FadeOut=182.058;FadeOutLengthInSeconds=15.746;Key=Bbm;PreFadeInPosition=14.446;PreFadeInStartVolume=50;Rank=3;StartBPM=121.966713251175;StartLoopCount=2;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>The Pogues - Billy's Bones</Track>
+    <Attributes>Duration=123.040;EndBPM=72.148;FadeIn=0.257;FadeInLengthInSeconds=6.529;FadeOut=108.150;FadeOutLengthInSeconds=6.653;Rank=4;StartBPM=73.519;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>The Pogues - Bottle Of Smoke</Track>
+    <Attributes>Duration=167.393;EndBPM=74.167;FadeIn=7.470;FadeInLengthInSeconds=6.550;FadeOut=137.096;FadeOutLengthInSeconds=6.472;PreFadeInPosition=7.039;PreFadeInStartVolume=75;Rank=4;StartBPM=73.281;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>The Pogues - Sally Maclennane</Track>
+    <Attributes>Duration=165.120;EndBPM=73.038;EndLoopCount=2;FadeIn=1.763;FadeInLengthInSeconds=3.174;FadeOut=151.436;FadeOutLengthInSeconds=3.286;PreFadeInPosition=0.793;PreFadeInStartVolume=75;Rank=4;StartBPM=75.603;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>The Pogues - Sally MacLennane</Track>
+    <Attributes>Duration=163.631;EndBPM=72.661;FadeIn=1.769;FadeInLengthInSeconds=3.171;FadeOut=151.406;FadeOutLengthInSeconds=6.606;PreFadeInPosition=1.025;PreFadeInStartVolume=10;Rank=4;StartBPM=75.686;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>The Pogues - Streams Of Whiskey</Track>
+    <Attributes>Duration=152.660;EndBPM=68.377;FadeIn=0.948;FadeInLengthInSeconds=6.845;FadeOut=133.820;FadeOutLengthInSeconds=7.020;PreFadeInPosition=0.277;PreFadeInStartVolume=75;Rank=4;StartBPM=70.129;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>The Pogues - The Irish Rover</Track>
+    <Attributes>Duration=218.906;EndBPM=70.651;FadeIn=0.591;FadeInLengthInSeconds=6.903;FadeOut=211.847;FadeOutLengthInSeconds=3.397;PreFadeInPosition=0.317;PreFadeInStartVolume=75;Rank=4;StartBPM=69.535;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>The Pogues - The Sickbed of Cuchulainn</Track>
+    <Attributes>Duration=182.187;EndBPM=69.818;FadeIn=37.781;FadeInLengthInSeconds=6.842;FadeOut=158.266;FadeOutLengthInSeconds=6.875;PreFadeInPosition=37.283;PreFadeInStartVolume=75;Rank=4;StartBPM=70.158;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Quantic Soul Orchestra - End Of The Road (feat. Alice Russell)</Track>
@@ -4915,6 +4995,22 @@
   <ExtenedAttributes>
     <Track>The Toasters - We Three Kings</Track>
     <Attributes>Duration=54928.608;EndBPM=129.258112292985;FadeIn=2.277;FadeInLengthInSeconds=7.427;FadeOut=142.562;FadeOutLengthInSeconds=7.427;Key=Dm;Rank=5;StartBPM=129.258112292985;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>The Tossers - Did It All For You</Track>
+    <Attributes>Duration=111.040;EndBPM=70.755;FadeIn=3.235;FadeInLengthInSeconds=3.329;FadeOut=108.626;FadeOutLengthInSeconds=0.848;StartBPM=72.086;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>The Tossers - Good Morning Da</Track>
+    <Attributes>Duration=102.080;EndBPM=84.019;FadeIn=0.933;FadeInLengthInSeconds=5.713;FadeOut=99.691;FadeOutLengthInSeconds=1.428;PreFadeInPosition=0.540;PreFadeInStartVolume=75;Rank=4;StartBPM=84.019;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>The Tossers - Preab San Ol</Track>
+    <Attributes>Duration=268.280;EndBPM=76.629;FadeIn=107.492;FadeInLengthInSeconds=6.721;FadeOut=262.276;FadeOutLengthInSeconds=3.132;Rank=4;StartBPM=71.420;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>The Tossers - Siobhan</Track>
+    <Attributes>Duration=128.653;EndBPM=78.753;FadeIn=0.179;FadeInLengthInSeconds=7.048;FadeOut=98.320;FadeOutLengthInSeconds=3.047;Rank=4;StartBPM=136.209;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The U.M.Cs - One to Grow On</Track>

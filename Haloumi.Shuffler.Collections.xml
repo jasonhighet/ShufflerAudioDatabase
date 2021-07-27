@@ -5318,6 +5318,51 @@
         <Title>Step Steadier (feat. Fox)</Title>
         <Length>172.8</Length>
       </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Sister Sledge</Artist>
+        <Title>Thinking Of You (Dimitri From Paris Remix)</Title>
+        <Length>388.25795</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Quantic</Artist>
+        <Title>Doo Wop (That Thing) (feat. Anita Tijoux)</Title>
+        <Length>219.9249</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Orgone</Artist>
+        <Title>The Black Five</Title>
+        <Length>284.839175</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Mocky</Artist>
+        <Title>How It Goes</Title>
+        <Length>253.805725</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Marcia Griffiths</Artist>
+        <Title>Feel Like Jumping</Title>
+        <Length>213.94285</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Kingston</Artist>
+        <Title>Ayatollah</Title>
+        <Length>163.78775</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>King Tubby</Artist>
+        <Title>Take Five</Title>
+        <Length>218.9845</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Everything But The Girl</Artist>
+        <Title>Corcovado (Knee Deep Remix) (Ben Watt Vocal Re-Edit)</Title>
+        <Length>378.46205</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>DJ Fresh</Artist>
+        <Title>Gold Dust (Shy FX Re-Edit)</Title>
+        <Length>182.439175</Length>
+      </PlaylistEntry>
     </Entries>
   </Playlist>
   <Playlist>
@@ -7977,6 +8022,51 @@
         <Artist>Mungo's Hi Fi</Artist>
         <Title>Divorce à l'italienne (feat. Marina P) (Prince Fatty Mix)</Title>
         <Length>185.901</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Sister Sledge</Artist>
+        <Title>Thinking Of You (Dimitri From Paris Remix)</Title>
+        <Length>388.25795</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Quantic</Artist>
+        <Title>Doo Wop (That Thing) (feat. Anita Tijoux)</Title>
+        <Length>219.9249</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Orgone</Artist>
+        <Title>The Black Five</Title>
+        <Length>284.839175</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Mocky</Artist>
+        <Title>How It Goes</Title>
+        <Length>253.805725</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Marcia Griffiths</Artist>
+        <Title>Feel Like Jumping</Title>
+        <Length>213.94285</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Kingston</Artist>
+        <Title>Ayatollah</Title>
+        <Length>163.78775</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>King Tubby</Artist>
+        <Title>Take Five</Title>
+        <Length>218.9845</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Everything But The Girl</Artist>
+        <Title>Corcovado (Knee Deep Remix) (Ben Watt Vocal Re-Edit)</Title>
+        <Length>378.46205</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>DJ Fresh</Artist>
+        <Title>Gold Dust (Shy FX Re-Edit)</Title>
+        <Length>182.439175</Length>
       </PlaylistEntry>
     </Entries>
   </Playlist>
@@ -11496,6 +11586,301 @@
     </Entries>
   </Playlist>
   <Playlist>
+    <Name>Irish</Name>
+    <Entries>
+      <PlaylistEntry>
+        <Artist>The Tossers</Artist>
+        <Title>Siobhan</Title>
+        <Length>98.141</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Flogging Molly</Artist>
+        <Title>Life In A Tenement Square</Title>
+        <Length>130.096</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Mahones</Artist>
+        <Title>Drunken Night In Dublin</Title>
+        <Length>159.801</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Tossers</Artist>
+        <Title>Good Morning Da</Title>
+        <Length>98.758</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Flogging Molly</Artist>
+        <Title>The Likes Of You Again</Title>
+        <Length>216.797</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Flogging Molly</Artist>
+        <Title>Drunken Lullabies</Title>
+        <Length>221.032</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Mahones</Artist>
+        <Title>Down The Boozer</Title>
+        <Length>193.995</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Mahones</Artist>
+        <Title>Drunken Lazy Bastard</Title>
+        <Length>196.488</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Flogging Molly</Artist>
+        <Title>The Rare Ould Times</Title>
+        <Length>180.514</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Mahones</Artist>
+        <Title>Whiskey Devils</Title>
+        <Length>143.641</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Pogues</Artist>
+        <Title>Sally MacLennane</Title>
+        <Length>149.637</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Flogging Molly</Artist>
+        <Title>Devil's Dance Floor</Title>
+        <Length>109.261</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Pogues</Artist>
+        <Title>Billy's Bones</Title>
+        <Length>107.893</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Tossers</Artist>
+        <Title>Preab San Ol</Title>
+        <Length>154.784</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Pogues</Artist>
+        <Title>The Sickbed of Cuchulainn</Title>
+        <Length>120.485</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Pogues</Artist>
+        <Title>Streams Of Whiskey</Title>
+        <Length>132.872</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Pogues</Artist>
+        <Title>The Irish Rover</Title>
+        <Length>211.256</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Tossers</Artist>
+        <Title>Buckets Of Beer</Title>
+        <Length>139.415475</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Tossers</Artist>
+        <Title>Dicey Riley</Title>
+        <Length>194.9518</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Tossers</Artist>
+        <Title>Donegal Danny</Title>
+        <Length>364.277525</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Tossers</Artist>
+        <Title>The Crutch</Title>
+        <Length>227.265275</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Tossers</Artist>
+        <Title>The Rocky Road To Dublin</Title>
+        <Length>160.9665</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Tossers</Artist>
+        <Title>Terry Obradaigh</Title>
+        <Length>170.2661</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Tossers</Artist>
+        <Title>Breandan O Beachain</Title>
+        <Length>158.7461</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Tossers</Artist>
+        <Title>Teehans</Title>
+        <Length>194.559975</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Tossers</Artist>
+        <Title>Where The Beer And Whiskey Flow</Title>
+        <Length>129.697925</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Tossers</Artist>
+        <Title>The Fermoy Lasses And Sporting Paddy</Title>
+        <Length>106.840775</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Tossers</Artist>
+        <Title>Maidrin Rua; Tell Me Ma</Title>
+        <Length>221.07425</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Flogging Molly</Artist>
+        <Title>What's Left Of The Flag</Title>
+        <Length>219.0367</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Flogging Molly</Artist>
+        <Title>The Kilburn High Road</Title>
+        <Length>223.3469</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Flogging Molly</Artist>
+        <Title>Rebels Of The Sacred Heart</Title>
+        <Length>311.980375</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Flogging Molly</Artist>
+        <Title>Swagger</Title>
+        <Length>125.4922</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Flogging Molly</Artist>
+        <Title>From The Back Of A Broken Dream</Title>
+        <Length>201.560775</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Flogging Molly</Artist>
+        <Title>The Wrong Company</Title>
+        <Length>36.8065</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Flogging Molly</Artist>
+        <Title>Seven Deadly Sins</Title>
+        <Length>170.21385</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Flogging Molly</Artist>
+        <Title>To Youth</Title>
+        <Length>197.1722</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Popes</Artist>
+        <Title>Paddy's Got A Brand New Bag</Title>
+        <Length>181.4465</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Popes</Artist>
+        <Title>Hills Of Connemara</Title>
+        <Length>186.357525</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Popes</Artist>
+        <Title>The Beast</Title>
+        <Length>194.351</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Pogues</Artist>
+        <Title>Bottle Of Smoke</Title>
+        <Length>167.39265</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Pogues</Artist>
+        <Title>Boys From The County Hell</Title>
+        <Length>176.039175</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Pogues</Artist>
+        <Title>Dingle Regatta</Title>
+        <Length>172.38205</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Pogues</Artist>
+        <Title>Gartloney Rats</Title>
+        <Length>152.346125</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Pogues</Artist>
+        <Title>Medley</Title>
+        <Length>242.0506</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Pogues</Artist>
+        <Title>Poor Paddy</Title>
+        <Length>189.5706</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Pogues</Artist>
+        <Title>Sit Down By The Fire</Title>
+        <Length>137.691425</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Pogues</Artist>
+        <Title>South Australia</Title>
+        <Length>208.039175</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Pogues</Artist>
+        <Title>The Battle Of Brisbane</Title>
+        <Length>109.583675</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Pogues</Artist>
+        <Title>The Body Of An American</Title>
+        <Length>288.52245833333333333333333333</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Pogues</Artist>
+        <Title>The Gentleman Soldier</Title>
+        <Length>124.70855</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Pogues</Artist>
+        <Title>Transmetropolitan</Title>
+        <Length>255.791025</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>The Pogues</Artist>
+        <Title>Waxie's Dargle</Title>
+        <Length>113.188575</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Shane McGowan &amp; The Popes</Artist>
+        <Title>The Rising Of The Moon</Title>
+        <Length>148.793425</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Shane McGowan &amp; The Popes</Artist>
+        <Title>Roddy MCCorley</Title>
+        <Length>140.564875</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Shane McGowan &amp; The Popes</Artist>
+        <Title>Nancy Whiskey</Title>
+        <Length>179.4612</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Shane McGowan &amp; The Popes</Artist>
+        <Title>Come To The Bower</Title>
+        <Length>130.76895</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Shane McGowan &amp; The Popes</Artist>
+        <Title>Bring Down The Lamp</Title>
+        <Length>191.320775</Length>
+      </PlaylistEntry>
+      <PlaylistEntry>
+        <Artist>Shane McGowan &amp; The Popes</Artist>
+        <Title>Aisling</Title>
+        <Length>178.677525</Length>
+      </PlaylistEntry>
+    </Entries>
+  </Playlist>
+  <Playlist>
     <Name>Jazzetc</Name>
     <Entries>
       <PlaylistEntry>
@@ -12560,18 +12945,8 @@
       </PlaylistEntry>
       <PlaylistEntry>
         <Artist>Cybernetika</Artist>
-        <Title>Atropos</Title>
-        <Length>0</Length>
-      </PlaylistEntry>
-      <PlaylistEntry>
-        <Artist>Cybernetika</Artist>
         <Title>Close Your Eyes</Title>
         <Length>476.472</Length>
-      </PlaylistEntry>
-      <PlaylistEntry>
-        <Artist>Cybernetika</Artist>
-        <Title>Conquest</Title>
-        <Length>0</Length>
       </PlaylistEntry>
       <PlaylistEntry>
         <Artist>Cybernetika</Artist>
@@ -12605,11 +12980,6 @@
       </PlaylistEntry>
       <PlaylistEntry>
         <Artist>Cybernetika</Artist>
-        <Title>Hydroponics</Title>
-        <Length>0</Length>
-      </PlaylistEntry>
-      <PlaylistEntry>
-        <Artist>Cybernetika</Artist>
         <Title>Monolithic</Title>
         <Length>509.511</Length>
       </PlaylistEntry>
@@ -12631,11 +13001,6 @@
       <PlaylistEntry>
         <Artist>Cybernetika</Artist>
         <Title>Towards The End Of Time</Title>
-        <Length>0</Length>
-      </PlaylistEntry>
-      <PlaylistEntry>
-        <Artist>Cybernetika</Artist>
-        <Title>Unleash</Title>
         <Length>0</Length>
       </PlaylistEntry>
       <PlaylistEntry>
