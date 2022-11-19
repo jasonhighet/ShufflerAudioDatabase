@@ -689,6 +689,10 @@
     <Attributes>Duration=339.310;EndBPM=87.001;FadeIn=44.166;FadeInLengthInSeconds=22.040;FadeOut=286.896;FadeOutLengthInSeconds=22.069;Rank=3;StartBPM=87.113;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Black Sun Empire - Epilouge</Track>
+    <Attributes>Duration=478.407;EndBPM=87.400;FadeIn=166.454;FadeInLengthInSeconds=5.492;FadeOut=408.195;FadeOutLengthInSeconds=10.984;PreFadeInPosition=165.010;PreFadeInStartVolume=75;Rank=3;StartBPM=87.400;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Black Sun Empire - Eraser (Neonlight Remix)</Track>
     <Attributes>Duration=304.793;EndBPM=87.059;FadeIn=78.588;FadeInLengthInSeconds=11.023;FadeOut=266.177;FadeOutLengthInSeconds=11.027;Rank=3;StartBPM=87.091;</Attributes>
   </ExtenedAttributes>
@@ -974,7 +978,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Carlene Davis - Santa Claus (Do You Ever Come To The Ghetto)</Track>
-    <Attributes>Duration=215.986666666667;EndBPM=79.7011207970112;FadeIn=10.630;FadeInLengthInSeconds=12.192;FadeOut=164.909;FadeOutLengthInSeconds=12.045;Key=Am;PreFadeInPosition=9.800;PreFadeInStartVolume=75;Rank=3;StartBPM=78.740157480315;</Attributes>
+    <Attributes>Duration=215.986666666667;EndBPM=79.7011207970112;FadeIn=10.630;FadeInLengthInSeconds=12.192;FadeOut=164.909;FadeOutLengthInSeconds=12.045;Key=Am;PreFadeInPosition=9.800;PreFadeInStartVolume=75;Rank=5;StartBPM=78.740157480315;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Carlene Davis &amp; Trinity - Santa Claus (Do You Ever Come To The Ghetto)</Track>
@@ -1063,6 +1067,10 @@
   <ExtenedAttributes>
     <Track>Chino - Jade Sunrise</Track>
     <Attributes>Duration=401.789;EndBPM=86.6699769782874;FadeIn=47.045;FadeInLengthInSeconds=22.152;FadeOut=268.467;FadeOutLengthInSeconds=22.153;Key=Bb;Rank=3;StartBPM=86.6738894907908;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Christmas Kisses - DeRobert &amp; The Half Truths</Track>
+    <Attributes>Duration=182.596;EndBPM=89.611;EndLoopCount=2;FadeIn=1.031;FadeInLengthInSeconds=5.464;FadeOut=160.407;FadeOutLengthInSeconds=10.713;Rank=4;StartBPM=87.848;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>City Council Ltd - When You Git Through Wit It</Track>
@@ -1529,6 +1537,10 @@
     <Attributes>Duration=157.100408163265;EndBPM=82.6446280991735;EndLoopCount=4;FadeIn=0.765;FadeInLengthInSeconds=5.735;FadeOut=122.553;FadeOutLengthInSeconds=2.904;Key=Am;Rank=3;StartBPM=83.696599825632;StartLoopCount=4;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Dub Proof - God Rest Ye Merry Gentlemen</Track>
+    <Attributes>Duration=199.419;EndBPM=93.281;FadeIn=30.336;FadeInLengthInSeconds=10.399;FadeOut=159.346;FadeOutLengthInSeconds=10.292;Rank=5;StartBPM=92.317;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Dub Specialist - Dub It Easy</Track>
     <Attributes>Duration=179.506666666667;EndBPM=85.6225472707813;EndLoopCount=2;FadeIn=1.254;FadeInLengthInSeconds=5.557;FadeOut=62.619;FadeOutLengthInSeconds=11.212;Key=Eb;Rank=3;StartBPM=86.377541839122;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
@@ -1587,6 +1599,10 @@
   <ExtenedAttributes>
     <Track>Edson Frederico - Bobeira</Track>
     <Attributes>Duration=195.173;EndBPM=107.209;FadeIn=5.503;FadeInLengthInSeconds=9.446;FadeOut=119.703;FadeOutLengthInSeconds=17.909;Key=Gbm;Rank=4;StartBPM=101.630;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Eek A Mouse - Christmas Ah Come</Track>
+    <Attributes>Duration=186.358;EndBPM=76.964;EndLoopCount=2;FadeIn=1.537;FadeInLengthInSeconds=12.559;FadeOut=172.382;FadeOutLengthInSeconds=6.237;PreFadeInPosition=0.487;PreFadeInStartVolume=75;Rank=5;SkipLengthInSeconds=24.842;SkipStart=117.198;StartBPM=76.439;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>El Michels Affair - C.R.E.A.M.</Track>
@@ -1753,6 +1769,10 @@
     <Attributes>Duration=230.640;EndBPM=81.328;FadeIn=0.810;FadeInLengthInSeconds=5.902;FadeOut=221.842;FadeOutLengthInSeconds=5.902;Rank=4;SkipLengthInSeconds=24.752;SkipStart=172.688;StartBPM=81.328;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Flogging Molly - From The Back Of A Broken Dream</Track>
+    <Attributes>Duration=201.493;EndBPM=70.297;FadeIn=0.467;FadeInLengthInSeconds=6.030;FadeOut=192.186;FadeOutLengthInSeconds=6.828;Rank=3;StartBPM=79.602;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Flogging Molly - Life In A Tenement Square</Track>
     <Attributes>Duration=191.451;EndBPM=134.378;FadeIn=33.371;FadeInLengthInSeconds=7.228;FadeOut=163.467;FadeOutLengthInSeconds=3.572;Rank=4;StartBPM=132.817;</Attributes>
   </ExtenedAttributes>
@@ -1763,6 +1783,14 @@
   <ExtenedAttributes>
     <Track>Flogging Molly - The Rare Ould Times</Track>
     <Attributes>Duration=246.120;EndBPM=78.896;FadeIn=54.781;FadeInLengthInSeconds=3.095;FadeOut=235.295;FadeOutLengthInSeconds=6.084;PreFadeInPosition=52.091;PreFadeInStartVolume=00;Rank=4;StartBPM=77.548;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Flogging Molly - Tobacco Island (Acoustic)</Track>
+    <Attributes>Duration=268.434;EndBPM=74.292;FadeIn=0.058;FadeInLengthInSeconds=5.589;FadeOut=210.254;FadeOutLengthInSeconds=0.404;Rank=5;StartBPM=85.884;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Flogging Molly - What's Left Of The Flag</Track>
+    <Attributes>Duration=218.960;EndBPM=79.391;FadeIn=57.113;FadeInLengthInSeconds=12.040;FadeOut=211.222;FadeOutLengthInSeconds=6.046;PreFadeInPosition=56.638;PreFadeInStartVolume=75;Rank=4;StartBPM=79.737;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Frank Cosmo - Greetings from Beverley's</Track>
@@ -1835,6 +1863,10 @@
   <ExtenedAttributes>
     <Track>Gal Costa &amp; Caetano Veloso - Remelexo</Track>
     <Attributes>Duration=117.865;EndBPM=83.9674626082393;FadeIn=0.633;FadeInLengthInSeconds=2.939;FadeOut=96.774;FadeOutLengthInSeconds=11.433;Key=G;PreFadeInPosition=0.016;PreFadeInStartVolume=100;Rank=3;StartBPM=81.66042871725075;StartLoopCount=2;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Galatic - Santa Claus Is Coming To Town</Track>
+    <Attributes>Duration=191.112;EndBPM=78.150;FadeIn=12.398;FadeInLengthInSeconds=6.147;FadeOut=175.468;FadeOutLengthInSeconds=6.142;Rank=5;StartBPM=78.087;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Gang Starr - Full Clip (Instrumental) (RB Edit)</Track>
@@ -2333,6 +2365,10 @@
     <Attributes>Duration=279.200;EndBPM=115.513;FadeIn=8.428;FadeInLengthInSeconds=8.324;FadeOut=129.421;FadeOutLengthInSeconds=8.311;PreFadeInPosition=7.412;PreFadeInStartVolume=75;Rank=5;StartBPM=115.327;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>James Brown - Signs Of Christmas</Track>
+    <Attributes>Duration=278.936;EndBPM=115.117;FadeIn=8.526;FadeInLengthInSeconds=8.300;FadeOut=129.400;FadeOutLengthInSeconds=8.339;Rank=3;StartBPM=115.660;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>James Brown - Slaughter Theme</Track>
     <Attributes>Duration=238.576326530612;EndBPM=93.5754205379216;FadeIn=41.129;FadeInLengthInSeconds=10.117;FadeOut=177.321;FadeOutLengthInSeconds=10.259;Key=Dm;PreFadeInPosition=40.789;PreFadeInStartVolume=75;Rank=3;StartBPM=94.8937933561905;</Attributes>
   </ExtenedAttributes>
@@ -2791,6 +2827,10 @@
   <ExtenedAttributes>
     <Track>KC White - No No No</Track>
     <Attributes>Duration=212.741224489796;EndBPM=68.463842533162;FadeIn=15.590;FadeInLengthInSeconds=7.011;FadeOut=173.741;FadeOutLengthInSeconds=7.011;Key=D;PreFadeInPosition=12.759;PreFadeInStartVolume=50;Rank=4;StartBPM=68.463842533162;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Kelly Finnigan - Santa's Watching You</Track>
+    <Attributes>Duration=160.496;EndBPM=72.159;EndLoopCount=2;FadeIn=8.233;FadeInLengthInSeconds=6.885;FadeOut=136.756;FadeOutLengthInSeconds=6.652;PreFadeInPosition=2.581;PreFadeInStartVolume=40;Rank=4;StartBPM=69.717;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Kenny Burrell - Merry Christmas Baby</Track>
@@ -3533,6 +3573,10 @@
     <Attributes>Duration=286.773;EndBPM=93.4579439252336;FadeIn=0.630;FadeInLengthInSeconds=10.577;FadeOut=165.096;FadeOutLengthInSeconds=10.272;Key=Am;Rank=4;StartBPM=90.7629762692635;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Predator Dub Assassins - God Rest Ye Merry Gentlemen</Track>
+    <Attributes>Duration=229.329;EndBPM=133.731;FadeIn=1.482;FadeInLengthInSeconds=7.195;FadeOut=175.215;FadeOutLengthInSeconds=14.357;Rank=5;StartBPM=133.426;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Preston Love - Cissy Popcorn</Track>
     <Attributes>Duration=157.066666666667;EndBPM=105.7326945316372;FadeIn=0.404;FadeInLengthInSeconds=9.340;FadeOut=92.419;FadeOutLengthInSeconds=18.159;Key=Dm;Rank=2;StartBPM=102.783725910064;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
@@ -3855,6 +3899,10 @@
   <ExtenedAttributes>
     <Track>Seu Jorge - Carolina</Track>
     <Attributes>Duration=353.293;EndBPM=90.127;FadeIn=5.689;FadeInLengthInSeconds=5.336;FadeOut=164.400;FadeOutLengthInSeconds=10.652;Key=Bm;Rank=3;StartBPM=89.953;StartLoopCount=4;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Shane McGowan &amp; The Popes - Bring Down The Lamp</Track>
+    <Attributes>Duration=191.267;EndBPM=132.874;FadeIn=8.117;FadeInLengthInSeconds=7.473;FadeOut=162.379;FadeOutLengthInSeconds=14.450;Rank=3;StartBPM=128.462;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Shane McGowan &amp; The Popes - Nancy Whiskey</Track>
@@ -4569,6 +4617,10 @@
     <Attributes>Duration=152;EndBPM=85.4548691472316;EndLoopCount=2;FadeIn=11.872;FadeInLengthInSeconds=11.119;FadeOut=126.366;FadeOutLengthInSeconds=11.234;Key=Bb;Rank=5;StartBPM=86.3386995233384;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>The Gladiators - Jingle Bells</Track>
+    <Attributes>Duration=182.465;EndBPM=125.786;FadeIn=15.574;FadeInLengthInSeconds=15.624;FadeOut=167.836;FadeOutLengthInSeconds=7.632;PreFadeInPosition=13.976;PreFadeInStartVolume=25;Rank=3;StartBPM=122.887;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>The Granville Williams Orchestra - Santa Claus is Ska-Ing To Town</Track>
     <Attributes>Duration=150.491428571429;EndBPM=119.151048777461;FadeIn=0.374;FadeInLengthInSeconds=8.135;FadeOut=128.571;FadeOutLengthInSeconds=8.057;Key=Em;Rank=4;StartBPM=118.0086047941;</Attributes>
   </ExtenedAttributes>
@@ -4701,6 +4753,10 @@
     <Attributes>Duration=211.907;EndBPM=75.686;FadeIn=34.376;FadeInLengthInSeconds=5.624;FadeOut=192.235;FadeOutLengthInSeconds=0.793;PreFadeInPosition=33.974;PreFadeInStartVolume=75;Rank=4;StartBPM=85.349;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>The Mahones - Mahones Melody</Track>
+    <Attributes>Duration=165.825;EndBPM=72.091;FadeIn=23.239;FadeInLengthInSeconds=5.975;FadeOut=157.992;FadeOutLengthInSeconds=3.329;PreFadeInPosition=22.873;PreFadeInStartVolume=75;Rank=4;StartBPM=80.335;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>The Mahones - Whiskey Devils</Track>
     <Attributes>Duration=175.595;EndBPM=76.544;FadeIn=9.366;FadeInLengthInSeconds=6.290;FadeOut=153.007;FadeOutLengthInSeconds=6.271;PreFadeInPosition=8.542;PreFadeInStartVolume=75;Rank=4;StartBPM=76.309;</Attributes>
   </ExtenedAttributes>
@@ -4825,12 +4881,24 @@
     <Attributes>Duration=167.393;EndBPM=74.167;FadeIn=7.470;FadeInLengthInSeconds=6.550;FadeOut=137.096;FadeOutLengthInSeconds=6.472;PreFadeInPosition=7.039;PreFadeInStartVolume=75;Rank=4;StartBPM=73.281;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>The Pogues - Gartloney Rats</Track>
+    <Attributes>Duration=152.346;EndBPM=135.019;FadeIn=0.788;FadeInLengthInSeconds=7.032;FadeOut=142.201;FadeOutLengthInSeconds=7.110;PreFadeInPosition=0.332;PreFadeInStartVolume=75;Rank=4;StartBPM=68.261;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>The Pogues - Medley</Track>
+    <Attributes>Duration=242.051;EndBPM=75.199;FadeIn=0.310;FadeInLengthInSeconds=7.526;FadeOut=234.020;FadeOutLengthInSeconds=6.383;Rank=3;StartBPM=127.562;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>The Pogues - Sally Maclennane</Track>
     <Attributes>Duration=165.120;EndBPM=73.038;EndLoopCount=2;FadeIn=1.763;FadeInLengthInSeconds=3.174;FadeOut=151.436;FadeOutLengthInSeconds=3.286;PreFadeInPosition=0.793;PreFadeInStartVolume=75;Rank=4;StartBPM=75.603;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Pogues - Sally MacLennane</Track>
     <Attributes>Duration=163.631;EndBPM=72.661;FadeIn=1.769;FadeInLengthInSeconds=3.171;FadeOut=151.406;FadeOutLengthInSeconds=6.606;PreFadeInPosition=1.025;PreFadeInStartVolume=10;Rank=4;StartBPM=75.686;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>The Pogues - Sit Down By The Fire</Track>
+    <Attributes>Duration=137.691;EndBPM=74.488;FadeIn=27.191;FadeInLengthInSeconds=6.642;FadeOut=132.801;FadeOutLengthInSeconds=3.222;PreFadeInPosition=26.916;PreFadeInStartVolume=75;Rank=3;StartBPM=72.263;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Pogues - Streams Of Whiskey</Track>
@@ -4843,6 +4911,14 @@
   <ExtenedAttributes>
     <Track>The Pogues - The Sickbed of Cuchulainn</Track>
     <Attributes>Duration=182.187;EndBPM=69.818;FadeIn=37.781;FadeInLengthInSeconds=6.842;FadeOut=158.266;FadeOutLengthInSeconds=6.875;PreFadeInPosition=37.283;PreFadeInStartVolume=75;Rank=4;StartBPM=70.158;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>The Pogues - Whiskey In The Jar</Track>
+    <Attributes>Duration=158.485;EndBPM=71.546;FadeIn=4.694;FadeInLengthInSeconds=6.702;FadeOut=148.708;FadeOutLengthInSeconds=6.709;PreFadeInPosition=4.014;PreFadeInStartVolume=75;Rank=5;StartBPM=71.618;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>The Popes - Paddy's Got A Brand New Bag</Track>
+    <Attributes>Duration=181.373;EndBPM=68.532;FadeIn=29.542;FadeInLengthInSeconds=7.157;FadeOut=170.050;FadeOutLengthInSeconds=3.502;Rank=4;StartBPM=134.138;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Quantic Soul Orchestra - End Of The Road (feat. Alice Russell)</Track>
@@ -4942,7 +5018,7 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Soul Saints Orchestra - Santas Got a Bag of Soul</Track>
-    <Attributes>Duration=199.347;EndBPM=89.955;FadeIn=0.693;FadeInLengthInSeconds=10.412;FadeOut=157.175;FadeOutLengthInSeconds=2.668;Key=Dm;PreFadeInPosition=0.221;PreFadeInStartVolume=50;Rank=4;StartBPM=92.201;</Attributes>
+    <Attributes>Duration=199.347;EndBPM=89.955;FadeIn=0.693;FadeInLengthInSeconds=5.206;FadeOut=157.175;FadeOutLengthInSeconds=2.668;Key=Dm;PreFadeInPosition=0.221;PreFadeInStartVolume=20;Rank=4;StartBPM=92.201;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The Soul Searcher - Ashley's Roachclip</Track>
@@ -5011,6 +5087,14 @@
   <ExtenedAttributes>
     <Track>The Tossers - Siobhan</Track>
     <Attributes>Duration=128.653;EndBPM=78.753;FadeIn=0.179;FadeInLengthInSeconds=7.048;FadeOut=98.320;FadeOutLengthInSeconds=3.047;Rank=4;StartBPM=136.209;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>The Tossers - The Fermoy Lasses And Sporting Paddy</Track>
+    <Attributes>Duration=106.773;EndBPM=134.976;FadeIn=8.490;FadeInLengthInSeconds=7.343;FadeOut=92.860;FadeOutLengthInSeconds=7.112;Rank=3;StartBPM=130.735;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>The Tossers - The Rocky Road To Dublin</Track>
+    <Attributes>Duration=160.907;EndBPM=71.654;FadeIn=1.939;FadeInLengthInSeconds=6.415;FadeOut=151.066;FadeOutLengthInSeconds=6.699;Rank=4;StartBPM=74.825;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>The U.M.Cs - One to Grow On</Track>
@@ -5514,6 +5598,6 @@
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Zebra - Christmas Morning</Track>
-    <Attributes>Duration=278.253;EndBPM=117.044;FadeIn=117.479;FadeInLengthInSeconds=4.359;FadeOut=217.654;FadeOutLengthInSeconds=4.101;Rank=3;StartBPM=110.127;StartLoopCount=2;</Attributes>
+    <Attributes>Duration=278.253;EndBPM=117.044;FadeIn=117.479;FadeInLengthInSeconds=4.359;FadeOut=217.654;FadeOutLengthInSeconds=4.101;Rank=4;StartBPM=110.127;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>
 </ArrayOfExtenedAttributes>
