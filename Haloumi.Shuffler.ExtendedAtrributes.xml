@@ -4129,6 +4129,10 @@
     <Attributes>Duration=198.04;EndBPM=83.594566353187;FadeIn=23.748;FadeInLengthInSeconds=11.581;FadeOut=151.038;FadeOutLengthInSeconds=11.484;Key=Em;PreFadeInPosition=17.762;PreFadeInStartVolume=00;Rank=3;StartBPM=82.8943959934375;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Sister Sledge - Thinking Of You (Dimitri From Paris Remix)</Track>
+    <Attributes>Duration=388.246;EndBPM=104.884;FadeIn=28.295;FadeInLengthInSeconds=9.152;FadeOut=220.289;FadeOutLengthInSeconds=9.153;Rank=5;StartBPM=104.895;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Slickers - Johnny Too Bad</Track>
     <Attributes>Duration=184.52;EndBPM=83.3188682520395;EndLoopCount=2;FadeIn=1.778;FadeInLengthInSeconds=11.658;FadeOut=129.232;FadeOutLengthInSeconds=5.761;Key=G;PreFadeInPosition=0.404;PreFadeInStartVolume=100;Rank=3;StartBPM=82.3468862583634;StartLoopCount=2;</Attributes>
   </ExtenedAttributes>

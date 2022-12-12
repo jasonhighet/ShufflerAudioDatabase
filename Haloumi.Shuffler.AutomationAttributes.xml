@@ -36704,6 +36704,25 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Sister Sledge - Thinking Of You (Dimitri From Paris Remix)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Jungle Fire - Comencemos (Let's Start)</TrackDescription>
+        <FadeLength>4.5764852607709754</FadeLength>
+        <FadeEnd>79332536</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Slickers - Johnny Too Bad</Track>
     <TrackFXTriggers>
       <TrackFXTrigger>
