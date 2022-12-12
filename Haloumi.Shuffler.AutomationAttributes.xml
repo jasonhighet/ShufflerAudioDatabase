@@ -3290,6 +3290,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Evinha - Esperar Pra Ver</TrackDescription>
+        <FadeLength>10.00907029478458</FadeLength>
+        <FadeEnd>61916032</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.1515128</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
@@ -3652,6 +3662,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Nickodemus &amp; Quantic - Me Swing Es Tropical (feat. Tempo)</TrackDescription>
+        <FadeLength>9.6447845804988663</FadeLength>
+        <FadeEnd>50163096</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.04</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
@@ -3868,6 +3888,25 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Awa Band - Timba (Full Intention Club Mix)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Elis Regina - Roda</TrackDescription>
+        <FadeLength>18.15</FadeLength>
+        <FadeEnd>126124792</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3483333</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Bacao Rhthym &amp; Steel Band - Bacao Suave</Track>
     <TrackFXTriggers />
     <SampleTriggers />
     <ExtendedMixes />
@@ -5262,6 +5301,16 @@
         <FadeEndVolume>1</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>PowerDown</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Prince Fatty - Insane In The Brain (feat. Horseman)</TrackDescription>
+        <FadeLength>9.0206802721088444</FadeLength>
+        <FadeEnd>45930328</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.4385135</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -8611,6 +8660,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Cutty Ranks - The Stopper (Richard Dorfmeister's Full Moon 6 live Dub)</TrackDescription>
+        <FadeLength>20.142698412698412</FadeLength>
+        <FadeEnd>61221656</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.2073418</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
@@ -11620,6 +11679,16 @@
         <ExtendedFadeType>EchoOut</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Stan Getz &amp; Astrud Gilberto - Eu E Voce (Me And You) (Live)</TrackDescription>
+        <FadeLength>17.587641723356008</FadeLength>
+        <FadeEnd>60945872</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.248</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
@@ -11707,6 +11776,26 @@
         <FadeEnd>99975440</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.103679</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Cypress Hill - Latin Thugs (Instrumental)</TrackDescription>
+        <FadeLength>10.360997732426304</FadeLength>
+        <FadeEnd>96276864</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.02388889</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Xavier Cugat - Maracaibo</TrackDescription>
+        <FadeLength>10.203650793650795</FadeLength>
+        <FadeEnd>96308816</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1751852</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -15225,6 +15314,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Beatnuts - Watch Out Now (Instrumental)</TrackDescription>
+        <FadeLength>8.8710204081632646</FadeLength>
+        <FadeEnd>75272056</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.07971831</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
@@ -16127,6 +16226,16 @@
         <FadeEnd>48374976</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.5430423</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Donald Byrd - (Fallin' Like) Dominoes</TrackDescription>
+        <FadeLength>17.765260770975058</FadeLength>
+        <FadeEnd>48445072</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.05580282</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -17214,6 +17323,14 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Everything But The Girl - Corcovado (Knee Deep Remix) (Ben Watt Vocal Re-Edit)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Evinha - Esperar Pra Ver</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -17244,6 +17361,16 @@
         <FadeEnd>37495688</FadeEnd>
         <FadeEndLoop>2</FadeEndLoop>
         <FadeEndVolume>0.008</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Edson Frederico - Bobeira</TrackDescription>
+        <FadeLength>9.507823129251701</FadeLength>
+        <FadeEnd>36568656</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.056</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -17520,6 +17647,36 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Cutty Ranks - The Stopper (Richard Dorfmeister's Full Moon 6 live Dub)</TrackDescription>
+        <FadeLength>26.901473922902493</FadeLength>
+        <FadeEnd>91509680</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.9970588</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Sublime - Badfish</TrackDescription>
+        <FadeLength>10.944240362811792</FadeLength>
+        <FadeEnd>88590672</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.08</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Pharcyde - Running Away (Instrumental) (RB Edit)</TrackDescription>
+        <FadeLength>13.983650793650794</FadeLength>
+        <FadeEnd>89941560</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.296</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
@@ -17753,6 +17910,14 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Fort Knox Five - The Brazilian Hipster</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
     <TrackSamples />
     <LoopSamples />
   </AutomationAttributes>
@@ -19898,6 +20063,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Cal Tjader - Tanya</TrackDescription>
+        <FadeLength>12.589909297052154</FadeLength>
+        <FadeEnd>84198976</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.056</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
@@ -20551,6 +20726,16 @@
         <FadeEnd>95459920</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.1035517</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Som Tres - Homenagem A Mongo</TrackDescription>
+        <FadeLength>14.527732426303855</FadeLength>
+        <FadeEnd>95465216</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.4142069</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -23810,6 +23995,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Xavier Cugat - Ritmo Tropical</TrackDescription>
+        <FadeLength>7.4673922902494327</FadeLength>
+        <FadeEnd>96136240</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.152</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
@@ -23957,6 +24152,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>DJ Muggs vs. Sick Jacken - El Barrio</TrackDescription>
+        <FadeLength>15.78</FadeLength>
+        <FadeEnd>35696216</FadeEnd>
+        <FadeEndLoop>3</FadeEndLoop>
+        <FadeEndVolume>0.08</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
@@ -24060,6 +24265,16 @@
             <SampleID>Jackson do Pandeiro - Eu Balanco (Beatfanatic Rework) - FadeIn</SampleID>
           </SampleTrigger>
         </SampleTriggers>
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Banda Black Rio - Mr. Funky Samba</TrackDescription>
+        <FadeLength>10.385170068027211</FadeLength>
+        <FadeEnd>49293680</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.112</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
@@ -24248,6 +24463,25 @@
         <FadeEnd>46857280</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.296</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Jorge Ben - Salve Se Quem Puder</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Fela Soul - Trouble In The Water (Instrumental)</TrackDescription>
+        <FadeLength>14.167006802721089</FadeLength>
+        <FadeEnd>46252072</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.104</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -30391,7 +30625,18 @@
     <Track>Nickodemus &amp; Quantic - Me Swing Es Tropical (feat. Tempo)</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Jorge Ben - Olha A Beleza Dela</TrackDescription>
+        <FadeLength>9.7511564625850333</FadeLength>
+        <FadeEnd>67689608</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2945</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
   </AutomationAttributes>
@@ -31552,6 +31797,16 @@
         <FadeEnd>65629456</FadeEnd>
         <FadeEndLoop>1</FadeEndLoop>
         <FadeEndVolume>0.032</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Moloko - The Time Is Now (Can 7 Remix)</TrackDescription>
+        <FadeLength>9.543968253968254</FadeLength>
+        <FadeEnd>64313008</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.056</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -32982,6 +33237,16 @@
           </SampleTrigger>
         </SampleTriggers>
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Rubinho E Mauro Assumpcao - Ta Tudo Ai</TrackDescription>
+        <FadeLength>9.4653287981859418</FadeLength>
+        <FadeEnd>37360520</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2471507</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
@@ -33346,6 +33611,14 @@
         <IsExternalLoop>true</IsExternalLoop>
       </TrackSample>
     </LoopSamples>
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Quantic - Doo Wop (That Thing) (feat. Anita Tijoux)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Ramon Fabian Veloz - Cascabel</Track>
@@ -33853,7 +34126,25 @@
           </SampleTrigger>
         </SampleTriggers>
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Willie Bobo - Grazing in the Grass</TrackDescription>
+        <FadeLength>7.26312925170068</FadeLength>
+        <FadeEnd>32882056</FadeEnd>
+        <FadeEndLoop>4</FadeEndLoop>
+        <FadeEndVolume>0.1433793</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Roche Brasiliano - Schischka House (Cha Cha Cha)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
     <TrackSamples />
     <LoopSamples />
   </AutomationAttributes>
@@ -34502,6 +34793,26 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Copa 7 - Copa 7 No Samba</TrackDescription>
+        <FadeLength>9.3690208333333338</FadeLength>
+        <FadeEnd>44195568</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.152</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Beatnuts - Watch Out Now (Instrumental)</TrackDescription>
+        <FadeLength>9.61047619047619</FadeLength>
+        <FadeEnd>44217000</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.1514648</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
@@ -34960,6 +35271,16 @@
         <FadeEnd>61729296</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.1517711</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>DJ Muggs vs. Sick Jacken - El Barrio</TrackDescription>
+        <FadeLength>20.986077097505667</FadeLength>
+        <FadeEnd>65486984</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1834458</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -36873,6 +37194,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Jorge Ben - Força Bruta</TrackDescription>
+        <FadeLength>14.389410430839002</FadeLength>
+        <FadeEnd>48509104</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.2468929</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
@@ -37535,6 +37866,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Herbie Hancock - Cantaloupe Island</TrackDescription>
+        <FadeLength>13.508435374149659</FadeLength>
+        <FadeEnd>54196008</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.632</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
@@ -37693,6 +38034,16 @@
         <FadeEnd>60553568</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Pharcyde - Running Away (Instrumental) (RB Edit)</TrackDescription>
+        <FadeLength>18.407709750566895</FadeLength>
+        <FadeEnd>63513400</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.104</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -39601,6 +39952,16 @@
         <FadeEnd>27852432</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.3667568</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Jorge Ben - Pulo Pulo</TrackDescription>
+        <FadeLength>14.384489795918368</FadeLength>
+        <FadeEnd>26194888</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1833784</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -42415,6 +42776,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Evinha - Esperar Pra Ver</TrackDescription>
+        <FadeLength>19.325986394557823</FadeLength>
+        <FadeEnd>92015240</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.279557</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
@@ -44255,6 +44626,11 @@
         <Length>2.2458004535147467</Length>
         <DelayNotes>0.5</DelayNotes>
       </TrackFXTrigger>
+      <TrackFXTrigger>
+        <Start>101.45573696145125</Start>
+        <Length>2.260476190476183</Length>
+        <DelayNotes>0.5</DelayNotes>
+      </TrackFXTrigger>
     </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
@@ -44437,6 +44813,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Awa Band - Timba (Full Intention Club Mix)</TrackDescription>
+        <FadeLength>7.7220408163265306</FadeLength>
+        <FadeEnd>56701424</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.5336491</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
@@ -44522,6 +44908,26 @@
         <FadeEndVolume>0.088</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Manzel - Space Funk</TrackDescription>
+        <FadeLength>12.584083333333334</FadeLength>
+        <FadeEnd>46889696</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1912836</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Jungle Fire - Comencemos (Let's Start)</TrackDescription>
+        <FadeLength>4.3159863945578234</FadeLength>
+        <FadeEnd>43800816</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -46565,6 +46971,25 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Xavier Cugat - Maracaibo</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Nickodemus &amp; Quantic - Me Swing Es Tropical (feat. Tempo)</TrackDescription>
+        <FadeLength>9.6808843537414972</FadeLength>
+        <FadeEnd>42370272</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.15175</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
