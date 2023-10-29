@@ -93,6 +93,10 @@
     <Attributes>Duration=184.093;EndBPM=113.2943883873252;FadeIn=4.777;FadeInLengthInSeconds=2.195;FadeOut=71.539;FadeOutLengthInSeconds=16.947;Key=D;PreFadeInPosition=0.133;PreFadeInStartVolume=100;Rank=2;StartBPM=109.33940774487475;StartLoopCount=8;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Aggregate Roots - Satta Massagana (Tackling Complexity in the Heart Dub)</Track>
+    <Attributes>Duration=389.735;EndBPM=102.215;FadeIn=0.676;FadeInLengthInSeconds=9.264;FadeOut=117.579;FadeOutLengthInSeconds=9.392;PreFadeInPosition=0.063;PreFadeInStartVolume=60;Rank=3;StartBPM=103.629;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Agora Chega - Super Som T.A.</Track>
     <Attributes>Duration=197.373333333333;EndBPM=93.376130726583;FadeIn=16.007;FadeInLengthInSeconds=5.197;FadeOut=139.786;FadeOutLengthInSeconds=10.281;Key=Gm;PowerDown=True;PreFadeInPosition=13.397;PreFadeInStartVolume=50;Rank=5;StartBPM=92.3609774870115;StartLoopCount=3;</Attributes>
   </ExtenedAttributes>
@@ -1451,6 +1455,22 @@
   <ExtenedAttributes>
     <Track>Dizzy Gillespie - Summertime</Track>
     <Attributes>Duration=226.717;EndBPM=100.4814737282815;EndLoopCount=2;FadeIn=1.274;FadeInLengthInSeconds=9.749;FadeOut=107.592;FadeOutLengthInSeconds=4.777;Key=Gm;PreFadeInPosition=0.293;PreFadeInStartVolume=75;Rank=3;StartBPM=98.4716381167299;StartLoopCount=2;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>DJ Ahmid - Beamer</Track>
+    <Attributes>Duration=56.099;EndBPM=120.109;EndLoopCount=4;FadeIn=0.017;FadeInLengthInSeconds=7.995;FadeOut=47.978;FadeOutLengthInSeconds=3.996;Rank=4;StartBPM=120.075;StartLoopCount=2;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>DJ Ahmid - Blue7</Track>
+    <Attributes>Duration=97.738;EndBPM=117.820;EndLoopCount=2;FadeIn=0.016;FadeInLengthInSeconds=8.133;FadeOut=65.076;FadeOutLengthInSeconds=8.148;Rank=4;StartBPM=118.038;StartLoopCount=2;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>DJ Ahmid - Dodo</Track>
+    <Attributes>Duration=116.938;EndBPM=115.080;FadeIn=8.357;FadeInLengthInSeconds=8.344;FadeOut=92.033;FadeOutLengthInSeconds=8.342;Rank=4;StartBPM=115.056;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>DJ Ahmid - Rowan</Track>
+    <Attributes>Duration=81.333;EndBPM=118.269;EndLoopCount=2;FadeIn=0.012;FadeInLengthInSeconds=8.130;FadeOut=65.065;FadeOutLengthInSeconds=8.117;StartBPM=118.078;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>DJ Fresh - Gold Dust (Shy FX Re-Edit)</Track>
@@ -3725,8 +3745,56 @@
     <Attributes>Duration=227.004081632653;EndBPM=132.085855806274;EndLoopCount=8;FadeIn=1.983;FadeInLengthInSeconds=3.851;FadeOut=92.950;FadeOutLengthInSeconds=1.817;Key=Am;PreFadeInPosition=0.689;PreFadeInStartVolume=100;Rank=5;StartBPM=124.642949883147;StartLoopCount=4;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
+    <Track>Roche Brasiliano - All Night</Track>
+    <Attributes>Duration=330.385;EndBPM=117.059;FadeIn=33.073;FadeInLengthInSeconds=16.417;FadeOut=164.356;FadeOutLengthInSeconds=16.402;PreFadeInPosition=32.054;PreFadeInStartVolume=50;Rank=5;StartBPM=116.949;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Roche Brasiliano - Born Into The Business</Track>
+    <Attributes>Duration=312.282;EndBPM=84.919;FadeIn=11.549;FadeInLengthInSeconds=11.283;FadeOut=226.114;FadeOutLengthInSeconds=22.610;Rank=4;SkipLengthInSeconds=90.361;SkipStart=113.181;StartBPM=85.087;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Roche Brasiliano - Cabin Fever</Track>
+    <Attributes>Duration=226.287;EndBPM=110.989;FadeIn=0.266;FadeInLengthInSeconds=8.634;FadeOut=121.316;FadeOutLengthInSeconds=17.299;Rank=4;StartBPM=111.188;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Roche Brasiliano - Cold Ham Batch</Track>
+    <Attributes>Duration=255.727;EndBPM=109.235;FadeIn=19.569;FadeInLengthInSeconds=8.976;FadeOut=145.297;FadeOutLengthInSeconds=8.788;Rank=4;StartBPM=106.952;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Roche Brasiliano - Double Shot</Track>
+    <Attributes>Duration=192.328;EndBPM=94.909;FadeIn=20.472;FadeInLengthInSeconds=10.115;FadeOut=121.529;FadeOutLengthInSeconds=10.115;Rank=3;StartBPM=94.907;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Roche Brasiliano - Give Me One</Track>
+    <Attributes>Duration=247.707;EndBPM=110.980;FadeIn=34.838;FadeInLengthInSeconds=8.651;FadeOut=138.627;FadeOutLengthInSeconds=17.300;Rank=3;StartBPM=110.970;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Roche Brasiliano - Glory Daze</Track>
+    <Attributes>Duration=331.508;EndBPM=115.921;FadeIn=8.555;FadeInLengthInSeconds=8.280;FadeOut=265.073;FadeOutLengthInSeconds=16.563;Rank=4;SkipLengthInSeconds=99.322;SkipStart=66.454;StartBPM=115.942;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Roche Brasiliano - Jackfruit Shuffle (Pink Traveller Edition)</Track>
+    <Attributes>Duration=248.282;EndBPM=126.382;FadeIn=0.268;FadeInLengthInSeconds=15.199;FadeOut=197.827;FadeOutLengthInSeconds=7.596;StartBPM=126.324;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Roche Brasiliano - Peacharine Haze</Track>
+    <Attributes>Duration=246.297;EndBPM=111.098;FadeIn=0.264;FadeInLengthInSeconds=17.284;FadeOut=138.664;FadeOutLengthInSeconds=17.282;StartBPM=111.085;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
     <Track>Roche Brasiliano - Schischka House (Cha Cha Cha)</Track>
     <Attributes>Duration=261.016;EndBPM=125.968;EndLoopCount=2;FadeIn=0.394;FadeInLengthInSeconds=7.623;FadeOut=183.246;FadeOutLengthInSeconds=7.621;Rank=5;StartBPM=125.935;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Roche Brasiliano - Schischka House(Cha Cha Cha)</Track>
+    <Attributes>Duration=259.436;EndBPM=126.009;EndLoopCount=2;FadeIn=15.499;FadeInLengthInSeconds=15.237;FadeOut=190.718;FadeOutLengthInSeconds=7.618;StartBPM=126.009;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Roche Brasiliano - The Outer Platform</Track>
+    <Attributes>Duration=188.226;EndBPM=123.953;FadeIn=0.473;FadeInLengthInSeconds=15.491;FadeOut=124.311;FadeOutLengthInSeconds=15.490;Rank=4;StartBPM=123.943;</Attributes>
+  </ExtenedAttributes>
+  <ExtenedAttributes>
+    <Track>Roche Brasiliano - The Tale Of The Turtle And The Shark</Track>
+    <Attributes>Duration=229.030;EndBPM=120.045;FadeIn=4.024;FadeInLengthInSeconds=7.986;FadeOut=211.924;FadeOutLengthInSeconds=7.997;PreFadeInPosition=3.024;PreFadeInStartVolume=75;Rank=4;StartBPM=120.206;</Attributes>
   </ExtenedAttributes>
   <ExtenedAttributes>
     <Track>Rockers Almighty - Rockers Almighty Dub</Track>

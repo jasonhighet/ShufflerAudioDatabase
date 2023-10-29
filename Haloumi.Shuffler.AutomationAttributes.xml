@@ -1551,6 +1551,25 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Aggregate Roots - Satta Massagana (Tackling Complexity in the Heart Dub)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Roche Brasiliano - Cold Ham Batch</TrackDescription>
+        <FadeLength>18.12</FadeLength>
+        <FadeEnd>48164312</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.104</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Agora Chega - Super Som T.A.</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -14748,6 +14767,60 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>DJ Ahmid - Beamer</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Roche Brasiliano - The Outer Platform</TrackDescription>
+        <FadeLength>15.64</FadeLength>
+        <FadeEnd>16974624</FadeEnd>
+        <FadeEndLoop>4</FadeEndLoop>
+        <FadeEndVolume>0.7681774</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>DJ Ahmid - Blue7</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>DJ Ahmid - Dodo</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Roche Brasiliano - Cabin Fever</TrackDescription>
+        <FadeLength>8.68</FadeLength>
+        <FadeEnd>35417488</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.6021539</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>DJ Ahmid - Rowan</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
     <TrackSamples />
     <LoopSamples />
   </AutomationAttributes>
@@ -34141,7 +34214,147 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Roche Brasiliano - All Night</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>DJ Ahmid - Blue7</TrackDescription>
+        <FadeLength>16.52</FadeLength>
+        <FadeEnd>63861504</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.296</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Roche Brasiliano - Born Into The Business</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Roche Brasiliano - Double Shot</TrackDescription>
+        <FadeLength>5.64</FadeLength>
+        <FadeEnd>81995400</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.008</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Roche Brasiliano - Cabin Fever</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Roche Brasiliano - Glory Daze</TrackDescription>
+        <FadeLength>8.68</FadeLength>
+        <FadeEnd>45996856</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.5785522</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Roche Brasiliano - Cold Ham Batch</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Roche Brasiliano - Double Shot</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Roche Brasiliano - Give Me One</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Roche Brasiliano - Glory Daze</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>DJ Ahmid - Beamer</TrackDescription>
+        <FadeLength>16.07</FadeLength>
+        <FadeEnd>99384088</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2218125</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Roche Brasiliano - Jackfruit Shuffle (Pink Traveller Edition)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Roche Brasiliano - Peacharine Haze</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Roche Brasiliano - Schischka House (Cha Cha Cha)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Roche Brasiliano - Schischka House(Cha Cha Cha)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Roche Brasiliano - The Outer Platform</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Roche Brasiliano - The Tale Of The Turtle And The Shark</Track>
     <TrackFXTriggers />
     <SampleTriggers />
     <ExtendedMixes />
