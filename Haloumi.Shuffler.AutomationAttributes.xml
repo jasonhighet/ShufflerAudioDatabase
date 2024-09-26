@@ -1,6 +1,93 @@
 <?xml version="1.0"?>
 <ArrayOfAutomationAttributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AutomationAttributes>
+    <Track>1gnition - Secret Sunday Lover (Greg Wilson Version)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Al Green - Standing In The Rain</TrackDescription>
+        <FadeLength>17.56</FadeLength>
+        <FadeEnd>119556192</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.293197</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>A Taste Of Honey - Ain't Nothin' But A Party (Remastered)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Gwen MCCrae - Keep the Fire Burning</TrackDescription>
+        <FadeLength>25.41</FadeLength>
+        <FadeEnd>74633632</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.032</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Di Melo - A.E.I.O.U. (Dub Version)</TrackDescription>
+        <FadeLength>15.52</FadeLength>
+        <FadeEnd>71035344</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2691187</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>AC Soul Symphony - I Want To See You Dance (Art Of Tones Edit)</TrackDescription>
+        <FadeLength>15.16</FadeLength>
+        <FadeEnd>70955288</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1266441</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>A Taste Of Honey - Boogie Oogie Oogie</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Gwen MCCrae - Keep the Fire Burning</TrackDescription>
+        <FadeLength>15.18</FadeLength>
+        <FadeEnd>66041888</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2216667</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>AC Soul Symphony - I Want To See You Dance (Art Of Tones Edit)</TrackDescription>
+        <FadeLength>13.18</FadeLength>
+        <FadeEnd>65277112</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.08</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>A Tribe Called Quest - 1nce Again (Instrumental)</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -1551,6 +1638,22 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>AC Soul Symphony - I Want To See You Dance (Art Of Tones Edit)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>AC Soul Symphony - K Jee</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Aggregate Roots - Satta Massagana (Tackling Complexity in the Heart Dub)</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -2651,6 +2754,33 @@
     </LoopSamples>
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Andrea True Connection - More, More, More</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Sister Sledge - Thinking Of You (Dimitri From Paris Remix)</TrackDescription>
+        <FadeLength>9.32</FadeLength>
+        <FadeEnd>100458192</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.2934306</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Anita Ward - Ring My Bell</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Ann Allford - Gotta Get Me A Job</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -3139,6 +3269,45 @@
         <FadeEnd>81770456</FadeEnd>
         <FadeEndLoop>2</FadeEndLoop>
         <FadeEndVolume>0.4386585</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Ashford &amp; Simpson - Found a Cure (Joey Negro Found a Dub Mix)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>TS Monk - Candidate for Love (John Morales 2009 Reconstruction)</TrackDescription>
+        <FadeLength>7.96</FadeLength>
+        <FadeEnd>108993448</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.6017705</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Stargard - Wear It Out</TrackDescription>
+        <FadeLength>5.69</FadeLength>
+        <FadeEnd>108212544</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.104</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Coffee - Casanova (Single Version)</TrackDescription>
+        <FadeLength>15.43</FadeLength>
+        <FadeEnd>111698856</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.07918032</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -6189,6 +6358,14 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Betty Wright - Where Is The Love</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
     <TrackSamples />
     <LoopSamples />
   </AutomationAttributes>
@@ -10652,7 +10829,25 @@
         <ExtendedFadeType>Cut</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>1gnition - Secret Sunday Lover (Greg Wilson Version)</TrackDescription>
+        <FadeLength>17.21</FadeLength>
+        <FadeEnd>74205960</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.6024117</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Chic - Le Freak</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
     <TrackSamples />
     <LoopSamples />
   </AutomationAttributes>
@@ -10714,6 +10909,35 @@
         <FadeEnd>39781104</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.08</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Coffee - Casanova (Single Version)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>TS Monk - Candidate for Love (John Morales 2009 Reconstruction)</TrackDescription>
+        <FadeLength>16.2</FadeLength>
+        <FadeEnd>64245008</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.2691187</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Stargard - Wear It Out</TrackDescription>
+        <FadeLength>22.55</FadeLength>
+        <FadeEnd>66483936</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.032</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -13547,6 +13771,14 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>David Bendeth - Feel The Real</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>De Frank Professionals - Afe Ato Yen Bio</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -14388,6 +14620,25 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Di Melo - A.E.I.O.U. (Dub Version)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>A Taste Of Honey - Boogie Oogie Oogie</TrackDescription>
+        <FadeLength>15.75</FadeLength>
+        <FadeEnd>90167064</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.32</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Digable Planets - Rebirth Of Slick (Cool Like Dat)</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -14798,6 +15049,25 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>DJ Ahmid - Disco Interlude</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Roche Brasiliano - Schischka House(Cha Cha Cha)</TrackDescription>
+        <FadeLength>15.11</FadeLength>
+        <FadeEnd>12153104</FadeEnd>
+        <FadeEndLoop>3</FadeEndLoop>
+        <FadeEndVolume>0.3166667</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>DJ Ahmid - Dodo</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -14817,10 +15087,29 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
-    <Track>DJ Ahmid - Rowan</Track>
+    <Track>DJ Ahmid - Rico</Track>
     <TrackFXTriggers />
     <SampleTriggers />
     <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>DJ Ahmid - Rowan</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Roche Brasiliano - The Outer Platform</TrackDescription>
+        <FadeLength>15.6</FadeLength>
+        <FadeEnd>22987952</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.5782064</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
   </AutomationAttributes>
@@ -15633,6 +15922,16 @@
         <FadeEndVolume>1</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
         <ExtendedFadeType>QuickFade</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Andrea True Connection - More, More, More</TrackDescription>
+        <FadeLength>0.58848072562358278</FadeLength>
+        <FadeEnd>41328216</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Cut</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
@@ -17562,6 +17861,14 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Fatback Band - (Are You Ready) Do the Bus Stop (Joey Negro London Bus Stop Mix)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Fela Soul - Oooh (Instrumental)</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -18068,6 +18375,14 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Freedom - Dance Sing Along</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
     <TrackSamples />
     <LoopSamples />
   </AutomationAttributes>
@@ -18970,6 +19285,22 @@
         <IsExternalLoop>true</IsExternalLoop>
       </TrackSample>
     </LoopSamples>
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>George Benson - Give Me the Night</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Geraldine Hunt - Can't Fake the Feeling</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Gian Franco Pienzio - Grigio Perla</Track>
@@ -20002,6 +20333,14 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Gwen MCCrae - Keep the Fire Burning</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
     <TrackSamples />
     <LoopSamples />
   </AutomationAttributes>
@@ -29462,6 +29801,14 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Mayer Hawthorne - Time For Love (Instrumental)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Meditation Singers - What The World Needs For Christmas</Track>
     <TrackFXTriggers>
       <TrackFXTrigger>
@@ -31962,6 +32309,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>The Blackbyrds - Rock Creek Park</TrackDescription>
+        <FadeLength>4.29</FadeLength>
+        <FadeEnd>68414264</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
@@ -33180,6 +33537,14 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Pleasure - Joyous</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Poncho Sanchez - Tenga Usted Mismo un Feliz Navidad</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -34228,6 +34593,16 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Roche Brasiliano - Maungaturoto</TrackDescription>
+        <FadeLength>16.84</FadeLength>
+        <FadeEnd>63816456</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2693438</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
@@ -34253,7 +34628,13 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Roche Brasiliano - Cabin Fever</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>6.7459863945578231</Start>
+        <Length>1.5399999999999992</Length>
+        <DelayNotes>0.125</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
     <ExtendedMixes>
       <ExtendedMixAttributes>
@@ -34309,7 +34690,35 @@
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Roche Brasiliano - Maungaturoto</TrackDescription>
+        <FadeLength>16.81</FadeLength>
+        <FadeEnd>99395992</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.104</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Roche Brasiliano - All Night</TrackDescription>
+        <FadeLength>8.4</FadeLength>
+        <FadeEnd>96507240</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.08</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
     </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Roche Brasiliano - Hosepipeblowout</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
     <TrackSamples />
     <LoopSamples />
   </AutomationAttributes>
@@ -34317,15 +34726,91 @@
     <Track>Roche Brasiliano - Jackfruit Shuffle (Pink Traveller Edition)</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Roche Brasiliano - The Tale Of The Turtle And The Shark</TrackDescription>
+        <FadeLength>16.14</FadeLength>
+        <FadeEnd>75206944</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.152</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Roche Brasiliano - Maungaturoto</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>DJ Ahmid - Rowan</TrackDescription>
+        <FadeLength>8.27</FadeLength>
+        <FadeEnd>56000272</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.4586462</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Roche Brasiliano - Pacific Banana</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Roche Brasiliano - Schischka House(Cha Cha Cha)</TrackDescription>
+        <FadeLength>14.32</FadeLength>
+        <FadeEnd>86382008</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.032</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>DJ Ahmid - Disco Interlude</TrackDescription>
+        <FadeLength>15.46</FadeLength>
+        <FadeEnd>86740808</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2691667</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Roche Brasiliano - Peacharine Haze</Track>
-    <TrackFXTriggers />
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>137.43648526077098</Start>
+        <Length>0.84000000000000341</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Roche Brasiliano - Cabin Fever</TrackDescription>
+        <FadeLength>4.3204988662131516</FadeLength>
+        <FadeEnd>50333088</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>1</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>QuickFade</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
   </AutomationAttributes>
@@ -34339,6 +34824,50 @@
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Roche Brasiliano - Schischka House(Cha Cha Cha)</Track>
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>189.82897959183674</Start>
+        <Length>0.75999999999999091</Length>
+        <DelayNotes>0.25</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Roche Brasiliano - The Winds of Business</TrackDescription>
+        <FadeLength>7.95</FadeLength>
+        <FadeEnd>67268032</FadeEnd>
+        <FadeEndLoop>1</FadeEndLoop>
+        <FadeEndVolume>0.5065763</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Roche Brasiliano - Seabather's Eruption</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Roche Brasiliano - This Is The Beat</TrackDescription>
+        <FadeLength>15.58</FadeLength>
+        <FadeEnd>79062072</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.4109678</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Roche Brasiliano - The Life Tropical</Track>
     <TrackFXTriggers />
     <SampleTriggers />
     <ExtendedMixes />
@@ -34349,15 +34878,100 @@
     <Track>Roche Brasiliano - The Outer Platform</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>DJ Ahmid - Beamer</TrackDescription>
+        <FadeLength>15.85</FadeLength>
+        <FadeEnd>49269968</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.056</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
     <Track>Roche Brasiliano - The Tale Of The Turtle And The Shark</Track>
+    <TrackFXTriggers>
+      <TrackFXTrigger>
+        <Start>98.623492063492066</Start>
+        <Length>0.95999999999999375</Length>
+        <DelayNotes>0.1875</DelayNotes>
+      </TrackFXTrigger>
+    </TrackFXTriggers>
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Roche Brasiliano - The Whims of Chance</TrackDescription>
+        <FadeLength>8.39</FadeLength>
+        <FadeEnd>38164528</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.4118064</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Roche Brasiliano - The Whims of Chance</Track>
     <TrackFXTriggers />
     <SampleTriggers />
-    <ExtendedMixes />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Roche Brasiliano - Peacharine Haze</TrackDescription>
+        <FadeLength>15.74</FadeLength>
+        <FadeEnd>74754576</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.2693438</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Roche Brasiliano - The Winds of Business</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Roche Brasiliano - Jackfruit Shuffle (Pink Traveller Edition)</TrackDescription>
+        <FadeLength>15.18</FadeLength>
+        <FadeEnd>76495520</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.1029167</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Roche Brasiliano - This Is The Beat</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Roche Brasiliano - Pacific Banana</TrackDescription>
+        <FadeLength>8.13</FadeLength>
+        <FadeEnd>95737184</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.344</FadeEndVolume>
+        <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
     <TrackSamples />
     <LoopSamples />
   </AutomationAttributes>
@@ -37900,6 +38514,14 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Sparque - Let's Go Dancin' (Club Version)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Speedometer - Accra International Airport</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -38210,6 +38832,25 @@
         <FadeEnd>64851448</FadeEnd>
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.432</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Stargard - Wear It Out</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Di Melo - A.E.I.O.U. (Dub Version)</TrackDescription>
+        <FadeLength>15.49</FadeLength>
+        <FadeEnd>44122560</FadeEnd>
+        <FadeEndLoop>2</FadeEndLoop>
+        <FadeEndVolume>0.4829167</FadeEndVolume>
         <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
@@ -38611,6 +39252,14 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Taggy Matcher - Disco Illusion</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Taggy Matcher - My Adidas</Track>
     <TrackFXTriggers>
       <TrackFXTrigger>
@@ -38892,6 +39541,14 @@
         <IsExternalLoop>false</IsExternalLoop>
       </TrackSample>
     </TrackSamples>
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Ted Taylor - Ghetto Disco</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
@@ -40318,6 +40975,16 @@
         <FadeEndLoop>0</FadeEndLoop>
         <FadeEndVolume>0.104</FadeEndVolume>
         <PowerDownOnEnd>false</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Fatback Band - (Are You Ready) Do the Bus Stop (Joey Negro London Bus Stop Mix)</TrackDescription>
+        <FadeLength>8.83</FadeLength>
+        <FadeEnd>40016312</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.4121765</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
         <ExtendedFadeType>Default</ExtendedFadeType>
         <SampleTriggers />
       </ExtendedMixAttributes>
@@ -43675,6 +44342,14 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>The Salsoul Orchestra - Getaway</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>The Silvertones - Bling Bling Christmas</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -45021,6 +45696,14 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Tim Maia - Sossego</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Tito Puente - Fiesta Con Puente</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -45309,6 +45992,14 @@
         <SampleTriggers />
       </ExtendedMixAttributes>
     </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Tommy Stewart - Fulton County Line</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
     <TrackSamples />
     <LoopSamples />
   </AutomationAttributes>
@@ -46053,6 +46744,25 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>TS Monk - Candidate for Love (John Morales 2009 Reconstruction)</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes>
+      <ExtendedMixAttributes>
+        <TrackDescription>Ashford &amp; Simpson - Found a Cure (Joey Negro Found a Dub Mix)</TrackDescription>
+        <FadeLength>16.02</FadeLength>
+        <FadeEnd>77038616</FadeEnd>
+        <FadeEndLoop>0</FadeEndLoop>
+        <FadeEndVolume>0.3879836</FadeEndVolume>
+        <PowerDownOnEnd>true</PowerDownOnEnd>
+        <ExtendedFadeType>Default</ExtendedFadeType>
+        <SampleTriggers />
+      </ExtendedMixAttributes>
+    </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Ty - Don't Watch That (Grant Phabao Remix)</Track>
     <TrackFXTriggers>
       <TrackFXTrigger>
@@ -46245,6 +46955,14 @@
     <LoopSamples />
   </AutomationAttributes>
   <AutomationAttributes>
+    <Track>Uptown Funk Empire - Boogie</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
     <Track>Vanessa da Mata - Não Me Deixe Só</Track>
     <TrackFXTriggers />
     <SampleTriggers />
@@ -46374,6 +47092,14 @@
         </SampleTriggers>
       </ExtendedMixAttributes>
     </ExtendedMixes>
+    <TrackSamples />
+    <LoopSamples />
+  </AutomationAttributes>
+  <AutomationAttributes>
+    <Track>Vera - Take Me to the Bridge</Track>
+    <TrackFXTriggers />
+    <SampleTriggers />
+    <ExtendedMixes />
     <TrackSamples />
     <LoopSamples />
   </AutomationAttributes>

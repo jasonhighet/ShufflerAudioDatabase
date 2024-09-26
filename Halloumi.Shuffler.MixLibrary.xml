@@ -1,6 +1,16 @@
 <?xml version="1.0"?>
 <ArrayOfTrackMix xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <TrackMix>
+    <Track>1gnition - Secret Sunday Lover (Greg Wilson Version)</Track>
+    <MixRankings>
+      <string>Al Green - Standing In The Rain, 4</string>
+      <string>The Sugarhill Gang - Rapper's Delight, 4</string>
+      <string>Chic - Good Times, 3</string>
+      <string>Orgone - Don't Stop, 3</string>
+      <string>Mayer Hawthorne - Time For Love (Instrumental), 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>24 Carat Black - The 24 Carat Black</Track>
     <MixRankings>
       <string>Dizzy Gillespie - Alligator, 3</string>
@@ -35,6 +45,36 @@
       <string>The Quantic Soul Orchestra - Hold it Down, 2</string>
       <string>The Bamboos - The Witch, 0</string>
       <string>The Pioneers - Papa Was A Rolling Stone, 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>A Taste Of Honey - Ain't Nothin' But A Party (Remastered)</Track>
+    <MixRankings>
+      <string>Gwen MCCrae - Keep the Fire Burning, 4</string>
+      <string>Anita Ward - Ring My Bell, 4</string>
+      <string>AC Soul Symphony - K Jee, 4</string>
+      <string>Betty Wright - Where Is The Love, 4</string>
+      <string>Di Melo - A.E.I.O.U. (Dub Version), 3</string>
+      <string>A Taste Of Honey - Boogie Oogie Oogie, 3</string>
+      <string>AC Soul Symphony - I Want To See You Dance (Art Of Tones Edit), 3</string>
+      <string>Chic - Le Freak, 3</string>
+      <string>Vera - Take Me to the Bridge, 3</string>
+      <string>Ashford &amp; Simpson - Found a Cure (Joey Negro Found a Dub Mix), 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>A Taste Of Honey - Boogie Oogie Oogie</Track>
+    <MixRankings>
+      <string>Anita Ward - Ring My Bell, 5</string>
+      <string>A Taste Of Honey - Ain't Nothin' But A Party (Remastered), 4</string>
+      <string>Gwen MCCrae - Keep the Fire Burning, 4</string>
+      <string>AC Soul Symphony - I Want To See You Dance (Art Of Tones Edit), 4</string>
+      <string>Chic - Le Freak, 4</string>
+      <string>David Bendeth - Feel The Real, 4</string>
+      <string>Di Melo - A.E.I.O.U. (Dub Version), 4</string>
+      <string>AC Soul Symphony - K Jee, 4</string>
+      <string>Betty Wright - Where Is The Love, 4</string>
+      <string>Freedom - Dance Sing Along, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -1426,6 +1466,33 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>AC Soul Symphony - I Want To See You Dance (Art Of Tones Edit)</Track>
+    <MixRankings>
+      <string>A Taste Of Honey - Boogie Oogie Oogie, 4</string>
+      <string>Di Melo - A.E.I.O.U. (Dub Version), 4</string>
+      <string>Vera - Take Me to the Bridge, 4</string>
+      <string>Freedom - Dance Sing Along, 4</string>
+      <string>A Taste Of Honey - Ain't Nothin' But A Party (Remastered), 3</string>
+      <string>Gwen MCCrae - Keep the Fire Burning, 3</string>
+      <string>Stargard - Wear It Out, 3</string>
+      <string>David Bendeth - Feel The Real, 2</string>
+      <string>AC Soul Symphony - K Jee, 2</string>
+      <string>Betty Wright - Where Is The Love, 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>AC Soul Symphony - K Jee</Track>
+    <MixRankings>
+      <string>A Taste Of Honey - Ain't Nothin' But A Party (Remastered), 4</string>
+      <string>Geraldine Hunt - Can't Fake the Feeling, 4</string>
+      <string>A Taste Of Honey - Boogie Oogie Oogie, 4</string>
+      <string>Anita Ward - Ring My Bell, 4</string>
+      <string>Chic - Le Freak, 4</string>
+      <string>AC Soul Symphony - I Want To See You Dance (Art Of Tones Edit), 3</string>
+      <string>Betty Wright - Where Is The Love, 3</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>Aditi Singh Sharma - Dhoom Machale Dhoom</Track>
     <MixRankings>
       <string>Wajid &amp; Shreya Ghoshal - MashAllah, 5</string>
@@ -1465,6 +1532,7 @@
     <Track>Aggregate Roots - Satta Massagana (Tackling Complexity in the Heart Dub)</Track>
     <MixRankings>
       <string>Roche Brasiliano - Cold Ham Batch, 4</string>
+      <string>Roche Brasiliano - Hosepipeblowout, 4</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -2088,6 +2156,9 @@
     <MixRankings>
       <string>Breakestra - Cramp Your Style, 4</string>
       <string>Reuben Wilson - Inner City Blues, 4</string>
+      <string>1gnition - Secret Sunday Lover (Greg Wilson Version), 4</string>
+      <string>Mayer Hawthorne - Time For Love (Instrumental), 4</string>
+      <string>Orgone - Don't Stop, 4</string>
       <string>Breakestra - I Know You Got Soul, 3</string>
       <string>De La Soul - Keepin' The Faith, 3</string>
       <string>Barbara &amp; Gwen - Right On, 3</string>
@@ -2100,6 +2171,10 @@
       <string>Deltron 3030 - Talent Supercedes (feat. Black Rob), 3</string>
       <string>Rockers Hi Fi - Transmission Central, 3</string>
       <string>Sharon Jones And The Dap Kings - Tell Me, 3</string>
+      <string>Tim Maia - Sossego, 3</string>
+      <string>The Salsoul Orchestra - Getaway, 3</string>
+      <string>George Benson - Give Me the Night, 3</string>
+      <string>Sparque - Let's Go Dancin' (Club Version), 3</string>
       <string>Breakestra - Joyful Noise, 2</string>
       <string>Dizzy Gillespie - Alligator, 2</string>
       <string>James Brown - Give It Up Or Turnit A Loose, 2</string>
@@ -2128,6 +2203,7 @@
       <string>Augustus Pablo - East Of The River Nile Version, 2</string>
       <string>Duke Pearson - Sandalia Dela, 2</string>
       <string>Rodney P &amp; DJ Die - Holes In The Building (Radio Edit), 2</string>
+      <string>Tommy Stewart - Fulton County Line, 2</string>
       <string>A Tribe Called Quest - Youthful Expression (Instrumental), 0</string>
       <string>All The People - Cramp Your Style, 0</string>
       <string>Ann Sextona - You're Losing Me, 0</string>
@@ -2972,6 +3048,25 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Andrea True Connection - More, More, More</Track>
+    <MixRankings>
+      <string>Donald Byrd - Think Twice, 4</string>
+      <string>The Whatnauts - Help Is On The Way, 4</string>
+      <string>Sister Sledge - Thinking Of You (Dimitri From Paris Remix), 4</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Anita Ward - Ring My Bell</Track>
+    <MixRankings>
+      <string>AC Soul Symphony - K Jee, 4</string>
+      <string>Betty Wright - Where Is The Love, 4</string>
+      <string>A Taste Of Honey - Ain't Nothin' But A Party (Remastered), 3</string>
+      <string>Gwen MCCrae - Keep the Fire Burning, 3</string>
+      <string>A Taste Of Honey - Boogie Oogie Oogie, 3</string>
+      <string>Ashford &amp; Simpson - Found a Cure (Joey Negro Found a Dub Mix), 3</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>Ann Allford - Gotta Get Me A Job</Track>
     <MixRankings>
       <string>Jean Knight - Mr. Big Stuff, 4</string>
@@ -3635,6 +3730,19 @@
     <Track>Arthur Verocai - Na Boca do Sol</Track>
     <MixRankings>
       <string>Gilberto Gil And Caetano Veloso - Bat Macumba, 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Ashford &amp; Simpson - Found a Cure (Joey Negro Found a Dub Mix)</Track>
+    <MixRankings>
+      <string>Coffee - Casanova (Single Version), 4</string>
+      <string>Di Melo - A.E.I.O.U. (Dub Version), 4</string>
+      <string>Gwen MCCrae - Keep the Fire Burning, 3</string>
+      <string>Chic - Le Freak, 3</string>
+      <string>TS Monk - Candidate for Love (John Morales 2009 Reconstruction), 3</string>
+      <string>Sparque - Let's Go Dancin' (Club Version), 3</string>
+      <string>Stargard - Wear It Out, 3</string>
+      <string>Geraldine Hunt - Can't Fake the Feeling, 3</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -5245,6 +5353,10 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Ballin' Jack - Found a Child</Track>
+    <MixRankings />
+  </TrackMix>
+  <TrackMix>
     <Track>Banda Black Rio - Mr. Funky Samba</Track>
     <MixRankings>
       <string>Cypress Hill - Loco en el Coco, 5</string>
@@ -5379,6 +5491,10 @@
       <string>Tennessee Brown &amp; The Silvertones - Jingle Bells, 2</string>
       <string>Home T &amp; Trinity - All I Want For Christmas, 2</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Barry White - Can't Get Enough Of Your Love, Babe</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Barry White - It's Ecstasy When You Lay Down Next To Me</Track>
@@ -6648,6 +6764,22 @@
       <string>The HitchHikers - Mr Fortune, 0</string>
       <string>Elizete Cardoso - E De Lei, 0</string>
       <string>Bobby Hebb - Sunny, 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Betty Wright - Where Is The Love</Track>
+    <MixRankings>
+      <string>Anita Ward - Ring My Bell, 5</string>
+      <string>A Taste Of Honey - Ain't Nothin' But A Party (Remastered), 4</string>
+      <string>Gwen MCCrae - Keep the Fire Burning, 4</string>
+      <string>A Taste Of Honey - Boogie Oogie Oogie, 4</string>
+      <string>Chic - Le Freak, 4</string>
+      <string>Geraldine Hunt - Can't Fake the Feeling, 3</string>
+      <string>AC Soul Symphony - K Jee, 3</string>
+      <string>Vera - Take Me to the Bridge, 2</string>
+      <string>AC Soul Symphony - I Want To See You Dance (Art Of Tones Edit), 2</string>
+      <string>David Bendeth - Feel The Real, 2</string>
+      <string>Freedom - Dance Sing Along, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -11189,9 +11321,12 @@
     <Track>Chic - Good Times</Track>
     <MixRankings>
       <string>Breakestra - Cramp Your Style, 5</string>
+      <string>Ted Taylor - Ghetto Disco, 5</string>
       <string>Tosca - Honey (Freedom Satellite Dub), 4</string>
       <string>Carolyn Franklin - Deal With It, 4</string>
       <string>Spanky Wilson - You, 4</string>
+      <string>1gnition - Secret Sunday Lover (Greg Wilson Version), 4</string>
+      <string>Mayer Hawthorne - Time For Love (Instrumental), 4</string>
       <string>Orgone - Don't Stop, 3</string>
       <string>A Tribe Called Quest - Youthful Expression (Instrumental), 3</string>
       <string>Barbara &amp; Gwen - Right On, 3</string>
@@ -11283,6 +11418,21 @@
       <string>A Tribe Called Quest - Luck Of Lucien (Instrumental), 0</string>
       <string>Jorge Ben - Sem Essa No. 5, 0</string>
       <string>Otis Redding &amp; Carla Thomas - Tramp (Instrumental), 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Chic - Le Freak</Track>
+    <MixRankings>
+      <string>Ashford &amp; Simpson - Found a Cure (Joey Negro Found a Dub Mix), 4</string>
+      <string>David Bendeth - Feel The Real, 4</string>
+      <string>Freedom - Dance Sing Along, 4</string>
+      <string>AC Soul Symphony - K Jee, 4</string>
+      <string>A Taste Of Honey - Boogie Oogie Oogie, 3</string>
+      <string>Taggy Matcher - Disco Illusion, 3</string>
+      <string>Uptown Funk Empire - Boogie, 3</string>
+      <string>Stargard - Wear It Out, 3</string>
+      <string>Geraldine Hunt - Can't Fake the Feeling, 3</string>
+      <string>Betty Wright - Where Is The Love, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -11472,6 +11622,15 @@
       <string>Taggy Matcher - Witness, 0</string>
       <string>The Pharcyde - Runnin, 0</string>
       <string>Thievery Corporation - Lebanese Blonde, 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Coffee - Casanova (Single Version)</Track>
+    <MixRankings>
+      <string>Stargard - Wear It Out, 4</string>
+      <string>Ashford &amp; Simpson - Found a Cure (Joey Negro Found a Dub Mix), 3</string>
+      <string>TS Monk - Candidate for Love (John Morales 2009 Reconstruction), 3</string>
+      <string>Di Melo - A.E.I.O.U. (Dub Version), 3</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -13624,6 +13783,19 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>David Bendeth - Feel The Real</Track>
+    <MixRankings>
+      <string>Chic - Le Freak, 4</string>
+      <string>Freedom - Dance Sing Along, 4</string>
+      <string>A Taste Of Honey - Boogie Oogie Oogie, 3</string>
+      <string>Betty Wright - Where Is The Love, 3</string>
+      <string>AC Soul Symphony - I Want To See You Dance (Art Of Tones Edit), 2</string>
+      <string>Di Melo - A.E.I.O.U. (Dub Version), 2</string>
+      <string>Gwen MCCrae - Keep the Fire Burning, 2</string>
+      <string>A Taste Of Honey - Ain't Nothin' But A Party (Remastered), 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>De Frank Professionals - Afe Ato Yen Bio</Track>
     <MixRankings>
       <string>Spanky Wilson &amp; The Quantic Soul Orchestra - Don't Joke With A Hungry Man (Part 3), 5</string>
@@ -14655,6 +14827,20 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Di Melo - A.E.I.O.U. (Dub Version)</Track>
+    <MixRankings>
+      <string>A Taste Of Honey - Boogie Oogie Oogie, 4</string>
+      <string>Coffee - Casanova (Single Version), 4</string>
+      <string>AC Soul Symphony - I Want To See You Dance (Art Of Tones Edit), 3</string>
+      <string>Ashford &amp; Simpson - Found a Cure (Joey Negro Found a Dub Mix), 2</string>
+      <string>David Bendeth - Feel The Real, 2</string>
+      <string>Vera - Take Me to the Bridge, 2</string>
+      <string>Stargard - Wear It Out, 2</string>
+      <string>TS Monk - Candidate for Love (John Morales 2009 Reconstruction), 2</string>
+      <string>Freedom - Dance Sing Along, 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>Diana Ross &amp; The Supremes - I'm Livin' in Shame</Track>
     <MixRankings>
       <string>Chic - Good Times, 0</string>
@@ -15260,8 +15446,15 @@
       <string>DJ Ahmid - Dodo, 4</string>
       <string>DJ Ahmid - Rowan, 4</string>
       <string>Roche Brasiliano - The Tale Of The Turtle And The Shark, 4</string>
+      <string>Roche Brasiliano - Maungaturoto, 4</string>
+      <string>DJ Ahmid - Disco Interlude, 4</string>
+      <string>Roche Brasiliano - This Is The Beat, 4</string>
+      <string>Roche Brasiliano - The Winds of Business, 4</string>
+      <string>Roche Brasiliano - The Whims of Chance, 4</string>
       <string>Roche Brasiliano - Glory Daze, 3</string>
       <string>Roche Brasiliano - Schischka House(Cha Cha Cha), 3</string>
+      <string>Roche Brasiliano - Seabather's Eruption, 3</string>
+      <string>Roche Brasiliano - Pacific Banana, 3</string>
       <string>Roche Brasiliano - All Night, 2</string>
     </MixRankings>
   </TrackMix>
@@ -15270,9 +15463,28 @@
     <MixRankings>
       <string>DJ Ahmid - Beamer, 4</string>
       <string>DJ Ahmid - Dodo, 4</string>
+      <string>Roche Brasiliano - The Winds of Business, 4</string>
       <string>Roche Brasiliano - Glory Daze, 3</string>
       <string>DJ Ahmid - Rowan, 3</string>
+      <string>Roche Brasiliano - The Tale Of The Turtle And The Shark, 3</string>
+      <string>Roche Brasiliano - Maungaturoto, 3</string>
       <string>Roche Brasiliano - All Night, 2</string>
+      <string>Roche Brasiliano - Seabather's Eruption, 2</string>
+      <string>Roche Brasiliano - The Whims of Chance, 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>DJ Ahmid - Disco Interlude</Track>
+    <MixRankings>
+      <string>Roche Brasiliano - Pacific Banana, 5</string>
+      <string>Roche Brasiliano - Schischka House(Cha Cha Cha), 4</string>
+      <string>Roche Brasiliano - Jackfruit Shuffle (Pink Traveller Edition), 4</string>
+      <string>DJ Ahmid - Beamer, 4</string>
+      <string>Roche Brasiliano - The Outer Platform, 3</string>
+      <string>Roche Brasiliano - The Tale Of The Turtle And The Shark, 2</string>
+      <string>Roche Brasiliano - Seabather's Eruption, 2</string>
+      <string>Roche Brasiliano - This Is The Beat, 2</string>
+      <string>Roche Brasiliano - The Winds of Business, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -15285,8 +15497,11 @@
       <string>Roche Brasiliano - Give Me One, 3</string>
       <string>Roche Brasiliano - Peacharine Haze, 3</string>
       <string>DJ Ahmid - Rowan, 3</string>
+      <string>Roche Brasiliano - Maungaturoto, 3</string>
+      <string>Roche Brasiliano - The Whims of Chance, 3</string>
       <string>Roche Brasiliano - All Night, 2</string>
       <string>Roche Brasiliano - The Tale Of The Turtle And The Shark, 2</string>
+      <string>Roche Brasiliano - Seabather's Eruption, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -15297,8 +15512,12 @@
       <string>DJ Ahmid - Dodo, 4</string>
       <string>DJ Ahmid - Blue7, 4</string>
       <string>DJ Ahmid - Beamer, 4</string>
+      <string>Roche Brasiliano - Maungaturoto, 4</string>
+      <string>Roche Brasiliano - The Winds of Business, 4</string>
+      <string>Roche Brasiliano - The Whims of Chance, 4</string>
       <string>Roche Brasiliano - Glory Daze, 3</string>
       <string>Roche Brasiliano - The Tale Of The Turtle And The Shark, 3</string>
+      <string>Roche Brasiliano - Seabather's Eruption, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -16082,6 +16301,7 @@
       <string>Tosca - Honey, 4</string>
       <string>The Gaturs - Gator Bait, 4</string>
       <string>Trio Mocotó - Swinga Sambaby, 4</string>
+      <string>George Benson - Give Me the Night, 4</string>
       <string>ConFunkShun - Clique, 3</string>
       <string>Sola Rosa - Del Ray, 3</string>
       <string>Greyboy - On The Strip, 3</string>
@@ -16103,6 +16323,13 @@
       <string>Ronny Jordan Meets DJ Krush - So What! (Tuff 'n' Smooth Mix), 3</string>
       <string>Super Som Lord - Br Samaba, 3</string>
       <string>The Diplomats Of Solid Sound - Plenty Nasty, 3</string>
+      <string>The Whatnauts - Help Is On The Way, 3</string>
+      <string>Andrea True Connection - More, More, More, 3</string>
+      <string>Sister Sledge - Thinking Of You (Dimitri From Paris Remix), 3</string>
+      <string>Fatback Band - (Are You Ready) Do the Bus Stop (Joey Negro London Bus Stop Mix), 3</string>
+      <string>Pleasure - Joyous, 3</string>
+      <string>The Salsoul Orchestra - Getaway, 3</string>
+      <string>Ted Taylor - Ghetto Disco, 3</string>
       <string>Wes Montgomery - Four on Six, 2</string>
       <string>The New Mastersounds - Give Me A Minute (Part 2), 2</string>
       <string>Sergio Mendes &amp; Brasil 66 - Batucada, 2</string>
@@ -16127,6 +16354,7 @@
       <string>Avan Samba - Ibere, 2</string>
       <string>RJD2 - All For U, 2</string>
       <string>Fort Knox Five - The Brazilian Hipster, 2</string>
+      <string>Tim Maia - Sossego, 2</string>
       <string>Explosions - Hip Drop, 0</string>
       <string>Lonnie Smith - Spinnin' Wheel, 0</string>
       <string>The New Mastersounds - Miracles, 0</string>
@@ -18590,6 +18818,21 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Fatback Band - (Are You Ready) Do the Bus Stop (Joey Negro London Bus Stop Mix)</Track>
+    <MixRankings>
+      <string>Pleasure - Joyous, 4</string>
+      <string>Uptown Funk Empire - Boogie, 4</string>
+      <string>Orgone - Don't Stop, 4</string>
+      <string>Taggy Matcher - Disco Illusion, 3</string>
+      <string>The Blackbyrds - Rock Creek Park, 3</string>
+      <string>George Benson - Give Me the Night, 3</string>
+      <string>The Sugarhill Gang - Rapper's Delight, 3</string>
+      <string>The Salsoul Orchestra - Getaway, 3</string>
+      <string>Geraldine Hunt - Can't Fake the Feeling, 3</string>
+      <string>Ted Taylor - Ghetto Disco, 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>Fela Soul - Oooh (Instrumental)</Track>
     <MixRankings>
       <string>Nightmares On Wax - Les Nuits (DJ Spinna Mix), 4</string>
@@ -19124,6 +19367,19 @@
       <string>RJD2 - All For U, 0</string>
       <string>DJ Nu Mark - Comin' Thru (feat. Chali 2na) (Instrumental) (RB Edit), 0</string>
       <string>The Herbaliser - Take 'em On, 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Freedom - Dance Sing Along</Track>
+    <MixRankings>
+      <string>David Bendeth - Feel The Real, 4</string>
+      <string>Di Melo - A.E.I.O.U. (Dub Version), 4</string>
+      <string>Chic - Le Freak, 3</string>
+      <string>AC Soul Symphony - I Want To See You Dance (Art Of Tones Edit), 3</string>
+      <string>Stargard - Wear It Out, 3</string>
+      <string>A Taste Of Honey - Boogie Oogie Oogie, 2</string>
+      <string>A Taste Of Honey - Ain't Nothin' But A Party (Remastered), 2</string>
+      <string>Gwen MCCrae - Keep the Fire Burning, 0</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -19785,6 +20041,37 @@
       <string>Concord Dawn - Guardian Angel, 2</string>
       <string>Concord Dawn - Drifter, 2</string>
       <string>Camo &amp; Krooked - Terra, 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>George Benson - Give Me the Night</Track>
+    <MixRankings>
+      <string>Tim Maia - Sossego, 4</string>
+      <string>Uptown Funk Empire - Boogie, 4</string>
+      <string>Tommy Stewart - Fulton County Line, 3</string>
+      <string>Taggy Matcher - Disco Illusion, 3</string>
+      <string>Donald Byrd - Think Twice, 3</string>
+      <string>Geraldine Hunt - Can't Fake the Feeling, 3</string>
+      <string>Sister Sledge - Thinking Of You (Dimitri From Paris Remix), 2</string>
+      <string>Al Green - Standing In The Rain, 2</string>
+      <string>The Salsoul Orchestra - Getaway, 2</string>
+      <string>Pleasure - Joyous, 2</string>
+      <string>Fatback Band - (Are You Ready) Do the Bus Stop (Joey Negro London Bus Stop Mix), 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Geraldine Hunt - Can't Fake the Feeling</Track>
+    <MixRankings>
+      <string>Uptown Funk Empire - Boogie, 5</string>
+      <string>Taggy Matcher - Disco Illusion, 5</string>
+      <string>Fatback Band - (Are You Ready) Do the Bus Stop (Joey Negro London Bus Stop Mix), 4</string>
+      <string>Chic - Le Freak, 4</string>
+      <string>AC Soul Symphony - K Jee, 4</string>
+      <string>Betty Wright - Where Is The Love, 4</string>
+      <string>George Benson - Give Me the Night, 3</string>
+      <string>Tim Maia - Sossego, 3</string>
+      <string>Pleasure - Joyous, 3</string>
+      <string>Tommy Stewart - Fulton County Line, 3</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -21092,6 +21379,18 @@
       <string>Howard Roberts - Smokin', 0</string>
       <string>The 3 Sounds - Repeat After Me, 0</string>
       <string>Pharrell Williams - Happy, 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Gwen MCCrae - Keep the Fire Burning</Track>
+    <MixRankings>
+      <string>A Taste Of Honey - Ain't Nothin' But A Party (Remastered), 4</string>
+      <string>A Taste Of Honey - Boogie Oogie Oogie, 3</string>
+      <string>Anita Ward - Ring My Bell, 3</string>
+      <string>Betty Wright - Where Is The Love, 3</string>
+      <string>AC Soul Symphony - I Want To See You Dance (Art Of Tones Edit), 2</string>
+      <string>David Bendeth - Feel The Real, 2</string>
+      <string>Vera - Take Me to the Bridge, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -31539,6 +31838,19 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Mayer Hawthorne - Time For Love (Instrumental)</Track>
+    <MixRankings>
+      <string>Chic - Good Times, 4</string>
+      <string>1gnition - Secret Sunday Lover (Greg Wilson Version), 4</string>
+      <string>Al Green - Standing In The Rain, 4</string>
+      <string>The Sugarhill Gang - Rapper's Delight, 4</string>
+      <string>Tim Maia - Sossego, 4</string>
+      <string>Orgone - Don't Stop, 3</string>
+      <string>Ted Taylor - Ghetto Disco, 3</string>
+      <string>The Blackbyrds - Rock Creek Park, 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>Meditation Singers - What The World Needs For Christmas</Track>
     <MixRankings>
       <string>Al Green - Feels Like Christmas, 4</string>
@@ -32167,6 +32479,10 @@
       <string>A Tribe Called Quest - Jam (RB Instrumental Edit), 0</string>
       <string>The Mouse Outfit - Step Steadier (feat. Fox), 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Mr President - Hips Shaking</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Mr President - It's Christmas Time</Track>
@@ -34109,6 +34425,7 @@
       <string>Jorge Ben - Comanche, 4</string>
       <string>The Sugarhill Gang - Rappers Delight (Instrumental), 4</string>
       <string>All The People - Cramp Your Style, 4</string>
+      <string>Ted Taylor - Ghetto Disco, 4</string>
       <string>Breakestra - Sad Chicken, 3</string>
       <string>Syl Johnson - I Only Have Love, 3</string>
       <string>Family Plann - Come On Let's Do The Breakdown, 3</string>
@@ -34118,6 +34435,8 @@
       <string>Vanessa da Mata - Não Me Deixe Só, 3</string>
       <string>Chic - Good Times, 3</string>
       <string>Various - Bounch, Rock, Skate, Roll, 3</string>
+      <string>Pleasure - Joyous, 3</string>
+      <string>Fatback Band - (Are You Ready) Do the Bus Stop (Joey Negro London Bus Stop Mix), 3</string>
       <string>Thomas East &amp; The Fabulous Playboys - I Get A Groove, 2</string>
       <string>Tosca - Annanas (Uko Dub), 2</string>
       <string>Richard Marks - Funky Your Corners, 2</string>
@@ -34134,6 +34453,9 @@
       <string>Ronie E O Central Do Brasil - Atoa Atoa, 2</string>
       <string>Benny More &amp; Perez Prado - Anabacoa, 2</string>
       <string>Rodney P &amp; DJ Die - Holes In The Building (Radio Edit), 2</string>
+      <string>Mayer Hawthorne - Time For Love (Instrumental), 2</string>
+      <string>Al Green - Standing In The Rain, 2</string>
+      <string>1gnition - Secret Sunday Lover (Greg Wilson Version), 2</string>
       <string>Kool Blues - Can We Try Love Again, 0</string>
       <string>The Mighty Hannibal - Somebody In The World For You, 0</string>
       <string>Cannonball Adderley - Minha Saudades, 0</string>
@@ -35709,6 +36031,22 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Pleasure - Joyous</Track>
+    <MixRankings>
+      <string>Fatback Band - (Are You Ready) Do the Bus Stop (Joey Negro London Bus Stop Mix), 4</string>
+      <string>Uptown Funk Empire - Boogie, 4</string>
+      <string>Taggy Matcher - Disco Illusion, 3</string>
+      <string>Sister Sledge - Thinking Of You (Dimitri From Paris Remix), 3</string>
+      <string>The Blackbyrds - Rock Creek Park, 3</string>
+      <string>Orgone - Don't Stop, 3</string>
+      <string>Ted Taylor - Ghetto Disco, 3</string>
+      <string>Geraldine Hunt - Can't Fake the Feeling, 3</string>
+      <string>The Salsoul Orchestra - Getaway, 2</string>
+      <string>The Sugarhill Gang - Rapper's Delight, 2</string>
+      <string>George Benson - Give Me the Night, 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>Poncho Sanchez - Tenga Usted Mismo un Feliz Navidad</Track>
     <MixRankings>
       <string>Harvey Averne Band - Lets Get it Together This Christmas, 4</string>
@@ -35748,6 +36086,10 @@
       <string>Donald Byrd - Think Twice, 0</string>
       <string>Greyboy - Singles Party (Part #2), 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Prince Charles And The City Beat Band - Gang War</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Prince Fatty - Insane In The Brain (feat. Horseman)</Track>
@@ -36913,10 +37255,13 @@
   <TrackMix>
     <Track>Roche Brasiliano - All Night</Track>
     <MixRankings>
+      <string>Roche Brasiliano - Seabather's Eruption, 5</string>
       <string>DJ Ahmid - Blue7, 4</string>
       <string>DJ Ahmid - Dodo, 4</string>
       <string>Roche Brasiliano - Glory Daze, 4</string>
       <string>DJ Ahmid - Rowan, 4</string>
+      <string>Roche Brasiliano - Maungaturoto, 4</string>
+      <string>Roche Brasiliano - The Whims of Chance, 4</string>
       <string>DJ Ahmid - Beamer, 3</string>
       <string>Roche Brasiliano - The Tale Of The Turtle And The Shark, 3</string>
     </MixRankings>
@@ -36935,6 +37280,8 @@
       <string>Roche Brasiliano - Peacharine Haze, 4</string>
       <string>Roche Brasiliano - Cold Ham Batch, 3</string>
       <string>Roche Brasiliano - Give Me One, 3</string>
+      <string>Roche Brasiliano - Maungaturoto, 3</string>
+      <string>Roche Brasiliano - The Whims of Chance, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -36951,6 +37298,7 @@
     <Track>Roche Brasiliano - Double Shot</Track>
     <MixRankings>
       <string>Aggregate Roots - Satta Massagana (Tackling Complexity in the Heart Dub), 3</string>
+      <string>Roche Brasiliano - The Life Tropical, 3</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -36960,6 +37308,7 @@
       <string>Roche Brasiliano - Cabin Fever, 2</string>
       <string>Roche Brasiliano - Glory Daze, 2</string>
       <string>Roche Brasiliano - Peacharine Haze, 2</string>
+      <string>Roche Brasiliano - Maungaturoto, 2</string>
       <string>Roche Brasiliano - Cold Ham Batch, 0</string>
     </MixRankings>
   </TrackMix>
@@ -36972,9 +37321,19 @@
       <string>DJ Ahmid - Beamer, 4</string>
       <string>Roche Brasiliano - Peacharine Haze, 4</string>
       <string>DJ Ahmid - Rowan, 4</string>
+      <string>Roche Brasiliano - Maungaturoto, 4</string>
+      <string>Roche Brasiliano - The Whims of Chance, 4</string>
       <string>DJ Ahmid - Blue7, 3</string>
       <string>Roche Brasiliano - The Tale Of The Turtle And The Shark, 3</string>
       <string>Roche Brasiliano - Give Me One, 2</string>
+      <string>Roche Brasiliano - Seabather's Eruption, 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Roche Brasiliano - Hosepipeblowout</Track>
+    <MixRankings>
+      <string>Aggregate Roots - Satta Massagana (Tackling Complexity in the Heart Dub), 4</string>
+      <string>Roche Brasiliano - Cold Ham Batch, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -36983,6 +37342,42 @@
       <string>Roche Brasiliano - The Outer Platform, 4</string>
       <string>DJ Ahmid - Beamer, 4</string>
       <string>Roche Brasiliano - Schischka House(Cha Cha Cha), 4</string>
+      <string>Roche Brasiliano - The Tale Of The Turtle And The Shark, 4</string>
+      <string>Roche Brasiliano - This Is The Beat, 4</string>
+      <string>DJ Ahmid - Disco Interlude, 3</string>
+      <string>Roche Brasiliano - The Winds of Business, 3</string>
+      <string>Roche Brasiliano - Pacific Banana, 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Roche Brasiliano - Maungaturoto</Track>
+    <MixRankings>
+      <string>Roche Brasiliano - All Night, 4</string>
+      <string>DJ Ahmid - Rowan, 4</string>
+      <string>DJ Ahmid - Beamer, 4</string>
+      <string>DJ Ahmid - Dodo, 4</string>
+      <string>Roche Brasiliano - Glory Daze, 3</string>
+      <string>Roche Brasiliano - Peacharine Haze, 3</string>
+      <string>Roche Brasiliano - Cabin Fever, 3</string>
+      <string>DJ Ahmid - Blue7, 3</string>
+      <string>Roche Brasiliano - The Tale Of The Turtle And The Shark, 3</string>
+      <string>Roche Brasiliano - Seabather's Eruption, 3</string>
+      <string>Roche Brasiliano - Give Me One, 2</string>
+      <string>Roche Brasiliano - The Whims of Chance, 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Roche Brasiliano - Pacific Banana</Track>
+    <MixRankings>
+      <string>DJ Ahmid - Disco Interlude, 5</string>
+      <string>Roche Brasiliano - This Is The Beat, 4</string>
+      <string>Roche Brasiliano - The Outer Platform, 3</string>
+      <string>DJ Ahmid - Beamer, 3</string>
+      <string>Roche Brasiliano - Seabather's Eruption, 3</string>
+      <string>Roche Brasiliano - The Tale Of The Turtle And The Shark, 3</string>
+      <string>Roche Brasiliano - Schischka House(Cha Cha Cha), 3</string>
+      <string>Roche Brasiliano - Jackfruit Shuffle (Pink Traveller Edition), 3</string>
+      <string>Roche Brasiliano - The Winds of Business, 3</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -36993,6 +37388,7 @@
       <string>Roche Brasiliano - Cold Ham Batch, 2</string>
       <string>Roche Brasiliano - Glory Daze, 2</string>
       <string>DJ Ahmid - Dodo, 2</string>
+      <string>Roche Brasiliano - Maungaturoto, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -37024,37 +37420,126 @@
     <Track>Roche Brasiliano - Schischka House(Cha Cha Cha)</Track>
     <MixRankings>
       <string>DJ Ahmid - Beamer, 4</string>
+      <string>DJ Ahmid - Disco Interlude, 4</string>
       <string>Roche Brasiliano - Jackfruit Shuffle (Pink Traveller Edition), 3</string>
       <string>Roche Brasiliano - The Outer Platform, 3</string>
       <string>Roche Brasiliano - The Tale Of The Turtle And The Shark, 3</string>
+      <string>Roche Brasiliano - This Is The Beat, 3</string>
+      <string>Roche Brasiliano - The Winds of Business, 3</string>
+      <string>Roche Brasiliano - Pacific Banana, 3</string>
+      <string>Roche Brasiliano - Seabather's Eruption, 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Roche Brasiliano - Seabather's Eruption</Track>
+    <MixRankings>
+      <string>Roche Brasiliano - This Is The Beat, 5</string>
+      <string>Roche Brasiliano - The Outer Platform, 4</string>
+      <string>Roche Brasiliano - Glory Daze, 4</string>
+      <string>DJ Ahmid - Rowan, 4</string>
+      <string>Roche Brasiliano - Pacific Banana, 4</string>
+      <string>Roche Brasiliano - Maungaturoto, 3</string>
+      <string>DJ Ahmid - Dodo, 3</string>
+      <string>DJ Ahmid - Beamer, 3</string>
+      <string>DJ Ahmid - Blue7, 3</string>
+      <string>Roche Brasiliano - The Winds of Business, 3</string>
+      <string>Roche Brasiliano - The Whims of Chance, 3</string>
+      <string>Roche Brasiliano - All Night, 2</string>
+      <string>DJ Ahmid - Disco Interlude, 2</string>
+      <string>Roche Brasiliano - The Tale Of The Turtle And The Shark, 2</string>
+      <string>Roche Brasiliano - Schischka House(Cha Cha Cha), 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Roche Brasiliano - The Life Tropical</Track>
+    <MixRankings>
+      <string>Roche Brasiliano - Double Shot, 3</string>
+      <string>Roche Brasiliano - Hosepipeblowout, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
     <Track>Roche Brasiliano - The Outer Platform</Track>
     <MixRankings>
       <string>DJ Ahmid - Beamer, 4</string>
+      <string>Roche Brasiliano - Seabather's Eruption, 4</string>
+      <string>Roche Brasiliano - This Is The Beat, 4</string>
       <string>Roche Brasiliano - Jackfruit Shuffle (Pink Traveller Edition), 3</string>
       <string>Roche Brasiliano - The Tale Of The Turtle And The Shark, 3</string>
+      <string>Roche Brasiliano - Pacific Banana, 3</string>
       <string>DJ Ahmid - Blue7, 2</string>
       <string>Roche Brasiliano - Schischka House(Cha Cha Cha), 2</string>
       <string>DJ Ahmid - Rowan, 2</string>
+      <string>DJ Ahmid - Disco Interlude, 2</string>
+      <string>Roche Brasiliano - The Winds of Business, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
     <Track>Roche Brasiliano - The Tale Of The Turtle And The Shark</Track>
     <MixRankings>
+      <string>Roche Brasiliano - This Is The Beat, 4</string>
       <string>DJ Ahmid - Dodo, 3</string>
       <string>Roche Brasiliano - Glory Daze, 3</string>
       <string>DJ Ahmid - Beamer, 3</string>
+      <string>Roche Brasiliano - The Winds of Business, 3</string>
+      <string>Roche Brasiliano - Pacific Banana, 3</string>
+      <string>Roche Brasiliano - The Whims of Chance, 3</string>
       <string>DJ Ahmid - Rowan, 2</string>
       <string>Roche Brasiliano - Schischka House(Cha Cha Cha), 2</string>
       <string>Roche Brasiliano - The Outer Platform, 2</string>
       <string>Roche Brasiliano - All Night, 2</string>
+      <string>Roche Brasiliano - Maungaturoto, 2</string>
+      <string>DJ Ahmid - Blue7, 2</string>
+      <string>DJ Ahmid - Disco Interlude, 2</string>
+      <string>Roche Brasiliano - Seabather's Eruption, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
-    <Track>Roche Brasiliano - Whether You Want It Or Not</Track>
-    <MixRankings />
+    <Track>Roche Brasiliano - The Whims of Chance</Track>
+    <MixRankings>
+      <string>DJ Ahmid - Dodo, 4</string>
+      <string>DJ Ahmid - Rowan, 4</string>
+      <string>DJ Ahmid - Beamer, 4</string>
+      <string>Roche Brasiliano - The Tale Of The Turtle And The Shark, 4</string>
+      <string>Roche Brasiliano - Peacharine Haze, 4</string>
+      <string>Roche Brasiliano - Cabin Fever, 3</string>
+      <string>Roche Brasiliano - All Night, 3</string>
+      <string>Roche Brasiliano - Maungaturoto, 3</string>
+      <string>Roche Brasiliano - Glory Daze, 3</string>
+      <string>DJ Ahmid - Blue7, 3</string>
+      <string>Roche Brasiliano - Seabather's Eruption, 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Roche Brasiliano - The Winds of Business</Track>
+    <MixRankings>
+      <string>DJ Ahmid - Blue7, 4</string>
+      <string>DJ Ahmid - Beamer, 4</string>
+      <string>Roche Brasiliano - This Is The Beat, 4</string>
+      <string>Roche Brasiliano - Schischka House(Cha Cha Cha), 4</string>
+      <string>DJ Ahmid - Rowan, 4</string>
+      <string>Roche Brasiliano - Jackfruit Shuffle (Pink Traveller Edition), 4</string>
+      <string>DJ Ahmid - Disco Interlude, 3</string>
+      <string>Roche Brasiliano - The Tale Of The Turtle And The Shark, 3</string>
+      <string>Roche Brasiliano - Pacific Banana, 3</string>
+      <string>Roche Brasiliano - Seabather's Eruption, 2</string>
+      <string>Roche Brasiliano - The Outer Platform, 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Roche Brasiliano - This Is The Beat</Track>
+    <MixRankings>
+      <string>Roche Brasiliano - Seabather's Eruption, 4</string>
+      <string>DJ Ahmid - Disco Interlude, 4</string>
+      <string>Roche Brasiliano - The Outer Platform, 4</string>
+      <string>Roche Brasiliano - Jackfruit Shuffle (Pink Traveller Edition), 4</string>
+      <string>DJ Ahmid - Rowan, 4</string>
+      <string>Roche Brasiliano - Pacific Banana, 4</string>
+      <string>DJ Ahmid - Beamer, 3</string>
+      <string>Roche Brasiliano - The Tale Of The Turtle And The Shark, 3</string>
+      <string>Roche Brasiliano - Schischka House(Cha Cha Cha), 3</string>
+      <string>Roche Brasiliano - The Winds of Business, 3</string>
+      <string>DJ Ahmid - Blue7, 3</string>
+    </MixRankings>
   </TrackMix>
   <TrackMix>
     <Track>Rockers Almighty - Rockers Almighty Dub</Track>
@@ -37190,6 +37675,10 @@
       <string>Breakestra - Dark Clouds Rain Soul, 0</string>
       <string>Xavier Cugat - A Bailar Merengue, 0</string>
     </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Roger Thornhill - Dancing (Roger Thornhill Edit)</Track>
+    <MixRankings />
   </TrackMix>
   <TrackMix>
     <Track>Roman Stewart - Christmas Affair</Track>
@@ -40114,6 +40603,13 @@
       <string>Jackson do Pandeiro - Eu Balanco (Beatfanatic Rework), 4</string>
       <string>Sola Rosa - Del Ray, 4</string>
       <string>Jungle Fire - Comencemos (Let's Start), 4</string>
+      <string>George Benson - Give Me the Night, 4</string>
+      <string>Ted Taylor - Ghetto Disco, 4</string>
+      <string>Andrea True Connection - More, More, More, 3</string>
+      <string>Pleasure - Joyous, 3</string>
+      <string>The Salsoul Orchestra - Getaway, 3</string>
+      <string>Donald Byrd - Think Twice, 2</string>
+      <string>The Whatnauts - Help Is On The Way, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -41212,6 +41708,17 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Sparque - Let's Go Dancin' (Club Version)</Track>
+    <MixRankings>
+      <string>TS Monk - Candidate for Love (John Morales 2009 Reconstruction), 4</string>
+      <string>1gnition - Secret Sunday Lover (Greg Wilson Version), 4</string>
+      <string>Ashford &amp; Simpson - Found a Cure (Joey Negro Found a Dub Mix), 3</string>
+      <string>Al Green - Standing In The Rain, 2</string>
+      <string>Tim Maia - Sossego, 2</string>
+      <string>Tommy Stewart - Fulton County Line, 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>Speedometer - Accra International Airport</Track>
     <MixRankings>
       <string>Free Som Orchestra - The Kings Bounce, 4</string>
@@ -41831,6 +42338,18 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Stargard - Wear It Out</Track>
+    <MixRankings>
+      <string>Di Melo - A.E.I.O.U. (Dub Version), 5</string>
+      <string>AC Soul Symphony - I Want To See You Dance (Art Of Tones Edit), 4</string>
+      <string>Freedom - Dance Sing Along, 4</string>
+      <string>Coffee - Casanova (Single Version), 3</string>
+      <string>Chic - Le Freak, 2</string>
+      <string>Ashford &amp; Simpson - Found a Cure (Joey Negro Found a Dub Mix), 2</string>
+      <string>TS Monk - Candidate for Love (John Morales 2009 Reconstruction), 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>Stevie Wonder - Uptight (Grant Phabao Remix)</Track>
     <MixRankings>
       <string>Bob Marley - Brand New Second Hand, 4</string>
@@ -42228,6 +42747,23 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Taggy Matcher - Disco Illusion</Track>
+    <MixRankings>
+      <string>Uptown Funk Empire - Boogie, 4</string>
+      <string>Geraldine Hunt - Can't Fake the Feeling, 4</string>
+      <string>Chic - Le Freak, 3</string>
+      <string>Fatback Band - (Are You Ready) Do the Bus Stop (Joey Negro London Bus Stop Mix), 3</string>
+      <string>Pleasure - Joyous, 3</string>
+      <string>Tim Maia - Sossego, 3</string>
+      <string>David Bendeth - Feel The Real, 3</string>
+      <string>George Benson - Give Me the Night, 2</string>
+      <string>The Salsoul Orchestra - Getaway, 2</string>
+      <string>The Blackbyrds - Rock Creek Park, 2</string>
+      <string>Freedom - Dance Sing Along, 2</string>
+      <string>Tommy Stewart - Fulton County Line, 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>Taggy Matcher - My Adidas</Track>
     <MixRankings>
       <string>Jurassic 5 - Great Expectations (Instrumental), 4</string>
@@ -42439,6 +42975,20 @@
       <string>Lee Scratch Perry - Lee Perry Special Dub, 0</string>
       <string>Lee 'Scratch' Perry and King Tubby - Wise Dub, 0</string>
       <string>King Tubby - Watch This Version, 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Ted Taylor - Ghetto Disco</Track>
+    <MixRankings>
+      <string>Fatback Band - (Are You Ready) Do the Bus Stop (Joey Negro London Bus Stop Mix), 5</string>
+      <string>The Sugarhill Gang - Rapper's Delight, 4</string>
+      <string>Orgone - Don't Stop, 4</string>
+      <string>Chic - Good Times, 4</string>
+      <string>Pleasure - Joyous, 4</string>
+      <string>Taggy Matcher - Disco Illusion, 4</string>
+      <string>Sister Sledge - Thinking Of You (Dimitri From Paris Remix), 3</string>
+      <string>Mayer Hawthorne - Time For Love (Instrumental), 3</string>
+      <string>The Blackbyrds - Rock Creek Park, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -43954,7 +44504,7 @@
       <string>Manzel - Space Funk, 4</string>
       <string>Nightmares On Wax - Brothers On The Slide Dub, 4</string>
       <string>Michael Vinner's Incredible Bongo Band - Apache, 4</string>
-      <string>Chic - Good Times, 3</string>
+      <string>Fatback Band - (Are You Ready) Do the Bus Stop (Joey Negro London Bus Stop Mix), 4</string>
       <string>James Brown - Get On The Good Foot, 3</string>
       <string>Sharon Jones &amp; The Dap Kings - Tell Me, 3</string>
       <string>The Bamboos - Got To Get It Over, 3</string>
@@ -43968,6 +44518,9 @@
       <string>Sharon Jones And The Dap Kings - Tell Me, 3</string>
       <string>Orgone - Don't Stop, 3</string>
       <string>Breakestra - Joyful Noise, 3</string>
+      <string>Pleasure - Joyous, 3</string>
+      <string>Taggy Matcher - Disco Illusion, 3</string>
+      <string>Chic - Good Times, 2</string>
       <string>Al Green - Standing In The Rain, 2</string>
       <string>All The People - Cramp Your Style, 2</string>
       <string>Breakestra - Inner City Blues, 2</string>
@@ -43985,6 +44538,9 @@
       <string>Souls Of Mischief - 93 Til Infinity (Instrumental), 2</string>
       <string>Bobby Womack - California Dreamin', 2</string>
       <string>Breakestra - How Do You Really Feel?, 2</string>
+      <string>Ted Taylor - Ghetto Disco, 2</string>
+      <string>Mayer Hawthorne - Time For Love (Instrumental), 2</string>
+      <string>Donald Byrd - Think Twice, 2</string>
       <string>Barbara &amp; Gwen - Right On, 0</string>
       <string>Breakestra - 40 Days, 0</string>
       <string>Breakestra - Cramp Your Style, 0</string>
@@ -47855,6 +48411,22 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>The Salsoul Orchestra - Getaway</Track>
+    <MixRankings>
+      <string>Tim Maia - Sossego, 3</string>
+      <string>Tommy Stewart - Fulton County Line, 3</string>
+      <string>Taggy Matcher - Disco Illusion, 3</string>
+      <string>Andrea True Connection - More, More, More, 3</string>
+      <string>Uptown Funk Empire - Boogie, 3</string>
+      <string>Al Green - Standing In The Rain, 3</string>
+      <string>Fatback Band - (Are You Ready) Do the Bus Stop (Joey Negro London Bus Stop Mix), 3</string>
+      <string>The Whatnauts - Help Is On The Way, 2</string>
+      <string>George Benson - Give Me the Night, 2</string>
+      <string>Sister Sledge - Thinking Of You (Dimitri From Paris Remix), 0</string>
+      <string>Pleasure - Joyous, 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>The Silvertones - Bling Bling Christmas</Track>
     <MixRankings>
       <string>Roman Stewart - Christmas Affair, 4</string>
@@ -48403,6 +48975,8 @@
       <string>Elis Regina - Roda, 4</string>
       <string>Orgone - Don't Stop, 4</string>
       <string>Breakestra - Get It Right, 4</string>
+      <string>Pleasure - Joyous, 4</string>
+      <string>1gnition - Secret Sunday Lover (Greg Wilson Version), 4</string>
       <string>All The People - Cramp Your Style, 3</string>
       <string>Bobby Byrd - I Know You Got Soul, 3</string>
       <string>Breakestra - Remember Who You Are, 3</string>
@@ -48424,6 +48998,8 @@
       <string>Young MC - Know How (Instrumental), 3</string>
       <string>Deltron 3030 - Talent Supercedes (feat. Black Rob), 3</string>
       <string>Rodney P &amp; DJ Die - Holes In The Building (Radio Edit), 3</string>
+      <string>Mayer Hawthorne - Time For Love (Instrumental), 3</string>
+      <string>Fatback Band - (Are You Ready) Do the Bus Stop (Joey Negro London Bus Stop Mix), 3</string>
       <string>5 Miles Out - Super Sweet Girl Of Mine, 2</string>
       <string>African Music Machine - Black Water Gold, 2</string>
       <string>Billy Jones - Here I Come, 2</string>
@@ -48959,6 +49535,7 @@
       <string>RJD2 - Fire, 4</string>
       <string>Cookin' On 3 Burners - This Girl (feat. Kylie Auldist), 4</string>
       <string>Bacao Rhythm &amp; Steel Band - 8th Wonder, 4</string>
+      <string>Sister Sledge - Thinking Of You (Dimitri From Paris Remix), 4</string>
       <string>Beastie Boys - Hey Ladies (Instrumental), 3</string>
       <string>Eddie Bo - Check Your Bucket, 3</string>
       <string>Donald Byrd - (Fallin' Like) Dominoes, 3</string>
@@ -48981,6 +49558,9 @@
       <string>Sharon Jones And The Dap Kings - How Long Do I Have To Wait, 3</string>
       <string>De La Soul - Eye Know, 3</string>
       <string>Herbie Hancock - Cantaloupe Island, 3</string>
+      <string>Donald Byrd - Think Twice, 3</string>
+      <string>Andrea True Connection - More, More, More, 3</string>
+      <string>The Salsoul Orchestra - Getaway, 3</string>
       <string>The Herbaliser - Opening Credits, 2</string>
       <string>Jurassic 5 - How We Get Along (Instrumental), 2</string>
       <string>The Beatnuts - Fluid, 2</string>
@@ -49696,6 +50276,20 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Tim Maia - Sossego</Track>
+    <MixRankings>
+      <string>Al Green - Standing In The Rain, 4</string>
+      <string>Geraldine Hunt - Can't Fake the Feeling, 4</string>
+      <string>George Benson - Give Me the Night, 3</string>
+      <string>The Salsoul Orchestra - Getaway, 3</string>
+      <string>Tommy Stewart - Fulton County Line, 2</string>
+      <string>Uptown Funk Empire - Boogie, 2</string>
+      <string>Taggy Matcher - Disco Illusion, 2</string>
+      <string>Sparque - Let's Go Dancin' (Club Version), 0</string>
+      <string>Mayer Hawthorne - Time For Love (Instrumental), 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>Tito Puente - Fiesta Con Puente</Track>
     <MixRankings>
       <string>Xavier Cugat - Ritmo Tropical, 4</string>
@@ -49910,6 +50504,20 @@
       <string>Slickers - Johnny Too Bad, 0</string>
       <string>Cortex - Troupeau Bleu, 0</string>
       <string>Dionne Warwick - Do You Know The Way To San Jose, 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Tommy Stewart - Fulton County Line</Track>
+    <MixRankings>
+      <string>Uptown Funk Empire - Boogie, 4</string>
+      <string>Al Green - Standing In The Rain, 3</string>
+      <string>George Benson - Give Me the Night, 3</string>
+      <string>The Salsoul Orchestra - Getaway, 3</string>
+      <string>Sparque - Let's Go Dancin' (Club Version), 3</string>
+      <string>Geraldine Hunt - Can't Fake the Feeling, 3</string>
+      <string>Tim Maia - Sossego, 2</string>
+      <string>Mayer Hawthorne - Time For Love (Instrumental), 2</string>
+      <string>Taggy Matcher - Disco Illusion, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
@@ -50990,6 +51598,16 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>TS Monk - Candidate for Love (John Morales 2009 Reconstruction)</Track>
+    <MixRankings>
+      <string>Coffee - Casanova (Single Version), 4</string>
+      <string>Ashford &amp; Simpson - Found a Cure (Joey Negro Found a Dub Mix), 4</string>
+      <string>Sparque - Let's Go Dancin' (Club Version), 3</string>
+      <string>Stargard - Wear It Out, 2</string>
+      <string>Di Melo - A.E.I.O.U. (Dub Version), 2</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>Ty - Don't Watch That (Grant Phabao Remix)</Track>
     <MixRankings>
       <string>Eddie Bo - Check Your Bucket (Parts 1 &amp; 2), 5</string>
@@ -51266,6 +51884,20 @@
     </MixRankings>
   </TrackMix>
   <TrackMix>
+    <Track>Uptown Funk Empire - Boogie</Track>
+    <MixRankings>
+      <string>Taggy Matcher - Disco Illusion, 4</string>
+      <string>George Benson - Give Me the Night, 4</string>
+      <string>Tim Maia - Sossego, 4</string>
+      <string>Fatback Band - (Are You Ready) Do the Bus Stop (Joey Negro London Bus Stop Mix), 4</string>
+      <string>Chic - Le Freak, 4</string>
+      <string>Geraldine Hunt - Can't Fake the Feeling, 4</string>
+      <string>The Salsoul Orchestra - Getaway, 3</string>
+      <string>Tommy Stewart - Fulton County Line, 3</string>
+      <string>Pleasure - Joyous, 3</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
     <Track>Vanessa da Mata - Não Me Deixe Só</Track>
     <MixRankings>
       <string>Rubinho E Mauro Assumpcao - Ta Tudo Ai, 5</string>
@@ -51453,6 +52085,15 @@
       <string>Dandy Livingstone - Rudy, A Message To You, 0</string>
       <string>Breakestra - Getcho Soul Togetha (Part 2), 0</string>
       <string>Deltron 3030 - Talent Supercedes (feat. Black Rob), 0</string>
+    </MixRankings>
+  </TrackMix>
+  <TrackMix>
+    <Track>Vera - Take Me to the Bridge</Track>
+    <MixRankings>
+      <string>Gwen MCCrae - Keep the Fire Burning, 5</string>
+      <string>AC Soul Symphony - I Want To See You Dance (Art Of Tones Edit), 4</string>
+      <string>Di Melo - A.E.I.O.U. (Dub Version), 4</string>
+      <string>Betty Wright - Where Is The Love, 2</string>
     </MixRankings>
   </TrackMix>
   <TrackMix>
